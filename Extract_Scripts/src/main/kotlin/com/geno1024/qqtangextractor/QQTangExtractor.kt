@@ -1,6 +1,6 @@
 package com.geno1024.qqtangextractor
 
-import com.geno1024.qqtangextractor.utils.GBK12
+import com.geno1024.qqtangextractor.ds.IMG
 
 object QQTangExtractor
 {
@@ -19,7 +19,8 @@ object QQTangExtractor
         else
         {
             Settings.base = args[0]
-            GBK12("/res/GBK12.bmp").toTTF()
+//            GBK12("/res/GBK12.bmp").toTTF()
+            IMG("/object/ui/login/img_logo.img").decode()
         }
     }
 }

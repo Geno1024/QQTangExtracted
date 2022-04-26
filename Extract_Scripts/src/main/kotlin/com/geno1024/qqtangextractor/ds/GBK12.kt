@@ -1,4 +1,4 @@
-package com.geno1024.qqtangextractor.utils
+package com.geno1024.qqtangextractor.ds
 
 import com.geno1024.qqtangextractor.Settings
 import java.io.File
