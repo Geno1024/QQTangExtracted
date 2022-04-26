@@ -1,10 +1,11 @@
 package com.geno1024.qqtangextractor.utils
 
+import com.geno1024.qqtangextractor.Settings
 import java.io.File
 import javax.imageio.ImageIO
 
 /**
- * Convert [path]/res/GBK12.bmp into a .ttf file.
+ * Convert ${Settings.base}/[path] into a .ttf file.
  *
  * @author Geno1024
  */
@@ -12,8 +13,8 @@ class GBK12(val path: String)
 {
     val size = 12
 
-    val targetFile = File("$path/res/GBK12.bmp")
-    val image = ImageIO.read(targetFile)
+    val file = File("${Settings.base}$path")
+    val image = ImageIO.read(file)
 
     fun getImageFromCodepoint(gbk: Int) = image.getSubimage((gbk % (image.width / size)) * size, (gbk / (image.width / size)) * size, size, size)
 

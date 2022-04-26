@@ -18,7 +18,8 @@ object QQTangExtractor
         }
         else
         {
-            GBK12(args[0]).toTTF()
+            Settings.base = args[0]
+            GBK12("/res/GBK12.bmp").toTTF()
         }
     }
 }
