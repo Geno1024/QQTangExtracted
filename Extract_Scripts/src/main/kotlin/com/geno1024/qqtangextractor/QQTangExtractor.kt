@@ -1,6 +1,6 @@
 package com.geno1024.qqtangextractor
 
-import com.geno1024.qqtangextractor.ds.IMG
+import com.geno1024.qqtangextractor.versions.QQTang5211
 
 object QQTangExtractor
 {
@@ -18,9 +18,14 @@ object QQTangExtractor
         }
         else
         {
-            Settings.base = args[0]
+            Settings.version = args[0]
+            Settings.base = args[1]
+            when (Settings.version)
+            {
+                "QQTang5.2_Beta1Build1" -> QQTang5211()
+            }
 //            GBK12("/res/GBK12.bmp").toTTF()
-            IMG("/object/ui/login/img_logo.img").decode()
+//            IMG("/object/ui/login/img_logo.img").decode()
         }
     }
 }
