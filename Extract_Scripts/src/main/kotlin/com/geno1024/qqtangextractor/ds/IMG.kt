@@ -74,6 +74,7 @@ class IMG(val path: String)
 
     fun decode()
     {
+        File("${Settings.version}${path.substringBeforeLast('/')}").mkdirs()
         ds.frames.map {
             when (it.data)
             {
@@ -100,7 +101,7 @@ class IMG(val path: String)
 //                }
 //            }
         }.mapIndexed { index, image ->
-            ImageIO.write(image, "PNG", File("$index.png"))
+            ImageIO.write(image, "PNG", File("${Settings.version}${path.substringBeforeLast('.')}.png"))
         }
     }
 }

@@ -1058,7 +1058,7 @@
         - [X] music/weddingWest.ogg
     - [ ] NetCenter.dll
     - [ ] netstatic.ini
-    - [ ] object
+    - [X] object
         - [ ] object/avatareffect
             - [ ] object/avatareffect/effect
                 - [ ] object/avatareffect/effect/body1_black.eff
@@ -1380,11 +1380,11 @@
             - [ ] object/player/player9.ini
             - [ ] object/player/player_z.cfg
             - [ ] object/player/player_z.ini
-        - [ ] object/ui
+        - [X] object/ui
             - [ ] object/ui/cursor
                 - [ ] object/ui/cursor/fight.gsa
-            - [ ] object/ui/login
-                - [ ] object/ui/login/img_logo.img
+            - [X] object/ui/login
+                - [X] object/ui/login/img_logo.img
     - [ ] p2psvrInfo.ini
     - [ ] playCG
     - [ ] profile
