@@ -62,12 +62,11 @@ class IMG(val path: String)
     class Type3Data(val bytes: ByteArray, val width: Int, val height: Int): FrameData
     {
         val color = bytes.toList().subList(0, width * height * 2).windowed(2, 2).map {
-            val rgb565 = (it[0].toUByte().toUInt() shl 8) + it[1].toUByte().toUInt()
-            rgb565
-//            val rgb888 = ((rgb565 and 0b11111_000000_00000u) shl (16 - 11)) + ((rgb565 and 0b00000_111111_00000u) shl (8 - 5)) + ((rgb565 and 0b00000_000000_11111u) shl 3)
-//            rgb888
+            val rgb565 = (it[1].toUByte().toUInt() shl 8) + it[0].toUByte().toUInt()
+            val rgb888 = ((rgb565 and 0b11111_000000_00000u) shl 8) + ((rgb565 and 0b00000_111111_00000u) shl 5) + ((rgb565 and 0b00000_000000_11111u) shl 3)
+            rgb888
         }
-        val alpha = bytes.toList().subList(width * height * 2, width * height * 3)
+        val alpha = bytes.toList().subList(width * height * 2, width * height * 3).map { (it.toInt() shl 3).takeUnless { it == 256 }?:255 }
     }
 
     class Type8Data(): FrameData
@@ -80,10 +79,10 @@ class IMG(val path: String)
             {
                 is Type3Data ->
                 {
-                    BufferedImage(it.width, it.height, BufferedImage.TYPE_USHORT_565_RGB).apply {
+                    BufferedImage(it.width, it.height, BufferedImage.TYPE_INT_ARGB).apply {
                         (0 until it.width).map { x ->
                             (0 until it.height).map { y ->
-                                setRGB(x, y, it.data.color[y * it.width + x].toInt())
+                                setRGB(x, y, (it.data.alpha[y * it.width + x] shl 24) + it.data.color[y * it.width + x].toInt())
                             }
                         }
                     }
