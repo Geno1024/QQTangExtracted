@@ -1,3 +1,5 @@
+@file:Suppress("unused")
+
 package com.geno1024.qqtangextractor.ds
 
 import com.geno1024.qqtangextractor.Settings
@@ -15,7 +17,7 @@ class IMG(val path: String)
 {
     val TAG = "[IMG     ]"
 
-    val file = File("${Settings.base}$path").apply { if (Settings.debug) print("$TAG Handling $this: ") }
+    val file = File("${Settings.base}$path").apply { if (Settings.debug) print("\n$TAG Handling $this: ") }
     val stream = file.inputStream()
 
     val ds = DS(stream)
@@ -23,14 +25,14 @@ class IMG(val path: String)
     class DS(stream: FileInputStream)
     {
         val magic = stream.readNBytes(8).toString(Charset.defaultCharset())
-        val version = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("version $this, ") }
-        val colorDepth = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("colorDepth $this, ") }
-        val framesSize = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("framesSize $this, ") }
-        val frameGroups = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("frameGroups $this, ") }
-        val unknown1 = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("unknown1 $this, ") }
-        val unknown2 = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("unknown2 $this, ") }
-        val width = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("width $this, ") }
-        val height = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("height $this.") }
+        val version = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("version = $this, ") }
+        val colorDepth = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("colorDepth = $this, ") }
+        val framesSize = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("framesSize = $this, ") }
+        val frameGroups = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("frameGroups = $this, ") }
+        val unknown1 = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("unknown1 = $this, ") }
+        val unknown2 = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("unknown2 = $this, ") }
+        val width = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("width = $this, ") }
+        val height = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("height = $this.") }
 //        val frames = Frame(stream)
         val frames = (0 until framesSize).map { Frame(stream) }
     }
@@ -38,12 +40,12 @@ class IMG(val path: String)
     class Frame(stream: FileInputStream)
     {
         val magic = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("\n\t[IMGFrame] Subimage: ") }
-        val centerX = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("centerX $this, ") }
-        val centerY = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("centerY $this, ") }
-        val imageType = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("imageType $this, ") }
-        val width = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("width $this, ") }
-        val height = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("height $this, ") }
-        val widthBytes = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("widthBytes? $this.") }
+        val centerX = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("centerX = $this, ") }
+        val centerY = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("centerY = $this, ") }
+        val imageType = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("imageType = $this, ") }
+        val width = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("width = $this, ") }
+        val height = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("height = $this, ") }
+        val widthBytes = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("widthBytes? = $this.") }
 
         val data = when (imageType)
         {
@@ -51,10 +53,6 @@ class IMG(val path: String)
             8 -> Type8Data()
             else -> TypeEData()
         }
-//        val data = stream.readNBytes(width * height * 3)
-//        val red = data.toList().subList(0, width * height).apply { if (Settings.debug) print("red ${this.size}") }
-//        val green = data.toList().subList(width * height, 2 * width * height)
-//        val blue = data.toList().subList(width * height, 3 * width * height)
     }
 
     interface FrameData
@@ -75,7 +73,39 @@ class IMG(val path: String)
     fun decode()
     {
         File("${Settings.version}${path.substringBeforeLast('/')}").mkdirs()
-        ds.frames.map {
+        when
+        {
+            ds.framesSize == 1 ->
+            {
+                val frame = ds.frames[0]
+                ImageIO.write(
+                    when (frame.data)
+                    {
+                        is Type3Data ->
+                        {
+                            BufferedImage(frame.width, frame.height, BufferedImage.TYPE_INT_ARGB).apply {
+                                (0 until frame.width).map { x ->
+                                    (0 until frame.height).map { y ->
+                                        setRGB(x, y, (frame.data.alpha[y * frame.width + x] shl 24) + frame.data.color[y * frame.width + x].toInt())
+                                    }
+                                }
+                            }
+                        }
+                        else ->
+                        {
+                            BufferedImage(frame.width, frame.height, BufferedImage.TYPE_INT_ARGB)
+                        }
+                    },
+                    "PNG",
+                    File("${Settings.version}${path.substringBeforeLast('.')}.png")
+                )
+            }
+            else ->
+            {
+
+            }
+        }
+        /*ds.frames.map {
             when (it.data)
             {
                 is Type3Data ->
@@ -102,6 +132,6 @@ class IMG(val path: String)
 //            }
         }.mapIndexed { index, image ->
             ImageIO.write(image, "PNG", File("${Settings.version}${path.substringBeforeLast('.')}.png"))
-        }
+        }*/
     }
 }
