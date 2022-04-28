@@ -45,18 +45,63 @@ class IMG(val path: String)
         val height = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("height $this, ") }
         val widthBytes = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("widthBytes? $this.") }
 
-        val data = stream.readNBytes(width * height * 3)
-        val red = data.toList().subList(0, width * height - 1)
-        val green = data.toList().subList(width * height, 2 * width * height - 1)
-        val blue = data.toList().subList(width * height, 3 * width * height - 1)
+        val data = when (imageType)
+        {
+            3 -> Type3Data(stream.readNBytes(width * height * 3), width, height)
+            8 -> Type8Data()
+            else -> TypeEData()
+        }
+//        val data = stream.readNBytes(width * height * 3)
+//        val red = data.toList().subList(0, width * height).apply { if (Settings.debug) print("red ${this.size}") }
+//        val green = data.toList().subList(width * height, 2 * width * height)
+//        val blue = data.toList().subList(width * height, 3 * width * height)
     }
+
+    interface FrameData
+
+    class Type3Data(val bytes: ByteArray, val width: Int, val height: Int): FrameData
+    {
+        val color = bytes.toList().subList(0, width * height * 2).windowed(2, 2).map {
+            val rgb565 = (it[0].toUByte().toUInt() shl 8) + it[1].toUByte().toUInt()
+            rgb565
+//            val rgb888 = ((rgb565 and 0b11111_000000_00000u) shl (16 - 11)) + ((rgb565 and 0b00000_111111_00000u) shl (8 - 5)) + ((rgb565 and 0b00000_000000_11111u) shl 3)
+//            rgb888
+        }
+        val alpha = bytes.toList().subList(width * height * 2, width * height * 3)
+    }
+
+    class Type8Data(): FrameData
+    class TypeEData(): FrameData
 
     fun decode()
     {
         ds.frames.map {
-            BufferedImage(it.width, it.height, BufferedImage.TYPE_INT_RGB).apply {
-                (0..)
+            when (it.data)
+            {
+                is Type3Data ->
+                {
+                    BufferedImage(it.width, it.height, BufferedImage.TYPE_USHORT_565_RGB).apply {
+                        (0 until it.width).map { x ->
+                            (0 until it.height).map { y ->
+                                setRGB(x, y, it.data.color[y * it.width + x].toInt())
+                            }
+                        }
+                    }
+                }
+                else ->
+                {
+                    BufferedImage(it.width, it.height, BufferedImage.TYPE_INT_RGB)
+                }
             }
+//            BufferedImage(it.width, it.height, BufferedImage.TYPE_INT_RGB).apply {
+//                (0 until it.width).map { x ->
+//                    (0 until it.height).map { y ->
+//                        setRGB(x, y, (it.data[y * it.width + x].toUByte().toInt() shl 16) + (it.green[y * it.width + x].toUByte().toInt() shl 8) + (it.blue[y * it.width + x].toUByte().toInt()))
+//                    }
+//                }
+//            }
+        }.mapIndexed { index, image ->
+            ImageIO.write(image, "PNG", File("$index.png"))
         }
     }
 }
