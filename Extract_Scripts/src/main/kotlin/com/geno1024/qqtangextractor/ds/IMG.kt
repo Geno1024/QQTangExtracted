@@ -105,33 +105,5 @@ class IMG(val path: String)
 
             }
         }
-        /*ds.frames.map {
-            when (it.data)
-            {
-                is Type3Data ->
-                {
-                    BufferedImage(it.width, it.height, BufferedImage.TYPE_INT_ARGB).apply {
-                        (0 until it.width).map { x ->
-                            (0 until it.height).map { y ->
-                                setRGB(x, y, (it.data.alpha[y * it.width + x] shl 24) + it.data.color[y * it.width + x].toInt())
-                            }
-                        }
-                    }
-                }
-                else ->
-                {
-                    BufferedImage(it.width, it.height, BufferedImage.TYPE_INT_RGB)
-                }
-            }
-//            BufferedImage(it.width, it.height, BufferedImage.TYPE_INT_RGB).apply {
-//                (0 until it.width).map { x ->
-//                    (0 until it.height).map { y ->
-//                        setRGB(x, y, (it.data[y * it.width + x].toUByte().toInt() shl 16) + (it.green[y * it.width + x].toUByte().toInt() shl 8) + (it.blue[y * it.width + x].toUByte().toInt()))
-//                    }
-//                }
-//            }
-        }.mapIndexed { index, image ->
-            ImageIO.write(image, "PNG", File("${Settings.version}${path.substringBeforeLast('.')}.png"))
-        }*/
     }
 }
