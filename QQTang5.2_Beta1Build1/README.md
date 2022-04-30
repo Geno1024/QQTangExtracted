@@ -1428,98 +1428,98 @@
                 - [ ] res/uiRes/face/btn_member.img
                 - [ ] res/uiRes/face/btn_normal.img
                 - [X] res/uiRes/face/faces
-                    - [ ] res/uiRes/face/faces/000.img
-                    - [ ] res/uiRes/face/faces/001.img
-                    - [ ] res/uiRes/face/faces/002.img
-                    - [ ] res/uiRes/face/faces/003.img
-                    - [ ] res/uiRes/face/faces/004.img
-                    - [ ] res/uiRes/face/faces/005.img
-                    - [ ] res/uiRes/face/faces/006.img
-                    - [ ] res/uiRes/face/faces/007.img
-                    - [ ] res/uiRes/face/faces/008.img
-                    - [ ] res/uiRes/face/faces/009.img
-                    - [ ] res/uiRes/face/faces/010.img
-                    - [ ] res/uiRes/face/faces/011.img
-                    - [ ] res/uiRes/face/faces/012.img
-                    - [ ] res/uiRes/face/faces/013.img
-                    - [ ] res/uiRes/face/faces/014.img
-                    - [ ] res/uiRes/face/faces/015.img
-                    - [ ] res/uiRes/face/faces/016.img
-                    - [ ] res/uiRes/face/faces/017.img
-                    - [ ] res/uiRes/face/faces/018.img
-                    - [ ] res/uiRes/face/faces/019.img
-                    - [ ] res/uiRes/face/faces/020.img
-                    - [ ] res/uiRes/face/faces/021.img
-                    - [ ] res/uiRes/face/faces/022.img
-                    - [ ] res/uiRes/face/faces/023.img
-                    - [ ] res/uiRes/face/faces/024.img
-                    - [ ] res/uiRes/face/faces/025.img
-                    - [ ] res/uiRes/face/faces/026.img
-                    - [ ] res/uiRes/face/faces/027.img
-                    - [ ] res/uiRes/face/faces/028.img
-                    - [ ] res/uiRes/face/faces/029.img
-                    - [ ] res/uiRes/face/faces/030.img
-                    - [ ] res/uiRes/face/faces/031.img
-                    - [ ] res/uiRes/face/faces/032.img
-                    - [ ] res/uiRes/face/faces/033.img
-                    - [ ] res/uiRes/face/faces/034.img
-                    - [ ] res/uiRes/face/faces/035.img
-                    - [ ] res/uiRes/face/faces/036.img
-                    - [ ] res/uiRes/face/faces/037.img
-                    - [ ] res/uiRes/face/faces/038.img
-                    - [ ] res/uiRes/face/faces/039.img
-                    - [ ] res/uiRes/face/faces/040.img
-                    - [ ] res/uiRes/face/faces/041.img
-                    - [ ] res/uiRes/face/faces/042.img
-                    - [ ] res/uiRes/face/faces/043.img
-                    - [ ] res/uiRes/face/faces/044.img
-                    - [ ] res/uiRes/face/faces/045.img
-                    - [ ] res/uiRes/face/faces/046.img
-                    - [ ] res/uiRes/face/faces/047.img
-                    - [ ] res/uiRes/face/faces/048.img
-                    - [ ] res/uiRes/face/faces/049.img
-                    - [ ] res/uiRes/face/faces/050.img
-                    - [ ] res/uiRes/face/faces/051.img
-                    - [ ] res/uiRes/face/faces/052.img
-                    - [ ] res/uiRes/face/faces/053.img
-                    - [ ] res/uiRes/face/faces/054.img
-                    - [ ] res/uiRes/face/faces/055.img
-                    - [ ] res/uiRes/face/faces/056.img
-                    - [ ] res/uiRes/face/faces/057.img
-                    - [ ] res/uiRes/face/faces/058.img
-                    - [ ] res/uiRes/face/faces/059.img
-                    - [ ] res/uiRes/face/faces/060.img
-                    - [ ] res/uiRes/face/faces/061.img
-                    - [ ] res/uiRes/face/faces/062.img
-                    - [ ] res/uiRes/face/faces/063.img
-                    - [ ] res/uiRes/face/faces/064.img
-                    - [ ] res/uiRes/face/faces/065.img
-                    - [ ] res/uiRes/face/faces/066.img
-                    - [ ] res/uiRes/face/faces/067.img
-                    - [ ] res/uiRes/face/faces/068.img
-                    - [ ] res/uiRes/face/faces/069.img
-                    - [ ] res/uiRes/face/faces/070.img
-                    - [ ] res/uiRes/face/faces/071.img
-                    - [ ] res/uiRes/face/faces/072.img
-                    - [ ] res/uiRes/face/faces/073.img
-                    - [ ] res/uiRes/face/faces/074.img
-                    - [ ] res/uiRes/face/faces/075.img
-                    - [ ] res/uiRes/face/faces/076.img
-                    - [ ] res/uiRes/face/faces/077.img
-                    - [ ] res/uiRes/face/faces/078.img
-                    - [ ] res/uiRes/face/faces/079.img
-                    - [ ] res/uiRes/face/faces/080.img
-                    - [ ] res/uiRes/face/faces/081.img
-                    - [ ] res/uiRes/face/faces/082.img
-                    - [ ] res/uiRes/face/faces/083.img
+                    - [X] res/uiRes/face/faces/000.img
+                    - [X] res/uiRes/face/faces/001.img
+                    - [X] res/uiRes/face/faces/002.img
+                    - [X] res/uiRes/face/faces/003.img
+                    - [X] res/uiRes/face/faces/004.img
+                    - [X] res/uiRes/face/faces/005.img
+                    - [X] res/uiRes/face/faces/006.img
+                    - [X] res/uiRes/face/faces/007.img
+                    - [X] res/uiRes/face/faces/008.img
+                    - [X] res/uiRes/face/faces/009.img
+                    - [X] res/uiRes/face/faces/010.img
+                    - [X] res/uiRes/face/faces/011.img
+                    - [X] res/uiRes/face/faces/012.img
+                    - [X] res/uiRes/face/faces/013.img
+                    - [X] res/uiRes/face/faces/014.img
+                    - [X] res/uiRes/face/faces/015.img
+                    - [X] res/uiRes/face/faces/016.img
+                    - [X] res/uiRes/face/faces/017.img
+                    - [X] res/uiRes/face/faces/018.img
+                    - [X] res/uiRes/face/faces/019.img
+                    - [X] res/uiRes/face/faces/020.img
+                    - [X] res/uiRes/face/faces/021.img
+                    - [X] res/uiRes/face/faces/022.img
+                    - [X] res/uiRes/face/faces/023.img
+                    - [X] res/uiRes/face/faces/024.img
+                    - [X] res/uiRes/face/faces/025.img
+                    - [X] res/uiRes/face/faces/026.img
+                    - [X] res/uiRes/face/faces/027.img
+                    - [X] res/uiRes/face/faces/028.img
+                    - [X] res/uiRes/face/faces/029.img
+                    - [X] res/uiRes/face/faces/030.img
+                    - [X] res/uiRes/face/faces/031.img
+                    - [X] res/uiRes/face/faces/032.img
+                    - [X] res/uiRes/face/faces/033.img
+                    - [X] res/uiRes/face/faces/034.img
+                    - [X] res/uiRes/face/faces/035.img
+                    - [X] res/uiRes/face/faces/036.img
+                    - [X] res/uiRes/face/faces/037.img
+                    - [X] res/uiRes/face/faces/038.img
+                    - [X] res/uiRes/face/faces/039.img
+                    - [X] res/uiRes/face/faces/040.img
+                    - [X] res/uiRes/face/faces/041.img
+                    - [X] res/uiRes/face/faces/042.img
+                    - [X] res/uiRes/face/faces/043.img
+                    - [X] res/uiRes/face/faces/044.img
+                    - [X] res/uiRes/face/faces/045.img
+                    - [X] res/uiRes/face/faces/046.img
+                    - [X] res/uiRes/face/faces/047.img
+                    - [X] res/uiRes/face/faces/048.img
+                    - [X] res/uiRes/face/faces/049.img
+                    - [X] res/uiRes/face/faces/050.img
+                    - [X] res/uiRes/face/faces/051.img
+                    - [X] res/uiRes/face/faces/052.img
+                    - [X] res/uiRes/face/faces/053.img
+                    - [X] res/uiRes/face/faces/054.img
+                    - [X] res/uiRes/face/faces/055.img
+                    - [X] res/uiRes/face/faces/056.img
+                    - [X] res/uiRes/face/faces/057.img
+                    - [X] res/uiRes/face/faces/058.img
+                    - [X] res/uiRes/face/faces/059.img
+                    - [X] res/uiRes/face/faces/060.img
+                    - [X] res/uiRes/face/faces/061.img
+                    - [X] res/uiRes/face/faces/062.img
+                    - [X] res/uiRes/face/faces/063.img
+                    - [X] res/uiRes/face/faces/064.img
+                    - [X] res/uiRes/face/faces/065.img
+                    - [X] res/uiRes/face/faces/066.img
+                    - [X] res/uiRes/face/faces/067.img
+                    - [X] res/uiRes/face/faces/068.img
+                    - [X] res/uiRes/face/faces/069.img
+                    - [X] res/uiRes/face/faces/070.img
+                    - [X] res/uiRes/face/faces/071.img
+                    - [X] res/uiRes/face/faces/072.img
+                    - [X] res/uiRes/face/faces/073.img
+                    - [X] res/uiRes/face/faces/074.img
+                    - [X] res/uiRes/face/faces/075.img
+                    - [X] res/uiRes/face/faces/076.img
+                    - [X] res/uiRes/face/faces/077.img
+                    - [X] res/uiRes/face/faces/078.img
+                    - [X] res/uiRes/face/faces/079.img
+                    - [X] res/uiRes/face/faces/080.img
+                    - [X] res/uiRes/face/faces/081.img
+                    - [X] res/uiRes/face/faces/082.img
+                    - [X] res/uiRes/face/faces/083.img
                     - [X] res/uiRes/face/faces/084.img
                     - [X] res/uiRes/face/faces/085.img
-                    - [ ] res/uiRes/face/faces/086.img
-                    - [ ] res/uiRes/face/faces/087.img
+                    - [X] res/uiRes/face/faces/086.img
+                    - [X] res/uiRes/face/faces/087.img
                     - [X] res/uiRes/face/faces/088.img
                     - [X] res/uiRes/face/faces/089.img
-                    - [ ] res/uiRes/face/faces/090.img
-                    - [ ] res/uiRes/face/faces/091.img
+                    - [X] res/uiRes/face/faces/090.img
+                    - [X] res/uiRes/face/faces/091.img
                     - [X] res/uiRes/face/faces/092.img
                     - [X] res/uiRes/face/faces/093.img
                     - [X] res/uiRes/face/faces/094.img
@@ -1527,23 +1527,23 @@
                     - [X] res/uiRes/face/faces/096.img
                     - [X] res/uiRes/face/faces/097.img
                     - [X] res/uiRes/face/faces/098.img
-                    - [ ] res/uiRes/face/faces/099.img
+                    - [X] res/uiRes/face/faces/099.img
                     - [X] res/uiRes/face/faces/100.img
-                    - [ ] res/uiRes/face/faces/101.img
+                    - [X] res/uiRes/face/faces/101.img
                     - [X] res/uiRes/face/faces/102.img
                     - [X] res/uiRes/face/faces/103.img
-                    - [ ] res/uiRes/face/faces/104.img
+                    - [X] res/uiRes/face/faces/104.img
                     - [X] res/uiRes/face/faces/105.img
                     - [X] res/uiRes/face/faces/106.img
-                    - [ ] res/uiRes/face/faces/107.img
-                    - [ ] res/uiRes/face/faces/108.img
+                    - [X] res/uiRes/face/faces/107.img
+                    - [X] res/uiRes/face/faces/108.img
                     - [X] res/uiRes/face/faces/109.img
                     - [X] res/uiRes/face/faces/110.img
                     - [X] res/uiRes/face/faces/111.img
                     - [X] res/uiRes/face/faces/112.img
                     - [X] res/uiRes/face/faces/113.img
-                    - [ ] res/uiRes/face/faces/114.img
-                    - [ ] res/uiRes/face/faces/115.img
+                    - [X] res/uiRes/face/faces/114.img
+                    - [X] res/uiRes/face/faces/115.img
                     - [X] res/uiRes/face/faces/116.img
                     - [X] res/uiRes/face/faces/117.img
                     - [X] res/uiRes/face/faces/118.img
@@ -1552,10 +1552,10 @@
                     - [X] res/uiRes/face/faces/121.img
                     - [X] res/uiRes/face/faces/122.img
                     - [X] res/uiRes/face/faces/123.img
-                    - [ ] res/uiRes/face/faces/124.img
-                    - [ ] res/uiRes/face/faces/125.img
-                    - [ ] res/uiRes/face/faces/126.img
-                    - [ ] res/uiRes/face/faces/127.img
+                    - [X] res/uiRes/face/faces/124.img
+                    - [X] res/uiRes/face/faces/125.img
+                    - [X] res/uiRes/face/faces/126.img
+                    - [X] res/uiRes/face/faces/127.img
                     - [X] res/uiRes/face/faces/128.img
                     - [X] res/uiRes/face/faces/129.img
                     - [X] res/uiRes/face/faces/130.img
