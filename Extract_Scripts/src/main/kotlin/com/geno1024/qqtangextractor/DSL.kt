@@ -15,8 +15,8 @@ infix fun String.decodeFiles(type: String) = when (type)
 {
     "IMG" -> File("${Settings.base}/$this")
         .listFiles { pathname ->
-            pathname.isFile
-        }.forEach {
+            pathname.isFile and (pathname.extension == "img")
+        }?.forEach {
             "/${it.toRelativeString(File(Settings.base)).replace("\\", "/")}" decode "IMG"
         }
     else -> {}

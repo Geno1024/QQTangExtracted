@@ -271,7 +271,7 @@
     - [ ] Loading.swf
     - [ ] log.txt
     - [ ] LoginInfo.ini
-    - [ ] map
+    - [X] map
         - [ ] map/bigIcon
             - [ ] map/bigIcon/bomb.img
             - [ ] map/bigIcon/box.img
@@ -290,210 +290,210 @@
             - [ ] map/bigIcon/town.img
             - [ ] map/bigIcon/treasure.img
             - [ ] map/bigIcon/water.img
-        - [ ] map/bomb01_8.img
+        - [X] map/bomb01_8.img
         - [ ] map/bomb01_8.map
-        - [ ] map/bomb02_8.img
+        - [X] map/bomb02_8.img
         - [ ] map/bomb02_8.map
-        - [ ] map/bomb03_8.img
+        - [X] map/bomb03_8.img
         - [ ] map/bomb03_8.map
-        - [ ] map/bomb04_8.img
+        - [X] map/bomb04_8.img
         - [ ] map/bomb04_8.map
-        - [ ] map/box01_8.img
+        - [X] map/box01_8.img
         - [ ] map/box01_8.map
-        - [ ] map/box02_8.img
+        - [X] map/box02_8.img
         - [ ] map/box02_8.map
-        - [ ] map/box03_8.img
+        - [X] map/box03_8.img
         - [ ] map/box03_8.map
-        - [ ] map/box04_8.img
+        - [X] map/box04_8.img
         - [ ] map/box04_8.map
-        - [ ] map/box05_6.img
+        - [X] map/box05_6.img
         - [ ] map/box05_6.map
-        - [ ] map/box06_6.img
+        - [X] map/box06_6.img
         - [ ] map/box06_6.map
-        - [ ] map/box07_8.img
+        - [X] map/box07_8.img
         - [ ] map/box07_8.map
-        - [ ] map/box08_8.img
+        - [X] map/box08_8.img
         - [ ] map/box08_8.map
-        - [ ] map/box09_8.img
+        - [X] map/box09_8.img
         - [ ] map/box09_8.map
-        - [ ] map/bun01_8.img
+        - [X] map/bun01_8.img
         - [ ] map/bun01_8.map
-        - [ ] map/bun02_8.img
+        - [X] map/bun02_8.img
         - [ ] map/bun02_8.map
-        - [ ] map/bun03_8.img
+        - [X] map/bun03_8.img
         - [ ] map/bun03_8.map
-        - [ ] map/bun04_8.img
+        - [X] map/bun04_8.img
         - [ ] map/bun04_8.map
-        - [ ] map/bun05_8.img
+        - [X] map/bun05_8.img
         - [ ] map/bun05_8.map
-        - [ ] map/bun06_8.img
+        - [X] map/bun06_8.img
         - [ ] map/bun06_8.map
-        - [ ] map/bun07_8.img
+        - [X] map/bun07_8.img
         - [ ] map/bun07_8.map
-        - [ ] map/bun08_8.img
+        - [X] map/bun08_8.img
         - [ ] map/bun08_8.map
-        - [ ] map/bun09_8.img
+        - [X] map/bun09_8.img
         - [ ] map/bun09_8.map
-        - [ ] map/bun10_8.img
+        - [X] map/bun10_8.img
         - [ ] map/bun10_8.map
-        - [ ] map/bun11_8.img
+        - [X] map/bun11_8.img
         - [ ] map/bun11_8.map
-        - [ ] map/bun12_8.img
+        - [X] map/bun12_8.img
         - [ ] map/bun12_8.map
-        - [ ] map/bun13_8.img
+        - [X] map/bun13_8.img
         - [ ] map/bun13_8.map
-        - [ ] map/bun14_8.img
+        - [X] map/bun14_8.img
         - [ ] map/bun14_8.map
-        - [ ] map/bun15_8.img
+        - [X] map/bun15_8.img
         - [ ] map/bun15_8.map
-        - [ ] map/bun16_8.img
+        - [X] map/bun16_8.img
         - [ ] map/bun16_8.map
-        - [ ] map/bun17_8.img
+        - [X] map/bun17_8.img
         - [ ] map/bun17_8.map
-        - [ ] map/bun18_8.img
+        - [X] map/bun18_8.img
         - [ ] map/bun18_8.map
-        - [ ] map/bun19_8.img
+        - [X] map/bun19_8.img
         - [ ] map/bun19_8.map
-        - [ ] map/bun20_8.img
+        - [X] map/bun20_8.img
         - [ ] map/bun20_8.map
-        - [ ] map/bun21_4.img
+        - [X] map/bun21_4.img
         - [ ] map/bun21_4.map
-        - [ ] map/bun22_4.img
+        - [X] map/bun22_4.img
         - [ ] map/bun22_4.map
-        - [ ] map/bun23_8.img
+        - [X] map/bun23_8.img
         - [ ] map/bun23_8.map
-        - [ ] map/bun24_8.img
+        - [X] map/bun24_8.img
         - [ ] map/bun24_8.map
-        - [ ] map/bun25_6.img
+        - [X] map/bun25_6.img
         - [ ] map/bun25_6.map
-        - [ ] map/bun26_8.img
+        - [X] map/bun26_8.img
         - [ ] map/bun26_8.map
-        - [ ] map/bun27_8.img
+        - [X] map/bun27_8.img
         - [ ] map/bun27_8.map
-        - [ ] map/bun28_8.img
+        - [X] map/bun28_8.img
         - [ ] map/bun28_8.map
-        - [ ] map/bun29_8.img
+        - [X] map/bun29_8.img
         - [ ] map/bun29_8.map
-        - [ ] map/bun30_6.img
+        - [X] map/bun30_6.img
         - [ ] map/bun30_6.map
-        - [ ] map/bun31_8.img
+        - [X] map/bun31_8.img
         - [ ] map/bun31_8.map
-        - [ ] map/contest01_8.img
+        - [X] map/contest01_8.img
         - [ ] map/contest01_8.map
-        - [ ] map/contest02_8.img
+        - [X] map/contest02_8.img
         - [ ] map/contest02_8.map
-        - [ ] map/contest03_8.img
+        - [X] map/contest03_8.img
         - [ ] map/contest03_8.map
-        - [ ] map/contest04_8.img
+        - [X] map/contest04_8.img
         - [ ] map/contest04_8.map
-        - [ ] map/desert01_4.img
+        - [X] map/desert01_4.img
         - [ ] map/desert01_4.map
-        - [ ] map/desert02_4.img
+        - [X] map/desert02_4.img
         - [ ] map/desert02_4.map
-        - [ ] map/desert03_4.img
+        - [X] map/desert03_4.img
         - [ ] map/desert03_4.map
-        - [ ] map/desert04_8.img
+        - [X] map/desert04_8.img
         - [ ] map/desert04_8.map
-        - [ ] map/desert05_8.img
+        - [X] map/desert05_8.img
         - [ ] map/desert05_8.map
-        - [ ] map/desert06_8.img
+        - [X] map/desert06_8.img
         - [ ] map/desert06_8.map
-        - [ ] map/desert07_4.img
+        - [X] map/desert07_4.img
         - [ ] map/desert07_4.map
-        - [ ] map/desert08_6.img
+        - [X] map/desert08_6.img
         - [ ] map/desert08_6.map
-        - [ ] map/desert09_8.img
+        - [X] map/desert09_8.img
         - [ ] map/desert09_8.map
-        - [ ] map/desert10_8.img
+        - [X] map/desert10_8.img
         - [ ] map/desert10_8.map
-        - [ ] map/desert11_8.img
+        - [X] map/desert11_8.img
         - [ ] map/desert11_8.map
-        - [ ] map/desert12_8.img
+        - [X] map/desert12_8.img
         - [ ] map/desert12_8.map
-        - [ ] map/desert13_8.img
+        - [X] map/desert13_8.img
         - [ ] map/desert13_8.map
-        - [ ] map/desert14_8.img
+        - [X] map/desert14_8.img
         - [ ] map/desert14_8.map
-        - [ ] map/desert15_8.img
+        - [X] map/desert15_8.img
         - [ ] map/desert15_8.map
-        - [ ] map/desert16_8.img
+        - [X] map/desert16_8.img
         - [ ] map/desert16_8.map
-        - [ ] map/desert17_8.img
+        - [X] map/desert17_8.img
         - [ ] map/desert17_8.map
-        - [ ] map/desert18_8.img
+        - [X] map/desert18_8.img
         - [ ] map/desert18_8.map
-        - [ ] map/desert19_6.img
+        - [X] map/desert19_6.img
         - [ ] map/desert19_6.map
-        - [ ] map/desert20_8.img
+        - [X] map/desert20_8.img
         - [ ] map/desert20_8.map
-        - [ ] map/desert21_8.img
+        - [X] map/desert21_8.img
         - [ ] map/desert21_8.map
-        - [ ] map/desert22_8.img
+        - [X] map/desert22_8.img
         - [ ] map/desert22_8.map
-        - [ ] map/desert26_6.img
+        - [X] map/desert26_6.img
         - [ ] map/desert26_6.map
-        - [ ] map/desert27_8.img
+        - [X] map/desert27_8.img
         - [ ] map/desert27_8.map
-        - [ ] map/desert28_8.img
+        - [X] map/desert28_8.img
         - [ ] map/desert28_8.map
-        - [ ] map/desert29_8.img
+        - [X] map/desert29_8.img
         - [ ] map/desert29_8.map
-        - [ ] map/feild13_8.img
-        - [ ] map/field01_4.img
+        - [X] map/feild13_8.img
+        - [X] map/field01_4.img
         - [ ] map/field01_4.map
-        - [ ] map/field02_6.img
+        - [X] map/field02_6.img
         - [ ] map/field02_6.map
-        - [ ] map/field03_8.img
+        - [X] map/field03_8.img
         - [ ] map/field03_8.map
-        - [ ] map/field04_8.img
+        - [X] map/field04_8.img
         - [ ] map/field04_8.map
-        - [ ] map/field05_8.img
+        - [X] map/field05_8.img
         - [ ] map/field05_8.map
-        - [ ] map/field06_8.img
+        - [X] map/field06_8.img
         - [ ] map/field06_8.map
-        - [ ] map/field07_8.img
+        - [X] map/field07_8.img
         - [ ] map/field07_8.map
-        - [ ] map/field08_8.img
+        - [X] map/field08_8.img
         - [ ] map/field08_8.map
-        - [ ] map/field09_8.img
+        - [X] map/field09_8.img
         - [ ] map/field09_8.map
-        - [ ] map/field10_8.img
+        - [X] map/field10_8.img
         - [ ] map/field10_8.map
-        - [ ] map/field11_8.img
+        - [X] map/field11_8.img
         - [ ] map/field11_8.map
-        - [ ] map/field12_8.img
+        - [X] map/field12_8.img
         - [ ] map/field12_8.map
-        - [ ] map/field13_8.img
+        - [X] map/field13_8.img
         - [ ] map/field13_8.map
-        - [ ] map/field14_8.img
+        - [X] map/field14_8.img
         - [ ] map/field14_8.map
-        - [ ] map/field15_8.img
+        - [X] map/field15_8.img
         - [ ] map/field15_8.map
-        - [ ] map/field16_8.img
+        - [X] map/field16_8.img
         - [ ] map/field16_8.map
-        - [ ] map/field17_8.img
+        - [X] map/field17_8.img
         - [ ] map/field17_8.map
-        - [ ] map/field18_8.img
+        - [X] map/field18_8.img
         - [ ] map/field18_8.map
-        - [ ] map/field19_8.img
+        - [X] map/field19_8.img
         - [ ] map/field19_8.map
-        - [ ] map/field20_8.img
+        - [X] map/field20_8.img
         - [ ] map/field20_8.map
-        - [ ] map/field21_8.img
+        - [X] map/field21_8.img
         - [ ] map/field21_8.map
-        - [ ] map/field22_8.img
+        - [X] map/field22_8.img
         - [ ] map/field22_8.map
-        - [ ] map/field23_8.img
+        - [X] map/field23_8.img
         - [ ] map/field23_8.map
-        - [ ] map/field24_4.img
+        - [X] map/field24_4.img
         - [ ] map/field24_4.map
-        - [ ] map/field25_4.img
+        - [X] map/field25_4.img
         - [ ] map/field25_4.map
-        - [ ] map/field26_4.img
+        - [X] map/field26_4.img
         - [ ] map/field26_4.map
-        - [ ] map/field27_8.img
+        - [X] map/field27_8.img
         - [ ] map/field27_8.map
-        - [ ] map/field28_4.img
+        - [X] map/field28_4.img
         - [ ] map/field28_4.map
         - [ ] map/icon
             - [ ] map/icon/all.img
@@ -514,132 +514,132 @@
             - [ ] map/icon/town.img
             - [ ] map/icon/treasure.img
             - [ ] map/icon/water.img
-        - [ ] map/machine01_6.img
+        - [X] map/machine01_6.img
         - [ ] map/machine01_6.map
-        - [ ] map/machine02_6.img
+        - [X] map/machine02_6.img
         - [ ] map/machine02_6.map
-        - [ ] map/machine03_8.img
+        - [X] map/machine03_8.img
         - [ ] map/machine03_8.map
-        - [ ] map/machine04_8.img
+        - [X] map/machine04_8.img
         - [ ] map/machine04_8.map
-        - [ ] map/machine05_8.img
+        - [X] map/machine05_8.img
         - [ ] map/machine05_8.map
-        - [ ] map/machine06_8.img
+        - [X] map/machine06_8.img
         - [ ] map/machine06_8.map
-        - [ ] map/machine07_8.img
+        - [X] map/machine07_8.img
         - [ ] map/machine07_8.map
-        - [ ] map/machine08_8.img
+        - [X] map/machine08_8.img
         - [ ] map/machine08_8.map
-        - [ ] map/machine09_8.img
+        - [X] map/machine09_8.img
         - [ ] map/machine09_8.map
-        - [ ] map/machine10_8.img
+        - [X] map/machine10_8.img
         - [ ] map/machine10_8.map
-        - [ ] map/machine11_8.img
+        - [X] map/machine11_8.img
         - [ ] map/machine11_8.map
         - [ ] map/machine12_8.map
         - [ ] map/machine13_8.map
         - [ ] map/mapDesc.py
         - [ ] map/mapDesc.pyc
-        - [ ] map/match01_2.img
+        - [X] map/match01_2.img
         - [ ] map/match01_2.map
-        - [ ] map/match02_2.img
+        - [X] map/match02_2.img
         - [ ] map/match02_2.map
-        - [ ] map/match03_4.img
+        - [X] map/match03_4.img
         - [ ] map/match03_4.map
-        - [ ] map/match04_4.img
+        - [X] map/match04_4.img
         - [ ] map/match04_4.map
-        - [ ] map/match05_6.img
+        - [X] map/match05_6.img
         - [ ] map/match05_6.map
-        - [ ] map/match06_6.img
+        - [X] map/match06_6.img
         - [ ] map/match06_6.map
-        - [ ] map/match07_8.img
+        - [X] map/match07_8.img
         - [ ] map/match07_8.map
-        - [ ] map/match08_8.img
+        - [X] map/match08_8.img
         - [ ] map/match08_8.map
-        - [ ] map/match09_8.img
+        - [X] map/match09_8.img
         - [ ] map/match09_8.map
-        - [ ] map/match10_8.img
+        - [X] map/match10_8.img
         - [ ] map/match10_8.map
-        - [ ] map/match11_8.img
+        - [X] map/match11_8.img
         - [ ] map/match11_8.map
-        - [ ] map/match12_8.img
+        - [X] map/match12_8.img
         - [ ] map/match12_8.map
-        - [ ] map/match13_8.img
+        - [X] map/match13_8.img
         - [ ] map/match13_8.map
-        - [ ] map/match14_6.img
+        - [X] map/match14_6.img
         - [ ] map/match14_6.map
-        - [ ] map/match15_6.img
+        - [X] map/match15_6.img
         - [ ] map/match15_6.map
-        - [ ] map/match16_8.img
+        - [X] map/match16_8.img
         - [ ] map/match16_8.map
-        - [ ] map/match17_8.img
+        - [X] map/match17_8.img
         - [ ] map/match17_8.map
-        - [ ] map/match18_8.img
+        - [X] map/match18_8.img
         - [ ] map/match18_8.map
-        - [ ] map/match19_6.img
+        - [X] map/match19_6.img
         - [ ] map/match19_6.map
-        - [ ] map/match20_4.img
+        - [X] map/match20_4.img
         - [ ] map/match20_4.map
-        - [ ] map/match21_4.img
+        - [X] map/match21_4.img
         - [ ] map/match21_4.map
-        - [ ] map/match22_4.img
+        - [X] map/match22_4.img
         - [ ] map/match22_4.map
-        - [ ] map/match23_8.img
+        - [X] map/match23_8.img
         - [ ] map/match23_8.map
-        - [ ] map/match24_8.img
+        - [X] map/match24_8.img
         - [ ] map/match24_8.map
-        - [ ] map/mine01_4.img
+        - [X] map/mine01_4.img
         - [ ] map/mine01_4.map
-        - [ ] map/mine02_4.img
+        - [X] map/mine02_4.img
         - [ ] map/mine02_4.map
-        - [ ] map/mine03_4.img
+        - [X] map/mine03_4.img
         - [ ] map/mine03_4.map
-        - [ ] map/mine04_8.img
+        - [X] map/mine04_8.img
         - [ ] map/mine04_8.map
-        - [ ] map/mine05_8.img
+        - [X] map/mine05_8.img
         - [ ] map/mine05_8.map
-        - [ ] map/mine06_8.img
+        - [X] map/mine06_8.img
         - [ ] map/mine06_8.map
-        - [ ] map/mine07_8.img
+        - [X] map/mine07_8.img
         - [ ] map/mine07_8.map
-        - [ ] map/mine08_8.img
+        - [X] map/mine08_8.img
         - [ ] map/mine08_8.map
-        - [ ] map/mine09_8.img
+        - [X] map/mine09_8.img
         - [ ] map/mine09_8.map
-        - [ ] map/mine10_4.img
+        - [X] map/mine10_4.img
         - [ ] map/mine10_4.map
-        - [ ] map/mine11_8.img
+        - [X] map/mine11_8.img
         - [ ] map/mine11_8.map
-        - [ ] map/mine12_8.img
+        - [X] map/mine12_8.img
         - [ ] map/mine12_8.map
-        - [ ] map/mine13_8.img
+        - [X] map/mine13_8.img
         - [ ] map/mine13_8.map
-        - [ ] map/mine14_8.img
+        - [X] map/mine14_8.img
         - [ ] map/mine14_8.map
-        - [ ] map/mine15_8.img
+        - [X] map/mine15_8.img
         - [ ] map/mine15_8.map
-        - [ ] map/mine16_4.img
+        - [X] map/mine16_4.img
         - [ ] map/mine16_4.map
-        - [ ] map/mine16_8.img
-        - [ ] map/mine17_8.img
+        - [X] map/mine16_8.img
+        - [X] map/mine17_8.img
         - [ ] map/mine17_8.map
-        - [ ] map/mine18_8.img
+        - [X] map/mine18_8.img
         - [ ] map/mine18_8.map
-        - [ ] map/mine19_8.img
+        - [X] map/mine19_8.img
         - [ ] map/mine19_8.map
-        - [ ] map/mine20_4.img
+        - [X] map/mine20_4.img
         - [ ] map/mine20_4.map
-        - [ ] map/mine21_8.img
+        - [X] map/mine21_8.img
         - [ ] map/mine21_8.map
-        - [ ] map/mine22_4.img
+        - [X] map/mine22_4.img
         - [ ] map/mine22_4.map
-        - [ ] map/mine23_8.img
+        - [X] map/mine23_8.img
         - [ ] map/mine23_8.map
-        - [ ] map/mine24_8.img
+        - [X] map/mine24_8.img
         - [ ] map/mine24_8.map
-        - [ ] map/mine25_4.img
+        - [X] map/mine25_4.img
         - [ ] map/mine25_4.map
-        - [ ] map/mine26_8.img
+        - [X] map/mine26_8.img
         - [ ] map/mine26_8.map
         - [ ] map/msvcp60.dll
         - [ ] map/newbie01_4.map
@@ -648,51 +648,51 @@
         - [ ] map/newbie04_4.map
         - [ ] map/newbie05_4.map
         - [ ] map/newbie06_4.map
-        - [ ] map/pig01_4.img
+        - [X] map/pig01_4.img
         - [ ] map/pig01_4.map
-        - [ ] map/pig02_6.img
+        - [X] map/pig02_6.img
         - [ ] map/pig02_6.map
-        - [ ] map/pig03_8.img
+        - [X] map/pig03_8.img
         - [ ] map/pig03_8.map
-        - [ ] map/pig04_8.img
+        - [X] map/pig04_8.img
         - [ ] map/pig04_8.map
-        - [ ] map/pig05_8.img
+        - [X] map/pig05_8.img
         - [ ] map/pig05_8.map
-        - [ ] map/pig06_8.img
+        - [X] map/pig06_8.img
         - [ ] map/pig06_8.map
-        - [ ] map/pig07_8.img
+        - [X] map/pig07_8.img
         - [ ] map/pig07_8.map
-        - [ ] map/pig08_8.img
+        - [X] map/pig08_8.img
         - [ ] map/pig08_8.map
-        - [ ] map/pig09_8.img
+        - [X] map/pig09_8.img
         - [ ] map/pig09_8.map
-        - [ ] map/pig10_8.img
+        - [X] map/pig10_8.img
         - [ ] map/pig10_8.map
-        - [ ] map/pig11_8.img
+        - [X] map/pig11_8.img
         - [ ] map/pig11_8.map
-        - [ ] map/pig12_8.img
+        - [X] map/pig12_8.img
         - [ ] map/pig12_8.map
-        - [ ] map/pig13_8.img
+        - [X] map/pig13_8.img
         - [ ] map/pig13_8.map
-        - [ ] map/pig14_6.img
+        - [X] map/pig14_6.img
         - [ ] map/pig14_6.map
-        - [ ] map/pig15_8.img
+        - [X] map/pig15_8.img
         - [ ] map/pig15_8.map
-        - [ ] map/pig16_4.img
+        - [X] map/pig16_4.img
         - [ ] map/pig16_4.map
-        - [ ] map/pig17_8.img
+        - [X] map/pig17_8.img
         - [ ] map/pig17_8.map
-        - [ ] map/pig18_4.img
+        - [X] map/pig18_4.img
         - [ ] map/pig18_4.map
-        - [ ] map/pig20_8.img
+        - [X] map/pig20_8.img
         - [ ] map/pig20_8.map
-        - [ ] map/pig21_4.img
+        - [X] map/pig21_4.img
         - [ ] map/pig21_4.map
-        - [ ] map/pig22_4.img
+        - [X] map/pig22_4.img
         - [ ] map/pig22_4.map
-        - [ ] map/pig23_8.img
+        - [X] map/pig23_8.img
         - [ ] map/pig23_8.map
-        - [ ] map/pve.img
+        - [X] map/pve.img
         - [ ] map/pve01_8.map
         - [ ] map/pve02_8.map
         - [ ] map/pve03_8.map
@@ -702,12 +702,12 @@
         - [ ] map/pve07_8.map
         - [ ] map/pve08_8.map
         - [ ] map/pve09_8.map
-        - [ ] map/pve1.img
-        - [ ] map/pve10.img
+        - [X] map/pve1.img
+        - [X] map/pve10.img
         - [ ] map/pve10_8.map
-        - [ ] map/pve11.img
+        - [X] map/pve11.img
         - [ ] map/pve11_8.map
-        - [ ] map/pve12.img
+        - [X] map/pve12.img
         - [ ] map/pve12_8.map
         - [ ] map/pve13_8.map
         - [ ] map/pve14_8.map
@@ -716,7 +716,7 @@
         - [ ] map/pve17_4.map
         - [ ] map/pve18_4.map
         - [ ] map/pve19_4.map
-        - [ ] map/pve2.img
+        - [X] map/pve2.img
         - [ ] map/pve20_4.map
         - [ ] map/pve21_4.map
         - [ ] map/pve22_4.map
@@ -727,7 +727,7 @@
         - [ ] map/pve27_4.map
         - [ ] map/pve28_4.map
         - [ ] map/pve29_4.map
-        - [ ] map/pve3.img
+        - [X] map/pve3.img
         - [ ] map/pve30_4.map
         - [ ] map/pve31_4.map
         - [ ] map/pve32_4.map
@@ -738,7 +738,7 @@
         - [ ] map/pve37_4.map
         - [ ] map/pve38_4.map
         - [ ] map/pve39_4.map
-        - [ ] map/pve4.img
+        - [X] map/pve4.img
         - [ ] map/pve40_4.map
         - [ ] map/pve41_4.map
         - [ ] map/pve42_4.map
@@ -749,279 +749,279 @@
         - [ ] map/pve47_4.map
         - [ ] map/pve48_4.map
         - [ ] map/pve49_4.map
-        - [ ] map/pve5.img
+        - [X] map/pve5.img
         - [ ] map/pve50_4.map
-        - [ ] map/pve6.img
-        - [ ] map/pve7.img
-        - [ ] map/pve8.img
-        - [ ] map/pve9.img
-        - [ ] map/rand.img
-        - [ ] map/sculpture01_8.img
+        - [X] map/pve6.img
+        - [X] map/pve7.img
+        - [X] map/pve8.img
+        - [X] map/pve9.img
+        - [X] map/rand.img
+        - [X] map/sculpture01_8.img
         - [ ] map/sculpture01_8.map
-        - [ ] map/sculpture02_8.img
+        - [X] map/sculpture02_8.img
         - [ ] map/sculpture02_8.map
-        - [ ] map/sculpture03_8.img
+        - [X] map/sculpture03_8.img
         - [ ] map/sculpture03_8.map
-        - [ ] map/sculpture04_8.img
+        - [X] map/sculpture04_8.img
         - [ ] map/sculpture04_8.map
-        - [ ] map/sculpture05_8.img
+        - [X] map/sculpture05_8.img
         - [ ] map/sculpture05_8.map
-        - [ ] map/sculpture06_8.img
+        - [X] map/sculpture06_8.img
         - [ ] map/sculpture06_8.map
-        - [ ] map/sculpture07_8.img
+        - [X] map/sculpture07_8.img
         - [ ] map/sculpture07_8.map
-        - [ ] map/sculpture08_8.img
+        - [X] map/sculpture08_8.img
         - [ ] map/sculpture08_8.map
-        - [ ] map/sculpture09_8.img
+        - [X] map/sculpture09_8.img
         - [ ] map/sculpture09_8.map
-        - [ ] map/sculpture10_8.img
+        - [X] map/sculpture10_8.img
         - [ ] map/sculpture10_8.map
-        - [ ] map/sculpture11_8.img
+        - [X] map/sculpture11_8.img
         - [ ] map/sculpture11_8.map
-        - [ ] map/sculpture13_8.img
+        - [X] map/sculpture13_8.img
         - [ ] map/sculpture13_8.map
-        - [ ] map/sculpture14_8.img
+        - [X] map/sculpture14_8.img
         - [ ] map/sculpture14_8.map
-        - [ ] map/sculpture15_8.img
+        - [X] map/sculpture15_8.img
         - [ ] map/sculpture15_8.map
-        - [ ] map/sculpture16_8.img
+        - [X] map/sculpture16_8.img
         - [ ] map/sculpture16_8.map
-        - [ ] map/sculpture17_8.img
+        - [X] map/sculpture17_8.img
         - [ ] map/sculpture17_8.map
-        - [ ] map/sculpture18_6.img
+        - [X] map/sculpture18_6.img
         - [ ] map/sculpture18_6.map
-        - [ ] map/sculpture19_4.img
+        - [X] map/sculpture19_4.img
         - [ ] map/sculpture19_4.map
-        - [ ] map/snow01_4.img
+        - [X] map/snow01_4.img
         - [ ] map/snow01_4.map
-        - [ ] map/snow02_6.img
+        - [X] map/snow02_6.img
         - [ ] map/snow02_6.map
-        - [ ] map/snow03_8.img
+        - [X] map/snow03_8.img
         - [ ] map/snow03_8.map
-        - [ ] map/snow04_8.img
+        - [X] map/snow04_8.img
         - [ ] map/snow04_8.map
-        - [ ] map/snow05_8.img
+        - [X] map/snow05_8.img
         - [ ] map/snow05_8.map
-        - [ ] map/snow06_8.img
+        - [X] map/snow06_8.img
         - [ ] map/snow06_8.map
-        - [ ] map/snow07_8.img
+        - [X] map/snow07_8.img
         - [ ] map/snow07_8.map
-        - [ ] map/snow08_8.img
+        - [X] map/snow08_8.img
         - [ ] map/snow08_8.map
-        - [ ] map/snow09_8.img
+        - [X] map/snow09_8.img
         - [ ] map/snow09_8.map
-        - [ ] map/snow10_8.img
+        - [X] map/snow10_8.img
         - [ ] map/snow10_8.map
-        - [ ] map/snow11_8.img
+        - [X] map/snow11_8.img
         - [ ] map/snow11_8.map
-        - [ ] map/snow12_8.img
+        - [X] map/snow12_8.img
         - [ ] map/snow12_8.map
-        - [ ] map/snow13_8.img
+        - [X] map/snow13_8.img
         - [ ] map/snow13_8.map
-        - [ ] map/snow14_8.img
+        - [X] map/snow14_8.img
         - [ ] map/snow14_8.map
-        - [ ] map/snow15_8.img
+        - [X] map/snow15_8.img
         - [ ] map/snow15_8.map
-        - [ ] map/snow16_8.img
+        - [X] map/snow16_8.img
         - [ ] map/snow16_8.map
-        - [ ] map/snow17_8.img
+        - [X] map/snow17_8.img
         - [ ] map/snow17_8.map
-        - [ ] map/snow18_8.img
+        - [X] map/snow18_8.img
         - [ ] map/snow18_8.map
-        - [ ] map/snow19_8.img
+        - [X] map/snow19_8.img
         - [ ] map/snow19_8.map
-        - [ ] map/snow20_8.img
+        - [X] map/snow20_8.img
         - [ ] map/snow20_8.map
-        - [ ] map/snow21_4.img
+        - [X] map/snow21_4.img
         - [ ] map/snow21_4.map
-        - [ ] map/snow22_8.img
+        - [X] map/snow22_8.img
         - [ ] map/snow22_8.map
-        - [ ] map/snow23_8.img
+        - [X] map/snow23_8.img
         - [ ] map/snow23_8.map
-        - [ ] map/snow24_6.img
+        - [X] map/snow24_6.img
         - [ ] map/snow24_6.map
-        - [ ] map/tank01_8.img
+        - [X] map/tank01_8.img
         - [ ] map/tank01_8.map
-        - [ ] map/tank02_8.img
+        - [X] map/tank02_8.img
         - [ ] map/tank02_8.map
-        - [ ] map/tank03_8.img
+        - [X] map/tank03_8.img
         - [ ] map/tank03_8.map
-        - [ ] map/tank04_8.img
+        - [X] map/tank04_8.img
         - [ ] map/tank04_8.map
-        - [ ] map/tank05_8.img
+        - [X] map/tank05_8.img
         - [ ] map/tank05_8.map
-        - [ ] map/tank06_8.img
+        - [X] map/tank06_8.img
         - [ ] map/tank06_8.map
-        - [ ] map/tank07_8.img
+        - [X] map/tank07_8.img
         - [ ] map/tank07_8.map
-        - [ ] map/tank08_8.img
+        - [X] map/tank08_8.img
         - [ ] map/tank08_8.map
-        - [ ] map/town01_4.img
+        - [X] map/town01_4.img
         - [ ] map/town01_4.map
-        - [ ] map/town02_4.img
+        - [X] map/town02_4.img
         - [ ] map/town02_4.map
-        - [ ] map/town03_6.img
+        - [X] map/town03_6.img
         - [ ] map/town03_6.map
-        - [ ] map/town04_8.img
+        - [X] map/town04_8.img
         - [ ] map/town04_8.map
-        - [ ] map/town05_8.img
+        - [X] map/town05_8.img
         - [ ] map/town05_8.map
-        - [ ] map/town06_8.img
+        - [X] map/town06_8.img
         - [ ] map/town06_8.map
-        - [ ] map/town07_8.img
+        - [X] map/town07_8.img
         - [ ] map/town07_8.map
-        - [ ] map/town08_8.img
+        - [X] map/town08_8.img
         - [ ] map/town08_8.map
-        - [ ] map/town09_8.img
+        - [X] map/town09_8.img
         - [ ] map/town09_8.map
-        - [ ] map/town10_8.img
+        - [X] map/town10_8.img
         - [ ] map/town10_8.map
-        - [ ] map/town11_8.img
+        - [X] map/town11_8.img
         - [ ] map/town11_8.map
-        - [ ] map/town12_8.img
+        - [X] map/town12_8.img
         - [ ] map/town12_8.map
-        - [ ] map/town13_8.img
+        - [X] map/town13_8.img
         - [ ] map/town13_8.map
-        - [ ] map/town14_8.img
+        - [X] map/town14_8.img
         - [ ] map/town14_8.map
-        - [ ] map/town15_8.img
+        - [X] map/town15_8.img
         - [ ] map/town15_8.map
-        - [ ] map/town16_8.img
+        - [X] map/town16_8.img
         - [ ] map/town16_8.map
-        - [ ] map/town17_8.img
+        - [X] map/town17_8.img
         - [ ] map/town17_8.map
-        - [ ] map/town18_8.img
+        - [X] map/town18_8.img
         - [ ] map/town18_8.map
-        - [ ] map/town19_8.img
+        - [X] map/town19_8.img
         - [ ] map/town19_8.map
-        - [ ] map/town20_8.img
+        - [X] map/town20_8.img
         - [ ] map/town20_8.map
-        - [ ] map/town21_8.img
+        - [X] map/town21_8.img
         - [ ] map/town21_8.map
-        - [ ] map/town22_8.img
+        - [X] map/town22_8.img
         - [ ] map/town22_8.map
-        - [ ] map/town23_4.img
+        - [X] map/town23_4.img
         - [ ] map/town23_4.map
-        - [ ] map/town24_8.img
+        - [X] map/town24_8.img
         - [ ] map/town24_8.map
-        - [ ] map/town28_8.img
+        - [X] map/town28_8.img
         - [ ] map/town28_8.map
-        - [ ] map/town29_4.img
+        - [X] map/town29_4.img
         - [ ] map/town29_4.map
-        - [ ] map/town30_6.img
+        - [X] map/town30_6.img
         - [ ] map/town30_6.map
-        - [ ] map/town31_4.img
+        - [X] map/town31_4.img
         - [ ] map/town31_4.map
-        - [ ] map/treasure01_4.img
+        - [X] map/treasure01_4.img
         - [ ] map/treasure01_4.map
-        - [ ] map/treasure02_6.img
+        - [X] map/treasure02_6.img
         - [ ] map/treasure02_6.map
-        - [ ] map/treasure03_8.img
+        - [X] map/treasure03_8.img
         - [ ] map/treasure03_8.map
-        - [ ] map/treasure04_8.img
+        - [X] map/treasure04_8.img
         - [ ] map/treasure04_8.map
-        - [ ] map/treasure05_8.img
+        - [X] map/treasure05_8.img
         - [ ] map/treasure05_8.map
-        - [ ] map/treasure06_8.img
+        - [X] map/treasure06_8.img
         - [ ] map/treasure06_8.map
-        - [ ] map/treasure07_8.img
+        - [X] map/treasure07_8.img
         - [ ] map/treasure07_8.map
-        - [ ] map/treasure08_8.img
+        - [X] map/treasure08_8.img
         - [ ] map/treasure08_8.map
-        - [ ] map/treasure09_8.img
+        - [X] map/treasure09_8.img
         - [ ] map/treasure09_8.map
-        - [ ] map/treasure10_8.img
+        - [X] map/treasure10_8.img
         - [ ] map/treasure10_8.map
-        - [ ] map/treasure11_8.img
+        - [X] map/treasure11_8.img
         - [ ] map/treasure11_8.map
-        - [ ] map/treasure12_8.img
+        - [X] map/treasure12_8.img
         - [ ] map/treasure12_8.map
-        - [ ] map/treasure13_8.img
+        - [X] map/treasure13_8.img
         - [ ] map/treasure13_8.map
-        - [ ] map/treasure14_8.img
+        - [X] map/treasure14_8.img
         - [ ] map/treasure14_8.map
-        - [ ] map/treasure15_6.img
+        - [X] map/treasure15_6.img
         - [ ] map/treasure15_6.map
-        - [ ] map/treasure16_8.img
+        - [X] map/treasure16_8.img
         - [ ] map/treasure16_8.map
-        - [ ] map/treasure17_8.img
+        - [X] map/treasure17_8.img
         - [ ] map/treasure17_8.map
-        - [ ] map/treasure18_8.img
+        - [X] map/treasure18_8.img
         - [ ] map/treasure18_8.map
-        - [ ] map/treasure19_4.img
+        - [X] map/treasure19_4.img
         - [ ] map/treasure19_4.map
-        - [ ] map/treasure20_4.img
+        - [X] map/treasure20_4.img
         - [ ] map/treasure20_4.map
-        - [ ] map/treasure22_4.img
+        - [X] map/treasure22_4.img
         - [ ] map/treasure22_4.map
-        - [ ] map/treasure23_4.img
+        - [X] map/treasure23_4.img
         - [ ] map/treasure23_4.map
-        - [ ] map/treasure24_8.img
+        - [X] map/treasure24_8.img
         - [ ] map/treasure24_8.map
-        - [ ] map/treasure25_4.img
+        - [X] map/treasure25_4.img
         - [ ] map/treasure25_4.map
         - [ ] map/tutorial.map
-        - [ ] map/tutorial01_1.img
+        - [X] map/tutorial01_1.img
         - [ ] map/tutorial01_1.map
-        - [ ] map/tutorial02_2.img
+        - [X] map/tutorial02_2.img
         - [ ] map/tutorial02_2.map
-        - [ ] map/tutorial03_1.img
+        - [X] map/tutorial03_1.img
         - [ ] map/tutorial03_1.map
-        - [ ] map/tutorial04_1.img
+        - [X] map/tutorial04_1.img
         - [ ] map/tutorial04_1.map
-        - [ ] map/water01_4.img
+        - [X] map/water01_4.img
         - [ ] map/water01_4.map
-        - [ ] map/water02_4.img
+        - [X] map/water02_4.img
         - [ ] map/water02_4.map
-        - [ ] map/water03_8.img
+        - [X] map/water03_8.img
         - [ ] map/water03_8.map
-        - [ ] map/water04_8.img
+        - [X] map/water04_8.img
         - [ ] map/water04_8.map
-        - [ ] map/water05_8.img
+        - [X] map/water05_8.img
         - [ ] map/water05_8.map
-        - [ ] map/water06_8.img
+        - [X] map/water06_8.img
         - [ ] map/water06_8.map
-        - [ ] map/water07_8.img
+        - [X] map/water07_8.img
         - [ ] map/water07_8.map
-        - [ ] map/water08_8.img
+        - [X] map/water08_8.img
         - [ ] map/water08_8.map
-        - [ ] map/water09_8.img
+        - [X] map/water09_8.img
         - [ ] map/water09_8.map
-        - [ ] map/water10_8.img
+        - [X] map/water10_8.img
         - [ ] map/water10_8.map
-        - [ ] map/water11_8.img
+        - [X] map/water11_8.img
         - [ ] map/water11_8.map
-        - [ ] map/water12_8.img
+        - [X] map/water12_8.img
         - [ ] map/water12_8.map
-        - [ ] map/water13_8.img
+        - [X] map/water13_8.img
         - [ ] map/water13_8.map
-        - [ ] map/water14_8.img
+        - [X] map/water14_8.img
         - [ ] map/water14_8.map
-        - [ ] map/water15_8.img
+        - [X] map/water15_8.img
         - [ ] map/water15_8.map
-        - [ ] map/water16_8.img
+        - [X] map/water16_8.img
         - [ ] map/water16_8.map
-        - [ ] map/water17_8.img
+        - [X] map/water17_8.img
         - [ ] map/water17_8.map
-        - [ ] map/water18_8.img
+        - [X] map/water18_8.img
         - [ ] map/water18_8.map
-        - [ ] map/water19_8.img
+        - [X] map/water19_8.img
         - [ ] map/water19_8.map
-        - [ ] map/water20_8.img
+        - [X] map/water20_8.img
         - [ ] map/water20_8.map
-        - [ ] map/water21_8.img
+        - [X] map/water21_8.img
         - [ ] map/water21_8.map
-        - [ ] map/water22_8.img
+        - [X] map/water22_8.img
         - [ ] map/water22_8.map
-        - [ ] map/water23_8.img
+        - [X] map/water23_8.img
         - [ ] map/water23_8.map
-        - [ ] map/water25_4.img
+        - [X] map/water25_4.img
         - [ ] map/water25_4.map
-        - [ ] map/water26_8.img
+        - [X] map/water26_8.img
         - [ ] map/water26_8.map
-        - [ ] map/water27_8.img
+        - [X] map/water27_8.img
         - [ ] map/water27_8.map
-        - [ ] map/water28_8.img
+        - [X] map/water28_8.img
         - [ ] map/water28_8.map
     - [ ] mfc42.dll
     - [ ] msvcp60.dll

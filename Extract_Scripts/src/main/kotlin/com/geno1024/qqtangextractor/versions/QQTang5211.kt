@@ -11,6 +11,7 @@ object QQTang5211
 {
     operator fun invoke()
     {
+        "/map" decodeFiles "IMG"
         "/music" copyTo "/music"
         "/object/ui/login/img_logo.img" decode "IMG"
         "/res/uiRes/face/faces" decodeFiles "IMG"
