@@ -1572,31 +1572,31 @@
                     - [X] res/uiRes/face/faces/141.img
                     - [X] res/uiRes/face/faces/142.img
                     - [X] res/uiRes/face/faces/143.img
-                    - [ ] res/uiRes/face/faces/member
-                        - [ ] res/uiRes/face/faces/member/000.img
-                        - [ ] res/uiRes/face/faces/member/001.img
-                        - [ ] res/uiRes/face/faces/member/002.img
-                        - [ ] res/uiRes/face/faces/member/003.img
-                        - [ ] res/uiRes/face/faces/member/004.img
-                        - [ ] res/uiRes/face/faces/member/005.img
-                        - [ ] res/uiRes/face/faces/member/006.img
-                        - [ ] res/uiRes/face/faces/member/007.img
-                        - [ ] res/uiRes/face/faces/member/008.img
-                        - [ ] res/uiRes/face/faces/member/009.img
-                        - [ ] res/uiRes/face/faces/member/010.img
-                        - [ ] res/uiRes/face/faces/member/011.img
-                        - [ ] res/uiRes/face/faces/member/012.img
-                        - [ ] res/uiRes/face/faces/member/013.img
-                        - [ ] res/uiRes/face/faces/member/014.img
-                        - [ ] res/uiRes/face/faces/member/015.img
-                        - [ ] res/uiRes/face/faces/member/016.img
-                        - [ ] res/uiRes/face/faces/member/017.img
-                        - [ ] res/uiRes/face/faces/member/018.img
-                        - [ ] res/uiRes/face/faces/member/019.img
-                        - [ ] res/uiRes/face/faces/member/020.img
-                        - [ ] res/uiRes/face/faces/member/021.img
-                        - [ ] res/uiRes/face/faces/member/022.img
-                        - [ ] res/uiRes/face/faces/member/023.img
+                    - [X] res/uiRes/face/faces/member
+                        - [X] res/uiRes/face/faces/member/000.img
+                        - [X] res/uiRes/face/faces/member/001.img
+                        - [X] res/uiRes/face/faces/member/002.img
+                        - [X] res/uiRes/face/faces/member/003.img
+                        - [X] res/uiRes/face/faces/member/004.img
+                        - [X] res/uiRes/face/faces/member/005.img
+                        - [X] res/uiRes/face/faces/member/006.img
+                        - [X] res/uiRes/face/faces/member/007.img
+                        - [X] res/uiRes/face/faces/member/008.img
+                        - [X] res/uiRes/face/faces/member/009.img
+                        - [X] res/uiRes/face/faces/member/010.img
+                        - [X] res/uiRes/face/faces/member/011.img
+                        - [X] res/uiRes/face/faces/member/012.img
+                        - [X] res/uiRes/face/faces/member/013.img
+                        - [X] res/uiRes/face/faces/member/014.img
+                        - [X] res/uiRes/face/faces/member/015.img
+                        - [X] res/uiRes/face/faces/member/016.img
+                        - [X] res/uiRes/face/faces/member/017.img
+                        - [X] res/uiRes/face/faces/member/018.img
+                        - [X] res/uiRes/face/faces/member/019.img
+                        - [X] res/uiRes/face/faces/member/020.img
+                        - [X] res/uiRes/face/faces/member/021.img
+                        - [X] res/uiRes/face/faces/member/022.img
+                        - [X] res/uiRes/face/faces/member/023.img
             - [ ] res/uiRes/game
                 - [ ] res/uiRes/game/chatpopo1.img
                 - [ ] res/uiRes/game/chatpopo2.img

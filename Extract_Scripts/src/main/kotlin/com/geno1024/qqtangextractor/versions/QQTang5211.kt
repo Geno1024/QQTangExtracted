@@ -15,6 +15,7 @@ object QQTang5211
         "/music" copyTo "/music"
         "/object/ui/login/img_logo.img" decode "IMG"
         "/res/uiRes/face/faces" decodeFiles "IMG"
+        "/res/uiRes/face/faces/member" decodeFiles "IMG"
         "/sound" copyTo "/sound"
         File("${Settings.version}/README.md").writeText(ResourceTree.toTreeDiagram())
     }
