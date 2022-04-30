@@ -1597,10 +1597,10 @@
                         - [X] res/uiRes/face/faces/member/021.img
                         - [X] res/uiRes/face/faces/member/022.img
                         - [X] res/uiRes/face/faces/member/023.img
-            - [ ] res/uiRes/game
-                - [ ] res/uiRes/game/chatpopo1.img
-                - [ ] res/uiRes/game/chatpopo2.img
-                - [ ] res/uiRes/game/chatpopo3.img
+            - [X] res/uiRes/game
+                - [X] res/uiRes/game/chatpopo1.img
+                - [X] res/uiRes/game/chatpopo2.img
+                - [X] res/uiRes/game/chatpopo3.img
             - [ ] res/uiRes/gameChat
                 - [ ] res/uiRes/gameChat/anniu_biaoqing.img
                 - [ ] res/uiRes/gameChat/anniu_bugle.img
