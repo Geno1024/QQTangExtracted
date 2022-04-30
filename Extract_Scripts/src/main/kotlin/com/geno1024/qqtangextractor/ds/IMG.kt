@@ -8,7 +8,10 @@ import java.awt.image.BufferedImage
 import java.io.File
 import java.io.FileInputStream
 import java.nio.charset.Charset
+import javax.imageio.IIOImage
 import javax.imageio.ImageIO
+import javax.imageio.ImageTypeSpecifier
+import javax.imageio.metadata.IIOMetadataNode
 
 /**
  * Unpack ${Settings.base}/[path] IMG file.
@@ -100,9 +103,60 @@ class IMG(val path: String)
                     File("${Settings.version}${path.substringBeforeLast('.')}.png")
                 )
             }
-            else ->
+            ds.frameGroups == 1 ->
             {
-
+                ImageIO.getImageWritersByFormatName("GIF").next().apply {
+                    val metadata = getDefaultImageMetadata(
+                        ImageTypeSpecifier.createFromBufferedImageType(BufferedImage.TYPE_INT_ARGB),
+                        null
+                    ).apply {
+                        setFromTree(
+                            nativeMetadataFormatName,
+                            getAsTree(nativeMetadataFormatName).apply {
+                                appendChild(IIOMetadataNode("GraphicControlExtension").apply {
+                                    setAttribute("delayTime", "50")
+                                    setAttribute("disposalMethod", "restoreToBackgroundColor")
+                                    setAttribute("transparentColorFlag", "TRUE")
+                                    setAttribute("transparentColorIndex", "0")
+                                    setAttribute("userInputFlag", "FALSE")
+                                })
+                                appendChild(IIOMetadataNode("ApplicationExtensions").apply {
+                                    appendChild(IIOMetadataNode("ApplicationExtension").apply {
+                                        setAttribute("applicationID", "NETSCAPE")
+                                        setAttribute("authenticationCode", "2.0")
+                                        userObject = byteArrayOf(0x1, 0, 0)
+                                    })
+                                })
+                            }
+                        )
+                    }
+                    output = ImageIO.createImageOutputStream(File("${Settings.version}${path.substringBeforeLast('.')}.gif"))
+                    prepareWriteSequence(null)
+                    ds.frames.forEach {
+                        when (it.data)
+                        {
+                            is Type3Data ->
+                            {
+                                writeToSequence(
+                                    IIOImage(
+                                        BufferedImage(it.width, it.height, BufferedImage.TYPE_INT_ARGB).apply {
+                                            (0 until it.width).map { x ->
+                                                (0 until it.height).map { y ->
+                                                    setRGB(x, y, (it.data.alpha[y * it.width + x] shl 24) + it.data.color[y * it.width + x].toInt())
+                                                }
+                                            }
+                                        },
+                                        null,
+                                        metadata
+                                    ),
+                                    null
+                                )
+                            }
+                            else -> {}
+                        }
+                    }
+                    endWriteSequence()
+                }
             }
         }
     }
