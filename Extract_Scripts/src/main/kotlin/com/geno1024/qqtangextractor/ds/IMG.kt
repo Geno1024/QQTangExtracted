@@ -32,8 +32,8 @@ class IMG(val path: String)
         val colorDepth = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("colorDepth = $this, ") }
         val framesSize = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("framesSize = $this, ") }
         val frameGroups = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("frameGroups = $this, ") }
-        val unknown1 = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("unknown1 = $this, ") }
-        val unknown2 = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("unknown2 = $this, ") }
+        val offsetX = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("offsetX = $this, ") }
+        val offsetY = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("offsetY = $this, ") }
         val width = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("width = $this, ") }
         val height = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("height = $this.") }
 //        val frames = Frame(stream)
@@ -43,8 +43,8 @@ class IMG(val path: String)
     class Frame(stream: FileInputStream)
     {
         val magic = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("\n\t[IMGFrame] Subimage: ") }
-        val centerX = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("centerX = $this, ") }
-        val centerY = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("centerY = $this, ") }
+        val offsetX = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("offsetX = $this, ") }
+        val offsetY = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("offsetY = $this, ") }
         val imageType = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("imageType = $this, ") }
         val width = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("width = $this, ") }
         val height = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("height = $this, ") }
@@ -139,10 +139,10 @@ class IMG(val path: String)
                             {
                                 writeToSequence(
                                     IIOImage(
-                                        BufferedImage(it.width, it.height, BufferedImage.TYPE_INT_ARGB).apply {
+                                        BufferedImage(ds.width, ds.height, BufferedImage.TYPE_INT_ARGB).apply {
                                             (0 until it.width).map { x ->
                                                 (0 until it.height).map { y ->
-                                                    setRGB(x, y, (it.data.alpha[y * it.width + x] shl 24) + it.data.color[y * it.width + x].toInt())
+                                                    setRGB(x - ds.offsetX + it.offsetX, y - ds.offsetY + it.offsetY, (it.data.alpha[y * it.width + x] shl 24) + it.data.color[y * it.width + x].toInt())
                                                 }
                                             }
                                         },
