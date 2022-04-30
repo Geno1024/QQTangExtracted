@@ -1601,15 +1601,15 @@
                 - [X] res/uiRes/game/chatpopo1.img
                 - [X] res/uiRes/game/chatpopo2.img
                 - [X] res/uiRes/game/chatpopo3.img
-            - [ ] res/uiRes/gameChat
-                - [ ] res/uiRes/gameChat/anniu_biaoqing.img
-                - [ ] res/uiRes/gameChat/anniu_bugle.img
-                - [ ] res/uiRes/gameChat/anniu_bugle_hit.img
-                - [ ] res/uiRes/gameChat/anniu_bugle_none.img
-                - [ ] res/uiRes/gameChat/anniu_bugle_normal.img
-                - [ ] res/uiRes/gameChat/anniu_fasong.img
-                - [ ] res/uiRes/gameChat/duihuakuang.img
-                - [ ] res/uiRes/gameChat/liaotianshurukuang_di.img
+            - [X] res/uiRes/gameChat
+                - [X] res/uiRes/gameChat/anniu_biaoqing.img
+                - [X] res/uiRes/gameChat/anniu_bugle.img
+                - [X] res/uiRes/gameChat/anniu_bugle_hit.img
+                - [X] res/uiRes/gameChat/anniu_bugle_none.img
+                - [X] res/uiRes/gameChat/anniu_bugle_normal.img
+                - [X] res/uiRes/gameChat/anniu_fasong.img
+                - [X] res/uiRes/gameChat/duihuakuang.img
+                - [X] res/uiRes/gameChat/liaotianshurukuang_di.img
             - [ ] res/uiRes/icon
                 - [ ] res/uiRes/icon/bg
                     - [ ] res/uiRes/icon/bg/Thumbs.db

@@ -17,6 +17,7 @@ object QQTang5211
         "/res/uiRes/face/faces" decodeFiles "IMG"
         "/res/uiRes/face/faces/member" decodeFiles "IMG"
         "/res/uiRes/game" decodeFiles "IMG"
+        "/res/uiRes/gameChat" decodeFiles "IMG"
         "/sound" copyTo "/sound"
         File("${Settings.version}/README.md").writeText(ResourceTree.toTreeDiagram())
     }
