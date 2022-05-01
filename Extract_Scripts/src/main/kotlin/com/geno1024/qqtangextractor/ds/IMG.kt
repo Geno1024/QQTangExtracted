@@ -53,14 +53,14 @@ class IMG(val path: String)
         val data = when (imageType)
         {
             3 -> Type3Data(stream.readNBytes(width * height * 3), width, height)
-            8 -> Type8Data()
+            8 -> Type8Data(stream.readNBytes(width * height * 4), width, height)
             else -> TypeEData()
         }
     }
 
     interface FrameData
 
-    class Type3Data(val bytes: ByteArray, val width: Int, val height: Int): FrameData
+    class Type3Data(bytes: ByteArray, width: Int, height: Int): FrameData
     {
         val color = bytes.toList().subList(0, width * height * 2).windowed(2, 2).map {
             val rgb565 = (it[1].toUByte().toUInt() shl 8) + it[0].toUByte().toUInt()
@@ -70,7 +70,13 @@ class IMG(val path: String)
         val alpha = bytes.toList().subList(width * height * 2, width * height * 3).map { (it.toInt() shl 3).takeUnless { it == 256 }?:255 }
     }
 
-    class Type8Data(): FrameData
+    class Type8Data(bytes: ByteArray, width: Int, height: Int): FrameData
+    {
+        val color = bytes.toList().subList(0, width * height * 4).windowed(4, 4).map {
+            (it[3].toUByte().toUInt() shl 24) + (it[2].toUByte().toUInt() shl 16) + (it[1].toUByte().toUInt() shl 8) + it[0].toUByte().toUInt()
+        }
+//        val alpha = bytes.toList().subList(width * height * 3, width * height * 4).map { (it.toInt() shl 3).takeUnless { it == 256 }?:255 }
+    }
     class TypeEData(): FrameData
 
     fun decode()
@@ -90,6 +96,16 @@ class IMG(val path: String)
                                 (0 until frame.width).map { x ->
                                     (0 until frame.height).map { y ->
                                         setRGB(x, y, (frame.data.alpha[y * frame.width + x] shl 24) + frame.data.color[y * frame.width + x].toInt())
+                                    }
+                                }
+                            }
+                        }
+                        is Type8Data ->
+                        {
+                            BufferedImage(frame.width, frame.height, BufferedImage.TYPE_INT_ARGB).apply {
+                                (0 until frame.width).map { x ->
+                                    (0 until frame.height).map { y ->
+                                        setRGB(x, y, frame.data.color[y * frame.width + x].toInt())
                                     }
                                 }
                             }

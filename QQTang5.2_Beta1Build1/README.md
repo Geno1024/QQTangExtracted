@@ -1610,20 +1610,20 @@
                 - [X] res/uiRes/gameChat/anniu_fasong.img
                 - [X] res/uiRes/gameChat/duihuakuang.img
                 - [X] res/uiRes/gameChat/liaotianshurukuang_di.img
-            - [ ] res/uiRes/icon
+            - [X] res/uiRes/icon
                 - [ ] res/uiRes/icon/bg
                     - [ ] res/uiRes/icon/bg/Thumbs.db
-                - [ ] res/uiRes/icon/chatBg
-                    - [ ] res/uiRes/icon/chatBg/chat0.img
-                    - [ ] res/uiRes/icon/chatBg/chat1.img
-                    - [ ] res/uiRes/icon/chatBg/chat2.img
-                    - [ ] res/uiRes/icon/chatBg/chat3.img
-                    - [ ] res/uiRes/icon/chatBg/chat4.img
-                    - [ ] res/uiRes/icon/chatBg/chat5.img
-                    - [ ] res/uiRes/icon/chatBg/chat6.img
-                    - [ ] res/uiRes/icon/chatBg/chat7.img
-                    - [ ] res/uiRes/icon/chatBg/chat8.img
-                    - [ ] res/uiRes/icon/chatBg/chat9.img
+                - [X] res/uiRes/icon/chatBg
+                    - [X] res/uiRes/icon/chatBg/chat0.img
+                    - [X] res/uiRes/icon/chatBg/chat1.img
+                    - [X] res/uiRes/icon/chatBg/chat2.img
+                    - [X] res/uiRes/icon/chatBg/chat3.img
+                    - [X] res/uiRes/icon/chatBg/chat4.img
+                    - [X] res/uiRes/icon/chatBg/chat5.img
+                    - [X] res/uiRes/icon/chatBg/chat6.img
+                    - [X] res/uiRes/icon/chatBg/chat7.img
+                    - [X] res/uiRes/icon/chatBg/chat8.img
+                    - [X] res/uiRes/icon/chatBg/chat9.img
                 - [ ] res/uiRes/icon/item
                     - [ ] res/uiRes/icon/item/item1.img
                     - [ ] res/uiRes/icon/item/item118.img
