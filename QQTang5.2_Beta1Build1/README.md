@@ -1917,40 +1917,40 @@
                 - [ ] res/uiRes/number/itemNum.img
                 - [ ] res/uiRes/number/num.img
                 - [ ] res/uiRes/number/youxibi_shuzi.img
-            - [ ] res/uiRes/selRoom
-                - [ ] res/uiRes/selRoom/diamond_bk.img
-                - [ ] res/uiRes/selRoom/goldDiamond.img
-                - [ ] res/uiRes/selRoom/icon
-                    - [ ] res/uiRes/selRoom/icon/chat.img
-                    - [ ] res/uiRes/selRoom/icon/fangjiananniu_suo.img
-                    - [ ] res/uiRes/selRoom/icon/nan.img
-                    - [ ] res/uiRes/selRoom/icon/nv.img
-                    - [ ] res/uiRes/selRoom/icon/tubiao_biaozhun.img
-                    - [ ] res/uiRes/selRoom/icon/tubiao_ziyou.img
-                - [ ] res/uiRes/selRoom/mapFilter
-                    - [ ] res/uiRes/selRoom/mapFilter/mapfilter_selected_dashl.img
-                - [ ] res/uiRes/selRoom/recorder
-                    - [ ] res/uiRes/selRoom/recorder/botton_videostart.img
-                    - [ ] res/uiRes/selRoom/recorder/channel.img
-                    - [ ] res/uiRes/selRoom/recorder/computer_icon.img
-                    - [ ] res/uiRes/selRoom/recorder/downarrow.img
-                    - [ ] res/uiRes/selRoom/recorder/file_icon.img
-                    - [ ] res/uiRes/selRoom/recorder/folder_icon.img
-                    - [ ] res/uiRes/selRoom/recorder/hardrive_icon.img
-                    - [ ] res/uiRes/selRoom/recorder/uparrow.img
-                    - [ ] res/uiRes/selRoom/recorder/upbotton.img
+            - [X] res/uiRes/selRoom
+                - [X] res/uiRes/selRoom/diamond_bk.img
+                - [X] res/uiRes/selRoom/goldDiamond.img
+                - [X] res/uiRes/selRoom/icon
+                    - [X] res/uiRes/selRoom/icon/chat.img
+                    - [X] res/uiRes/selRoom/icon/fangjiananniu_suo.img
+                    - [X] res/uiRes/selRoom/icon/nan.img
+                    - [X] res/uiRes/selRoom/icon/nv.img
+                    - [X] res/uiRes/selRoom/icon/tubiao_biaozhun.img
+                    - [X] res/uiRes/selRoom/icon/tubiao_ziyou.img
+                - [X] res/uiRes/selRoom/mapFilter
+                    - [X] res/uiRes/selRoom/mapFilter/mapfilter_selected_dashl.img
+                - [X] res/uiRes/selRoom/recorder
+                    - [X] res/uiRes/selRoom/recorder/botton_videostart.img
+                    - [X] res/uiRes/selRoom/recorder/channel.img
+                    - [X] res/uiRes/selRoom/recorder/computer_icon.img
+                    - [X] res/uiRes/selRoom/recorder/downarrow.img
+                    - [X] res/uiRes/selRoom/recorder/file_icon.img
+                    - [X] res/uiRes/selRoom/recorder/folder_icon.img
+                    - [X] res/uiRes/selRoom/recorder/hardrive_icon.img
+                    - [X] res/uiRes/selRoom/recorder/uparrow.img
+                    - [X] res/uiRes/selRoom/recorder/upbotton.img
                 - [ ] res/uiRes/selRoom/room
                     - [ ] res/uiRes/selRoom/room/num_player.img
-            - [ ] res/uiRes/selSect
-                - [ ] res/uiRes/selSect/fuwuqizhuangtai.img
-                - [ ] res/uiRes/selSect/fuwuqizhuangtaihong.img
-                - [ ] res/uiRes/selSect/netspeed_fast.img
-                - [ ] res/uiRes/selSect/netspeed_mid.img
-                - [ ] res/uiRes/selSect/netspeed_slow.img
-                - [ ] res/uiRes/selSect/netspeed_test.img
-                - [ ] res/uiRes/selSect/netspeed_unknown.img
-            - [ ] res/uiRes/shop
-                - [ ] res/uiRes/shop/salou.img
+            - [X] res/uiRes/selSect
+                - [X] res/uiRes/selSect/fuwuqizhuangtai.img
+                - [X] res/uiRes/selSect/fuwuqizhuangtaihong.img
+                - [X] res/uiRes/selSect/netspeed_fast.img
+                - [X] res/uiRes/selSect/netspeed_mid.img
+                - [X] res/uiRes/selSect/netspeed_slow.img
+                - [X] res/uiRes/selSect/netspeed_test.img
+                - [X] res/uiRes/selSect/netspeed_unknown.img
+            - [X] res/uiRes/shop
+                - [X] res/uiRes/shop/salou.img
             - [ ] res/uiRes/uiConst.pyc
             - [ ] res/uiRes/uiFunc.pyc
             - [ ] res/uiRes/uiGame.pyc

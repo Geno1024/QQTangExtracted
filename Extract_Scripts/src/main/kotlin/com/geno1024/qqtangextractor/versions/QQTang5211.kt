@@ -30,6 +30,13 @@ object QQTang5211
         "/res/uiRes/icon/pet" decodeFiles "IMG"
         "/res/uiRes/icon/petItem" decodeFiles "IMG"
         "/res/uiRes/icon/platform" decodeFiles "IMG"
+        "/res/uiRes/selRoom" decodeFiles "IMG"
+        "/res/uiRes/selRoom/icon" decodeFiles "IMG"
+        "/res/uiRes/selRoom/mapFilter" decodeFiles "IMG"
+        "/res/uiRes/selRoom/recorder" decodeFiles "IMG"
+//        "/res/uiRes/selRoom/room/num_player.img" decode "OTF"
+        "/res/uiRes/selSect" decodeFiles "IMG"
+        "/res/uiRes/shop" decodeFiles "IMG"
         "/sound" copyTo "/sound"
         File("${Settings.version}/README.md").writeText(ResourceTree.toTreeDiagram())
     }

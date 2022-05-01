@@ -41,9 +41,9 @@ class IMG2(val path: String)
         val offsetX = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("offsetX = $this, ") }
         val offsetY = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("offsetY = $this, ") }
         val imageType = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("imageType = $this, ") }
-        val width = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("width = $this, ") }
-        val height = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("height = $this, ") }
-        val widthBytes = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("widthBytes? = $this.") }
+        val width = if (imageType != 0) stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("width = $this, ") } else 0
+        val height = if (imageType != 0) stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("height = $this, ") } else 0
+        val widthBytes = if (imageType != 0) stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("widthBytes? = $this.") } else 0
 
         val data = BufferedImage(
             max(imageWidth.takeIf { it !in listOf(0xCCCCCCCC.toInt(), 4) }?:width, width - imageOffsetX + offsetX), // patch: /map/bun06_8.img
