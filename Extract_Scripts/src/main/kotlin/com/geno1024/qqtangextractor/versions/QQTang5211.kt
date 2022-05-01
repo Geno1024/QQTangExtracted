@@ -24,6 +24,12 @@ object QQTang5211
         "/res/uiRes/gameChat" decodeFiles "IMG"
         "/res/uiRes/icon/chatBg" decodeFiles "IMG"
         "/res/uiRes/icon/item" decodeFiles "IMG"
+        "/res/uiRes/icon/light" decodeFiles "IMG"
+        "/res/uiRes/icon/namecard" decodeFiles "IMG"
+        "/res/uiRes/icon/npcIcon" decodeFiles "IMG"
+        "/res/uiRes/icon/pet" decodeFiles "IMG"
+        "/res/uiRes/icon/petItem" decodeFiles "IMG"
+        "/res/uiRes/icon/platform" decodeFiles "IMG"
         "/sound" copyTo "/sound"
         File("${Settings.version}/README.md").writeText(ResourceTree.toTreeDiagram())
     }

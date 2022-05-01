@@ -1839,78 +1839,78 @@
                     - [X] res/uiRes/icon/item/item63.img
                     - [X] res/uiRes/icon/item/item64.img
                     - [X] res/uiRes/icon/item/item66.img
-                - [ ] res/uiRes/icon/light
-                    - [ ] res/uiRes/icon/light/light1.img
-                    - [ ] res/uiRes/icon/light/light2.img
-                    - [ ] res/uiRes/icon/light/light3.img
-                - [ ] res/uiRes/icon/namecard
-                    - [ ] res/uiRes/icon/namecard/namecard122.img
-                    - [ ] res/uiRes/icon/namecard/namecard137.img
-                    - [ ] res/uiRes/icon/namecard/namecard140.img
-                    - [ ] res/uiRes/icon/namecard/namecard92.img
-                - [ ] res/uiRes/icon/npcIcon
-                    - [ ] res/uiRes/icon/npcIcon/npcIcon1.img
-                    - [ ] res/uiRes/icon/npcIcon/npcIcon2.img
-                    - [ ] res/uiRes/icon/npcIcon/npcIcon3.img
-                    - [ ] res/uiRes/icon/npcIcon/npcIcon4.img
-                    - [ ] res/uiRes/icon/npcIcon/npcIcon5.img
-                    - [ ] res/uiRes/icon/npcIcon/npcIcon6.img
-                    - [ ] res/uiRes/icon/npcIcon/npcIcon7.img
-                - [ ] res/uiRes/icon/pet
-                    - [ ] res/uiRes/icon/pet/pet2.img
-                    - [ ] res/uiRes/icon/pet/pet4.img
-                    - [ ] res/uiRes/icon/pet/pet6.img
-                    - [ ] res/uiRes/icon/pet/pet8.img
-                - [ ] res/uiRes/icon/petItem
-                    - [ ] res/uiRes/icon/petItem/petitem2200.img
-                    - [ ] res/uiRes/icon/petItem/petitem2201.img
-                    - [ ] res/uiRes/icon/petItem/petitem2202.img
-                    - [ ] res/uiRes/icon/petItem/petitem2203.img
-                    - [ ] res/uiRes/icon/petItem/petitem2204.img
-                    - [ ] res/uiRes/icon/petItem/petitem2205.img
-                    - [ ] res/uiRes/icon/petItem/petitem2206.img
-                    - [ ] res/uiRes/icon/petItem/petitem2207.img
-                    - [ ] res/uiRes/icon/petItem/petitem2208.img
-                    - [ ] res/uiRes/icon/petItem/petitem2209.img
-                    - [ ] res/uiRes/icon/petItem/petitem2210.img
-                    - [ ] res/uiRes/icon/petItem/petitem2211.img
-                    - [ ] res/uiRes/icon/petItem/petitem2212.img
-                    - [ ] res/uiRes/icon/petItem/petitem2213.img
-                    - [ ] res/uiRes/icon/petItem/petitem2214.img
-                    - [ ] res/uiRes/icon/petItem/petitem2215.img
-                    - [ ] res/uiRes/icon/petItem/petitem2216.img
-                    - [ ] res/uiRes/icon/petItem/petitem2217.img
-                    - [ ] res/uiRes/icon/petItem/petitem2218.img
-                    - [ ] res/uiRes/icon/petItem/petitem2601.img
-                    - [ ] res/uiRes/icon/petItem/petitem2602.img
-                - [ ] res/uiRes/icon/platform
-                    - [ ] res/uiRes/icon/platform/platform1.img
-                    - [ ] res/uiRes/icon/platform/platform10.img
-                    - [ ] res/uiRes/icon/platform/platform11.img
-                    - [ ] res/uiRes/icon/platform/platform12.img
-                    - [ ] res/uiRes/icon/platform/platform13.img
-                    - [ ] res/uiRes/icon/platform/platform14.img
-                    - [ ] res/uiRes/icon/platform/platform2.img
-                    - [ ] res/uiRes/icon/platform/platform3.img
-                    - [ ] res/uiRes/icon/platform/platform4.img
-                    - [ ] res/uiRes/icon/platform/platform5.img
-                    - [ ] res/uiRes/icon/platform/platform6.img
-                    - [ ] res/uiRes/icon/platform/platform7.img
-                    - [ ] res/uiRes/icon/platform/platform8.img
-                    - [ ] res/uiRes/icon/platform/platform9.img
-                    - [ ] res/uiRes/icon/platform/platform9001.img
-                    - [ ] res/uiRes/icon/platform/platform9002.img
-                    - [ ] res/uiRes/icon/platform/platform9003.img
-                    - [ ] res/uiRes/icon/platform/platform9004.img
-                    - [ ] res/uiRes/icon/platform/platform9011.img
-                    - [ ] res/uiRes/icon/platform/platform9012.img
-                    - [ ] res/uiRes/icon/platform/platform9013.img
-                    - [ ] res/uiRes/icon/platform/platform9021.img
-                    - [ ] res/uiRes/icon/platform/platform9022.img
-                    - [ ] res/uiRes/icon/platform/platform9023.img
-                    - [ ] res/uiRes/icon/platform/platform9024.img
-                    - [ ] res/uiRes/icon/platform/platform9025.img
-                    - [ ] res/uiRes/icon/platform/platform9026.img
+                - [X] res/uiRes/icon/light
+                    - [X] res/uiRes/icon/light/light1.img
+                    - [X] res/uiRes/icon/light/light2.img
+                    - [X] res/uiRes/icon/light/light3.img
+                - [X] res/uiRes/icon/namecard
+                    - [X] res/uiRes/icon/namecard/namecard122.img
+                    - [X] res/uiRes/icon/namecard/namecard137.img
+                    - [X] res/uiRes/icon/namecard/namecard140.img
+                    - [X] res/uiRes/icon/namecard/namecard92.img
+                - [X] res/uiRes/icon/npcIcon
+                    - [X] res/uiRes/icon/npcIcon/npcIcon1.img
+                    - [X] res/uiRes/icon/npcIcon/npcIcon2.img
+                    - [X] res/uiRes/icon/npcIcon/npcIcon3.img
+                    - [X] res/uiRes/icon/npcIcon/npcIcon4.img
+                    - [X] res/uiRes/icon/npcIcon/npcIcon5.img
+                    - [X] res/uiRes/icon/npcIcon/npcIcon6.img
+                    - [X] res/uiRes/icon/npcIcon/npcIcon7.img
+                - [X] res/uiRes/icon/pet
+                    - [X] res/uiRes/icon/pet/pet2.img
+                    - [X] res/uiRes/icon/pet/pet4.img
+                    - [X] res/uiRes/icon/pet/pet6.img
+                    - [X] res/uiRes/icon/pet/pet8.img
+                - [X] res/uiRes/icon/petItem
+                    - [X] res/uiRes/icon/petItem/petitem2200.img
+                    - [X] res/uiRes/icon/petItem/petitem2201.img
+                    - [X] res/uiRes/icon/petItem/petitem2202.img
+                    - [X] res/uiRes/icon/petItem/petitem2203.img
+                    - [X] res/uiRes/icon/petItem/petitem2204.img
+                    - [X] res/uiRes/icon/petItem/petitem2205.img
+                    - [X] res/uiRes/icon/petItem/petitem2206.img
+                    - [X] res/uiRes/icon/petItem/petitem2207.img
+                    - [X] res/uiRes/icon/petItem/petitem2208.img
+                    - [X] res/uiRes/icon/petItem/petitem2209.img
+                    - [X] res/uiRes/icon/petItem/petitem2210.img
+                    - [X] res/uiRes/icon/petItem/petitem2211.img
+                    - [X] res/uiRes/icon/petItem/petitem2212.img
+                    - [X] res/uiRes/icon/petItem/petitem2213.img
+                    - [X] res/uiRes/icon/petItem/petitem2214.img
+                    - [X] res/uiRes/icon/petItem/petitem2215.img
+                    - [X] res/uiRes/icon/petItem/petitem2216.img
+                    - [X] res/uiRes/icon/petItem/petitem2217.img
+                    - [X] res/uiRes/icon/petItem/petitem2218.img
+                    - [X] res/uiRes/icon/petItem/petitem2601.img
+                    - [X] res/uiRes/icon/petItem/petitem2602.img
+                - [X] res/uiRes/icon/platform
+                    - [X] res/uiRes/icon/platform/platform1.img
+                    - [X] res/uiRes/icon/platform/platform10.img
+                    - [X] res/uiRes/icon/platform/platform11.img
+                    - [X] res/uiRes/icon/platform/platform12.img
+                    - [X] res/uiRes/icon/platform/platform13.img
+                    - [X] res/uiRes/icon/platform/platform14.img
+                    - [X] res/uiRes/icon/platform/platform2.img
+                    - [X] res/uiRes/icon/platform/platform3.img
+                    - [X] res/uiRes/icon/platform/platform4.img
+                    - [X] res/uiRes/icon/platform/platform5.img
+                    - [X] res/uiRes/icon/platform/platform6.img
+                    - [X] res/uiRes/icon/platform/platform7.img
+                    - [X] res/uiRes/icon/platform/platform8.img
+                    - [X] res/uiRes/icon/platform/platform9.img
+                    - [X] res/uiRes/icon/platform/platform9001.img
+                    - [X] res/uiRes/icon/platform/platform9002.img
+                    - [X] res/uiRes/icon/platform/platform9003.img
+                    - [X] res/uiRes/icon/platform/platform9004.img
+                    - [X] res/uiRes/icon/platform/platform9011.img
+                    - [X] res/uiRes/icon/platform/platform9012.img
+                    - [X] res/uiRes/icon/platform/platform9013.img
+                    - [X] res/uiRes/icon/platform/platform9021.img
+                    - [X] res/uiRes/icon/platform/platform9022.img
+                    - [X] res/uiRes/icon/platform/platform9023.img
+                    - [X] res/uiRes/icon/platform/platform9024.img
+                    - [X] res/uiRes/icon/platform/platform9025.img
+                    - [X] res/uiRes/icon/platform/platform9026.img
             - [ ] res/uiRes/levelCFG.pyc
             - [ ] res/uiRes/number
                 - [ ] res/uiRes/number/fenye.img
