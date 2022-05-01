@@ -103,15 +103,6 @@ class IMG2(val path: String)
                 0,
                 this@Frame.width
             )
-//            (0 until this@Frame.width).map { x ->
-//                (0 until this@Frame.height).map { y ->
-//                    setRGB(
-//                        x - imageOffsetX + offsetX,
-//                        y - imageOffsetY + offsetY,
-//                        matrix[y * this@Frame.width + x]
-//                    )
-//                }
-//            }
         }
     }
 
