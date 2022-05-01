@@ -30,6 +30,7 @@ object QQTang5211
         "/res/uiRes/icon/pet" decodeFiles "IMG"
         "/res/uiRes/icon/petItem" decodeFiles "IMG"
         "/res/uiRes/icon/platform" decodeFiles "IMG"
+//        "/res/uiRes/number" decodeFiles "OTF"
         "/res/uiRes/selRoom" decodeFiles "IMG"
         "/res/uiRes/selRoom/icon" decodeFiles "IMG"
         "/res/uiRes/selRoom/mapFilter" decodeFiles "IMG"
