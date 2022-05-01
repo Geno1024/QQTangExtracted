@@ -14,6 +14,7 @@ object QQTang5211
         "/map" decodeFiles "IMG"
         "/map/icon" decodeFiles "IMG"
         "/music" copyTo "/music"
+        "/object/namecard" decodeFiles "IMG"
         "/object/ui/login/img_logo.img" decode "IMG"
         "/res/uiRes/face/faces" decodeFiles "IMG"
         "/res/uiRes/face/faces/member" decodeFiles "IMG"

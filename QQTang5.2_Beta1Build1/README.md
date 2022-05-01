@@ -1252,19 +1252,19 @@
         - [ ] object/mapElem
             - [ ] object/mapElem/mapElem.prop
             - [ ] object/mapElem/mapElem.py
-        - [ ] object/namecard
-            - [ ] object/namecard/namecard122_stand.img
-            - [ ] object/namecard/namecard122_trigger.img
-            - [ ] object/namecard/namecard122_walk.img
-            - [ ] object/namecard/namecard137_stand.img
-            - [ ] object/namecard/namecard137_trigger.img
-            - [ ] object/namecard/namecard137_walk.img
-            - [ ] object/namecard/namecard140_stand.img
-            - [ ] object/namecard/namecard140_trigger.img
-            - [ ] object/namecard/namecard140_walk.img
-            - [ ] object/namecard/namecard92_stand.img
-            - [ ] object/namecard/namecard92_trigger.img
-            - [ ] object/namecard/namecard92_walk.img
+        - [X] object/namecard
+            - [X] object/namecard/namecard122_stand.img
+            - [X] object/namecard/namecard122_trigger.img
+            - [X] object/namecard/namecard122_walk.img
+            - [X] object/namecard/namecard137_stand.img
+            - [X] object/namecard/namecard137_trigger.img
+            - [X] object/namecard/namecard137_walk.img
+            - [X] object/namecard/namecard140_stand.img
+            - [X] object/namecard/namecard140_trigger.img
+            - [X] object/namecard/namecard140_walk.img
+            - [X] object/namecard/namecard92_stand.img
+            - [X] object/namecard/namecard92_trigger.img
+            - [X] object/namecard/namecard92_walk.img
         - [ ] object/player
             - [ ] object/player/player.py
             - [ ] object/player/player1.ini
