@@ -1381,8 +1381,8 @@
             - [ ] object/player/player_z.cfg
             - [ ] object/player/player_z.ini
         - [X] object/ui
-            - [ ] object/ui/cursor
-                - [ ] object/ui/cursor/fight.gsa
+            - [X] object/ui/cursor
+                - [X] object/ui/cursor/fight.gsa
             - [X] object/ui/login
                 - [X] object/ui/login/img_logo.img
     - [ ] p2psvrInfo.ini
@@ -1422,11 +1422,11 @@
             - [ ] res/uiRes/avt_boy.gif
             - [ ] res/uiRes/avt_girl.gif
             - [X] res/uiRes/face
-                - [ ] res/uiRes/face/biaoqingxuandan_di.img
-                - [ ] res/uiRes/face/biaoq_you.img
-                - [ ] res/uiRes/face/biaoq_zuo.img
-                - [ ] res/uiRes/face/btn_member.img
-                - [ ] res/uiRes/face/btn_normal.img
+                - [X] res/uiRes/face/biaoqingxuandan_di.img
+                - [X] res/uiRes/face/biaoq_you.img
+                - [X] res/uiRes/face/biaoq_zuo.img
+                - [X] res/uiRes/face/btn_member.img
+                - [X] res/uiRes/face/btn_normal.img
                 - [X] res/uiRes/face/faces
                     - [X] res/uiRes/face/faces/000.img
                     - [X] res/uiRes/face/faces/001.img
