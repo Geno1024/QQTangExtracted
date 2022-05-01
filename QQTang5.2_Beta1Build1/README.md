@@ -495,25 +495,25 @@
         - [ ] map/field27_8.map
         - [X] map/field28_4.img
         - [ ] map/field28_4.map
-        - [ ] map/icon
-            - [ ] map/icon/all.img
-            - [ ] map/icon/bomb.img
-            - [ ] map/icon/box.img
-            - [ ] map/icon/bun.img
-            - [ ] map/icon/desert.img
-            - [ ] map/icon/field.img
-            - [ ] map/icon/machine.img
-            - [ ] map/icon/match.img
-            - [ ] map/icon/mine.img
-            - [ ] map/icon/normal.img
-            - [ ] map/icon/pig.img
-            - [ ] map/icon/rand.img
-            - [ ] map/icon/sculpture.img
-            - [ ] map/icon/snow.img
-            - [ ] map/icon/tank.img
-            - [ ] map/icon/town.img
-            - [ ] map/icon/treasure.img
-            - [ ] map/icon/water.img
+        - [X] map/icon
+            - [X] map/icon/all.img
+            - [X] map/icon/bomb.img
+            - [X] map/icon/box.img
+            - [X] map/icon/bun.img
+            - [X] map/icon/desert.img
+            - [X] map/icon/field.img
+            - [X] map/icon/machine.img
+            - [X] map/icon/match.img
+            - [X] map/icon/mine.img
+            - [X] map/icon/normal.img
+            - [X] map/icon/pig.img
+            - [X] map/icon/rand.img
+            - [X] map/icon/sculpture.img
+            - [X] map/icon/snow.img
+            - [X] map/icon/tank.img
+            - [X] map/icon/town.img
+            - [X] map/icon/treasure.img
+            - [X] map/icon/water.img
         - [X] map/machine01_6.img
         - [ ] map/machine01_6.map
         - [X] map/machine02_6.img

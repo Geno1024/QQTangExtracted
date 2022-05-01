@@ -9,6 +9,7 @@ import java.awt.image.BufferedImage
 import java.io.File
 import java.io.FileInputStream
 import java.nio.charset.Charset
+import kotlin.math.max
 
 class IMG2(val path: String)
 {
@@ -26,8 +27,8 @@ class IMG2(val path: String)
         val colorDepth = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("colorDepth = $this, ") }
         val framesSize = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("framesSize = $this, ") }
         val frameGroups = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("frameGroups = $this, ") }
-        val offsetX = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("offsetX = $this, ") }.takeIf { it !in listOf(0xCCCCCCCC.toInt(), 19005184) }?:0
-        val offsetY = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("offsetY = $this, ") }.takeIf { it !in listOf(0xCCCCCCCC.toInt(), 150) }?:0
+        val offsetX = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("offsetX = $this, ") }.takeIf { it !in listOf(0xCCCCCCCC.toInt(), 19005184) }?:0 // patch: /map/bun06_8.img
+        val offsetY = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("offsetY = $this, ") }.takeIf { it !in listOf(0xCCCCCCCC.toInt(), 150) }?:0 // patch: /map/bun06_8.img
         val width = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("width = $this, ") }
         val height = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("height = $this.") }
 
@@ -45,8 +46,8 @@ class IMG2(val path: String)
         val widthBytes = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("widthBytes? = $this.") }
 
         val data = BufferedImage(
-            imageWidth.takeIf { it !in listOf(0xCCCCCCCC.toInt(), 4) }?:width,
-            imageHeight.takeIf { it !in listOf(0xCCCCCCCC.toInt(), 1792) }?:height,
+            max(imageWidth.takeIf { it !in listOf(0xCCCCCCCC.toInt(), 4) }?:width, width - imageOffsetX + offsetX), // patch: /map/bun06_8.img
+            max(imageHeight.takeIf { it !in listOf(0xCCCCCCCC.toInt(), 1792) }?:height, height -imageOffsetY + offsetY), // patch: /map/bun06_8.img
             BufferedImage.TYPE_INT_ARGB
         ).apply {
             setRGB(0, 0, width, height, IntArray(width * height) { 0x00000000 }, 0, width)
@@ -94,7 +95,7 @@ class IMG2(val path: String)
             }
 
             setRGB(
-                -imageOffsetX + offsetX,
+                (-imageOffsetX + offsetX).takeIf { it >= 0 }?:0, // patch: /map/icon/machine.img
                 -imageOffsetY + offsetY,
                 this@Frame.width,
                 this@Frame.height,
