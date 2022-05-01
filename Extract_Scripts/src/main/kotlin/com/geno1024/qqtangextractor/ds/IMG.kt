@@ -16,6 +16,7 @@ import javax.imageio.metadata.IIOMetadataNode
 /**
  * Unpack ${Settings.base}/[path] IMG file.
  */
+@Deprecated("Messy with structures.", replaceWith = ReplaceWith("IMG2"))
 class IMG(val path: String)
 {
     val TAG = "[IMG     ]"
@@ -75,7 +76,6 @@ class IMG(val path: String)
         val color = bytes.toList().subList(0, width * height * 4).windowed(4, 4).map {
             (it[3].toUByte().toUInt() shl 24) + (it[2].toUByte().toUInt() shl 16) + (it[1].toUByte().toUInt() shl 8) + it[0].toUByte().toUInt()
         }
-//        val alpha = bytes.toList().subList(width * height * 3, width * height * 4).map { (it.toInt() shl 3).takeUnless { it == 256 }?:255 }
     }
     class TypeEData(): FrameData
 
@@ -92,20 +92,20 @@ class IMG(val path: String)
                     {
                         is Type3Data ->
                         {
-                            BufferedImage(frame.width, frame.height, BufferedImage.TYPE_INT_ARGB).apply {
+                            BufferedImage(ds.width, ds.height, BufferedImage.TYPE_INT_ARGB).apply {
                                 (0 until frame.width).map { x ->
                                     (0 until frame.height).map { y ->
-                                        setRGB(x, y, (frame.data.alpha[y * frame.width + x] shl 24) + frame.data.color[y * frame.width + x].toInt())
+                                        setRGB(x - ds.offsetX + frame.offsetX, y - ds.offsetY + frame.offsetY, (frame.data.alpha[y * frame.width + x] shl 24) + frame.data.color[y * frame.width + x].toInt())
                                     }
                                 }
                             }
                         }
                         is Type8Data ->
                         {
-                            BufferedImage(frame.width, frame.height, BufferedImage.TYPE_INT_ARGB).apply {
+                            BufferedImage(ds.width, ds.height, BufferedImage.TYPE_INT_ARGB).apply {
                                 (0 until frame.width).map { x ->
                                     (0 until frame.height).map { y ->
-                                        setRGB(x, y, frame.data.color[y * frame.width + x].toInt())
+                                        setRGB(x - ds.offsetX + frame.offsetX, y - ds.offsetY + frame.offsetY, frame.data.color[y * frame.width + x].toInt())
                                     }
                                 }
                             }
