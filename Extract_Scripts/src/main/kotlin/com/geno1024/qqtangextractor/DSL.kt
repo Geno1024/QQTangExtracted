@@ -7,7 +7,15 @@ import java.io.File
 abstract class Inst(open val opr: MutableList<String>)
 {
     open operator fun invoke() {}
-    infix fun withIdx(s: String) = apply { opr.add(s) }
+
+//    infix fun withIdx(s: String) = apply { opr.add(s) }
+
+    infix fun decode(type: String) = when (type)
+    {
+        "IMG" -> IMGInst(opr)()
+        "PKG" -> PKGInst(opr)()
+        else -> NOPInst()()
+    }
 
     class IMGInst(override val opr: MutableList<String>) : Inst(opr)
     {
@@ -29,18 +37,12 @@ infix fun String.copyTo(target: String) = File("${Settings.base}/$this").copyRec
 
 infix fun String.decode(type: String) = when (type)
 {
-    "IMG" -> Inst.IMGInst(mutableListOf(this))
+    "IMG" -> Inst.IMGInst(mutableListOf(this)).apply(Inst.IMGInst::invoke)
     "PKG" -> Inst.PKGInst(mutableListOf(this))
     else -> Inst.NOPInst()
 }
 
-
-//infix fun String.decode(type: String) = when (type)
-//{
-//    "IMG" -> IMG2(this).decode()
-//    "PKG" ->
-//    else -> false
-//}
+infix fun String.withIndex(file: String) = Inst.PKGInst(mutableListOf(this, file))
 
 infix fun String.decodeFiles(type: String) = when (type)
 {

@@ -1,9 +1,6 @@
 package com.geno1024.qqtangextractor.versions
 
-import com.geno1024.qqtangextractor.Settings
-import com.geno1024.qqtangextractor.copyTo
-import com.geno1024.qqtangextractor.decode
-import com.geno1024.qqtangextractor.decodeFiles
+import com.geno1024.qqtangextractor.*
 import com.geno1024.qqtangextractor.ds.ResourceTree
 import java.io.File
 
@@ -11,6 +8,7 @@ object QQTang5211
 {
     operator fun invoke()
     {
+        "/data/object.pkg" withIndex "/data/object.idx" decode "PKG"
         "/map" decodeFiles "IMG"
         "/map/icon" decodeFiles "IMG"
         "/music" copyTo "/music"

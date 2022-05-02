@@ -64,8 +64,8 @@ class PKG(idx: String, val pkg: String)
                     inflate(this)
                 }
             }
-            File("${Settings.version}${pkg.substringBeforeLast('/')}/${filename.substringBeforeLast('/')}").mkdirs()
-            FileOutputStream("${Settings.version}${pkg.substringBeforeLast('/')}/$filename").write(decompressed)
+            File("${Settings.base}${pkg.substringBeforeLast('/')}/${filename.substringBeforeLast('/')}").mkdirs()
+            FileOutputStream("${Settings.base}${pkg.substringBeforeLast('/')}/$filename").write(decompressed)
         }
     }
 }
