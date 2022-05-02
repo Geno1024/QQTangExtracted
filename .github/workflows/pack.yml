@@ -15,10 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Pack QQTang5.2_Beta1Build1
-        run:
-          zip -r QQTang5.2_Beta1Build1.zip QQTang5.2_Beta1Build1
-      - name: Output QQTang5.2_Beta1Build1
         uses: actions/upload-artifact@v3
         with:
-          name: QQTang5.2_Beta1Build1.zip
-          path: QQTang5.2_Beta1Build1.zip
+          name: QQTang5.2_Beta1Build1
+          path: QQTang5.2_Beta1Build1
