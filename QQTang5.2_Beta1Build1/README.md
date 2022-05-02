@@ -111,3552 +111,3552 @@
                 - [X] data/object/body/body15701_walk.img
                 - [X] data/object/body/body1_stand.img
                 - [X] data/object/body/body1_walk.img
-            - [ ] data/object/bomb
-                - [ ] data/object/bomb/bomb11_stand.img
-                - [ ] data/object/bomb/bomb12_stand.img
-                - [ ] data/object/bomb/bomb13_stand.img
-                - [ ] data/object/bomb/bomb14_stand.img
-                - [ ] data/object/bomb/bomb1_stand.img
-                - [ ] data/object/bomb/bomb2_stand.img
-                - [ ] data/object/bomb/bomb4_stand.img
-                - [ ] data/object/bomb/bomb9_stand.img
-            - [ ] data/object/cap
-                - [ ] data/object/cap/cap100_stand.img
-                - [ ] data/object/cap/cap100_walk.img
-                - [ ] data/object/cap/cap101_stand.img
-                - [ ] data/object/cap/cap101_walk.img
-                - [ ] data/object/cap/cap10201_stand.img
-                - [ ] data/object/cap/cap10201_stand_m.img
-                - [ ] data/object/cap/cap10201_walk.img
-                - [ ] data/object/cap/cap10201_walk_m.img
-                - [ ] data/object/cap/cap102_stand.img
-                - [ ] data/object/cap/cap102_walk.img
-                - [ ] data/object/cap/Cap10301_stand.img
-                - [ ] data/object/cap/cap10301_stand_m.img
-                - [ ] data/object/cap/Cap10301_walk.img
-                - [ ] data/object/cap/cap10301_walk_m.img
-                - [ ] data/object/cap/cap103_stand.img
-                - [ ] data/object/cap/cap103_walk.img
-                - [ ] data/object/cap/cap10401_stand.img
-                - [ ] data/object/cap/cap10401_stand_m.img
-                - [ ] data/object/cap/cap10401_walk.img
-                - [ ] data/object/cap/cap10401_walk_m.img
-                - [ ] data/object/cap/cap104_stand.img
-                - [ ] data/object/cap/cap104_walk.img
-                - [ ] data/object/cap/cap10501_stand.img
-                - [ ] data/object/cap/cap10501_stand_m.img
-                - [ ] data/object/cap/cap10501_walk.img
-                - [ ] data/object/cap/cap10501_walk_m.img
-                - [ ] data/object/cap/cap10701_stand.img
-                - [ ] data/object/cap/cap10701_walk.img
-                - [ ] data/object/cap/cap10801_stand.img
-                - [ ] data/object/cap/cap10801_stand_m.img
-                - [ ] data/object/cap/cap10801_walk.img
-                - [ ] data/object/cap/cap10801_walk_m.img
-                - [ ] data/object/cap/cap11401_stand.img
-                - [ ] data/object/cap/cap11401_stand_m.img
-                - [ ] data/object/cap/cap11401_walk.img
-                - [ ] data/object/cap/cap11401_walk_m.img
-                - [ ] data/object/cap/cap11601_stand.img
-                - [ ] data/object/cap/cap11601_stand_m.img
-                - [ ] data/object/cap/cap11601_walk.img
-                - [ ] data/object/cap/cap11601_walk_m.img
-                - [ ] data/object/cap/cap11801_stand.img
-                - [ ] data/object/cap/cap11801_stand_m.img
-                - [ ] data/object/cap/cap11801_walk.img
-                - [ ] data/object/cap/cap11801_walk_m.img
-                - [ ] data/object/cap/cap11901_stand.img
-                - [ ] data/object/cap/cap11901_walk.img
-                - [ ] data/object/cap/cap22_stand.img
-                - [ ] data/object/cap/cap22_walk.img
-                - [ ] data/object/cap/cap23_stand.img
-                - [ ] data/object/cap/cap23_walk.img
-            - [ ] data/object/chatBg
-                - [ ] data/object/chatBg/chat0_stand.img
-                - [ ] data/object/chatBg/chat1_stand.img
-                - [ ] data/object/chatBg/chat2_stand.img
-                - [ ] data/object/chatBg/chat3_stand.img
-                - [ ] data/object/chatBg/chat4_stand.img
-                - [ ] data/object/chatBg/chat5_stand.img
-                - [ ] data/object/chatBg/chat6_stand.img
-                - [ ] data/object/chatBg/chat7_stand.img
-                - [ ] data/object/chatBg/chat8_stand.img
-                - [ ] data/object/chatBg/chat9_stand.img
-            - [ ] data/object/cladorn
-                - [ ] data/object/cladorn/cladorn12401_stand.img
-                - [ ] data/object/cladorn/cladorn12401_walk.img
-                - [ ] data/object/cladorn/cladorn12801_stand.img
-                - [ ] data/object/cladorn/cladorn12801_walk.img
-            - [ ] data/object/cloth
-                - [ ] data/object/cloth/cloth10101_cry.img
-                - [ ] data/object/cloth/cloth10101_cry_m.img
-                - [ ] data/object/cloth/cloth10101_die.img
-                - [ ] data/object/cloth/cloth10101_die_m.img
-                - [ ] data/object/cloth/cloth10101_faint.img
-                - [ ] data/object/cloth/cloth10101_faint_m.img
-                - [ ] data/object/cloth/cloth10101_lose.img
-                - [ ] data/object/cloth/cloth10101_lose_m.img
-                - [ ] data/object/cloth/cloth10101_sit.img
-                - [ ] data/object/cloth/cloth10101_slow.img
-                - [ ] data/object/cloth/cloth10101_stand.img
-                - [ ] data/object/cloth/cloth10101_stand_m.img
-                - [ ] data/object/cloth/cloth10101_trigger.img
-                - [ ] data/object/cloth/cloth10101_trigger_m.img
-                - [ ] data/object/cloth/cloth10101_wait.img
-                - [ ] data/object/cloth/cloth10101_wait_m.img
-                - [ ] data/object/cloth/cloth10101_walk.img
-                - [ ] data/object/cloth/cloth10101_walk_m.img
-                - [ ] data/object/cloth/cloth10101_win.img
-                - [ ] data/object/cloth/cloth10101_win_m.img
-                - [ ] data/object/cloth/cloth10201_cry.img
-                - [ ] data/object/cloth/cloth10201_cry_m.img
-                - [ ] data/object/cloth/cloth10201_die.img
-                - [ ] data/object/cloth/cloth10201_die_m.img
-                - [ ] data/object/cloth/cloth10201_faint.img
-                - [ ] data/object/cloth/cloth10201_faint_m.img
-                - [ ] data/object/cloth/cloth10201_lose.img
-                - [ ] data/object/cloth/cloth10201_lose_m.img
-                - [ ] data/object/cloth/cloth10201_sit.img
-                - [ ] data/object/cloth/cloth10201_slow.img
-                - [ ] data/object/cloth/cloth10201_stand.img
-                - [ ] data/object/cloth/cloth10201_stand_m.img
-                - [ ] data/object/cloth/cloth10201_trigger.img
-                - [ ] data/object/cloth/cloth10201_trigger_m.img
-                - [ ] data/object/cloth/cloth10201_wait.img
-                - [ ] data/object/cloth/cloth10201_wait_m.img
-                - [ ] data/object/cloth/cloth10201_walk.img
-                - [ ] data/object/cloth/cloth10201_walk_m.img
-                - [ ] data/object/cloth/cloth10201_win.img
-                - [ ] data/object/cloth/cloth10201_win_m.img
-                - [ ] data/object/cloth/cloth10301_cry.img
-                - [ ] data/object/cloth/cloth10301_cry_m.img
-                - [ ] data/object/cloth/cloth10301_die.img
-                - [ ] data/object/cloth/cloth10301_die_m.img
-                - [ ] data/object/cloth/cloth10301_faint.img
-                - [ ] data/object/cloth/cloth10301_faint_m.img
-                - [ ] data/object/cloth/cloth10301_lose.img
-                - [ ] data/object/cloth/cloth10301_lose_m.img
-                - [ ] data/object/cloth/cloth10301_sit.img
-                - [ ] data/object/cloth/cloth10301_slow.img
-                - [ ] data/object/cloth/cloth10301_stand.img
-                - [ ] data/object/cloth/cloth10301_stand_m.img
-                - [ ] data/object/cloth/cloth10301_trigger.img
-                - [ ] data/object/cloth/cloth10301_trigger_m.img
-                - [ ] data/object/cloth/cloth10301_wait.img
-                - [ ] data/object/cloth/cloth10301_wait_m.img
-                - [ ] data/object/cloth/cloth10301_walk.img
-                - [ ] data/object/cloth/cloth10301_walk_m.img
-                - [ ] data/object/cloth/cloth10301_win.img
-                - [ ] data/object/cloth/cloth10301_win_m.img
-                - [ ] data/object/cloth/cloth10303_stand.img
-                - [ ] data/object/cloth/cloth10401_cry.img
-                - [ ] data/object/cloth/cloth10401_cry_m.img
-                - [ ] data/object/cloth/cloth10401_die.img
-                - [ ] data/object/cloth/cloth10401_die_m.img
-                - [ ] data/object/cloth/cloth10401_faint.img
-                - [ ] data/object/cloth/cloth10401_faint_m.img
-                - [ ] data/object/cloth/cloth10401_lose.img
-                - [ ] data/object/cloth/cloth10401_lose_m.img
-                - [ ] data/object/cloth/cloth10401_sit.img
-                - [ ] data/object/cloth/cloth10401_slow.img
-                - [ ] data/object/cloth/cloth10401_stand.img
-                - [ ] data/object/cloth/cloth10401_stand_m.img
-                - [ ] data/object/cloth/cloth10401_trigger.img
-                - [ ] data/object/cloth/cloth10401_trigger_m.img
-                - [ ] data/object/cloth/cloth10401_wait.img
-                - [ ] data/object/cloth/cloth10401_wait_m.img
-                - [ ] data/object/cloth/cloth10401_walk.img
-                - [ ] data/object/cloth/cloth10401_walk_m.img
-                - [ ] data/object/cloth/cloth10401_win.img
-                - [ ] data/object/cloth/cloth10401_win_m.img
-                - [ ] data/object/cloth/cloth10403_stand.img
-                - [ ] data/object/cloth/cloth10501_cry.img
-                - [ ] data/object/cloth/cloth10501_cry_m.img
-                - [ ] data/object/cloth/cloth10501_die.img
-                - [ ] data/object/cloth/cloth10501_die_m.img
-                - [ ] data/object/cloth/cloth10501_faint.img
-                - [ ] data/object/cloth/cloth10501_faint_m.img
-                - [ ] data/object/cloth/cloth10501_lose.img
-                - [ ] data/object/cloth/cloth10501_lose_m.img
-                - [ ] data/object/cloth/cloth10501_sit.img
-                - [ ] data/object/cloth/cloth10501_slow.img
-                - [ ] data/object/cloth/cloth10501_stand.img
-                - [ ] data/object/cloth/cloth10501_stand_m.img
-                - [ ] data/object/cloth/cloth10501_trigger.img
-                - [ ] data/object/cloth/cloth10501_trigger_m.img
-                - [ ] data/object/cloth/cloth10501_wait.img
-                - [ ] data/object/cloth/cloth10501_wait_m.img
-                - [ ] data/object/cloth/cloth10501_walk.img
-                - [ ] data/object/cloth/cloth10501_walk_m.img
-                - [ ] data/object/cloth/cloth10501_win.img
-                - [ ] data/object/cloth/cloth10501_win_m.img
-                - [ ] data/object/cloth/cloth10503_stand.img
-                - [ ] data/object/cloth/cloth10601_cry.img
-                - [ ] data/object/cloth/cloth10601_cry_m.img
-                - [ ] data/object/cloth/cloth10601_die.img
-                - [ ] data/object/cloth/cloth10601_die_m.img
-                - [ ] data/object/cloth/cloth10601_faint.img
-                - [ ] data/object/cloth/cloth10601_faint_m.img
-                - [ ] data/object/cloth/cloth10601_lose.img
-                - [ ] data/object/cloth/cloth10601_lose_m.img
-                - [ ] data/object/cloth/cloth10601_sit.img
-                - [ ] data/object/cloth/cloth10601_slow.img
-                - [ ] data/object/cloth/cloth10601_stand.img
-                - [ ] data/object/cloth/cloth10601_stand_m.img
-                - [ ] data/object/cloth/cloth10601_trigger.img
-                - [ ] data/object/cloth/cloth10601_trigger_m.img
-                - [ ] data/object/cloth/cloth10601_wait.img
-                - [ ] data/object/cloth/cloth10601_wait_m.img
-                - [ ] data/object/cloth/cloth10601_walk.img
-                - [ ] data/object/cloth/cloth10601_walk_m.img
-                - [ ] data/object/cloth/cloth10601_win.img
-                - [ ] data/object/cloth/cloth10601_win_m.img
-                - [ ] data/object/cloth/cloth10603_stand.img
-                - [ ] data/object/cloth/cloth10701_cry.img
-                - [ ] data/object/cloth/cloth10701_cry_m.img
-                - [ ] data/object/cloth/cloth10701_die.img
-                - [ ] data/object/cloth/cloth10701_die_m.img
-                - [ ] data/object/cloth/cloth10701_faint.img
-                - [ ] data/object/cloth/cloth10701_faint_m.img
-                - [ ] data/object/cloth/cloth10701_lose.img
-                - [ ] data/object/cloth/cloth10701_lose_m.img
-                - [ ] data/object/cloth/cloth10701_sit.img
-                - [ ] data/object/cloth/cloth10701_slow.img
-                - [ ] data/object/cloth/cloth10701_stand.img
-                - [ ] data/object/cloth/cloth10701_stand_m.img
-                - [ ] data/object/cloth/cloth10701_trigger.img
-                - [ ] data/object/cloth/cloth10701_trigger_m.img
-                - [ ] data/object/cloth/cloth10701_wait.img
-                - [ ] data/object/cloth/cloth10701_wait_m.img
-                - [ ] data/object/cloth/cloth10701_walk.img
-                - [ ] data/object/cloth/cloth10701_walk_m.img
-                - [ ] data/object/cloth/cloth10701_win.img
-                - [ ] data/object/cloth/cloth10701_win_m.img
-                - [ ] data/object/cloth/cloth10703_stand.img
-                - [ ] data/object/cloth/cloth10801_cry.img
-                - [ ] data/object/cloth/cloth10801_cry_m.img
-                - [ ] data/object/cloth/cloth10801_die.img
-                - [ ] data/object/cloth/cloth10801_die_m.img
-                - [ ] data/object/cloth/cloth10801_faint.img
-                - [ ] data/object/cloth/cloth10801_faint_m.img
-                - [ ] data/object/cloth/cloth10801_lose.img
-                - [ ] data/object/cloth/cloth10801_lose_m.img
-                - [ ] data/object/cloth/cloth10801_sit.img
-                - [ ] data/object/cloth/cloth10801_slow.img
-                - [ ] data/object/cloth/cloth10801_stand.img
-                - [ ] data/object/cloth/cloth10801_stand_m.img
-                - [ ] data/object/cloth/cloth10801_trigger.img
-                - [ ] data/object/cloth/cloth10801_trigger_m.img
-                - [ ] data/object/cloth/cloth10801_wait.img
-                - [ ] data/object/cloth/cloth10801_wait_m.img
-                - [ ] data/object/cloth/cloth10801_walk.img
-                - [ ] data/object/cloth/cloth10801_walk_m.img
-                - [ ] data/object/cloth/cloth10801_win.img
-                - [ ] data/object/cloth/cloth10801_win_m.img
-                - [ ] data/object/cloth/cloth10803_stand.img
-                - [ ] data/object/cloth/cloth10901_cry.img
-                - [ ] data/object/cloth/cloth10901_cry_m.img
-                - [ ] data/object/cloth/cloth10901_die.img
-                - [ ] data/object/cloth/cloth10901_die_m.img
-                - [ ] data/object/cloth/cloth10901_faint _m.img
-                - [ ] data/object/cloth/cloth10901_faint.img
-                - [ ] data/object/cloth/cloth10901_faint_m.img
-                - [ ] data/object/cloth/cloth10901_lose.img
-                - [ ] data/object/cloth/cloth10901_lose_m.img
-                - [ ] data/object/cloth/cloth10901_sit.img
-                - [ ] data/object/cloth/cloth10901_slow.img
-                - [ ] data/object/cloth/cloth10901_snow.img
-                - [ ] data/object/cloth/cloth10901_stand.img
-                - [ ] data/object/cloth/cloth10901_stand_m.img
-                - [ ] data/object/cloth/cloth10901_trigger.img
-                - [ ] data/object/cloth/cloth10901_trigger_m.img
-                - [ ] data/object/cloth/cloth10901_wait.img
-                - [ ] data/object/cloth/cloth10901_wait_m.img
-                - [ ] data/object/cloth/cloth10901_walk.img
-                - [ ] data/object/cloth/cloth10901_walk_m.img
-                - [ ] data/object/cloth/cloth10901_win.img
-                - [ ] data/object/cloth/cloth10901_win_m.img
-                - [ ] data/object/cloth/cloth10903_stand.img
-                - [ ] data/object/cloth/cloth11001_cry.img
-                - [ ] data/object/cloth/cloth11001_cry_m.img
-                - [ ] data/object/cloth/cloth11001_die.img
-                - [ ] data/object/cloth/cloth11001_die_m.img
-                - [ ] data/object/cloth/cloth11001_faint.img
-                - [ ] data/object/cloth/cloth11001_faint_m.img
-                - [ ] data/object/cloth/cloth11001_lose.img
-                - [ ] data/object/cloth/cloth11001_lose_m.img
-                - [ ] data/object/cloth/cloth11001_sit.img
-                - [ ] data/object/cloth/cloth11001_slow.img
-                - [ ] data/object/cloth/cloth11001_stand.img
-                - [ ] data/object/cloth/cloth11001_stand_m.img
-                - [ ] data/object/cloth/cloth11001_trigger.img
-                - [ ] data/object/cloth/cloth11001_trigger_m.img
-                - [ ] data/object/cloth/cloth11001_wait.img
-                - [ ] data/object/cloth/cloth11001_wait_m.img
-                - [ ] data/object/cloth/cloth11001_walk.img
-                - [ ] data/object/cloth/cloth11001_walk_m.img
-                - [ ] data/object/cloth/cloth11001_win.img
-                - [ ] data/object/cloth/cloth11001_win_m.img
-                - [ ] data/object/cloth/cloth11003_stand.img
-                - [ ] data/object/cloth/cloth11101_cry.img
-                - [ ] data/object/cloth/cloth11101_cry_m.img
-                - [ ] data/object/cloth/cloth11101_die.img
-                - [ ] data/object/cloth/cloth11101_die_m.img
-                - [ ] data/object/cloth/cloth11101_faint.img
-                - [ ] data/object/cloth/cloth11101_faint_m.img
-                - [ ] data/object/cloth/cloth11101_lose.img
-                - [ ] data/object/cloth/cloth11101_lose_m.img
-                - [ ] data/object/cloth/cloth11101_sit.img
-                - [ ] data/object/cloth/cloth11101_slow.img
-                - [ ] data/object/cloth/cloth11101_stand.img
-                - [ ] data/object/cloth/cloth11101_stand_m.img
-                - [ ] data/object/cloth/cloth11101_trigger.img
-                - [ ] data/object/cloth/cloth11101_trigger_m.img
-                - [ ] data/object/cloth/cloth11101_wait.img
-                - [ ] data/object/cloth/cloth11101_wait_m.img
-                - [ ] data/object/cloth/cloth11101_walk.img
-                - [ ] data/object/cloth/cloth11101_walk_m.img
-                - [ ] data/object/cloth/cloth11101_win.img
-                - [ ] data/object/cloth/cloth11101_win_m.img
-                - [ ] data/object/cloth/cloth11301_cry.img
-                - [ ] data/object/cloth/cloth11301_cry_m.img
-                - [ ] data/object/cloth/cloth11301_die.img
-                - [ ] data/object/cloth/cloth11301_die_m.img
-                - [ ] data/object/cloth/cloth11301_faint.img
-                - [ ] data/object/cloth/cloth11301_faint_m.img
-                - [ ] data/object/cloth/cloth11301_lose.img
-                - [ ] data/object/cloth/cloth11301_lose_m.img
-                - [ ] data/object/cloth/cloth11301_sit.img
-                - [ ] data/object/cloth/cloth11301_slow.img
-                - [ ] data/object/cloth/cloth11301_stand.img
-                - [ ] data/object/cloth/cloth11301_stand_m.img
-                - [ ] data/object/cloth/cloth11301_trigger.img
-                - [ ] data/object/cloth/cloth11301_trigger_m.img
-                - [ ] data/object/cloth/cloth11301_wait.img
-                - [ ] data/object/cloth/cloth11301_wait_m.img
-                - [ ] data/object/cloth/cloth11301_walk.img
-                - [ ] data/object/cloth/cloth11301_walk_m.img
-                - [ ] data/object/cloth/cloth11301_win.img
-                - [ ] data/object/cloth/cloth11301_win_m.img
-                - [ ] data/object/cloth/cloth11401_cry.img
-                - [ ] data/object/cloth/cloth11401_cry_m.img
-                - [ ] data/object/cloth/cloth11401_die.img
-                - [ ] data/object/cloth/cloth11401_die_m.img
-                - [ ] data/object/cloth/cloth11401_faint.img
-                - [ ] data/object/cloth/cloth11401_faint_m.img
-                - [ ] data/object/cloth/cloth11401_lose.img
-                - [ ] data/object/cloth/cloth11401_lose_m.img
-                - [ ] data/object/cloth/cloth11401_sit.img
-                - [ ] data/object/cloth/cloth11401_slow.img
-                - [ ] data/object/cloth/cloth11401_stand.img
-                - [ ] data/object/cloth/cloth11401_stand_m.img
-                - [ ] data/object/cloth/cloth11401_trigger.img
-                - [ ] data/object/cloth/cloth11401_trigger_m.img
-                - [ ] data/object/cloth/cloth11401_wait.img
-                - [ ] data/object/cloth/cloth11401_wait_m.img
-                - [ ] data/object/cloth/cloth11401_walk.img
-                - [ ] data/object/cloth/cloth11401_walk_m.img
-                - [ ] data/object/cloth/cloth11401_win.img
-                - [ ] data/object/cloth/cloth11401_win_m.img
-                - [ ] data/object/cloth/cloth11501_cry.img
-                - [ ] data/object/cloth/cloth11501_cry_m.img
-                - [ ] data/object/cloth/cloth11501_die.img
-                - [ ] data/object/cloth/cloth11501_die_m.img
-                - [ ] data/object/cloth/cloth11501_faint.img
-                - [ ] data/object/cloth/cloth11501_faint_m.img
-                - [ ] data/object/cloth/cloth11501_lose.img
-                - [ ] data/object/cloth/cloth11501_lose_m.img
-                - [ ] data/object/cloth/cloth11501_sit.img
-                - [ ] data/object/cloth/cloth11501_slow.img
-                - [ ] data/object/cloth/cloth11501_stand.img
-                - [ ] data/object/cloth/cloth11501_stand_m.img
-                - [ ] data/object/cloth/cloth11501_trigger.img
-                - [ ] data/object/cloth/cloth11501_trigger_m.img
-                - [ ] data/object/cloth/cloth11501_wait.img
-                - [ ] data/object/cloth/cloth11501_wait_m.img
-                - [ ] data/object/cloth/cloth11501_walk.img
-                - [ ] data/object/cloth/cloth11501_walk_m.img
-                - [ ] data/object/cloth/cloth11501_win.img
-                - [ ] data/object/cloth/cloth11501_win_m.img
-                - [ ] data/object/cloth/cloth11503_stand.img
-                - [ ] data/object/cloth/cloth11503_walk.img
-                - [ ] data/object/cloth/cloth11601_cry.img
-                - [ ] data/object/cloth/cloth11601_cry_m.img
-                - [ ] data/object/cloth/cloth11601_die.img
-                - [ ] data/object/cloth/cloth11601_die_m.img
-                - [ ] data/object/cloth/cloth11601_faint.img
-                - [ ] data/object/cloth/cloth11601_faint_m.img
-                - [ ] data/object/cloth/cloth11601_lose.img
-                - [ ] data/object/cloth/cloth11601_lose_m.img
-                - [ ] data/object/cloth/cloth11601_sit.img
-                - [ ] data/object/cloth/cloth11601_slow.img
-                - [ ] data/object/cloth/cloth11601_stand.img
-                - [ ] data/object/cloth/cloth11601_stand_m.img
-                - [ ] data/object/cloth/cloth11601_trigger.img
-                - [ ] data/object/cloth/cloth11601_trigger_m.img
-                - [ ] data/object/cloth/cloth11601_wait.img
-                - [ ] data/object/cloth/cloth11601_wait_m.img
-                - [ ] data/object/cloth/cloth11601_walk.img
-                - [ ] data/object/cloth/cloth11601_walk_m.img
-                - [ ] data/object/cloth/cloth11601_win.img
-                - [ ] data/object/cloth/cloth11601_win_m.img
-                - [ ] data/object/cloth/cloth11801_cry.img
-                - [ ] data/object/cloth/cloth11801_cry_m.img
-                - [ ] data/object/cloth/cloth11801_die.img
-                - [ ] data/object/cloth/cloth11801_faint.img
-                - [ ] data/object/cloth/cloth11801_faint_m.img
-                - [ ] data/object/cloth/cloth11801_lose.img
-                - [ ] data/object/cloth/cloth11801_lose_m.img
-                - [ ] data/object/cloth/cloth11801_sit.img
-                - [ ] data/object/cloth/cloth11801_slow.img
-                - [ ] data/object/cloth/cloth11801_snow.img
-                - [ ] data/object/cloth/cloth11801_stand.img
-                - [ ] data/object/cloth/cloth11801_stand_m.img
-                - [ ] data/object/cloth/cloth11801_trigger.img
-                - [ ] data/object/cloth/cloth11801_trigger_m.img
-                - [ ] data/object/cloth/cloth11801_wait.img
-                - [ ] data/object/cloth/cloth11801_wait_m.img
-                - [ ] data/object/cloth/cloth11801_walk.img
-                - [ ] data/object/cloth/cloth11801_walk_m.img
-                - [ ] data/object/cloth/cloth11801_win.img
-                - [ ] data/object/cloth/cloth11801_win_m.img
-                - [ ] data/object/cloth/cloth11901_cry.img
-                - [ ] data/object/cloth/cloth11901_cry_m.img
-                - [ ] data/object/cloth/cloth11901_die.img
-                - [ ] data/object/cloth/cloth11901_faint.img
-                - [ ] data/object/cloth/cloth11901_faint_m.img
-                - [ ] data/object/cloth/cloth11901_lose.img
-                - [ ] data/object/cloth/cloth11901_lose_m.img
-                - [ ] data/object/cloth/cloth11901_sit.img
-                - [ ] data/object/cloth/cloth11901_slow.img
-                - [ ] data/object/cloth/cloth11901_snow.img
-                - [ ] data/object/cloth/cloth11901_stand.img
-                - [ ] data/object/cloth/cloth11901_stand_m.img
-                - [ ] data/object/cloth/cloth11901_trigger.img
-                - [ ] data/object/cloth/cloth11901_trigger_m.img
-                - [ ] data/object/cloth/cloth11901_wait.img
-                - [ ] data/object/cloth/cloth11901_wait_m.img
-                - [ ] data/object/cloth/cloth11901_walk.img
-                - [ ] data/object/cloth/cloth11901_walk_m.img
-                - [ ] data/object/cloth/cloth11901_win.img
-                - [ ] data/object/cloth/cloth11901_win_m.img
-                - [ ] data/object/cloth/cloth12001_cry.img
-                - [ ] data/object/cloth/cloth12001_cry_m.img
-                - [ ] data/object/cloth/cloth12001_die.img
-                - [ ] data/object/cloth/cloth12001_faint.img
-                - [ ] data/object/cloth/cloth12001_faint_m.img
-                - [ ] data/object/cloth/cloth12001_lose.img
-                - [ ] data/object/cloth/cloth12001_lose_m.img
-                - [ ] data/object/cloth/cloth12001_sit.img
-                - [ ] data/object/cloth/cloth12001_slow.img
-                - [ ] data/object/cloth/cloth12001_snow.img
-                - [ ] data/object/cloth/cloth12001_stand.img
-                - [ ] data/object/cloth/cloth12001_stand_m.img
-                - [ ] data/object/cloth/cloth12001_trigger.img
-                - [ ] data/object/cloth/cloth12001_trigger_m.img
-                - [ ] data/object/cloth/cloth12001_wait.img
-                - [ ] data/object/cloth/cloth12001_wait_m.img
-                - [ ] data/object/cloth/cloth12001_walk.img
-                - [ ] data/object/cloth/cloth12001_walk_m.img
-                - [ ] data/object/cloth/cloth12001_win.img
-                - [ ] data/object/cloth/cloth12001_win_m.img
-                - [ ] data/object/cloth/cloth12101_cry.img
-                - [ ] data/object/cloth/cloth12101_cry_m.img
-                - [ ] data/object/cloth/cloth12101_die.img
-                - [ ] data/object/cloth/cloth12101_faint.img
-                - [ ] data/object/cloth/cloth12101_faint_m.img
-                - [ ] data/object/cloth/cloth12101_lose.img
-                - [ ] data/object/cloth/cloth12101_lose_m.img
-                - [ ] data/object/cloth/cloth12101_sit.img
-                - [ ] data/object/cloth/cloth12101_slow.img
-                - [ ] data/object/cloth/cloth12101_snow.img
-                - [ ] data/object/cloth/cloth12101_stand.img
-                - [ ] data/object/cloth/cloth12101_stand_m.img
-                - [ ] data/object/cloth/cloth12101_trigger.img
-                - [ ] data/object/cloth/cloth12101_trigger_m.img
-                - [ ] data/object/cloth/cloth12101_wait.img
-                - [ ] data/object/cloth/cloth12101_wait_m.img
-                - [ ] data/object/cloth/cloth12101_walk.img
-                - [ ] data/object/cloth/cloth12101_walk_m.img
-                - [ ] data/object/cloth/cloth12101_win.img
-                - [ ] data/object/cloth/cloth12101_win_m.img
-                - [ ] data/object/cloth/cloth12201_cry.img
-                - [ ] data/object/cloth/cloth12201_cry_m.img
-                - [ ] data/object/cloth/cloth12201_die.img
-                - [ ] data/object/cloth/cloth12201_faint.img
-                - [ ] data/object/cloth/cloth12201_faint_m.img
-                - [ ] data/object/cloth/cloth12201_lose.img
-                - [ ] data/object/cloth/cloth12201_lose_m.img
-                - [ ] data/object/cloth/cloth12201_sit.img
-                - [ ] data/object/cloth/cloth12201_slow.img
-                - [ ] data/object/cloth/cloth12201_slow_m.img
-                - [ ] data/object/cloth/cloth12201_snow.img
-                - [ ] data/object/cloth/cloth12201_stand.img
-                - [ ] data/object/cloth/cloth12201_stand_m.img
-                - [ ] data/object/cloth/cloth12201_trigger.img
-                - [ ] data/object/cloth/cloth12201_trigger_m.img
-                - [ ] data/object/cloth/cloth12201_wait.img
-                - [ ] data/object/cloth/cloth12201_wait_m.img
-                - [ ] data/object/cloth/cloth12201_walk.img
-                - [ ] data/object/cloth/cloth12201_walk_m.img
-                - [ ] data/object/cloth/cloth12201_win.img
-                - [ ] data/object/cloth/cloth12201_win_m.img
-                - [ ] data/object/cloth/cloth12301_stand.img
-                - [ ] data/object/cloth/cloth12301_stand_m.img
-                - [ ] data/object/cloth/cloth12301_walk.img
-                - [ ] data/object/cloth/cloth12301_walk_m.img
-                - [ ] data/object/cloth/cloth12401_birth.img
-                - [ ] data/object/cloth/cloth12401_cry.img
-                - [ ] data/object/cloth/cloth12401_die.img
-                - [ ] data/object/cloth/cloth12401_lose.img
-                - [ ] data/object/cloth/cloth12401_stand.img
-                - [ ] data/object/cloth/cloth12401_trigger.img
-                - [ ] data/object/cloth/cloth12401_walk.img
-                - [ ] data/object/cloth/cloth12501_cry.img
-                - [ ] data/object/cloth/cloth12501_die.img
-                - [ ] data/object/cloth/cloth12501_lose.img
-                - [ ] data/object/cloth/cloth12501_stand.img
-                - [ ] data/object/cloth/cloth12501_trigger.img
-                - [ ] data/object/cloth/cloth12501_walk.img
-                - [ ] data/object/cloth/cloth12601_cry.img
-                - [ ] data/object/cloth/cloth12601_die.img
-                - [ ] data/object/cloth/cloth12601_lose.img
-                - [ ] data/object/cloth/cloth12601_stand.img
-                - [ ] data/object/cloth/cloth12601_trigger.img
-                - [ ] data/object/cloth/cloth12601_walk.img
-                - [ ] data/object/cloth/cloth12701_cry.img
-                - [ ] data/object/cloth/cloth12701_die.img
-                - [ ] data/object/cloth/cloth12701_lose.img
-                - [ ] data/object/cloth/cloth12701_stand.img
-                - [ ] data/object/cloth/cloth12701_trigger.img
-                - [ ] data/object/cloth/cloth12701_walk.img
-                - [ ] data/object/cloth/cloth12801_birth.img
-                - [ ] data/object/cloth/cloth12801_cry.img
-                - [ ] data/object/cloth/cloth12801_die.img
-                - [ ] data/object/cloth/cloth12801_lose.img
-                - [ ] data/object/cloth/cloth12801_stand.img
-                - [ ] data/object/cloth/cloth12801_trigger.img
-                - [ ] data/object/cloth/cloth12801_walk.img
-                - [ ] data/object/cloth/cloth12901_birth.img
-                - [ ] data/object/cloth/cloth12901_die.img
-                - [ ] data/object/cloth/cloth12901_stand.img
-                - [ ] data/object/cloth/cloth12901_walk.img
-                - [ ] data/object/cloth/cloth13001_birth.img
-                - [ ] data/object/cloth/cloth13001_die.img
-                - [ ] data/object/cloth/cloth13001_stand.img
-                - [ ] data/object/cloth/cloth13001_walk.img
-                - [ ] data/object/cloth/cloth13101_birth.img
-                - [ ] data/object/cloth/cloth13101_die.img
-                - [ ] data/object/cloth/cloth13101_stand.img
-                - [ ] data/object/cloth/cloth13101_walk.img
-                - [ ] data/object/cloth/cloth13201_birth.img
-                - [ ] data/object/cloth/cloth13201_die.img
-                - [ ] data/object/cloth/cloth13201_stand.img
-                - [ ] data/object/cloth/cloth13201_walk.img
-                - [ ] data/object/cloth/cloth13301_birth.img
-                - [ ] data/object/cloth/cloth13301_die.img
-                - [ ] data/object/cloth/cloth13301_stand.img
-                - [ ] data/object/cloth/cloth13301_walk.img
-                - [ ] data/object/cloth/cloth13401_birth.img
-                - [ ] data/object/cloth/cloth13401_die.img
-                - [ ] data/object/cloth/cloth13401_stand.img
-                - [ ] data/object/cloth/cloth13401_walk.img
-                - [ ] data/object/cloth/cloth13501_birth.img
-                - [ ] data/object/cloth/cloth13501_die.img
-                - [ ] data/object/cloth/cloth13501_stand.img
-                - [ ] data/object/cloth/cloth13501_walk.img
-                - [ ] data/object/cloth/cloth13601_birth.img
-                - [ ] data/object/cloth/cloth13601_die.img
-                - [ ] data/object/cloth/cloth13601_stand.img
-                - [ ] data/object/cloth/cloth13601_walk.img
-                - [ ] data/object/cloth/cloth16701_die.img
-                - [ ] data/object/cloth/cloth16701_stand.img
-                - [ ] data/object/cloth/cloth16701_walk.img
-                - [ ] data/object/cloth/cloth16801_stand.img
-                - [ ] data/object/cloth/cloth16801_walk.img
-                - [ ] data/object/cloth/cloth16901_die.img
-                - [ ] data/object/cloth/cloth16901_stand.img
-                - [ ] data/object/cloth/cloth16901_walk.img
-                - [ ] data/object/cloth/cloth17001_die.img
-                - [ ] data/object/cloth/cloth17001_stand.img
-                - [ ] data/object/cloth/cloth17001_walk.img
-                - [ ] data/object/cloth/cloth17101_die.img
-                - [ ] data/object/cloth/cloth17101_stand.img
-                - [ ] data/object/cloth/cloth17101_walk.img
-                - [ ] data/object/cloth/cloth17201_die.img
-                - [ ] data/object/cloth/cloth17201_stand.img
-                - [ ] data/object/cloth/cloth17201_walk.img
-                - [ ] data/object/cloth/cloth17301_die.img
-                - [ ] data/object/cloth/cloth17301_stand.img
-                - [ ] data/object/cloth/cloth17301_walk.img
-                - [ ] data/object/cloth/cloth17401_die.img
-                - [ ] data/object/cloth/cloth17401_stand.img
-                - [ ] data/object/cloth/cloth17401_walk.img
-                - [ ] data/object/cloth/cloth17501_stand.img
-                - [ ] data/object/cloth/cloth17501_walk.img
-                - [ ] data/object/cloth/cloth17601_die.img
-                - [ ] data/object/cloth/cloth17601_stand.img
-                - [ ] data/object/cloth/cloth17601_walk.img
-                - [ ] data/object/cloth/cloth17701_die.img
-                - [ ] data/object/cloth/cloth17701_stand.img
-                - [ ] data/object/cloth/cloth17701_walk.img
-                - [ ] data/object/cloth/cloth17801_stand.img
-                - [ ] data/object/cloth/cloth17801_walk.img
-                - [ ] data/object/cloth/cloth17901_die.img
-                - [ ] data/object/cloth/cloth17901_stand.img
-                - [ ] data/object/cloth/cloth17901_walk.img
-                - [ ] data/object/cloth/cloth18001_die.img
-                - [ ] data/object/cloth/cloth18001_stand.img
-                - [ ] data/object/cloth/cloth18001_walk.img
-                - [ ] data/object/cloth/cloth18101_die.img
-                - [ ] data/object/cloth/cloth18101_stand.img
-                - [ ] data/object/cloth/cloth18101_walk.img
-                - [ ] data/object/cloth/cloth18201_die.img
-                - [ ] data/object/cloth/cloth18201_stand.img
-                - [ ] data/object/cloth/cloth18201_walk.img
-                - [ ] data/object/cloth/cloth18301_die.img
-                - [ ] data/object/cloth/cloth18301_stand.img
-                - [ ] data/object/cloth/cloth18301_walk.img
-                - [ ] data/object/cloth/cloth18401_die.img
-                - [ ] data/object/cloth/cloth18401_stand.img
-                - [ ] data/object/cloth/cloth18401_walk.img
-                - [ ] data/object/cloth/cloth18501_die.img
-                - [ ] data/object/cloth/cloth18501_stand.img
-                - [ ] data/object/cloth/cloth18501_walk.img
-                - [ ] data/object/cloth/cloth18502_stand.img
-                - [ ] data/object/cloth/cloth18502_walk.img
-                - [ ] data/object/cloth/cloth18503_stand.img
-                - [ ] data/object/cloth/cloth18503_walk.img
-                - [ ] data/object/cloth/cloth18504_stand.img
-                - [ ] data/object/cloth/cloth18504_walk.img
-                - [ ] data/object/cloth/cloth18505_stand.img
-                - [ ] data/object/cloth/cloth18505_walk.img
-                - [ ] data/object/cloth/cloth18506_stand.img
-                - [ ] data/object/cloth/cloth18506_walk.img
-                - [ ] data/object/cloth/cloth18507_stand.img
-                - [ ] data/object/cloth/cloth18507_walk.img
-                - [ ] data/object/cloth/cloth18508_stand.img
-                - [ ] data/object/cloth/cloth18508_walk.img
-                - [ ] data/object/cloth/cloth18509_stand.img
-                - [ ] data/object/cloth/cloth18509_walk.img
-                - [ ] data/object/cloth/cloth18601_stand.img
-                - [ ] data/object/cloth/cloth18601_walk.img
-                - [ ] data/object/cloth/cloth18602_stand.img
-                - [ ] data/object/cloth/cloth18602_walk.img
-                - [ ] data/object/cloth/cloth18603_stand.img
-                - [ ] data/object/cloth/cloth18603_walk.img
-                - [ ] data/object/cloth/cloth18604_stand.img
-                - [ ] data/object/cloth/cloth18604_walk.img
-                - [ ] data/object/cloth/cloth18605_stand.img
-                - [ ] data/object/cloth/cloth18605_walk.img
-                - [ ] data/object/cloth/cloth18606_stand.img
-                - [ ] data/object/cloth/cloth18606_walk.img
-                - [ ] data/object/cloth/cloth18701_stand.img
-                - [ ] data/object/cloth/cloth18701_walk.img
-                - [ ] data/object/cloth/cloth18702_stand.img
-                - [ ] data/object/cloth/cloth18702_walk.img
-                - [ ] data/object/cloth/cloth18703_stand.img
-                - [ ] data/object/cloth/cloth18703_walk.img
-                - [ ] data/object/cloth/cloth18704_stand.img
-                - [ ] data/object/cloth/cloth18704_walk.img
-                - [ ] data/object/cloth/cloth18705_stand.img
-                - [ ] data/object/cloth/cloth18705_walk.img
-                - [ ] data/object/cloth/cloth18706_stand.img
-                - [ ] data/object/cloth/cloth18706_walk.img
-                - [ ] data/object/cloth/cloth18707_stand.img
-                - [ ] data/object/cloth/cloth18707_walk.img
-                - [ ] data/object/cloth/cloth18708_stand.img
-                - [ ] data/object/cloth/cloth18708_walk.img
-                - [ ] data/object/cloth/cloth18709_stand.img
-                - [ ] data/object/cloth/cloth18709_walk.img
-                - [ ] data/object/cloth/cloth18801_stand.img
-                - [ ] data/object/cloth/cloth18801_walk.img
-                - [ ] data/object/cloth/cloth18802_stand.img
-                - [ ] data/object/cloth/cloth18802_walk.img
-                - [ ] data/object/cloth/cloth18803_stand.img
-                - [ ] data/object/cloth/cloth18803_walk.img
-                - [ ] data/object/cloth/cloth18804_stand.img
-                - [ ] data/object/cloth/cloth18804_walk.img
-                - [ ] data/object/cloth/cloth18805_stand.img
-                - [ ] data/object/cloth/cloth18805_walk.img
-                - [ ] data/object/cloth/cloth18806_stand.img
-                - [ ] data/object/cloth/cloth18806_walk.img
-                - [ ] data/object/cloth/cloth18807_stand.img
-                - [ ] data/object/cloth/cloth18807_walk.img
-                - [ ] data/object/cloth/cloth18808_stand.img
-                - [ ] data/object/cloth/cloth18808_walk.img
-                - [ ] data/object/cloth/cloth18809_stand.img
-                - [ ] data/object/cloth/cloth18809_walk.img
-                - [ ] data/object/cloth/cloth18810_stand.img
-                - [ ] data/object/cloth/cloth18810_walk.img
-            - [ ] data/object/face
-                - [ ] data/object/face/face10101_stand.img
-                - [ ] data/object/face/face10101_walk.img
-                - [ ] data/object/face/face10201_stand.img
-                - [ ] data/object/face/face10201_walk.img
-                - [ ] data/object/face/Face10301_stand.img
-                - [ ] data/object/face/Face10301_walk.img
-                - [ ] data/object/face/Face10401_stand.img
-                - [ ] data/object/face/Face10401_walk.img
-                - [ ] data/object/face/Face10501_stand.img
-                - [ ] data/object/face/Face10501_walk.img
-                - [ ] data/object/face/face10601_stand.img
-                - [ ] data/object/face/face10601_walk.img
-                - [ ] data/object/face/Face10701_stand.img
-                - [ ] data/object/face/Face10701_walk.img
-                - [ ] data/object/face/face10801_stand.img
-                - [ ] data/object/face/face10801_walk.img
-                - [ ] data/object/face/face10901_stand.img
-                - [ ] data/object/face/face10901_walk.img
-                - [ ] data/object/face/face11301_stand.img
-                - [ ] data/object/face/face11301_walk.img
-                - [ ] data/object/face/Face11401_stand.img
-                - [ ] data/object/face/Face11401_walk.img
-                - [ ] data/object/face/face11501_stand.img
-                - [ ] data/object/face/face11501_walk.img
-                - [ ] data/object/face/face11601_stand.img
-                - [ ] data/object/face/face11601_walk.img
-                - [ ] data/object/face/face11801_stand.img
-                - [ ] data/object/face/face11801_walk.img
-                - [ ] data/object/face/face11901_stand.img
-                - [ ] data/object/face/face11901_walk.img
-                - [ ] data/object/face/face12001_stand.img
-                - [ ] data/object/face/face12001_walk.img
-                - [ ] data/object/face/face12101_stand.img
-                - [ ] data/object/face/face12101_walk.img
-                - [ ] data/object/face/face12201_stand.img
-                - [ ] data/object/face/face12201_walk.img
-            - [ ] data/object/fhadorn
-                - [ ] data/object/fhadorn/fhadorn10101_stand.img
-                - [ ] data/object/fhadorn/fhadorn10101_walk.img
-                - [ ] data/object/fhadorn/fhadorn10601_stand.img
-                - [ ] data/object/fhadorn/fhadorn10601_walk.img
-                - [ ] data/object/fhadorn/fhadorn10701_stand.img
-                - [ ] data/object/fhadorn/fhadorn10701_walk.img
-            - [ ] data/object/flame
-                - [ ] data/object/flame/flame10_stand.img
-                - [ ] data/object/flame/flame1_stand.img
-                - [ ] data/object/flame/flame255_stand.img
-                - [ ] data/object/flame/flame2_stand.img
-                - [ ] data/object/flame/flame3_stand.img
-                - [ ] data/object/flame/flame4_stand.img
-                - [ ] data/object/flame/flame5_stand.img
-                - [ ] data/object/flame/flame6_stand.img
-                - [ ] data/object/flame/flame7_stand.img
-                - [ ] data/object/flame/flame8_stand.img
-                - [ ] data/object/flame/flame9_stand.img
-            - [ ] data/object/foot
-                - [ ] data/object/foot/foot1_stand.img
-                - [ ] data/object/foot/foot1_walk.img
-                - [ ] data/object/foot/foot2_stand.img
-                - [ ] data/object/foot/foot2_walk.img
-            - [ ] data/object/hair
-                - [ ] data/object/hair/hair10101_stand.img
-                - [ ] data/object/hair/hair10101_stand_m.img
-                - [ ] data/object/hair/hair10101_walk.img
-                - [ ] data/object/hair/hair10101_walk_m.img
-                - [ ] data/object/hair/hair10201_stand.img
-                - [ ] data/object/hair/hair10201_walk.img
-                - [ ] data/object/hair/Hair10301_stand.img
-                - [ ] data/object/hair/Hair10301_stand_m.img
-                - [ ] data/object/hair/Hair10301_walk.img
-                - [ ] data/object/hair/Hair10301_walk_m.img
-                - [ ] data/object/hair/Hair10401_stand.img
-                - [ ] data/object/hair/Hair10401_stand_m.img
-                - [ ] data/object/hair/Hair10401_walk.img
-                - [ ] data/object/hair/Hair10401_walk_m.img
-                - [ ] data/object/hair/Hair10501_stand.img
-                - [ ] data/object/hair/Hair10501_stand_m.img
-                - [ ] data/object/hair/Hair10501_walk.img
-                - [ ] data/object/hair/Hair10501_walk_m.img
-                - [ ] data/object/hair/hair10601_stand.img
-                - [ ] data/object/hair/hair10601_stand_m.img
-                - [ ] data/object/hair/hair10601_walk.img
-                - [ ] data/object/hair/hair10601_walk_m.img
-                - [ ] data/object/hair/Hair10701_stand.img
-                - [ ] data/object/hair/Hair10701_stand_m.img
-                - [ ] data/object/hair/Hair10701_walk.img
-                - [ ] data/object/hair/Hair10701_walk_m.img
-                - [ ] data/object/hair/hair10801_stand.img
-                - [ ] data/object/hair/hair10801_walk.img
-                - [ ] data/object/hair/hair10901_stand.img
-                - [ ] data/object/hair/hair10901_stand_m.img
-                - [ ] data/object/hair/hair10901_walk.img
-                - [ ] data/object/hair/hair10901_walk_m.img
-                - [ ] data/object/hair/hair11301_stand.img
-                - [ ] data/object/hair/hair11301_stand_m.img
-                - [ ] data/object/hair/hair11301_walk.img
-                - [ ] data/object/hair/hair11301_walk_m.img
-                - [ ] data/object/hair/Hair11401_stand.img
-                - [ ] data/object/hair/Hair11401_stand_m.img
-                - [ ] data/object/hair/Hair11401_walk.img
-                - [ ] data/object/hair/Hair11401_walk_m.img
-                - [ ] data/object/hair/hair11501_stand.img
-                - [ ] data/object/hair/hair11501_stand_m.img
-                - [ ] data/object/hair/hair11501_walk.img
-                - [ ] data/object/hair/hair11501_walk_m.img
-                - [ ] data/object/hair/hair11601_stand.img
-                - [ ] data/object/hair/hair11601_stand_m.img
-                - [ ] data/object/hair/hair11601_walk.img
-                - [ ] data/object/hair/hair11601_walk_m.img
-                - [ ] data/object/hair/hair11801_stand.img
-                - [ ] data/object/hair/hair11801_stand_m.img
-                - [ ] data/object/hair/hair11801_walk.img
-                - [ ] data/object/hair/hair11801_walk_m.img
-                - [ ] data/object/hair/hair11901_stand.img
-                - [ ] data/object/hair/hair11901_stand_m.img
-                - [ ] data/object/hair/hair11901_walk.img
-                - [ ] data/object/hair/hair11901_walk_m.img
-                - [ ] data/object/hair/hair12001_stand.img
-                - [ ] data/object/hair/hair12001_stand_m.img
-                - [ ] data/object/hair/hair12001_walk.img
-                - [ ] data/object/hair/hair12001_walk_m.img
-                - [ ] data/object/hair/hair12101_stand.img
-                - [ ] data/object/hair/hair12101_stand_m.img
-                - [ ] data/object/hair/hair12101_walk.img
-                - [ ] data/object/hair/hair12101_walk_m.img
-                - [ ] data/object/hair/hair12201_stand.img
-                - [ ] data/object/hair/hair12201_stand_m.img
-                - [ ] data/object/hair/hair12201_walk.img
-                - [ ] data/object/hair/hair12201_walk_m.img
-            - [ ] data/object/head
-                - [ ] data/object/head/head1_stand.img
-                - [ ] data/object/head/head1_walk.img
-            - [ ] data/object/item
-                - [ ] data/object/item/item101_stand.img
-                - [ ] data/object/item/item104_stand.img
-                - [ ] data/object/item/item107_stand.img
-                - [ ] data/object/item/item108_stand.img
-                - [ ] data/object/item/item109_stand.img
-                - [ ] data/object/item/item110_stand.img
-                - [ ] data/object/item/item114_stand.img
-                - [ ] data/object/item/item115_stand.img
-                - [ ] data/object/item/item116_stand.img
-                - [ ] data/object/item/item117_stand.img
-                - [ ] data/object/item/item117_trigger.img
-                - [ ] data/object/item/item119_stand.img
-                - [ ] data/object/item/item11_stand.img
-                - [ ] data/object/item/item120_stand.img
-                - [ ] data/object/item/Item12_stand.img
-                - [ ] data/object/item/Item13_stand.img
-                - [ ] data/object/item/Item14_stand.img
-                - [ ] data/object/item/item150_stand.img
-                - [ ] data/object/item/item150_trigger.img
-                - [ ] data/object/item/item151_stand.img
-                - [ ] data/object/item/item151_trigger.img
-                - [ ] data/object/item/item152_stand.img
-                - [ ] data/object/item/item152_trigger.img
-                - [ ] data/object/item/Item15_stand.img
-                - [ ] data/object/item/item1_stand.img
-                - [ ] data/object/item/item20008_stand.img
-                - [ ] data/object/item/item20009_stand.img
-                - [ ] data/object/item/item20010_stand.img
-                - [ ] data/object/item/item20018_stand.img
-                - [ ] data/object/item/item20031_stand.img
-                - [ ] data/object/item/item201_stand.img
-                - [ ] data/object/item/item202_stand.img
-                - [ ] data/object/item/item202_trigger.img
-                - [ ] data/object/item/item203_stand.img
-                - [ ] data/object/item/item204_stand.img
-                - [ ] data/object/item/item205_stand.img
-                - [ ] data/object/item/item205_trigger.img
-                - [ ] data/object/item/item206_stand.img
-                - [ ] data/object/item/item206_trigger.img
-                - [ ] data/object/item/item207_stand.img
-                - [ ] data/object/item/item207_trigger.img
-                - [ ] data/object/item/item208_stand.img
-                - [ ] data/object/item/item208_trigger.img
-                - [ ] data/object/item/item209_stand.img
-                - [ ] data/object/item/item209_trigger.img
-                - [ ] data/object/item/item210_stand.img
-                - [ ] data/object/item/item210_trigger.img
-                - [ ] data/object/item/item211_stand.img
-                - [ ] data/object/item/item211_trigger.img
-                - [ ] data/object/item/Item212_stand.img
-                - [ ] data/object/item/Item212_trigger.img
-                - [ ] data/object/item/Item213_stand.img
-                - [ ] data/object/item/Item213_trigger.img
-                - [ ] data/object/item/item21_stand.img
-                - [ ] data/object/item/item22666_stand.img
-                - [ ] data/object/item/item22_stand.img
-                - [ ] data/object/item/item23_stand.img
-                - [ ] data/object/item/item24002_stand.img
-                - [ ] data/object/item/item24003_stand.img
-                - [ ] data/object/item/item24004_stand.img
-                - [ ] data/object/item/item24005_stand.img
-                - [ ] data/object/item/item24006_stand.img
-                - [ ] data/object/item/item24007_stand.img
-                - [ ] data/object/item/item24008_stand.img
-                - [ ] data/object/item/item24009_stand.img
-                - [ ] data/object/item/item24010_stand.img
-                - [ ] data/object/item/item24011_stand.img
-                - [ ] data/object/item/item24012_stand.img
-                - [ ] data/object/item/item24013_stand.img
-                - [ ] data/object/item/item24014_stand.img
-                - [ ] data/object/item/item24015_stand.img
-                - [ ] data/object/item/item24016_stand.img
-                - [ ] data/object/item/item24017_stand.img
-                - [ ] data/object/item/item24018_stand.img
-                - [ ] data/object/item/item24019_stand.img
-                - [ ] data/object/item/item24020_stand.img
-                - [ ] data/object/item/item24021_stand.img
-                - [ ] data/object/item/item24022_stand.img
-                - [ ] data/object/item/item24023_stand.img
-                - [ ] data/object/item/item24024_stand.img
-                - [ ] data/object/item/item24025_stand.img
-                - [ ] data/object/item/item24026_stand.img
-                - [ ] data/object/item/item24027_stand.img
-                - [ ] data/object/item/item24028_stand.img
-                - [ ] data/object/item/item24030_stand.img
-                - [ ] data/object/item/item24031_stand.img
-                - [ ] data/object/item/item24032_stand.img
-                - [ ] data/object/item/item24033_stand.img
-                - [ ] data/object/item/item24034_stand.img
-                - [ ] data/object/item/item24035_stand.img
-                - [ ] data/object/item/item24036_stand.img
-                - [ ] data/object/item/item24037_stand.img
-                - [ ] data/object/item/item24038_stand.img
-                - [ ] data/object/item/item24039_stand.img
-                - [ ] data/object/item/item24040_stand.img
-                - [ ] data/object/item/item24042_stand.img
-                - [ ] data/object/item/item24043_stand.img
-                - [ ] data/object/item/item24044_stand.img
-                - [ ] data/object/item/item24045_stand.img
-                - [ ] data/object/item/item24047_stand.img
-                - [ ] data/object/item/item24048_stand.img
-                - [ ] data/object/item/item24049_stand.img
-                - [ ] data/object/item/item24050_stand.img
-                - [ ] data/object/item/item24051_stand.img
-                - [ ] data/object/item/item24052_stand.img
-                - [ ] data/object/item/item24053_stand.img
-                - [ ] data/object/item/item24054_stand.img
-                - [ ] data/object/item/item24055_stand.img
-                - [ ] data/object/item/item24056_stand.img
-                - [ ] data/object/item/item24057_stand.img
-                - [ ] data/object/item/item24058_stand.img
-                - [ ] data/object/item/item24059_stand.img
-                - [ ] data/object/item/item24060_stand.img
-                - [ ] data/object/item/item24061_stand.img
-                - [ ] data/object/item/item24062_stand.img
-                - [ ] data/object/item/item24063_stand.img
-                - [ ] data/object/item/item24064_stand.img
-                - [ ] data/object/item/item24_stand.img
-                - [ ] data/object/item/item25_stand.img
-                - [ ] data/object/item/item26001_stand.img
-                - [ ] data/object/item/item26_stand.img
-                - [ ] data/object/item/item27001_stand.img
-                - [ ] data/object/item/item27_stand.img
-                - [ ] data/object/item/item28001_stand.img
-                - [ ] data/object/item/item28_stand.img
-                - [ ] data/object/item/item2_stand.img
-                - [ ] data/object/item/item30001_stand.img
-                - [ ] data/object/item/item30002_stand.img
-                - [ ] data/object/item/item30003_stand.img
-                - [ ] data/object/item/item30004_stand.img
-                - [ ] data/object/item/item30005_stand.img
-                - [ ] data/object/item/item30006_stand.img
-                - [ ] data/object/item/item30007_stand.img
-                - [ ] data/object/item/item30008_stand.img
-                - [ ] data/object/item/item30009_stand.img
-                - [ ] data/object/item/item30010_stand.img
-                - [ ] data/object/item/item30011_stand.img
-                - [ ] data/object/item/item30012_stand.img
-                - [ ] data/object/item/item30013_stand.img
-                - [ ] data/object/item/item30014_stand.img
-                - [ ] data/object/item/item30015_stand.img
-                - [ ] data/object/item/item30016_stand.img
-                - [ ] data/object/item/item30017_stand.img
-                - [ ] data/object/item/item30018_stand.img
-                - [ ] data/object/item/item30031_stand.img
-                - [ ] data/object/item/item30032_stand.img
-                - [ ] data/object/item/item30033_stand.img
-                - [ ] data/object/item/item30034_stand.img
-                - [ ] data/object/item/item30035_stand.img
-                - [ ] data/object/item/item30036_stand.img
-                - [ ] data/object/item/item30037_stand.img
-                - [ ] data/object/item/item30038_stand.img
-                - [ ] data/object/item/item30039_stand.img
-                - [ ] data/object/item/item30040_stand.img
-                - [ ] data/object/item/item30041_stand.img
-                - [ ] data/object/item/item30042_stand.img
-                - [ ] data/object/item/item30043_stand.img
-                - [ ] data/object/item/item30044_stand.img
-                - [ ] data/object/item/item30045_stand.img
-                - [ ] data/object/item/item30046_stand.img
-                - [ ] data/object/item/item30047_stand.img
-                - [ ] data/object/item/item30048_stand.img
-                - [ ] data/object/item/item30049_stand.img
-                - [ ] data/object/item/item30050_stand.img
-                - [ ] data/object/item/item30051_stand.img
-                - [ ] data/object/item/item30052_stand.img
-                - [ ] data/object/item/item30053_stand.img
-                - [ ] data/object/item/item30054_stand.img
-                - [ ] data/object/item/item30055_stand.img
-                - [ ] data/object/item/item30056_stand.img
-                - [ ] data/object/item/item30057_stand.img
-                - [ ] data/object/item/item30058_stand.img
-                - [ ] data/object/item/item30059_stand.img
-                - [ ] data/object/item/item30060_stand.img
-                - [ ] data/object/item/item30061_stand.img
-                - [ ] data/object/item/item30062_stand.img
-                - [ ] data/object/item/item30063_stand.img
-                - [ ] data/object/item/item30064_stand.img
-                - [ ] data/object/item/item30065_stand.img
-                - [ ] data/object/item/item30066_stand.img
-                - [ ] data/object/item/item30067_stand.img
-                - [ ] data/object/item/item30068_stand.img
-                - [ ] data/object/item/item30069_stand.img
-                - [ ] data/object/item/item30070_stand.img
-                - [ ] data/object/item/item30071_stand.img
-                - [ ] data/object/item/item30072_stand.img
-                - [ ] data/object/item/item30073_stand.img
-                - [ ] data/object/item/item30074_stand.img
-                - [ ] data/object/item/item30075_stand.img
-                - [ ] data/object/item/item30076_stand.img
-                - [ ] data/object/item/item30077_stand.img
-                - [ ] data/object/item/item30078_stand.img
-                - [ ] data/object/item/item30079_stand.img
-                - [ ] data/object/item/item30080_stand.img
-                - [ ] data/object/item/item30081_stand.img
-                - [ ] data/object/item/item30082_stand.img
-                - [ ] data/object/item/item30083_stand.img
-                - [ ] data/object/item/item30084_stand.img
-                - [ ] data/object/item/item30085_stand.img
-                - [ ] data/object/item/item30086_stand.img
-                - [ ] data/object/item/item30087_stand.img
-                - [ ] data/object/item/item30088_stand.img
-                - [ ] data/object/item/item30089_stand.img
-                - [ ] data/object/item/item30090_stand.img
-                - [ ] data/object/item/item30091_stand.img
-                - [ ] data/object/item/item30092_stand.img
-                - [ ] data/object/item/item30093_stand.img
-                - [ ] data/object/item/item30094_stand.img
-                - [ ] data/object/item/item30095_stand.img
-                - [ ] data/object/item/item30096_stand.img
-                - [ ] data/object/item/item30097_stand.img
-                - [ ] data/object/item/item300_stand.img
-                - [ ] data/object/item/item301_stand.img
-                - [ ] data/object/item/item301_trigger.img
-                - [ ] data/object/item/item31500_stand.img
-                - [ ] data/object/item/item31501_stand.img
-                - [ ] data/object/item/item3_stand.img
-                - [ ] data/object/item/item402_stand.img
-                - [ ] data/object/item/item403_stand.img
-                - [ ] data/object/item/item404_stand.img
-                - [ ] data/object/item/item405_stand.img
-                - [ ] data/object/item/item406_stand.img
-                - [ ] data/object/item/item407_stand.img
-                - [ ] data/object/item/item408_stand.img
-                - [ ] data/object/item/item41_stand.img
-                - [ ] data/object/item/item42_stand.img
-                - [ ] data/object/item/item430_stand.img
-                - [ ] data/object/item/item431_stand.img
-                - [ ] data/object/item/item432_stand.img
-                - [ ] data/object/item/item433_stand.img
-                - [ ] data/object/item/item434_stand.img
-                - [ ] data/object/item/item435_stand.img
-                - [ ] data/object/item/item437_stand.img
-                - [ ] data/object/item/item438_stand.img
-                - [ ] data/object/item/item439_stand.img
-                - [ ] data/object/item/item43_stand.img
-                - [ ] data/object/item/item4400_stand.img
-                - [ ] data/object/item/item4401_stand.img
-                - [ ] data/object/item/item4402_stand.img
-                - [ ] data/object/item/item4403_stand.img
-                - [ ] data/object/item/item440_stand.img
-                - [ ] data/object/item/item44_stand.img
-                - [ ] data/object/item/item450_stand.img
-                - [ ] data/object/item/item451_stand.img
-                - [ ] data/object/item/item452_stand.img
-                - [ ] data/object/item/item453_stand.img
-                - [ ] data/object/item/item454_stand.img
-                - [ ] data/object/item/item455_stand.img
-                - [ ] data/object/item/item456_stand.img
-                - [ ] data/object/item/item457_stand.img
-                - [ ] data/object/item/item458_stand.img
-                - [ ] data/object/item/item459_stand.img
-                - [ ] data/object/item/Item4600_stand.img
-                - [ ] data/object/item/item461_stand.img
-                - [ ] data/object/item/item462_stand.img
-                - [ ] data/object/item/item463_stand.img
-                - [ ] data/object/item/item464_stand.img
-                - [ ] data/object/item/item465_stand.img
-                - [ ] data/object/item/item466_stand.img
-                - [ ] data/object/item/item467_stand.img
-                - [ ] data/object/item/item468_stand.img
-                - [ ] data/object/item/item469_stand.img
-                - [ ] data/object/item/Item46_stand.img
-                - [ ] data/object/item/item470_stand.img
-                - [ ] data/object/item/item471_stand.img
-                - [ ] data/object/item/item472_stand.img
-                - [ ] data/object/item/item473_stand.img
-                - [ ] data/object/item/item474_stand.img
-                - [ ] data/object/item/item475_stand.img
-                - [ ] data/object/item/item476_stand.img
-                - [ ] data/object/item/item477_stand.img
-                - [ ] data/object/item/Item47_stand.img
-                - [ ] data/object/item/Item48_stand.img
-                - [ ] data/object/item/item49_stand.img
-                - [ ] data/object/item/item4_stand.img
-                - [ ] data/object/item/item5_stand.img
-                - [ ] data/object/item/item61_stand.img
-                - [ ] data/object/item/item62_stand.img
-                - [ ] data/object/item/item63_stand.img
-                - [ ] data/object/item/item64_stand.img
-                - [ ] data/object/item/item65_stand.img
-                - [ ] data/object/item/item66_stand.img
-                - [ ] data/object/item/item6_stand.img
-                - [ ] data/object/item/item7_stand.img
-                - [ ] data/object/item/item801_stand.img
-                - [ ] data/object/item/item802_stand.img
-                - [ ] data/object/item/item807_stand.img
-                - [ ] data/object/item/item80_stand.img
-                - [ ] data/object/item/item80_trigger.img
-                - [ ] data/object/item/item81_stand.img
-                - [ ] data/object/item/item81_trigger.img
-                - [ ] data/object/item/item82_stand.img
-                - [ ] data/object/item/item82_trigger.img
-                - [ ] data/object/item/item83_stand.img
-                - [ ] data/object/item/item83_trigger.img
-                - [ ] data/object/item/item84_stand.img
-                - [ ] data/object/item/item84_trigger.img
-                - [ ] data/object/item/item85_stand.img
-                - [ ] data/object/item/item85_trigger.img
-                - [ ] data/object/item/Item86_stand.img
-                - [ ] data/object/item/Item86_trigger.img
-                - [ ] data/object/item/Item87_stand.img
-                - [ ] data/object/item/Item87_trigger.img
-                - [ ] data/object/item/Item88_stand.img
-                - [ ] data/object/item/Item88_trigger.img
-                - [ ] data/object/item/Item89_stand.img
-                - [ ] data/object/item/Item89_trigger.img
-                - [ ] data/object/item/item8_stand.img
-                - [ ] data/object/item/item9001_stand.img
-                - [ ] data/object/item/item9002_stand.img
-                - [ ] data/object/item/item9003_stand.img
-                - [ ] data/object/item/item9004_stand.img
-                - [ ] data/object/item/item91_stand.img
-                - [ ] data/object/item/item91_trigger.img
-                - [ ] data/object/item/item92_stand.img
-                - [ ] data/object/item/item92_trigger.img
-                - [ ] data/object/item/item93_stand.img
-                - [ ] data/object/item/item93_trigger.img
-                - [ ] data/object/item/item94_stand.img
-                - [ ] data/object/item/item94_trigger.img
-                - [ ] data/object/item/item95_stand.img
-                - [ ] data/object/item/item95_trigger.img
-                - [ ] data/object/item/item96_stand.img
-                - [ ] data/object/item/item96_trigger.img
-                - [ ] data/object/item/item97_stand.img
-                - [ ] data/object/item/item97_trigger.img
-                - [ ] data/object/item/Item98_stand.img
-                - [ ] data/object/item/Item98_trigger.img
-                - [ ] data/object/item/item9_stand.img
-            - [ ] data/object/leg
-                - [ ] data/object/leg/leg10101_stand.img
-                - [ ] data/object/leg/leg10101_stand_m.img
-                - [ ] data/object/leg/leg10101_walk.img
-                - [ ] data/object/leg/leg10101_walk_m.img
-                - [ ] data/object/leg/leg10201_stand.img
-                - [ ] data/object/leg/leg10201_stand_m.img
-                - [ ] data/object/leg/leg10201_walk.img
-                - [ ] data/object/leg/leg10201_walk_m.img
-                - [ ] data/object/leg/leg10401_stand.img
-                - [ ] data/object/leg/leg10401_stand_m.img
-                - [ ] data/object/leg/leg10401_walk.img
-                - [ ] data/object/leg/leg10401_walk_m.img
-                - [ ] data/object/leg/leg10501_stand.img
-                - [ ] data/object/leg/leg10501_stand_m.img
-                - [ ] data/object/leg/leg10501_walk.img
-                - [ ] data/object/leg/leg10501_walk_m.img
-                - [ ] data/object/leg/leg10601_stand.img
-                - [ ] data/object/leg/leg10601_walk.img
-                - [ ] data/object/leg/leg10701_stand.img
-                - [ ] data/object/leg/leg10701_walk.img
-                - [ ] data/object/leg/leg10801_stand.img
-                - [ ] data/object/leg/leg10801_stand_m.img
-                - [ ] data/object/leg/leg10801_walk.img
-                - [ ] data/object/leg/leg10801_walk_m.img
-                - [ ] data/object/leg/leg10901_stand.img
-                - [ ] data/object/leg/leg10901_walk.img
-                - [ ] data/object/leg/leg11301_stand.img
-                - [ ] data/object/leg/leg11301_stand_m.img
-                - [ ] data/object/leg/leg11301_walk.img
-                - [ ] data/object/leg/leg11301_walk_m.img
-                - [ ] data/object/leg/leg11401_stand.img
-                - [ ] data/object/leg/leg11401_walk.img
-                - [ ] data/object/leg/leg11501_stand.img
-                - [ ] data/object/leg/leg11501_stand_m.img
-                - [ ] data/object/leg/leg11501_walk.img
-                - [ ] data/object/leg/leg11501_walk_m.img
-                - [ ] data/object/leg/leg11601_stand.img
-                - [ ] data/object/leg/leg11601_walk.img
-                - [ ] data/object/leg/leg11801_stand.img
-                - [ ] data/object/leg/leg11801_walk.img
-                - [ ] data/object/leg/leg11901_stand.img
-                - [ ] data/object/leg/leg11901_stand_m.img
-                - [ ] data/object/leg/leg11901_walk.img
-                - [ ] data/object/leg/leg11901_walk_m.img
-                - [ ] data/object/leg/leg12001_stand.img
-                - [ ] data/object/leg/leg12001_walk.img
-                - [ ] data/object/leg/leg12201_stand.img
-                - [ ] data/object/leg/leg12201_walk.img
-                - [ ] data/object/leg/leg1_stand.img
-                - [ ] data/object/leg/leg1_stand_m.img
-                - [ ] data/object/leg/leg1_walk.img
-                - [ ] data/object/leg/leg1_walk_m.img
-                - [ ] data/object/leg/leg4001_walk_m.img
-            - [ ] data/object/light
-                - [ ] data/object/light/light10_stand.img
-                - [ ] data/object/light/light11_stand.img
-                - [ ] data/object/light/light1228_stand.img
-                - [ ] data/object/light/light1229_stand.img
-                - [ ] data/object/light/light1230_stand.img
-                - [ ] data/object/light/light12_stand.img
-                - [ ] data/object/light/light1_stand.img
-                - [ ] data/object/light/light2_stand.img
-                - [ ] data/object/light/light3_stand.img
-                - [ ] data/object/light/light5_stand.img
-                - [ ] data/object/light/light6_stand.img
-                - [ ] data/object/light/light7_stand.img
-                - [ ] data/object/light/light8_stand.img
-                - [ ] data/object/light/light9_stand.img
-            - [ ] data/object/magic
-                - [ ] data/object/magic/magic0001.img
-                - [ ] data/object/magic/magic0002.img
-                - [ ] data/object/magic/magic0003.img
-                - [ ] data/object/magic/magic0004.img
-                - [ ] data/object/magic/magic0005.img
-                - [ ] data/object/magic/magic0006.img
-                - [ ] data/object/magic/magic0007.img
-                - [ ] data/object/magic/magic0008.img
-                - [ ] data/object/magic/magic0009.img
-                - [ ] data/object/magic/magic0010.img
-                - [ ] data/object/magic/magic0011.img
-                - [ ] data/object/magic/magic0012.img
-                - [ ] data/object/magic/magic0013.img
-                - [ ] data/object/magic/magic0014.img
-                - [ ] data/object/magic/magic0015.img
-                - [ ] data/object/magic/magic0016.img
-                - [ ] data/object/magic/magic0017.img
-                - [ ] data/object/magic/magic0018.img
-                - [ ] data/object/magic/magic0019.img
-                - [ ] data/object/magic/magic0020.img
-                - [ ] data/object/magic/magic0021.img
-                - [ ] data/object/magic/magic0022.img
-                - [ ] data/object/magic/magic0023.img
-                - [ ] data/object/magic/magic0024.img
-                - [ ] data/object/magic/magic0025.img
-                - [ ] data/object/magic/magic0026.img
-                - [ ] data/object/magic/magic0027.img
-                - [ ] data/object/magic/magic0028.img
-                - [ ] data/object/magic/magic0029.img
-                - [ ] data/object/magic/magic0030.img
-                - [ ] data/object/magic/magic0031.img
-                - [ ] data/object/magic/magic0032.img
-                - [ ] data/object/magic/magic0033.img
-                - [ ] data/object/magic/magic0034.img
-                - [ ] data/object/magic/magic0035.img
-                - [ ] data/object/magic/magic0036.img
-                - [ ] data/object/magic/magic0037.img
-                - [ ] data/object/magic/magic0038.img
-                - [ ] data/object/magic/magic0039.img
-                - [ ] data/object/magic/magic0040.img
-                - [ ] data/object/magic/magic0041.img
-                - [ ] data/object/magic/magic0042.img
-                - [ ] data/object/magic/magic0043.img
-                - [ ] data/object/magic/magic0044.img
-                - [ ] data/object/magic/magic0045.img
-                - [ ] data/object/magic/magic0046.img
-                - [ ] data/object/magic/magic0047.img
-                - [ ] data/object/magic/magic0048.img
-                - [ ] data/object/magic/magic0049.img
-                - [ ] data/object/magic/magic0050.img
-                - [ ] data/object/magic/magic0051.img
-                - [ ] data/object/magic/magic0052.img
-                - [ ] data/object/magic/magic0053.img
-                - [ ] data/object/magic/magic0054.img
-                - [ ] data/object/magic/magic0055.img
-                - [ ] data/object/magic/magic0056.img
-                - [ ] data/object/magic/magic0057.img
-                - [ ] data/object/magic/magic0058.img
-                - [ ] data/object/magic/magic0059.img
-                - [ ] data/object/magic/magic0060.img
-                - [ ] data/object/magic/magic0061.img
-                - [ ] data/object/magic/magic0062.img
-                - [ ] data/object/magic/magic0063.img
-                - [ ] data/object/magic/magic0064.img
-                - [ ] data/object/magic/magic0065.img
-                - [ ] data/object/magic/magic0066.img
-                - [ ] data/object/magic/magic0067.img
-                - [ ] data/object/magic/magic0068.img
-                - [ ] data/object/magic/magic0069.img
-                - [ ] data/object/magic/magic0070.img
-                - [ ] data/object/magic/magic0071.img
-                - [ ] data/object/magic/magic0072.img
-                - [ ] data/object/magic/magic0073.img
-                - [ ] data/object/magic/magic0074.img
-                - [ ] data/object/magic/magic0075.img
-                - [ ] data/object/magic/magic0076.img
-                - [ ] data/object/magic/magic0077.img
-                - [ ] data/object/magic/magic0078.img
-                - [ ] data/object/magic/magic0079.img
-                - [ ] data/object/magic/magic0080.img
-                - [ ] data/object/magic/magic0081.img
-                - [ ] data/object/magic/magic0082.img
-                - [ ] data/object/magic/magic0083.img
-                - [ ] data/object/magic/magic0084.img
-                - [ ] data/object/magic/magic0085.img
-                - [ ] data/object/magic/magic0086.img
-                - [ ] data/object/magic/magic0087.img
-                - [ ] data/object/magic/magic0088.img
-                - [ ] data/object/magic/magic0089.img
-                - [ ] data/object/magic/magic0090.img
-                - [ ] data/object/magic/magic0091.img
-                - [ ] data/object/magic/magic0092.img
-                - [ ] data/object/magic/magic0093.img
-                - [ ] data/object/magic/magic0094.img
-                - [ ] data/object/magic/magic0095.img
-                - [ ] data/object/magic/magic0096.img
-                - [ ] data/object/magic/magic0097.img
-                - [ ] data/object/magic/magic0098.img
-                - [ ] data/object/magic/magic0099.img
-                - [ ] data/object/magic/magic0100.img
-                - [ ] data/object/magic/magic0101.img
-                - [ ] data/object/magic/magic0102.img
-                - [ ] data/object/magic/magic0103.img
-                - [ ] data/object/magic/magic0104.img
-                - [ ] data/object/magic/magic0105.img
-                - [ ] data/object/magic/magic0106.img
-                - [ ] data/object/magic/magic0107.img
-                - [ ] data/object/magic/magic0108.img
-                - [ ] data/object/magic/magic0109.img
-                - [ ] data/object/magic/magic0110.img
-                - [ ] data/object/magic/magic0111.img
-                - [ ] data/object/magic/magic0112.img
-                - [ ] data/object/magic/magic0113.img
-                - [ ] data/object/magic/magic0114.img
-                - [ ] data/object/magic/magic0115.img
-                - [ ] data/object/magic/magic0116.img
-                - [ ] data/object/magic/magic0117.img
-                - [ ] data/object/magic/magic0118.img
-                - [ ] data/object/magic/magic0119.img
-                - [ ] data/object/magic/magic0120.img
-                - [ ] data/object/magic/magic0121.img
-                - [ ] data/object/magic/magic0122.img
-                - [ ] data/object/magic/magic0123.img
-                - [ ] data/object/magic/magic0124.img
-                - [ ] data/object/magic/magic0125.img
-                - [ ] data/object/magic/magic0126.img
-                - [ ] data/object/magic/magic0127.img
-                - [ ] data/object/magic/magic0128.img
-                - [ ] data/object/magic/magic0129.img
-                - [ ] data/object/magic/magic0130.img
-                - [ ] data/object/magic/magic0131.img
-                - [ ] data/object/magic/magic0132.img
-                - [ ] data/object/magic/magic0133.img
-                - [ ] data/object/magic/magic0134.img
-                - [ ] data/object/magic/magic0135.img
-                - [ ] data/object/magic/magic0136.img
-                - [ ] data/object/magic/magic0137.img
-                - [ ] data/object/magic/magic0138.img
-                - [ ] data/object/magic/magic0139.img
-                - [ ] data/object/magic/magic0140.img
-                - [ ] data/object/magic/magic0141.img
-                - [ ] data/object/magic/magic0142.img
-                - [ ] data/object/magic/magic0143.img
-                - [ ] data/object/magic/magic0145.img
-                - [ ] data/object/magic/magic0146.img
-                - [ ] data/object/magic/magic0147.img
-                - [ ] data/object/magic/magic0148.img
-                - [ ] data/object/magic/magic0149.img
-                - [ ] data/object/magic/magic0150.img
-                - [ ] data/object/magic/magic0151.img
-                - [ ] data/object/magic/magic0152.img
-                - [ ] data/object/magic/magic0153.img
-                - [ ] data/object/magic/magic0154.img
-                - [ ] data/object/magic/magic0155.img
-                - [ ] data/object/magic/magic0156.img
-                - [ ] data/object/magic/magic0157.img
-                - [ ] data/object/magic/magic0158.img
-                - [ ] data/object/magic/magic0159.img
-                - [ ] data/object/magic/magic0160.img
-                - [ ] data/object/magic/magic0161.img
-                - [ ] data/object/magic/magic0162.img
-                - [ ] data/object/magic/magic0163.img
-                - [ ] data/object/magic/magic0164.img
-                - [ ] data/object/magic/magic0165.img
-                - [ ] data/object/magic/magic0166.img
-                - [ ] data/object/magic/magic0167.img
-                - [ ] data/object/magic/magic0168.img
-                - [ ] data/object/magic/magic0169.img
-                - [ ] data/object/magic/magic0170.img
-                - [ ] data/object/magic/magic0171.img
-                - [ ] data/object/magic/magic0172.img
-                - [ ] data/object/magic/magic0173.img
-                - [ ] data/object/magic/magic0174.img
-                - [ ] data/object/magic/magic0175.img
-                - [ ] data/object/magic/magic0176.img
-                - [ ] data/object/magic/magic0177.img
-                - [ ] data/object/magic/magic0180.img
-                - [ ] data/object/magic/magic0181.img
-                - [ ] data/object/magic/magic0182.img
-                - [ ] data/object/magic/magic0183.img
-                - [ ] data/object/magic/magic0184.img
-                - [ ] data/object/magic/magic0185.img
-                - [ ] data/object/magic/magic0186.img
-                - [ ] data/object/magic/magic0187.img
-                - [ ] data/object/magic/magic0188.img
-                - [ ] data/object/magic/magic0189.img
-                - [ ] data/object/magic/magic0190.img
-                - [ ] data/object/magic/magic0191.img
-                - [ ] data/object/magic/magic0192.img
-            - [ ] data/object/mapElem
-                - [ ] data/object/mapElem/bomb
-                    - [ ] data/object/mapElem/bomb/elem10_stand.img
-                    - [ ] data/object/mapElem/bomb/elem11_stand.img
-                    - [ ] data/object/mapElem/bomb/elem12_stand.img
-                    - [ ] data/object/mapElem/bomb/elem13_stand.img
-                    - [ ] data/object/mapElem/bomb/elem14_stand.img
-                    - [ ] data/object/mapElem/bomb/elem1_stand.img
-                    - [ ] data/object/mapElem/bomb/elem2_stand.img
-                    - [ ] data/object/mapElem/bomb/elem3_stand.img
-                    - [ ] data/object/mapElem/bomb/elem4_stand.img
-                    - [ ] data/object/mapElem/bomb/elem5_stand.img
-                    - [ ] data/object/mapElem/bomb/elem6_stand.img
-                    - [ ] data/object/mapElem/bomb/elem7_stand.img
-                    - [ ] data/object/mapElem/bomb/elem8_stand.img
-                - [ ] data/object/mapElem/box
-                    - [ ] data/object/mapElem/box/elem100_die.img
-                    - [ ] data/object/mapElem/box/elem100_stand.img
-                    - [ ] data/object/mapElem/box/elem101_stand.img
-                    - [ ] data/object/mapElem/box/elem102_stand.img
-                    - [ ] data/object/mapElem/box/elem103_stand.img
-                    - [ ] data/object/mapElem/box/elem104_stand.img
-                    - [ ] data/object/mapElem/box/elem105_die.img
-                    - [ ] data/object/mapElem/box/elem105_stand.img
-                    - [ ] data/object/mapElem/box/elem106_stand.img
-                    - [ ] data/object/mapElem/box/elem106_trigger.img
-                    - [ ] data/object/mapElem/box/elem107_stand.img
-                    - [ ] data/object/mapElem/box/elem108_stand.img
-                    - [ ] data/object/mapElem/box/elem109_stand.img
-                    - [ ] data/object/mapElem/box/elem10_stand.img
-                    - [ ] data/object/mapElem/box/elem110_die.img
-                    - [ ] data/object/mapElem/box/elem110_stand.img
-                    - [ ] data/object/mapElem/box/elem111_die.img
-                    - [ ] data/object/mapElem/box/elem111_stand.img
-                    - [ ] data/object/mapElem/box/elem112_die.img
-                    - [ ] data/object/mapElem/box/elem112_stand.img
-                    - [ ] data/object/mapElem/box/elem113_die.img
-                    - [ ] data/object/mapElem/box/elem113_stand.img
-                    - [ ] data/object/mapElem/box/elem114_die.img
-                    - [ ] data/object/mapElem/box/elem114_stand.img
-                    - [ ] data/object/mapElem/box/elem115_die.img
-                    - [ ] data/object/mapElem/box/elem115_stand.img
-                    - [ ] data/object/mapElem/box/elem115_trigger.img
-                    - [ ] data/object/mapElem/box/elem116_stand.img
-                    - [ ] data/object/mapElem/box/elem117_stand.img
-                    - [ ] data/object/mapElem/box/elem118_stand.img
-                    - [ ] data/object/mapElem/box/elem119_stand.img
-                    - [ ] data/object/mapElem/box/elem120_die.img
-                    - [ ] data/object/mapElem/box/elem120_stand.img
-                    - [ ] data/object/mapElem/box/elem121_die.img
-                    - [ ] data/object/mapElem/box/elem121_stand.img
-                    - [ ] data/object/mapElem/box/elem122_die.img
-                    - [ ] data/object/mapElem/box/elem122_stand.img
-                    - [ ] data/object/mapElem/box/elem123_stand.img
-                    - [ ] data/object/mapElem/box/elem124_stand.img
-                    - [ ] data/object/mapElem/box/elem125_stand.img
-                    - [ ] data/object/mapElem/box/elem126_die.img
-                    - [ ] data/object/mapElem/box/elem126_stand.img
-                    - [ ] data/object/mapElem/box/elem127_stand.img
-                    - [ ] data/object/mapElem/box/elem12_stand.img
-                    - [ ] data/object/mapElem/box/elem15_stand.img
-                    - [ ] data/object/mapElem/box/elem16_stand.img
-                    - [ ] data/object/mapElem/box/elem17_stand.img
-                    - [ ] data/object/mapElem/box/elem1_stand.img
-                    - [ ] data/object/mapElem/box/elem22_stand.img
-                    - [ ] data/object/mapElem/box/elem23_stand.img
-                    - [ ] data/object/mapElem/box/elem24_stand.img
-                    - [ ] data/object/mapElem/box/elem25_stand.img
-                    - [ ] data/object/mapElem/box/elem26_stand.img
-                    - [ ] data/object/mapElem/box/elem27_stand.img
-                    - [ ] data/object/mapElem/box/elem28_stand.img
-                    - [ ] data/object/mapElem/box/elem29_stand.img
-                    - [ ] data/object/mapElem/box/elem2_stand.img
-                    - [ ] data/object/mapElem/box/elem30_stand.img
-                    - [ ] data/object/mapElem/box/elem31_stand.img
-                    - [ ] data/object/mapElem/box/elem32_stand.img
-                    - [ ] data/object/mapElem/box/elem33_stand.img
-                    - [ ] data/object/mapElem/box/elem34_stand.img
-                    - [ ] data/object/mapElem/box/elem35_stand.img
-                    - [ ] data/object/mapElem/box/elem36_stand.img
-                    - [ ] data/object/mapElem/box/elem37_stand.img
-                    - [ ] data/object/mapElem/box/elem38_stand.img
-                    - [ ] data/object/mapElem/box/elem39_stand.img
-                    - [ ] data/object/mapElem/box/elem3_stand.img
-                    - [ ] data/object/mapElem/box/elem40_stand.img
-                    - [ ] data/object/mapElem/box/elem41_stand.img
-                    - [ ] data/object/mapElem/box/elem42_stand.img
-                    - [ ] data/object/mapElem/box/elem43_stand.img
-                    - [ ] data/object/mapElem/box/elem44_stand.img
-                    - [ ] data/object/mapElem/box/elem45_stand.img
-                    - [ ] data/object/mapElem/box/elem46_stand.img
-                    - [ ] data/object/mapElem/box/elem47_stand.img
-                    - [ ] data/object/mapElem/box/elem48_stand.img
-                    - [ ] data/object/mapElem/box/elem49_stand.img
-                    - [ ] data/object/mapElem/box/elem4_stand.img
-                    - [ ] data/object/mapElem/box/elem7_stand.img
-                - [ ] data/object/mapElem/bun
-                    - [ ] data/object/mapElem/bun/elem10_stand.img
-                    - [ ] data/object/mapElem/bun/elem11_stand.img
-                    - [ ] data/object/mapElem/bun/elem12_stand.img
-                    - [ ] data/object/mapElem/bun/elem13_stand.img
-                    - [ ] data/object/mapElem/bun/elem14_stand.img
-                    - [ ] data/object/mapElem/bun/elem15_stand.img
-                    - [ ] data/object/mapElem/bun/elem16_stand.img
-                    - [ ] data/object/mapElem/bun/elem17_stand.img
-                    - [ ] data/object/mapElem/bun/elem18_stand.img
-                    - [ ] data/object/mapElem/bun/elem19_stand.img
-                    - [ ] data/object/mapElem/bun/elem1_die.img
-                    - [ ] data/object/mapElem/bun/elem1_stand.img
-                    - [ ] data/object/mapElem/bun/elem20_trigger.img
-                    - [ ] data/object/mapElem/bun/elem21_stand.img
-                    - [ ] data/object/mapElem/bun/elem21_trigger.img
-                    - [ ] data/object/mapElem/bun/elem22_stand.img
-                    - [ ] data/object/mapElem/bun/elem22_trigger.img
-                    - [ ] data/object/mapElem/bun/elem23_stand.img
-                    - [ ] data/object/mapElem/bun/elem23_trigger.img
-                    - [ ] data/object/mapElem/bun/elem24_stand.img
-                    - [ ] data/object/mapElem/bun/elem25_stand.img
-                    - [ ] data/object/mapElem/bun/elem26_stand.img
-                    - [ ] data/object/mapElem/bun/elem27_stand.img
-                    - [ ] data/object/mapElem/bun/elem28_stand.img
-                    - [ ] data/object/mapElem/bun/elem2_die.img
-                    - [ ] data/object/mapElem/bun/elem2_stand.img
-                    - [ ] data/object/mapElem/bun/elem3_die.img
-                    - [ ] data/object/mapElem/bun/elem3_stand.img
-                    - [ ] data/object/mapElem/bun/elem4_die.img
-                    - [ ] data/object/mapElem/bun/elem4_stand.img
-                    - [ ] data/object/mapElem/bun/elem5_stand.img
-                    - [ ] data/object/mapElem/bun/elem6_stand.img
-                    - [ ] data/object/mapElem/bun/elem7_die.img
-                    - [ ] data/object/mapElem/bun/elem7_stand.img
-                    - [ ] data/object/mapElem/bun/elem8_stand.img
-                    - [ ] data/object/mapElem/bun/elem9_stand.img
-                - [ ] data/object/mapElem/common
-                    - [ ] data/object/mapElem/common/elem100_die.img
-                    - [ ] data/object/mapElem/common/elem100_stand.img
-                    - [ ] data/object/mapElem/common/elem101_die.img
-                    - [ ] data/object/mapElem/common/elem101_stand.img
-                    - [ ] data/object/mapElem/common/elem102_die.img
-                    - [ ] data/object/mapElem/common/elem102_stand.img
-                    - [ ] data/object/mapElem/common/elem103_die.img
-                    - [ ] data/object/mapElem/common/elem103_stand.img
-                    - [ ] data/object/mapElem/common/elem104_die.img
-                    - [ ] data/object/mapElem/common/elem104_stand.img
-                    - [ ] data/object/mapElem/common/elem105_stand.img
-                    - [ ] data/object/mapElem/common/elem106_stand.img
-                    - [ ] data/object/mapElem/common/elem107_stand.img
-                    - [ ] data/object/mapElem/common/elem108_stand.img
-                    - [ ] data/object/mapElem/common/elem109_stand.img
-                    - [ ] data/object/mapElem/common/elem110_stand.img
-                    - [ ] data/object/mapElem/common/elem111_stand.img
-                    - [ ] data/object/mapElem/common/elem112_stand.img
-                    - [ ] data/object/mapElem/common/elem113_stand.img
-                    - [ ] data/object/mapElem/common/elem114_stand.img
-                    - [ ] data/object/mapElem/common/elem115_stand.img
-                    - [ ] data/object/mapElem/common/elem116_stand.img
-                    - [ ] data/object/mapElem/common/elem117_stand.img
-                    - [ ] data/object/mapElem/common/elem118_stand.img
-                    - [ ] data/object/mapElem/common/elem119_stand.img
-                    - [ ] data/object/mapElem/common/elem121_stand.img
-                    - [ ] data/object/mapElem/common/elem122_stand.img
-                    - [ ] data/object/mapElem/common/elem123_stand.img
-                    - [ ] data/object/mapElem/common/elem124_stand.img
-                    - [ ] data/object/mapElem/common/elem125_stand.img
-                    - [ ] data/object/mapElem/common/elem126_stand.img
-                    - [ ] data/object/mapElem/common/elem127_stand.img
-                    - [ ] data/object/mapElem/common/elem128_stand.img
-                    - [ ] data/object/mapElem/common/elem130_stand.img
-                    - [ ] data/object/mapElem/common/elem131_stand.img
-                    - [ ] data/object/mapElem/common/elem132_stand.img
-                    - [ ] data/object/mapElem/common/elem133_stand.img
-                    - [ ] data/object/mapElem/common/elem134_stand.img
-                    - [ ] data/object/mapElem/common/elem135_stand.img
-                    - [ ] data/object/mapElem/common/elem136_stand.img
-                    - [ ] data/object/mapElem/common/elem137_stand.img
-                    - [ ] data/object/mapElem/common/elem18_stand.img
-                    - [ ] data/object/mapElem/common/elem19_stand.img
-                    - [ ] data/object/mapElem/common/elem1_stand.img
-                    - [ ] data/object/mapElem/common/elem20_trigger.img
-                    - [ ] data/object/mapElem/common/elem21_stand.img
-                    - [ ] data/object/mapElem/common/elem21_trigger.img
-                    - [ ] data/object/mapElem/common/elem22_stand.img
-                    - [ ] data/object/mapElem/common/elem22_trigger.img
-                    - [ ] data/object/mapElem/common/elem23_stand.img
-                    - [ ] data/object/mapElem/common/elem23_trigger.img
-                    - [ ] data/object/mapElem/common/elem24_stand.img
-                    - [ ] data/object/mapElem/common/elem25_stand.img
-                    - [ ] data/object/mapElem/common/elem26_stand.img
-                    - [ ] data/object/mapElem/common/elem27_stand.img
-                    - [ ] data/object/mapElem/common/elem28_stand.img
-                    - [ ] data/object/mapElem/common/elem29_stand.img
-                    - [ ] data/object/mapElem/common/elem30_stand.img
-                    - [ ] data/object/mapElem/common/elem33_stand.img
-                    - [ ] data/object/mapElem/common/elem34_stand.img
-                    - [ ] data/object/mapElem/common/elem35_stand.img
-                    - [ ] data/object/mapElem/common/elem37_stand.img
-                    - [ ] data/object/mapElem/common/elem38_stand.img
-                    - [ ] data/object/mapElem/common/elem39_stand.img
-                    - [ ] data/object/mapElem/common/elem40_stand.img
-                    - [ ] data/object/mapElem/common/elem41_stand.img
-                    - [ ] data/object/mapElem/common/elem42_stand.img
-                    - [ ] data/object/mapElem/common/elem43_stand.img
-                    - [ ] data/object/mapElem/common/elem44_stand.img
-                    - [ ] data/object/mapElem/common/elem45_stand.img
-                    - [ ] data/object/mapElem/common/elem46_stand.img
-                    - [ ] data/object/mapElem/common/elem47_stand.img
-                    - [ ] data/object/mapElem/common/elem48_stand.img
-                    - [ ] data/object/mapElem/common/elem49_stand.img
-                    - [ ] data/object/mapElem/common/elem50_stand.img
-                    - [ ] data/object/mapElem/common/elem51_stand.img
-                    - [ ] data/object/mapElem/common/elem52_stand.img
-                    - [ ] data/object/mapElem/common/elem53_stand.img
-                    - [ ] data/object/mapElem/common/elem54_stand.img
-                    - [ ] data/object/mapElem/common/elem55_stand.img
-                    - [ ] data/object/mapElem/common/elem56_stand.img
-                    - [ ] data/object/mapElem/common/elem57_stand.img
-                    - [ ] data/object/mapElem/common/elem58_stand.img
-                    - [ ] data/object/mapElem/common/elem59_stand.img
-                    - [ ] data/object/mapElem/common/elem60_stand.img
-                    - [ ] data/object/mapElem/common/elem61_stand.img
-                    - [ ] data/object/mapElem/common/elem62_stand.img
-                    - [ ] data/object/mapElem/common/elem63_stand.img
-                    - [ ] data/object/mapElem/common/elem64_stand.img
-                    - [ ] data/object/mapElem/common/elem65_stand.img
-                    - [ ] data/object/mapElem/common/elem66_stand.img
-                    - [ ] data/object/mapElem/common/elem67_stand.img
-                    - [ ] data/object/mapElem/common/elem68_stand.img
-                    - [ ] data/object/mapElem/common/elem69_stand.img
-                    - [ ] data/object/mapElem/common/elem70_stand.img
-                    - [ ] data/object/mapElem/common/elem71_stand.img
-                    - [ ] data/object/mapElem/common/elem72_stand.img
-                    - [ ] data/object/mapElem/common/elem73_stand.img
-                    - [ ] data/object/mapElem/common/elem74_stand.img
-                    - [ ] data/object/mapElem/common/elem75_stand.img
-                    - [ ] data/object/mapElem/common/elem76_stand.img
-                    - [ ] data/object/mapElem/common/elem77_stand.img
-                    - [ ] data/object/mapElem/common/elem78_stand.img
-                    - [ ] data/object/mapElem/common/elem79_stand.img
-                    - [ ] data/object/mapElem/common/elem80_stand.img
-                    - [ ] data/object/mapElem/common/elem81_stand.img
-                    - [ ] data/object/mapElem/common/elem82_stand.img
-                    - [ ] data/object/mapElem/common/elem83_stand.img
-                - [ ] data/object/mapElem/desert
-                    - [ ] data/object/mapElem/desert/elem101_stand.img
-                    - [ ] data/object/mapElem/desert/elem102_stand.img
-                    - [ ] data/object/mapElem/desert/elem103_stand.img
-                    - [ ] data/object/mapElem/desert/elem104_stand.img
-                    - [ ] data/object/mapElem/desert/elem105_stand.img
-                    - [ ] data/object/mapElem/desert/elem106_stand.img
-                    - [ ] data/object/mapElem/desert/elem107_stand.img
-                    - [ ] data/object/mapElem/desert/elem108_stand.img
-                    - [ ] data/object/mapElem/desert/elem109_stand.img
-                    - [ ] data/object/mapElem/desert/elem10_stand.img
-                    - [ ] data/object/mapElem/desert/elem10_trigger.img
-                    - [ ] data/object/mapElem/desert/elem111_stand.img
-                    - [ ] data/object/mapElem/desert/elem112_stand.img
-                    - [ ] data/object/mapElem/desert/elem113_stand.img
-                    - [ ] data/object/mapElem/desert/elem114_stand.img
-                    - [ ] data/object/mapElem/desert/elem115_stand.img
-                    - [ ] data/object/mapElem/desert/elem116_stand.img
-                    - [ ] data/object/mapElem/desert/elem117_stand.img
-                    - [ ] data/object/mapElem/desert/elem118_stand.img
-                    - [ ] data/object/mapElem/desert/elem119_stand.img
-                    - [ ] data/object/mapElem/desert/elem11_stand.img
-                    - [ ] data/object/mapElem/desert/elem120_stand.img
-                    - [ ] data/object/mapElem/desert/elem121_stand.img
-                    - [ ] data/object/mapElem/desert/elem122_stand.img
-                    - [ ] data/object/mapElem/desert/elem123_stand.img
-                    - [ ] data/object/mapElem/desert/elem124_stand.img
-                    - [ ] data/object/mapElem/desert/elem125_stand.img
-                    - [ ] data/object/mapElem/desert/elem126_stand.img
-                    - [ ] data/object/mapElem/desert/elem127_stand.img
-                    - [ ] data/object/mapElem/desert/elem128_stand.img
-                    - [ ] data/object/mapElem/desert/elem129_stand.img
-                    - [ ] data/object/mapElem/desert/elem12_stand.img
-                    - [ ] data/object/mapElem/desert/elem130_stand.img
-                    - [ ] data/object/mapElem/desert/elem131_stand.img
-                    - [ ] data/object/mapElem/desert/elem132_stand.img
-                    - [ ] data/object/mapElem/desert/elem133_stand.img
-                    - [ ] data/object/mapElem/desert/elem134_stand.img
-                    - [ ] data/object/mapElem/desert/elem135_stand.img
-                    - [ ] data/object/mapElem/desert/elem136_stand.img
-                    - [ ] data/object/mapElem/desert/elem137_stand.img
-                    - [ ] data/object/mapElem/desert/elem138_stand.img
-                    - [ ] data/object/mapElem/desert/elem139_stand.img
-                    - [ ] data/object/mapElem/desert/elem140_stand.img
-                    - [ ] data/object/mapElem/desert/elem141_stand.img
-                    - [ ] data/object/mapElem/desert/elem142_stand.img
-                    - [ ] data/object/mapElem/desert/elem143_stand.img
-                    - [ ] data/object/mapElem/desert/elem1_stand.img
-                    - [ ] data/object/mapElem/desert/elem2_die.img
-                    - [ ] data/object/mapElem/desert/elem2_stand.img
-                    - [ ] data/object/mapElem/desert/elem3_die.img
-                    - [ ] data/object/mapElem/desert/elem3_stand.img
-                    - [ ] data/object/mapElem/desert/elem4_stand.img
-                    - [ ] data/object/mapElem/desert/elem5_stand.img
-                    - [ ] data/object/mapElem/desert/elem6_die.img
-                    - [ ] data/object/mapElem/desert/elem6_stand.img
-                    - [ ] data/object/mapElem/desert/elem7_stand.img
-                    - [ ] data/object/mapElem/desert/elem8_stand.img
-                    - [ ] data/object/mapElem/desert/elem8_trigger.img
-                    - [ ] data/object/mapElem/desert/elem9_stand.img
-                - [ ] data/object/mapElem/exploration
-                    - [ ] data/object/mapElem/exploration/elem101_stand.img
-                    - [ ] data/object/mapElem/exploration/elem102_die.img
-                    - [ ] data/object/mapElem/exploration/elem102_stand.img
-                    - [ ] data/object/mapElem/exploration/elem103_die.img
-                    - [ ] data/object/mapElem/exploration/elem103_stand.img
-                    - [ ] data/object/mapElem/exploration/elem104_stand.img
-                    - [ ] data/object/mapElem/exploration/elem104_trigger.img
-                    - [ ] data/object/mapElem/exploration/elem105_stand.img
-                    - [ ] data/object/mapElem/exploration/elem106_die.img
-                    - [ ] data/object/mapElem/exploration/elem106_stand.img
-                    - [ ] data/object/mapElem/exploration/elem107_stand.img
-                    - [ ] data/object/mapElem/exploration/elem108_die.img
-                    - [ ] data/object/mapElem/exploration/elem108_stand.img
-                    - [ ] data/object/mapElem/exploration/elem109_die.img
-                    - [ ] data/object/mapElem/exploration/elem109_stand.img
-                    - [ ] data/object/mapElem/exploration/elem10_stand.img
-                    - [ ] data/object/mapElem/exploration/elem110_stand.img
-                    - [ ] data/object/mapElem/exploration/elem111_stand.img
-                    - [ ] data/object/mapElem/exploration/elem112_stand.img
-                    - [ ] data/object/mapElem/exploration/elem112_trigger.img
-                    - [ ] data/object/mapElem/exploration/elem113_stand.img
-                    - [ ] data/object/mapElem/exploration/elem114_stand.img
-                    - [ ] data/object/mapElem/exploration/elem114_trigger.img
-                    - [ ] data/object/mapElem/exploration/elem115_stand.img
-                    - [ ] data/object/mapElem/exploration/elem116_die.img
-                    - [ ] data/object/mapElem/exploration/elem116_stand.img
-                    - [ ] data/object/mapElem/exploration/elem117_stand.img
-                    - [ ] data/object/mapElem/exploration/elem118_stand.img
-                    - [ ] data/object/mapElem/exploration/elem119_stand.img
-                    - [ ] data/object/mapElem/exploration/elem11_stand.img
-                    - [ ] data/object/mapElem/exploration/elem120_stand.img
-                    - [ ] data/object/mapElem/exploration/elem121_stand.img
-                    - [ ] data/object/mapElem/exploration/elem122_stand.img
-                    - [ ] data/object/mapElem/exploration/elem12_stand.img
-                    - [ ] data/object/mapElem/exploration/elem13_stand.img
-                    - [ ] data/object/mapElem/exploration/elem14_stand.img
-                    - [ ] data/object/mapElem/exploration/elem15_stand.img
-                    - [ ] data/object/mapElem/exploration/elem16_stand.img
-                    - [ ] data/object/mapElem/exploration/elem17_stand.img
-                    - [ ] data/object/mapElem/exploration/elem18_stand.img
-                    - [ ] data/object/mapElem/exploration/elem19_stand.img
-                    - [ ] data/object/mapElem/exploration/elem1_stand.img
-                    - [ ] data/object/mapElem/exploration/elem201_stand.img
-                    - [ ] data/object/mapElem/exploration/elem202_stand.img
-                    - [ ] data/object/mapElem/exploration/elem203_stand.img
-                    - [ ] data/object/mapElem/exploration/elem204_stand.img
-                    - [ ] data/object/mapElem/exploration/elem205_stand.img
-                    - [ ] data/object/mapElem/exploration/elem206_stand.img
-                    - [ ] data/object/mapElem/exploration/elem207_stand.img
-                    - [ ] data/object/mapElem/exploration/elem208_stand.img
-                    - [ ] data/object/mapElem/exploration/elem209_stand.img
-                    - [ ] data/object/mapElem/exploration/elem20_stand.img
-                    - [ ] data/object/mapElem/exploration/elem210_stand.img
-                    - [ ] data/object/mapElem/exploration/elem211_stand.img
-                    - [ ] data/object/mapElem/exploration/elem212_stand.img
-                    - [ ] data/object/mapElem/exploration/elem213_stand.img
-                    - [ ] data/object/mapElem/exploration/elem214_stand.img
-                    - [ ] data/object/mapElem/exploration/elem215_stand.img
-                    - [ ] data/object/mapElem/exploration/elem216_stand.img
-                    - [ ] data/object/mapElem/exploration/elem217_stand.img
-                    - [ ] data/object/mapElem/exploration/elem218_stand.img
-                    - [ ] data/object/mapElem/exploration/elem219_stand.img
-                    - [ ] data/object/mapElem/exploration/elem21_stand.img
-                    - [ ] data/object/mapElem/exploration/elem220_stand.img
-                    - [ ] data/object/mapElem/exploration/elem221_stand.img
-                    - [ ] data/object/mapElem/exploration/elem222_stand.img
-                    - [ ] data/object/mapElem/exploration/elem223_stand.img
-                    - [ ] data/object/mapElem/exploration/elem224_stand.img
-                    - [ ] data/object/mapElem/exploration/elem225_stand.img
-                    - [ ] data/object/mapElem/exploration/elem226_stand.img
-                    - [ ] data/object/mapElem/exploration/elem227_stand.img
-                    - [ ] data/object/mapElem/exploration/elem22_stand.img
-                    - [ ] data/object/mapElem/exploration/elem23_stand.img
-                    - [ ] data/object/mapElem/exploration/elem24_stand.img
-                    - [ ] data/object/mapElem/exploration/elem25_stand.img
-                    - [ ] data/object/mapElem/exploration/elem26_stand.img
-                    - [ ] data/object/mapElem/exploration/elem27_stand.img
-                    - [ ] data/object/mapElem/exploration/elem28_stand.img
-                    - [ ] data/object/mapElem/exploration/elem29_stand.img
-                    - [ ] data/object/mapElem/exploration/elem2_stand.img
-                    - [ ] data/object/mapElem/exploration/elem30_stand.img
-                    - [ ] data/object/mapElem/exploration/elem31_stand.img
-                    - [ ] data/object/mapElem/exploration/elem32_stand.img
-                    - [ ] data/object/mapElem/exploration/elem33_stand.img
-                    - [ ] data/object/mapElem/exploration/elem34_stand.img
-                    - [ ] data/object/mapElem/exploration/elem35_stand.img
-                    - [ ] data/object/mapElem/exploration/elem36_stand.img
-                    - [ ] data/object/mapElem/exploration/elem37_stand.img
-                    - [ ] data/object/mapElem/exploration/elem38_stand.img
-                    - [ ] data/object/mapElem/exploration/elem3_stand.img
-                    - [ ] data/object/mapElem/exploration/elem4_stand.img
-                    - [ ] data/object/mapElem/exploration/elem5_stand.img
-                    - [ ] data/object/mapElem/exploration/elem6_stand.img
-                    - [ ] data/object/mapElem/exploration/elem7_stand.img
-                    - [ ] data/object/mapElem/exploration/elem8_stand.img
-                    - [ ] data/object/mapElem/exploration/elem9_stand.img
-                - [ ] data/object/mapElem/field
-                    - [ ] data/object/mapElem/field/elem10_stand.img
-                    - [ ] data/object/mapElem/field/elem11_stand.img
-                    - [ ] data/object/mapElem/field/elem12_die.img
-                    - [ ] data/object/mapElem/field/elem12_stand.img
-                    - [ ] data/object/mapElem/field/elem13_stand.img
-                    - [ ] data/object/mapElem/field/elem14_stand.img
-                    - [ ] data/object/mapElem/field/elem15_stand.img
-                    - [ ] data/object/mapElem/field/elem16_stand.img
-                    - [ ] data/object/mapElem/field/elem17_stand.img
-                    - [ ] data/object/mapElem/field/elem18_stand.img
-                    - [ ] data/object/mapElem/field/elem19_stand.img
-                    - [ ] data/object/mapElem/field/elem1_stand.img
-                    - [ ] data/object/mapElem/field/elem20_stand.img
-                    - [ ] data/object/mapElem/field/elem21_stand.img
-                    - [ ] data/object/mapElem/field/elem22_stand.img
-                    - [ ] data/object/mapElem/field/elem23_stand.img
-                    - [ ] data/object/mapElem/field/elem24_stand.img
-                    - [ ] data/object/mapElem/field/elem25_stand.img
-                    - [ ] data/object/mapElem/field/elem2_die.img
-                    - [ ] data/object/mapElem/field/elem2_stand.img
-                    - [ ] data/object/mapElem/field/elem3_die.img
-                    - [ ] data/object/mapElem/field/elem3_stand.img
-                    - [ ] data/object/mapElem/field/elem3_trigger.img
-                    - [ ] data/object/mapElem/field/elem4_die.img
-                    - [ ] data/object/mapElem/field/elem4_stand.img
-                    - [ ] data/object/mapElem/field/elem5_die.img
-                    - [ ] data/object/mapElem/field/elem5_stand.img
-                    - [ ] data/object/mapElem/field/elem6_die.img
-                    - [ ] data/object/mapElem/field/elem6_stand.img
-                    - [ ] data/object/mapElem/field/elem7_stand.img
-                    - [ ] data/object/mapElem/field/elem8_die.img
-                    - [ ] data/object/mapElem/field/elem8_stand.img
-                    - [ ] data/object/mapElem/field/elem9_stand.img
-                - [ ] data/object/mapElem/machine
-                    - [ ] data/object/mapElem/machine/elem10_die.img
-                    - [ ] data/object/mapElem/machine/elem10_stand.img
-                    - [ ] data/object/mapElem/machine/elem11_stand.img
-                    - [ ] data/object/mapElem/machine/elem12_stand.img
-                    - [ ] data/object/mapElem/machine/elem13_stand.img
-                    - [ ] data/object/mapElem/machine/elem14_stand.img
-                    - [ ] data/object/mapElem/machine/elem15_stand.img
-                    - [ ] data/object/mapElem/machine/elem16_stand.img
-                    - [ ] data/object/mapElem/machine/elem17_stand.img
-                    - [ ] data/object/mapElem/machine/elem1_stand.img
-                    - [ ] data/object/mapElem/machine/elem20_stand.img
-                    - [ ] data/object/mapElem/machine/elem21_stand.img
-                    - [ ] data/object/mapElem/machine/elem22_stand.img
-                    - [ ] data/object/mapElem/machine/elem23_stand.img
-                    - [ ] data/object/mapElem/machine/elem24_stand.img
-                    - [ ] data/object/mapElem/machine/elem25_stand.img
-                    - [ ] data/object/mapElem/machine/elem26_stand.img
-                    - [ ] data/object/mapElem/machine/elem27_stand.img
-                    - [ ] data/object/mapElem/machine/elem28_stand.img
-                    - [ ] data/object/mapElem/machine/elem29_stand.img
-                    - [ ] data/object/mapElem/machine/elem2_stand.img
-                    - [ ] data/object/mapElem/machine/elem30_stand.img
-                    - [ ] data/object/mapElem/machine/elem31_stand.img
-                    - [ ] data/object/mapElem/machine/elem32_stand.img
-                    - [ ] data/object/mapElem/machine/elem33_stand.img
-                    - [ ] data/object/mapElem/machine/elem34_stand.img
-                    - [ ] data/object/mapElem/machine/elem35_stand.img
-                    - [ ] data/object/mapElem/machine/elem36_stand.img
-                    - [ ] data/object/mapElem/machine/elem37_stand.img
-                    - [ ] data/object/mapElem/machine/elem38_stand.img
-                    - [ ] data/object/mapElem/machine/elem39_stand.img
-                    - [ ] data/object/mapElem/machine/elem3_stand.img
-                    - [ ] data/object/mapElem/machine/elem40_stand.img
-                    - [ ] data/object/mapElem/machine/elem41__stand.img
-                    - [ ] data/object/mapElem/machine/elem42_stand.img
-                    - [ ] data/object/mapElem/machine/elem43_stand.img
-                    - [ ] data/object/mapElem/machine/elem44_stand.img
-                    - [ ] data/object/mapElem/machine/elem45_stand.img
-                    - [ ] data/object/mapElem/machine/elem46_stand.img
-                    - [ ] data/object/mapElem/machine/elem47_stand.img
-                    - [ ] data/object/mapElem/machine/elem48_stand.img
-                    - [ ] data/object/mapElem/machine/elem49_stand.img
-                    - [ ] data/object/mapElem/machine/elem4_stand.img
-                    - [ ] data/object/mapElem/machine/elem50_stand.img
-                    - [ ] data/object/mapElem/machine/elem51_stand.img
-                    - [ ] data/object/mapElem/machine/elem52_stand.img
-                    - [ ] data/object/mapElem/machine/elem53_stand.img
-                    - [ ] data/object/mapElem/machine/elem54_stand.img
-                    - [ ] data/object/mapElem/machine/elem55_stand.img
-                    - [ ] data/object/mapElem/machine/elem56_stand.img
-                    - [ ] data/object/mapElem/machine/elem57_stand.img
-                    - [ ] data/object/mapElem/machine/elem58_stand.img
-                    - [ ] data/object/mapElem/machine/elem59_stand.img
-                    - [ ] data/object/mapElem/machine/elem5_stand.img
-                    - [ ] data/object/mapElem/machine/elem60_stand.img
-                    - [ ] data/object/mapElem/machine/elem61_stand.img
-                    - [ ] data/object/mapElem/machine/elem62_stand.img
-                    - [ ] data/object/mapElem/machine/elem63_stand.img
-                    - [ ] data/object/mapElem/machine/elem64_die.img
-                    - [ ] data/object/mapElem/machine/elem64_stand.img
-                    - [ ] data/object/mapElem/machine/elem65_die.img
-                    - [ ] data/object/mapElem/machine/elem65_stand.img
-                    - [ ] data/object/mapElem/machine/elem66_die.img
-                    - [ ] data/object/mapElem/machine/elem66_stand.img
-                    - [ ] data/object/mapElem/machine/elem67_die.img
-                    - [ ] data/object/mapElem/machine/elem67_stand.img
-                    - [ ] data/object/mapElem/machine/elem68_die.img
-                    - [ ] data/object/mapElem/machine/elem68_stand.img
-                    - [ ] data/object/mapElem/machine/elem69_die.img
-                    - [ ] data/object/mapElem/machine/elem69_stand.img
-                    - [ ] data/object/mapElem/machine/elem6_stand.img
-                    - [ ] data/object/mapElem/machine/elem70_stand.img
-                    - [ ] data/object/mapElem/machine/elem71_stand.img
-                    - [ ] data/object/mapElem/machine/elem72_stand.img
-                    - [ ] data/object/mapElem/machine/elem73_stand.img
-                    - [ ] data/object/mapElem/machine/elem74_stand.img
-                    - [ ] data/object/mapElem/machine/elem75_stand.img
-                    - [ ] data/object/mapElem/machine/elem76_stand.img
-                    - [ ] data/object/mapElem/machine/elem77_stand.img
-                    - [ ] data/object/mapElem/machine/elem78_stand.img
-                    - [ ] data/object/mapElem/machine/elem79_stand.img
-                    - [ ] data/object/mapElem/machine/elem7_stand.img
-                    - [ ] data/object/mapElem/machine/elem8_die.img
-                    - [ ] data/object/mapElem/machine/elem8_stand.img
-                    - [ ] data/object/mapElem/machine/elem9_die.img
-                    - [ ] data/object/mapElem/machine/elem9_stand.img
-                - [ ] data/object/mapElem/match
-                    - [ ] data/object/mapElem/match/elem1_stand.img
-                    - [ ] data/object/mapElem/match/elem2_die.img
-                    - [ ] data/object/mapElem/match/elem2_stand.img
-                    - [ ] data/object/mapElem/match/elem3_die.img
-                    - [ ] data/object/mapElem/match/elem3_stand.img
-                    - [ ] data/object/mapElem/match/elem4_stand.img
-                    - [ ] data/object/mapElem/match/elem5_stand.img
-                    - [ ] data/object/mapElem/match/elem6_stand.img
-                    - [ ] data/object/mapElem/match/elem7_stand.img
-                    - [ ] data/object/mapElem/match/elem8_stand.img
-                    - [ ] data/object/mapElem/match/elem9_stand.img
-                - [ ] data/object/mapElem/mine
-                    - [ ] data/object/mapElem/mine/elem10_stand.img
-                    - [ ] data/object/mapElem/mine/elem11_stand.img
-                    - [ ] data/object/mapElem/mine/elem12_die.img
-                    - [ ] data/object/mapElem/mine/elem12_stand.img
-                    - [ ] data/object/mapElem/mine/elem13_stand.img
-                    - [ ] data/object/mapElem/mine/elem14_stand.img
-                    - [ ] data/object/mapElem/mine/elem15_stand.img
-                    - [ ] data/object/mapElem/mine/elem16_stand.img
-                    - [ ] data/object/mapElem/mine/elem17_stand.img
-                    - [ ] data/object/mapElem/mine/elem18_stand.img
-                    - [ ] data/object/mapElem/mine/elem19_stand.img
-                    - [ ] data/object/mapElem/mine/elem1_stand.img
-                    - [ ] data/object/mapElem/mine/elem20_stand.img
-                    - [ ] data/object/mapElem/mine/elem21_stand.img
-                    - [ ] data/object/mapElem/mine/elem22_stand.img
-                    - [ ] data/object/mapElem/mine/elem23_stand.img
-                    - [ ] data/object/mapElem/mine/elem24_stand.img
-                    - [ ] data/object/mapElem/mine/elem25_stand.img
-                    - [ ] data/object/mapElem/mine/elem26_stand.img
-                    - [ ] data/object/mapElem/mine/elem27_die.img
-                    - [ ] data/object/mapElem/mine/elem27_stand.img
-                    - [ ] data/object/mapElem/mine/elem28_stand.img
-                    - [ ] data/object/mapElem/mine/elem29_stand.img
-                    - [ ] data/object/mapElem/mine/elem2_stand.img
-                    - [ ] data/object/mapElem/mine/elem30_stand.img
-                    - [ ] data/object/mapElem/mine/elem31_stand.img
-                    - [ ] data/object/mapElem/mine/elem32_stand.img
-                    - [ ] data/object/mapElem/mine/elem33_stand.img
-                    - [ ] data/object/mapElem/mine/elem34_stand.img
-                    - [ ] data/object/mapElem/mine/elem35_stand.img
-                    - [ ] data/object/mapElem/mine/elem36_stand.img
-                    - [ ] data/object/mapElem/mine/elem37_stand.img
-                    - [ ] data/object/mapElem/mine/elem38_stand.img
-                    - [ ] data/object/mapElem/mine/elem39_stand.img
-                    - [ ] data/object/mapElem/mine/elem3_stand.img
-                    - [ ] data/object/mapElem/mine/elem40_stand.img
-                    - [ ] data/object/mapElem/mine/elem41_stand.img
-                    - [ ] data/object/mapElem/mine/elem42_stand.img
-                    - [ ] data/object/mapElem/mine/elem43_stand.img
-                    - [ ] data/object/mapElem/mine/elem44_stand.img
-                    - [ ] data/object/mapElem/mine/elem45_stand.img
-                    - [ ] data/object/mapElem/mine/elem46_stand.img
-                    - [ ] data/object/mapElem/mine/elem47_stand.img
-                    - [ ] data/object/mapElem/mine/elem48_stand.img
-                    - [ ] data/object/mapElem/mine/elem49_stand.img
-                    - [ ] data/object/mapElem/mine/elem4_die.img
-                    - [ ] data/object/mapElem/mine/elem4_stand.img
-                    - [ ] data/object/mapElem/mine/elem50_stand.img
-                    - [ ] data/object/mapElem/mine/elem51_stand.img
-                    - [ ] data/object/mapElem/mine/elem52_stand.img
-                    - [ ] data/object/mapElem/mine/elem53_stand.img
-                    - [ ] data/object/mapElem/mine/elem54_stand.img
-                    - [ ] data/object/mapElem/mine/elem55_stand.img
-                    - [ ] data/object/mapElem/mine/elem56_stand.img
-                    - [ ] data/object/mapElem/mine/elem57_stand.img
-                    - [ ] data/object/mapElem/mine/elem58_stand.img
-                    - [ ] data/object/mapElem/mine/elem59_stand.img
-                    - [ ] data/object/mapElem/mine/elem5_stand.img
-                    - [ ] data/object/mapElem/mine/elem60_stand.img
-                    - [ ] data/object/mapElem/mine/elem6_die.img
-                    - [ ] data/object/mapElem/mine/elem6_stand.img
-                    - [ ] data/object/mapElem/mine/elem70_stand.img
-                    - [ ] data/object/mapElem/mine/elem71_stand.img
-                    - [ ] data/object/mapElem/mine/elem72_stand.img
-                    - [ ] data/object/mapElem/mine/elem73_stand.img
-                    - [ ] data/object/mapElem/mine/elem74_stand.img
-                    - [ ] data/object/mapElem/mine/elem75_stand.img
-                    - [ ] data/object/mapElem/mine/elem76_stand.img
-                    - [ ] data/object/mapElem/mine/elem77_stand.img
-                    - [ ] data/object/mapElem/mine/elem78_stand.img
-                    - [ ] data/object/mapElem/mine/elem79_stand.img
-                    - [ ] data/object/mapElem/mine/elem7_stand.img
-                    - [ ] data/object/mapElem/mine/elem80_stand.img
-                    - [ ] data/object/mapElem/mine/elem81_stand.img
-                    - [ ] data/object/mapElem/mine/elem82_stand.img
-                    - [ ] data/object/mapElem/mine/elem83_stand.img
-                    - [ ] data/object/mapElem/mine/elem84_stand.img
-                    - [ ] data/object/mapElem/mine/elem8_die.img
-                    - [ ] data/object/mapElem/mine/elem8_stand.img
-                    - [ ] data/object/mapElem/mine/elem9_stand.img
-                - [ ] data/object/mapElem/pig
-                    - [ ] data/object/mapElem/pig/elem10_die.img
-                    - [ ] data/object/mapElem/pig/elem10_stand.img
-                    - [ ] data/object/mapElem/pig/elem11_die.img
-                    - [ ] data/object/mapElem/pig/elem11_stand.img
-                    - [ ] data/object/mapElem/pig/elem12_die.img
-                    - [ ] data/object/mapElem/pig/elem12_stand.img
-                    - [ ] data/object/mapElem/pig/elem13_stand.img
-                    - [ ] data/object/mapElem/pig/elem13_trigger.img
-                    - [ ] data/object/mapElem/pig/elem14_stand.img
-                    - [ ] data/object/mapElem/pig/elem1_stand.img
-                    - [ ] data/object/mapElem/pig/elem2_stand.img
-                    - [ ] data/object/mapElem/pig/elem3_stand.img
-                    - [ ] data/object/mapElem/pig/elem4_stand.img
-                    - [ ] data/object/mapElem/pig/elem5_stand.img
-                    - [ ] data/object/mapElem/pig/elem6_stand.img
-                    - [ ] data/object/mapElem/pig/elem7_stand.img
-                    - [ ] data/object/mapElem/pig/elem7_trigger.img
-                    - [ ] data/object/mapElem/pig/elem8_stand.img
-                    - [ ] data/object/mapElem/pig/elem8_trigger.img
-                    - [ ] data/object/mapElem/pig/elem9_stand.img
-                - [ ] data/object/mapElem/practice
-                    - [ ] data/object/mapElem/practice/elem10_stand.img
-                    - [ ] data/object/mapElem/practice/elem10_trigger.img
-                    - [ ] data/object/mapElem/practice/elem11_stand.img
-                    - [ ] data/object/mapElem/practice/elem12_stand.img
-                    - [ ] data/object/mapElem/practice/elem13_stand.img
-                    - [ ] data/object/mapElem/practice/elem14_die.img
-                    - [ ] data/object/mapElem/practice/elem14_stand.img
-                    - [ ] data/object/mapElem/practice/elem15_stand.img
-                    - [ ] data/object/mapElem/practice/elem16_stand.img
-                    - [ ] data/object/mapElem/practice/elem17_die.img
-                    - [ ] data/object/mapElem/practice/elem17_stand.img
-                    - [ ] data/object/mapElem/practice/elem18_stand.img
-                    - [ ] data/object/mapElem/practice/elem19_stand.img
-                    - [ ] data/object/mapElem/practice/elem1_stand.img
-                    - [ ] data/object/mapElem/practice/elem20_die.img
-                    - [ ] data/object/mapElem/practice/elem20_stand.img
-                    - [ ] data/object/mapElem/practice/elem21_stand.img
-                    - [ ] data/object/mapElem/practice/elem23_stand.img
-                    - [ ] data/object/mapElem/practice/elem2_die.img
-                    - [ ] data/object/mapElem/practice/elem2_stand.img
-                    - [ ] data/object/mapElem/practice/elem3_die.img
-                    - [ ] data/object/mapElem/practice/elem3_stand.img
-                    - [ ] data/object/mapElem/practice/elem4_die.img
-                    - [ ] data/object/mapElem/practice/elem4_stand.img
-                    - [ ] data/object/mapElem/practice/elem5_stand.img
-                    - [ ] data/object/mapElem/practice/elem6_stand.img
-                    - [ ] data/object/mapElem/practice/elem7_stand.img
-                    - [ ] data/object/mapElem/practice/elem8_stand.img
-                    - [ ] data/object/mapElem/practice/elem9_stand.img
-                - [ ] data/object/mapElem/pve
-                    - [ ] data/object/mapElem/pve/elem101_stand.img
-                    - [ ] data/object/mapElem/pve/elem102_stand.img
-                    - [ ] data/object/mapElem/pve/elem103_stand.img
-                    - [ ] data/object/mapElem/pve/elem104_stand.img
-                    - [ ] data/object/mapElem/pve/elem105_stand.img
-                    - [ ] data/object/mapElem/pve/elem106_stand.img
-                    - [ ] data/object/mapElem/pve/elem107_stand.img
-                    - [ ] data/object/mapElem/pve/elem108_stand.img
-                    - [ ] data/object/mapElem/pve/elem109_stand.img
-                    - [ ] data/object/mapElem/pve/elem111_stand.img
-                    - [ ] data/object/mapElem/pve/elem112_stand.img
-                    - [ ] data/object/mapElem/pve/elem120_stand.img
-                    - [ ] data/object/mapElem/pve/elem121_stand.img
-                    - [ ] data/object/mapElem/pve/elem122_stand.img
-                    - [ ] data/object/mapElem/pve/elem201_stand.img
-                    - [ ] data/object/mapElem/pve/elem202_stand.img
-                    - [ ] data/object/mapElem/pve/elem203_stand.img
-                    - [ ] data/object/mapElem/pve/elem204_stand.img
-                    - [ ] data/object/mapElem/pve/elem205_stand.img
-                    - [ ] data/object/mapElem/pve/elem206_stand.img
-                    - [ ] data/object/mapElem/pve/elem207_stand.img
-                    - [ ] data/object/mapElem/pve/elem208_stand.img
-                    - [ ] data/object/mapElem/pve/elem209_stand.img
-                    - [ ] data/object/mapElem/pve/elem20_stand.img
-                    - [ ] data/object/mapElem/pve/elem210_stand.img
-                    - [ ] data/object/mapElem/pve/elem211_stand.img
-                    - [ ] data/object/mapElem/pve/elem212_stand.img
-                    - [ ] data/object/mapElem/pve/elem213_stand.img
-                    - [ ] data/object/mapElem/pve/elem214_stand.img
-                    - [ ] data/object/mapElem/pve/elem215_stand.img
-                    - [ ] data/object/mapElem/pve/elem216_stand.img
-                    - [ ] data/object/mapElem/pve/elem217_stand.img
-                    - [ ] data/object/mapElem/pve/elem218_stand.img
-                    - [ ] data/object/mapElem/pve/elem219_stand.img
-                    - [ ] data/object/mapElem/pve/elem21_stand.img
-                    - [ ] data/object/mapElem/pve/elem220_stand.img
-                    - [ ] data/object/mapElem/pve/elem221_stand.img
-                    - [ ] data/object/mapElem/pve/elem222_stand.img
-                    - [ ] data/object/mapElem/pve/elem223_stand.img
-                    - [ ] data/object/mapElem/pve/elem224_stand.img
-                    - [ ] data/object/mapElem/pve/elem225_stand.img
-                    - [ ] data/object/mapElem/pve/elem226_stand.img
-                    - [ ] data/object/mapElem/pve/elem227_stand.img
-                    - [ ] data/object/mapElem/pve/elem228_stand.img
-                    - [ ] data/object/mapElem/pve/elem229_stand.img
-                    - [ ] data/object/mapElem/pve/elem22_stand.img
-                    - [ ] data/object/mapElem/pve/elem230_stand.img
-                    - [ ] data/object/mapElem/pve/elem231_stand.img
-                    - [ ] data/object/mapElem/pve/elem232_stand.img
-                    - [ ] data/object/mapElem/pve/elem233_stand.img
-                    - [ ] data/object/mapElem/pve/elem234_stand.img
-                    - [ ] data/object/mapElem/pve/elem235_stand.img
-                    - [ ] data/object/mapElem/pve/elem236_stand.img
-                    - [ ] data/object/mapElem/pve/elem237_stand.img
-                    - [ ] data/object/mapElem/pve/elem238_stand.img
-                    - [ ] data/object/mapElem/pve/elem239_stand.img
-                    - [ ] data/object/mapElem/pve/elem23_stand.img
-                    - [ ] data/object/mapElem/pve/elem240_stand.img
-                    - [ ] data/object/mapElem/pve/elem241_stand.img
-                    - [ ] data/object/mapElem/pve/elem242_stand.img
-                    - [ ] data/object/mapElem/pve/elem243_stand.img
-                    - [ ] data/object/mapElem/pve/elem244_stand.img
-                    - [ ] data/object/mapElem/pve/elem245_stand.img
-                    - [ ] data/object/mapElem/pve/elem246_stand.img
-                    - [ ] data/object/mapElem/pve/elem247_stand.img
-                    - [ ] data/object/mapElem/pve/elem248_stand.img
-                    - [ ] data/object/mapElem/pve/elem249_stand.img
-                    - [ ] data/object/mapElem/pve/elem24_stand.img
-                    - [ ] data/object/mapElem/pve/elem250_stand.img
-                    - [ ] data/object/mapElem/pve/elem251_stand.img
-                    - [ ] data/object/mapElem/pve/elem252_stand.img
-                    - [ ] data/object/mapElem/pve/elem253_stand.img
-                    - [ ] data/object/mapElem/pve/elem254_stand.img
-                    - [ ] data/object/mapElem/pve/elem255_stand.img
-                    - [ ] data/object/mapElem/pve/elem256_stand.img
-                    - [ ] data/object/mapElem/pve/elem257_stand.img
-                    - [ ] data/object/mapElem/pve/elem258_stand.img
-                    - [ ] data/object/mapElem/pve/elem259_stand.img
-                    - [ ] data/object/mapElem/pve/elem25_stand.img
-                    - [ ] data/object/mapElem/pve/elem260_stand.img
-                    - [ ] data/object/mapElem/pve/elem261_stand.img
-                    - [ ] data/object/mapElem/pve/elem262_stand.img
-                    - [ ] data/object/mapElem/pve/elem263_stand.img
-                    - [ ] data/object/mapElem/pve/elem264_stand.img
-                    - [ ] data/object/mapElem/pve/elem265_stand.img
-                    - [ ] data/object/mapElem/pve/elem266_stand.img
-                    - [ ] data/object/mapElem/pve/elem267_stand.img
-                    - [ ] data/object/mapElem/pve/elem268_stand.img
-                    - [ ] data/object/mapElem/pve/elem269_stand.img
-                    - [ ] data/object/mapElem/pve/elem26_stand.img
-                    - [ ] data/object/mapElem/pve/elem270_stand.img
-                    - [ ] data/object/mapElem/pve/elem271_stand.img
-                    - [ ] data/object/mapElem/pve/elem272_stand.img
-                    - [ ] data/object/mapElem/pve/elem273_stand.img
-                    - [ ] data/object/mapElem/pve/elem27_stand.img
-                    - [ ] data/object/mapElem/pve/elem28_stand.img
-                    - [ ] data/object/mapElem/pve/elem2_stand.img
-                    - [ ] data/object/mapElem/pve/elem3_stand.img
-                    - [ ] data/object/mapElem/pve/elem401_stand.img
-                    - [ ] data/object/mapElem/pve/elem402_stand.img
-                    - [ ] data/object/mapElem/pve/elem403_stand.img
-                    - [ ] data/object/mapElem/pve/elem404_stand.img
-                    - [ ] data/object/mapElem/pve/elem405_stand.img
-                    - [ ] data/object/mapElem/pve/elem406_stand.img
-                    - [ ] data/object/mapElem/pve/elem407_stand.img
-                    - [ ] data/object/mapElem/pve/elem408_stand.img
-                    - [ ] data/object/mapElem/pve/elem409_stand.img
-                    - [ ] data/object/mapElem/pve/elem410_stand.img
-                    - [ ] data/object/mapElem/pve/elem411_stand.img
-                    - [ ] data/object/mapElem/pve/elem412_stand.img
-                    - [ ] data/object/mapElem/pve/elem413_stand.img
-                    - [ ] data/object/mapElem/pve/elem4_stand.img
-                    - [ ] data/object/mapElem/pve/elem5_stand.img
-                    - [ ] data/object/mapElem/pve/elem6_stand.img
-                    - [ ] data/object/mapElem/pve/elem7_stand.img
-                    - [ ] data/object/mapElem/pve/elem8_stand.img
-                    - [ ] data/object/mapElem/pve/elem9_stand.img
-                - [ ] data/object/mapElem/sculpture
-                    - [ ] data/object/mapElem/sculpture/Bomb9_stand.img
-                    - [ ] data/object/mapElem/sculpture/elem10_stand.img
-                    - [ ] data/object/mapElem/sculpture/elem11_stand.img
-                    - [ ] data/object/mapElem/sculpture/elem11_trigger.img
-                    - [ ] data/object/mapElem/sculpture/elem12_stand.img
-                    - [ ] data/object/mapElem/sculpture/elem12_trigger.img
-                    - [ ] data/object/mapElem/sculpture/elem1_stand.img
-                    - [ ] data/object/mapElem/sculpture/elem20_die.img
-                    - [ ] data/object/mapElem/sculpture/elem20_stand.img
-                    - [ ] data/object/mapElem/sculpture/elem21_die.img
-                    - [ ] data/object/mapElem/sculpture/elem21_stand.img
-                    - [ ] data/object/mapElem/sculpture/elem22_stand.img
-                    - [ ] data/object/mapElem/sculpture/elem2_die.img
-                    - [ ] data/object/mapElem/sculpture/elem2_stand.img
-                    - [ ] data/object/mapElem/sculpture/elem3_die.img
-                    - [ ] data/object/mapElem/sculpture/elem3_stand.img
-                    - [ ] data/object/mapElem/sculpture/elem4_die.img
-                    - [ ] data/object/mapElem/sculpture/elem4_stand.img
-                    - [ ] data/object/mapElem/sculpture/elem5_stand.img
-                    - [ ] data/object/mapElem/sculpture/elem6_stand.img
-                    - [ ] data/object/mapElem/sculpture/elem7_stand.img
-                    - [ ] data/object/mapElem/sculpture/elem8_stand.img
-                    - [ ] data/object/mapElem/sculpture/elem9_stand.img
-                - [ ] data/object/mapElem/snow
-                    - [ ] data/object/mapElem/snow/elem11_stand.img
-                    - [ ] data/object/mapElem/snow/elem11_trigger.img
-                    - [ ] data/object/mapElem/snow/elem12_die.img
-                    - [ ] data/object/mapElem/snow/elem12_stand.img
-                    - [ ] data/object/mapElem/snow/elem13_stand.img
-                    - [ ] data/object/mapElem/snow/elem14_stand.img
-                    - [ ] data/object/mapElem/snow/elem15_die.img
-                    - [ ] data/object/mapElem/snow/elem15_stand.img
-                    - [ ] data/object/mapElem/snow/elem16_stand.img
-                    - [ ] data/object/mapElem/snow/elem17_stand.img
-                    - [ ] data/object/mapElem/snow/elem18_stand.img
-                    - [ ] data/object/mapElem/snow/elem19_stand.img
-                    - [ ] data/object/mapElem/snow/elem1_stand.img
-                    - [ ] data/object/mapElem/snow/elem20_stand.img
-                    - [ ] data/object/mapElem/snow/elem21_stand.img
-                    - [ ] data/object/mapElem/snow/elem22_stand.img
-                    - [ ] data/object/mapElem/snow/elem23_stand.img
-                    - [ ] data/object/mapElem/snow/elem24_stand.img
-                    - [ ] data/object/mapElem/snow/elem25_stand.img
-                    - [ ] data/object/mapElem/snow/elem26_stand.img
-                    - [ ] data/object/mapElem/snow/elem27_stand.img
-                    - [ ] data/object/mapElem/snow/elem28_stand.img
-                    - [ ] data/object/mapElem/snow/elem29_stand.img
-                    - [ ] data/object/mapElem/snow/elem2_die.img
-                    - [ ] data/object/mapElem/snow/elem2_stand.img
-                    - [ ] data/object/mapElem/snow/elem30_stand.img
-                    - [ ] data/object/mapElem/snow/elem31_stand.img
-                    - [ ] data/object/mapElem/snow/elem32_stand.img
-                    - [ ] data/object/mapElem/snow/elem33_stand.img
-                    - [ ] data/object/mapElem/snow/elem34_stand.img
-                    - [ ] data/object/mapElem/snow/elem35_stand.img
-                    - [ ] data/object/mapElem/snow/elem36_stand.img
-                    - [ ] data/object/mapElem/snow/elem37_stand.img
-                    - [ ] data/object/mapElem/snow/elem38_stand.img
-                    - [ ] data/object/mapElem/snow/elem39_stand.img
-                    - [ ] data/object/mapElem/snow/elem3_die.img
-                    - [ ] data/object/mapElem/snow/elem3_stand.img
-                    - [ ] data/object/mapElem/snow/elem40_stand.img
-                    - [ ] data/object/mapElem/snow/elem41_stand.img
-                    - [ ] data/object/mapElem/snow/elem42_stand.img
-                    - [ ] data/object/mapElem/snow/elem43_stand.img
-                    - [ ] data/object/mapElem/snow/elem44_stand.img
-                    - [ ] data/object/mapElem/snow/elem45_stand.img
-                    - [ ] data/object/mapElem/snow/elem46_stand.img
-                    - [ ] data/object/mapElem/snow/elem47_stand.img
-                    - [ ] data/object/mapElem/snow/elem48_stand.img
-                    - [ ] data/object/mapElem/snow/elem49_stand.img
-                    - [ ] data/object/mapElem/snow/elem4_stand.img
-                    - [ ] data/object/mapElem/snow/elem4_trigger.img
-                    - [ ] data/object/mapElem/snow/elem5_stand.img
-                    - [ ] data/object/mapElem/snow/elem5_trigger.img
-                    - [ ] data/object/mapElem/snow/elem6_stand.img
-                    - [ ] data/object/mapElem/snow/elem7_stand.img
-                    - [ ] data/object/mapElem/snow/elem8_stand.img
-                - [ ] data/object/mapElem/tank
-                    - [ ] data/object/mapElem/tank/elem30_stand.img
-                    - [ ] data/object/mapElem/tank/elem31_stand.img
-                    - [ ] data/object/mapElem/tank/elem32_stand.img
-                    - [ ] data/object/mapElem/tank/elem32_trigger.img
-                    - [ ] data/object/mapElem/tank/elem33_die.img
-                    - [ ] data/object/mapElem/tank/elem33_stand.img
-                    - [ ] data/object/mapElem/tank/elem34_die.img
-                    - [ ] data/object/mapElem/tank/elem34_stand.img
-                    - [ ] data/object/mapElem/tank/elem35_stand.img
-                    - [ ] data/object/mapElem/tank/elem36_stand.img
-                    - [ ] data/object/mapElem/tank/elem37_stand.img
-                    - [ ] data/object/mapElem/tank/elem38_die.img
-                    - [ ] data/object/mapElem/tank/elem38_stand.img
-                    - [ ] data/object/mapElem/tank/elem39_stand.img
-                    - [ ] data/object/mapElem/tank/elem40_stand.img
-                    - [ ] data/object/mapElem/tank/elem41_die.img
-                    - [ ] data/object/mapElem/tank/elem41_stand.img
-                    - [ ] data/object/mapElem/tank/elem42_die.img
-                    - [ ] data/object/mapElem/tank/elem42_stand.img
-                    - [ ] data/object/mapElem/tank/elem43_die.img
-                    - [ ] data/object/mapElem/tank/elem43_stand.img
-                    - [ ] data/object/mapElem/tank/elem44_stand.img
-                    - [ ] data/object/mapElem/tank/elem44_trigger.img
-                    - [ ] data/object/mapElem/tank/elem45_stand.img
-                    - [ ] data/object/mapElem/tank/elem46_stand.img
-                    - [ ] data/object/mapElem/tank/elem47_stand.img
-                    - [ ] data/object/mapElem/tank/elem48_stand.img
-                    - [ ] data/object/mapElem/tank/elem49_stand.img
-                    - [ ] data/object/mapElem/tank/elem50_stand.img
-                    - [ ] data/object/mapElem/tank/elem51_stand.img
-                    - [ ] data/object/mapElem/tank/elem52_stand.img
-                    - [ ] data/object/mapElem/tank/elem53_stand.img
-                    - [ ] data/object/mapElem/tank/elem54_stand.img
-                - [ ] data/object/mapElem/town
-                    - [ ] data/object/mapElem/town/elem10_stand.img
-                    - [ ] data/object/mapElem/town/elem11_stand.img
-                    - [ ] data/object/mapElem/town/elem120_stand.img
-                    - [ ] data/object/mapElem/town/elem121_stand.img
-                    - [ ] data/object/mapElem/town/elem122_stand.img
-                    - [ ] data/object/mapElem/town/elem12_stand.img
-                    - [ ] data/object/mapElem/town/elem13_stand.img
-                    - [ ] data/object/mapElem/town/elem14_die.img
-                    - [ ] data/object/mapElem/town/elem14_stand.img
-                    - [ ] data/object/mapElem/town/elem15_die.img
-                    - [ ] data/object/mapElem/town/elem15_stand.img
-                    - [ ] data/object/mapElem/town/elem17_die.img
-                    - [ ] data/object/mapElem/town/elem17_stand.img
-                    - [ ] data/object/mapElem/town/elem18_die.img
-                    - [ ] data/object/mapElem/town/elem18_stand.img
-                    - [ ] data/object/mapElem/town/elem19_stand.img
-                    - [ ] data/object/mapElem/town/elem1_stand.img
-                    - [ ] data/object/mapElem/town/elem20_stand.img
-                    - [ ] data/object/mapElem/town/elem22_stand.img
-                    - [ ] data/object/mapElem/town/elem23_stand.img
-                    - [ ] data/object/mapElem/town/elem24_stand.img
-                    - [ ] data/object/mapElem/town/elem25_stand.img
-                    - [ ] data/object/mapElem/town/elem26_stand.img
-                    - [ ] data/object/mapElem/town/elem2_stand.img
-                    - [ ] data/object/mapElem/town/elem3_stand.img
-                    - [ ] data/object/mapElem/town/elem4_die.img
-                    - [ ] data/object/mapElem/town/elem4_stand.img
-                    - [ ] data/object/mapElem/town/elem50_stand.img
-                    - [ ] data/object/mapElem/town/elem51_stand.img
-                    - [ ] data/object/mapElem/town/elem52_stand.img
-                    - [ ] data/object/mapElem/town/elem53_stand.img
-                    - [ ] data/object/mapElem/town/elem54_die.img
-                    - [ ] data/object/mapElem/town/elem54_stand.img
-                    - [ ] data/object/mapElem/town/elem55_die.img
-                    - [ ] data/object/mapElem/town/elem55_stand.img
-                    - [ ] data/object/mapElem/town/elem56_die.img
-                    - [ ] data/object/mapElem/town/elem56_stand.img
-                    - [ ] data/object/mapElem/town/elem57_stand.img
-                    - [ ] data/object/mapElem/town/elem58_stand.img
-                    - [ ] data/object/mapElem/town/elem59_stand.img
-                    - [ ] data/object/mapElem/town/elem5_stand.img
-                    - [ ] data/object/mapElem/town/elem5_trigger.img
-                    - [ ] data/object/mapElem/town/elem60_stand.img
-                    - [ ] data/object/mapElem/town/elem61_stand.img
-                    - [ ] data/object/mapElem/town/elem6_stand.img
-                    - [ ] data/object/mapElem/town/elem7_stand.img
-                    - [ ] data/object/mapElem/town/elem8_stand.img
-                    - [ ] data/object/mapElem/town/elem9_stand.img
-                - [ ] data/object/mapElem/treasure
-                    - [ ] data/object/mapElem/treasure/elem10_stand.img
-                    - [ ] data/object/mapElem/treasure/elem11_stand.img
-                    - [ ] data/object/mapElem/treasure/elem12_stand.img
-                    - [ ] data/object/mapElem/treasure/elem13_stand.img
-                    - [ ] data/object/mapElem/treasure/elem14_stand.img
-                    - [ ] data/object/mapElem/treasure/elem14_trigger.img
-                    - [ ] data/object/mapElem/treasure/elem15_stand.img
-                    - [ ] data/object/mapElem/treasure/elem16_stand.img
-                    - [ ] data/object/mapElem/treasure/elem17_stand.img
-                    - [ ] data/object/mapElem/treasure/elem1_stand.img
-                    - [ ] data/object/mapElem/treasure/elem2_stand.img
-                    - [ ] data/object/mapElem/treasure/elem3_stand.img
-                    - [ ] data/object/mapElem/treasure/elem4_stand.img
-                    - [ ] data/object/mapElem/treasure/elem5_die.img
-                    - [ ] data/object/mapElem/treasure/elem5_stand.img
-                    - [ ] data/object/mapElem/treasure/elem6_stand.img
-                    - [ ] data/object/mapElem/treasure/elem7_die.img
-                    - [ ] data/object/mapElem/treasure/elem7_stand.img
-                    - [ ] data/object/mapElem/treasure/elem8_die.img
-                    - [ ] data/object/mapElem/treasure/elem8_stand.img
-                    - [ ] data/object/mapElem/treasure/elem9_stand.img
-                - [ ] data/object/mapElem/water
-                    - [ ] data/object/mapElem/water/elem10_stand.img
-                    - [ ] data/object/mapElem/water/elem10_trigger.img
-                    - [ ] data/object/mapElem/water/elem11_stand.img
-                    - [ ] data/object/mapElem/water/elem12_stand.img
-                    - [ ] data/object/mapElem/water/elem13_stand.img
-                    - [ ] data/object/mapElem/water/elem14_die.img
-                    - [ ] data/object/mapElem/water/elem14_stand.img
-                    - [ ] data/object/mapElem/water/elem15_stand.img
-                    - [ ] data/object/mapElem/water/elem16_stand.img
-                    - [ ] data/object/mapElem/water/elem17_die.img
-                    - [ ] data/object/mapElem/water/elem17_stand.img
-                    - [ ] data/object/mapElem/water/elem18_stand.img
-                    - [ ] data/object/mapElem/water/elem19_stand.img
-                    - [ ] data/object/mapElem/water/elem1_stand.img
-                    - [ ] data/object/mapElem/water/elem20_stand.img
-                    - [ ] data/object/mapElem/water/elem20_trigger.img
-                    - [ ] data/object/mapElem/water/elem21_stand.img
-                    - [ ] data/object/mapElem/water/elem21_trigger.img
-                    - [ ] data/object/mapElem/water/elem22_stand.img
-                    - [ ] data/object/mapElem/water/elem22_trigger.img
-                    - [ ] data/object/mapElem/water/elem23_stand.img
-                    - [ ] data/object/mapElem/water/elem23_trigger.img
-                    - [ ] data/object/mapElem/water/elem24_die.img
-                    - [ ] data/object/mapElem/water/elem24_stand.img
-                    - [ ] data/object/mapElem/water/elem25_die.img
-                    - [ ] data/object/mapElem/water/elem25_stand.img
-                    - [ ] data/object/mapElem/water/elem26_die.img
-                    - [ ] data/object/mapElem/water/elem26_stand.img
-                    - [ ] data/object/mapElem/water/elem27_stand.img
-                    - [ ] data/object/mapElem/water/elem28_stand.img
-                    - [ ] data/object/mapElem/water/elem29_die.img
-                    - [ ] data/object/mapElem/water/elem29_stand.img
-                    - [ ] data/object/mapElem/water/elem2_die.img
-                    - [ ] data/object/mapElem/water/elem2_stand.img
-                    - [ ] data/object/mapElem/water/elem30_stand.img
-                    - [ ] data/object/mapElem/water/elem34_stand.img
-                    - [ ] data/object/mapElem/water/elem34_trigger.img
-                    - [ ] data/object/mapElem/water/elem35_stand.img
-                    - [ ] data/object/mapElem/water/elem36_stand.img
-                    - [ ] data/object/mapElem/water/elem37_stand.img
-                    - [ ] data/object/mapElem/water/elem3_die.img
-                    - [ ] data/object/mapElem/water/elem3_stand.img
-                    - [ ] data/object/mapElem/water/elem4_die.img
-                    - [ ] data/object/mapElem/water/elem4_stand.img
-                    - [ ] data/object/mapElem/water/elem5_stand.img
-                    - [ ] data/object/mapElem/water/elem6_stand.img
-                    - [ ] data/object/mapElem/water/elem7_stand.img
-                    - [ ] data/object/mapElem/water/elem8_stand.img
-                    - [ ] data/object/mapElem/water/elem9_stand.img
-            - [ ] data/object/misc
-                - [ ] data/object/misc/misc101_stand.img
-                - [ ] data/object/misc/misc1101_stand.img
-                - [ ] data/object/misc/misc1102_stand.img
-                - [ ] data/object/misc/misc111_die.img
-                - [ ] data/object/misc/misc111_stand.img
-                - [ ] data/object/misc/misc111_trigger.img
-                - [ ] data/object/misc/misc1201_stand.img
-                - [ ] data/object/misc/misc1202_stand.img
-                - [ ] data/object/misc/misc1203_stand.img
-                - [ ] data/object/misc/misc1204_stand.img
-                - [ ] data/object/misc/misc1205_stand.img
-                - [ ] data/object/misc/misc121_stand.img
-                - [ ] data/object/misc/misc1301_stand.img
-                - [ ] data/object/misc/misc1302_stand.img
-                - [ ] data/object/misc/misc1303_stand.img
-                - [ ] data/object/misc/misc1304_stand.img
-                - [ ] data/object/misc/misc1305_stand.img
-                - [ ] data/object/misc/misc131_stand.img
-                - [ ] data/object/misc/misc1401_stand.img
-                - [ ] data/object/misc/misc1402_stand.img
-                - [ ] data/object/misc/misc1403_stand.img
-                - [ ] data/object/misc/misc1404_stand.img
-                - [ ] data/object/misc/misc141_stand.img
-                - [ ] data/object/misc/misc142_stand.img
-                - [ ] data/object/misc/misc143_stand.img
-                - [ ] data/object/misc/misc144_stand.img
-                - [ ] data/object/misc/misc145_stand.img
-                - [ ] data/object/misc/misc146_stand.img
-                - [ ] data/object/misc/misc147_stand.img
-                - [ ] data/object/misc/misc148_stand.img
-                - [ ] data/object/misc/misc151_stand.img
-                - [ ] data/object/misc/misc151_trigger.img
-                - [ ] data/object/misc/misc152_stand.img
-                - [ ] data/object/misc/misc152_trigger.img
-                - [ ] data/object/misc/misc161_stand.img
-                - [ ] data/object/misc/misc162_stand.img
-                - [ ] data/object/misc/misc163_stand.img
-                - [ ] data/object/misc/misc164_stand.img
-                - [ ] data/object/misc/misc165_stand.img
-                - [ ] data/object/misc/misc165_trigger.img
-                - [ ] data/object/misc/misc166_stand.img
-                - [ ] data/object/misc/misc166_trigger.img
-                - [ ] data/object/misc/misc167_stand.img
-                - [ ] data/object/misc/misc167_trigger.img
-                - [ ] data/object/misc/misc168_stand.img
-                - [ ] data/object/misc/misc168_trigger.img
-                - [ ] data/object/misc/misc1701_stand.img
-                - [ ] data/object/misc/misc1702_stand.img
-                - [ ] data/object/misc/misc1703_stand.img
-                - [ ] data/object/misc/misc1704_stand.img
-                - [ ] data/object/misc/misc171_stand.img
-                - [ ] data/object/misc/misc172_stand.img
-                - [ ] data/object/misc/misc177_stand.img
-                - [ ] data/object/misc/misc178_stand.img
-                - [ ] data/object/misc/misc179_stand.img
-                - [ ] data/object/misc/misc1801_stand.img
-                - [ ] data/object/misc/misc1802_stand.img
-                - [ ] data/object/misc/misc1803_stand.img
-                - [ ] data/object/misc/misc1804_stand.img
-                - [ ] data/object/misc/misc181_stand.img
-                - [ ] data/object/misc/misc191_stand.img
-                - [ ] data/object/misc/misc192_stand.img
-                - [ ] data/object/misc/misc193_stand.img
-                - [ ] data/object/misc/misc194_stand.img
-                - [ ] data/object/misc/misc195_stand.img
-                - [ ] data/object/misc/misc196_stand.img
-                - [ ] data/object/misc/misc197_stand.img
-                - [ ] data/object/misc/misc198_stand.img
-                - [ ] data/object/misc/misc199_stand.img
-                - [ ] data/object/misc/misc2000_stand.img
-                - [ ] data/object/misc/misc200_stand.img
-                - [ ] data/object/misc/misc201_stand.img
-                - [ ] data/object/misc/misc211_stand.img
-                - [ ] data/object/misc/misc212_stand.img
-                - [ ] data/object/misc/misc213_stand.img
-                - [ ] data/object/misc/Misc221_stand.img
-                - [ ] data/object/misc/Misc222_stand.img
-                - [ ] data/object/misc/Misc223_stand.img
-                - [ ] data/object/misc/Misc223_trigger.img
-                - [ ] data/object/misc/Misc224_stand.img
-                - [ ] data/object/misc/Misc224_trigger.img
-                - [ ] data/object/misc/Misc225_stand.img
-                - [ ] data/object/misc/Misc225_trigger.img
-                - [ ] data/object/misc/Misc226_stand.img
-                - [ ] data/object/misc/Misc226_trigger.img
-                - [ ] data/object/misc/Misc227_stand.img
-                - [ ] data/object/misc/Misc227_trigger.img
-                - [ ] data/object/misc/Misc228_stand.img
-                - [ ] data/object/misc/Misc228_trigger.img
-                - [ ] data/object/misc/misc229_stand.img
-                - [ ] data/object/misc/misc229_trigger.img
-                - [ ] data/object/misc/Misc231_stand.img
-                - [ ] data/object/misc/Misc232_stand.img
-                - [ ] data/object/misc/Misc233_stand.img
-                - [ ] data/object/misc/Misc234_stand.img
-                - [ ] data/object/misc/Misc235_stand.img
-                - [ ] data/object/misc/Misc236_stand.img
-                - [ ] data/object/misc/Misc237_stand.img
-                - [ ] data/object/misc/Misc238_stand.img
-                - [ ] data/object/misc/Misc239_stand.img
-                - [ ] data/object/misc/Misc240_stand.img
-                - [ ] data/object/misc/Misc241_stand.img
-                - [ ] data/object/misc/misc242_stand.img
-                - [ ] data/object/misc/Misc243_stand.img
-                - [ ] data/object/misc/Misc244_stand.img
-                - [ ] data/object/misc/Misc245_stand.img
-                - [ ] data/object/misc/Misc246_stand.img
-                - [ ] data/object/misc/misc250_stand.img
-                - [ ] data/object/misc/misc251_stand.img
-                - [ ] data/object/misc/misc252_stand.img
-                - [ ] data/object/misc/misc253_stand.img
-                - [ ] data/object/misc/misc254_stand.img
-                - [ ] data/object/misc/misc255_stand.img
-                - [ ] data/object/misc/misc256_stand.img
-                - [ ] data/object/misc/misc257_stand.img
-                - [ ] data/object/misc/misc258_stand.img
-                - [ ] data/object/misc/misc259_stand.img
-                - [ ] data/object/misc/misc260_stand.img
-                - [ ] data/object/misc/misc261_stand.img
-                - [ ] data/object/misc/misc262_stand.img
-                - [ ] data/object/misc/misc263_stand.img
-                - [ ] data/object/misc/misc264_stand.img
-                - [ ] data/object/misc/misc265_stand.img
-                - [ ] data/object/misc/misc266_stand.img
-                - [ ] data/object/misc/misc267_stand.img
-                - [ ] data/object/misc/misc268_stand.img
-                - [ ] data/object/misc/misc269_stand.img
-                - [ ] data/object/misc/misc270_stand.img
-                - [ ] data/object/misc/misc271_stand.img
-                - [ ] data/object/misc/misc272_stand.img
-                - [ ] data/object/misc/misc280_stand.img
-                - [ ] data/object/misc/misc290_stand.img
-                - [ ] data/object/misc/misc291_stand.img
-                - [ ] data/object/misc/misc292_stand.img
-                - [ ] data/object/misc/misc293_stand.img
-                - [ ] data/object/misc/misc294_stand.img
-                - [ ] data/object/misc/misc295_stand.img
-                - [ ] data/object/misc/misc296_stand.img
-                - [ ] data/object/misc/misc297_stand.img
-                - [ ] data/object/misc/misc299_stand.img
-                - [ ] data/object/misc/misc300_stand.img
-                - [ ] data/object/misc/misc301_stand.img
-                - [ ] data/object/misc/misc302_stand.img
-                - [ ] data/object/misc/misc303_stand.img
-                - [ ] data/object/misc/misc304_stand.img
-                - [ ] data/object/misc/misc305_stand.img
-                - [ ] data/object/misc/misc306_stand.img
-                - [ ] data/object/misc/misc307_stand.img
-                - [ ] data/object/misc/misc308_stand.img
-                - [ ] data/object/misc/misc309_stand.img
-                - [ ] data/object/misc/misc310_stand.img
-                - [ ] data/object/misc/misc311_stand.img
-                - [ ] data/object/misc/misc312_stand.img
-                - [ ] data/object/misc/misc313_stand.img
-                - [ ] data/object/misc/misc314_stand.img
-                - [ ] data/object/misc/misc315_stand.img
-                - [ ] data/object/misc/misc316_stand.img
-                - [ ] data/object/misc/misc317_stand.img
-                - [ ] data/object/misc/misc318_stand.img
-                - [ ] data/object/misc/misc319_stand.img
-                - [ ] data/object/misc/misc320_stand.img
-                - [ ] data/object/misc/misc321_stand.img
-                - [ ] data/object/misc/misc322_stand.img
-                - [ ] data/object/misc/misc350_stand.img
-                - [ ] data/object/misc/misc351_stand.img
-                - [ ] data/object/misc/misc352_stand.img
-                - [ ] data/object/misc/misc353_stand.img
-                - [ ] data/object/misc/misc354_stand.img
-                - [ ] data/object/misc/misc355_stand.img
-                - [ ] data/object/misc/misc356_stand.img
-                - [ ] data/object/misc/misc358_stand.img
-                - [ ] data/object/misc/misc359_stand.img
-                - [ ] data/object/misc/misc360_stand.img
-                - [ ] data/object/misc/misc361_stand.img
-                - [ ] data/object/misc/misc362_stand.img
-                - [ ] data/object/misc/misc363_stand.img
-                - [ ] data/object/misc/misc364_stand.img
-                - [ ] data/object/misc/misc365_stand.img
-                - [ ] data/object/misc/misc366_stand.img
-                - [ ] data/object/misc/misc367_stand.img
-                - [ ] data/object/misc/misc368_stand.img
-                - [ ] data/object/misc/misc369_stand.img
-                - [ ] data/object/misc/misc370_stand.img
-                - [ ] data/object/misc/misc371_stand.img
-                - [ ] data/object/misc/misc372_stand.img
-                - [ ] data/object/misc/misc373_stand.img
-                - [ ] data/object/misc/misc374_stand.img
-                - [ ] data/object/misc/misc375_stand.img
-                - [ ] data/object/misc/misc376_stand.img
-                - [ ] data/object/misc/misc381_stand.img
-                - [ ] data/object/misc/misc382_stand.img
-                - [ ] data/object/misc/misc383_stand.img
-                - [ ] data/object/misc/misc384_stand.img
-                - [ ] data/object/misc/misc385_stand.img
-                - [ ] data/object/misc/misc386_stand.img
-                - [ ] data/object/misc/misc387_stand.img
-                - [ ] data/object/misc/misc388_stand.img
-                - [ ] data/object/misc/misc389_stand.img
-                - [ ] data/object/misc/misc390_stand.img
-                - [ ] data/object/misc/misc391_stand.img
-                - [ ] data/object/misc/misc393_stand.img
-                - [ ] data/object/misc/misc394_stand.img
-                - [ ] data/object/misc/misc395_stand.img
-                - [ ] data/object/misc/misc396_stand.img
-                - [ ] data/object/misc/misc400_stand.img
-                - [ ] data/object/misc/misc401_stand.img
-                - [ ] data/object/misc/misc402_stand.img
-                - [ ] data/object/misc/misc410_stand.img
-                - [ ] data/object/misc/misc411_stand.img
-                - [ ] data/object/misc/misc412_stand.img
-                - [ ] data/object/misc/misc413_stand.img
-                - [ ] data/object/misc/misc421_stand.img
-                - [ ] data/object/misc/misc422_stand.img
-                - [ ] data/object/misc/misc423_stand.img
-                - [ ] data/object/misc/misc424_stand.img
-                - [ ] data/object/misc/misc425_stand.img
-                - [ ] data/object/misc/misc426_stand.img
-                - [ ] data/object/misc/misc427_stand.img
-                - [ ] data/object/misc/misc428_stand.img
-                - [ ] data/object/misc/misc429_stand.img
-                - [ ] data/object/misc/misc430_stand.img
-                - [ ] data/object/misc/misc431_stand.img
-                - [ ] data/object/misc/misc433_stand.img
-                - [ ] data/object/misc/misc434_stand.img
-                - [ ] data/object/misc/misc444_stand.img
-                - [ ] data/object/misc/misc448_stand.img
-                - [ ] data/object/misc/misc450_stand.img
-                - [ ] data/object/misc/misc460_stand.img
-                - [ ] data/object/misc/misc461_stand.img
-                - [ ] data/object/misc/misc462_stand.img
-                - [ ] data/object/misc/misc463_stand.img
-                - [ ] data/object/misc/misc470_stand.img
-                - [ ] data/object/misc/misc471_stand.img
-                - [ ] data/object/misc/misc472_stand.img
-                - [ ] data/object/misc/misc473_stand.img
-                - [ ] data/object/misc/misc474_stand.img
-                - [ ] data/object/misc/misc475_stand.img
-                - [ ] data/object/misc/misc480_stand.img
-                - [ ] data/object/misc/misc500_stand.img
-                - [ ] data/object/misc/misc501_stand.img
-                - [ ] data/object/misc/misc502_stand.img
-                - [ ] data/object/misc/misc503_stand.img
-                - [ ] data/object/misc/misc504_stand.img
-                - [ ] data/object/misc/misc505_stand.img
-                - [ ] data/object/misc/misc510_stand.img
-                - [ ] data/object/misc/misc511_stand.img
-                - [ ] data/object/misc/misc550_stand.img
-                - [ ] data/object/misc/misc600_stand.img
-                - [ ] data/object/misc/misc601_stand.img
-                - [ ] data/object/misc/misc602_stand.img
-                - [ ] data/object/misc/misc603_stand.img
-                - [ ] data/object/misc/misc604_stand.img
-                - [ ] data/object/misc/misc605_stand.img
-                - [ ] data/object/misc/misc606_stand.img
-                - [ ] data/object/misc/misc607_stand.img
-                - [ ] data/object/misc/misc608_stand.img
-                - [ ] data/object/misc/misc609_stand.img
-                - [ ] data/object/misc/misc610_stand.img
-                - [ ] data/object/misc/misc611_stand.img
-                - [ ] data/object/misc/misc612_stand.img
-                - [ ] data/object/misc/misc613_stand.img
-                - [ ] data/object/misc/misc614_stand.img
-                - [ ] data/object/misc/misc615_stand.img
-                - [ ] data/object/misc/misc616_stand.img
-                - [ ] data/object/misc/misc620_stand.img
-                - [ ] data/object/misc/misc621_stand.img
-                - [ ] data/object/misc/misc622_stand.img
-                - [ ] data/object/misc/misc623_stand.img
-                - [ ] data/object/misc/Misc623_trigger.img
-                - [ ] data/object/misc/misc624_stand.img
-                - [ ] data/object/misc/Misc624_trigger.img
-                - [ ] data/object/misc/misc625_stand.img
-                - [ ] data/object/misc/Misc625_trigger.img
-                - [ ] data/object/misc/misc626_stand.img
-                - [ ] data/object/misc/Misc626_trigger.img
-                - [ ] data/object/misc/misc627_stand.img
-                - [ ] data/object/misc/Misc627_trigger.img
-                - [ ] data/object/misc/misc628_stand.img
-                - [ ] data/object/misc/Misc628_trigger.img
-                - [ ] data/object/misc/misc629_stand.img
-                - [ ] data/object/misc/Misc629_trigger.img
-                - [ ] data/object/misc/misc630_stand.img
-                - [ ] data/object/misc/Misc630_trigger.img
-            - [ ] data/object/mouth
-                - [ ] data/object/mouth/mouth11501_stand.img
-                - [ ] data/object/mouth/mouth11501_walk.img
-            - [ ] data/object/npack
-                - [ ] data/object/npack/npack10101_stand.img
-                - [ ] data/object/npack/npack10101_walk.img
-                - [ ] data/object/npack/npack10301_stand.img
-                - [ ] data/object/npack/npack10301_walk.img
-                - [ ] data/object/npack/npack10601_stand.img
-                - [ ] data/object/npack/npack10601_stand_m.img
-                - [ ] data/object/npack/npack10601_walk.img
-                - [ ] data/object/npack/npack10601_walk_m.img
-            - [ ] data/object/pet
-                - [ ] data/object/pet/pet100_stand.img
-                - [ ] data/object/pet/pet100_walk.img
-            - [ ] data/object/thadorn
-                - [ ] data/object/thadorn/thadorn101_stand.img
-                - [ ] data/object/thadorn/thadorn101_walk.img
-                - [ ] data/object/thadorn/thadorn102_stand.img
-                - [ ] data/object/thadorn/thadorn102_walk.img
-                - [ ] data/object/thadorn/thadorn103_stand.img
-                - [ ] data/object/thadorn/thadorn103_walk.img
-                - [ ] data/object/thadorn/thadorn104_stand.img
-                - [ ] data/object/thadorn/thadorn104_walk.img
-                - [ ] data/object/thadorn/thadorn22_stand.img
-                - [ ] data/object/thadorn/thadorn22_walk.img
-                - [ ] data/object/thadorn/thadorn23_stand.img
-                - [ ] data/object/thadorn/thadorn23_walk.img
-            - [ ] data/object/ui
-                - [ ] data/object/ui/bg
-                    - [ ] data/object/ui/bg/bg_game.img
-                    - [ ] data/object/ui/bg/bg_logo.img
-                    - [ ] data/object/ui/bg/bg_room.img
-                    - [ ] data/object/ui/bg/bg_selRoom.img
-                    - [ ] data/object/ui/bg/bg_selSect.img
-                    - [ ] data/object/ui/bg/bg_shop.img
-                - [ ] data/object/ui/chat
-                    - [ ] data/object/ui/chat/btn_commandPrompt.img
-                    - [ ] data/object/ui/chat/btn_expression.img
-                    - [ ] data/object/ui/chat/btn_facemember.img
-                    - [ ] data/object/ui/chat/btn_facenormal.img
-                    - [ ] data/object/ui/chat/btn_ldspker_disable.img
-                    - [ ] data/object/ui/chat/btn_ldspker_pushdown.img
-                    - [ ] data/object/ui/chat/btn_send.img
-                    - [ ] data/object/ui/chat/btn_speaker.img
-                    - [ ] data/object/ui/chat/dlg_face.img
-                    - [ ] data/object/ui/chat/img_chatMenu.img
-                    - [ ] data/object/ui/chat/img_cmdChoose.img
-                    - [ ] data/object/ui/chat/img_commandPrompt.img
-                    - [ ] data/object/ui/chat/tab_integration.img
-                    - [ ] data/object/ui/chat/tab_kin.img
-                    - [ ] data/object/ui/chat/tab_whisper.img
-                - [ ] data/object/ui/chatRoom
-                    - [ ] data/object/ui/chatRoom/btn_cancel.img
-                    - [ ] data/object/ui/chatRoom/btn_chatConfirm.img
-                    - [ ] data/object/ui/chatRoom/btn_chatFlexDown.img
-                    - [ ] data/object/ui/chatRoom/btn_chatFlexUp.img
-                    - [ ] data/object/ui/chatRoom/btn_chatShop.img
-                    - [ ] data/object/ui/chatRoom/btn_kickOut.img
-                    - [ ] data/object/ui/chatRoom/btn_lookOver.img
-                    - [ ] data/object/ui/chatRoom/dlg_bgPreview.img
-                    - [ ] data/object/ui/chatRoom/dlg_chatAreaBig.img
-                    - [ ] data/object/ui/chatRoom/dlg_chatAreaSmall.img
-                    - [ ] data/object/ui/chatRoom/dlg_isKickOut.img
-                    - [ ] data/object/ui/chatRoom/dlg_mapFilterMask.img
-                - [ ] data/object/ui/common
-                    - [ ] data/object/ui/common/btn_agree.img
-                    - [ ] data/object/ui/common/btn_cancel.img
-                    - [ ] data/object/ui/common/btn_check.img
-                    - [ ] data/object/ui/common/btn_close.img
-                    - [ ] data/object/ui/common/btn_confirm.img
-                    - [ ] data/object/ui/common/btn_cross.img
-                    - [ ] data/object/ui/common/btn_leave.img
-                    - [ ] data/object/ui/common/btn_leavegame.img
-                    - [ ] data/object/ui/common/btn_left.img
-                    - [ ] data/object/ui/common/btn_next.img
-                    - [ ] data/object/ui/common/btn_quit.img
-                    - [ ] data/object/ui/common/btn_ratio.img
-                    - [ ] data/object/ui/common/btn_refuse.img
-                    - [ ] data/object/ui/common/btn_return.img
-                    - [ ] data/object/ui/common/btn_right.img
-                    - [ ] data/object/ui/common/dlg_msgBox.img
-                    - [ ] data/object/ui/common/dlg_setup.img
-                    - [ ] data/object/ui/common/img_chat.img
-                    - [ ] data/object/ui/common/img_tip.img
-                    - [ ] data/object/ui/common/number1.img
-                    - [ ] data/object/ui/common/number2.img
-                    - [ ] data/object/ui/common/number3.img
-                    - [ ] data/object/ui/common/number4.img
-                    - [ ] data/object/ui/common/number5.img
-                    - [ ] data/object/ui/common/number6.img
-                    - [ ] data/object/ui/common/numberMoney.img
-                    - [ ] data/object/ui/common/scl_block.img
-                    - [ ] data/object/ui/common/tip_new.img
-                - [ ] data/object/ui/cursor
-                    - [ ] data/object/ui/cursor/arror.img
-                    - [ ] data/object/ui/cursor/dianji.img
-                - [ ] data/object/ui/deal
-                    - [ ] data/object/ui/deal/AgreeBtn.img
-                    - [ ] data/object/ui/deal/bg_pawnshop.img
-                    - [ ] data/object/ui/deal/C2CDealPanel.img
-                    - [ ] data/object/ui/deal/cancelbtn.img
-                    - [ ] data/object/ui/deal/cancelhorizontal.img
-                    - [ ] data/object/ui/deal/commitbtn.img
-                    - [ ] data/object/ui/deal/commiteditem.img
-                    - [ ] data/object/ui/deal/commitpanel.img
-                    - [ ] data/object/ui/deal/confirmbtn.img
-                    - [ ] data/object/ui/deal/DisagreeBtn.img
-                    - [ ] data/object/ui/deal/LittleAgreeBtn.img
-                    - [ ] data/object/ui/deal/LittleRefuseBtn.img
-                    - [ ] data/object/ui/deal/lookuppetBtn.img
-                    - [ ] data/object/ui/deal/mystoragebtn.img
-                    - [ ] data/object/ui/deal/pawnedcancelBtn.img
-                    - [ ] data/object/ui/deal/pawnSettingPanel.img
-                    - [ ] data/object/ui/deal/RequestDealPanel.img
-                    - [ ] data/object/ui/deal/tab_pawned.img
-                    - [ ] data/object/ui/deal/tab_pawning.img
-                    - [ ] data/object/ui/deal/updateBtn.img
-                - [ ] data/object/ui/forge
-                    - [ ] data/object/ui/forge/btn_avatarforge.img
-                    - [ ] data/object/ui/forge/btn_avatarrevert.img
-                    - [ ] data/object/ui/forge/btn_avatarsplit.img
-                    - [ ] data/object/ui/forge/btn_forgeconfirm.img
-                    - [ ] data/object/ui/forge/btn_item.img
-                    - [ ] data/object/ui/forge/btn_startCompose.img
-                    - [ ] data/object/ui/forge/btn_startForge.img
-                    - [ ] data/object/ui/forge/btn_type.img
-                    - [ ] data/object/ui/forge/dlg_avatarforge.img
-                    - [ ] data/object/ui/forge/dlg_forge.img
-                    - [ ] data/object/ui/forge/dlg_forgeconfirm.img
-                    - [ ] data/object/ui/forge/dlg_forgeMask.img
-                    - [ ] data/object/ui/forge/dlg_meterial.img
-                    - [ ] data/object/ui/forge/scl_down.img
-                    - [ ] data/object/ui/forge/scl_up.img
-                    - [ ] data/object/ui/forge/tab_compose.img
-                    - [ ] data/object/ui/forge/tab_forge.img
-                    - [ ] data/object/ui/forge/tab_forgetype0.img
-                    - [ ] data/object/ui/forge/tab_forgetype1.img
-                    - [ ] data/object/ui/forge/tab_forgetype2.img
-                    - [ ] data/object/ui/forge/tab_forgetype3.img
-                - [ ] data/object/ui/game
-                    - [ ] data/object/ui/game/btn_cancelSaveReplay.img
-                    - [ ] data/object/ui/game/btn_saveReplay.img
-                    - [ ] data/object/ui/game/btn_storage.img
-                    - [ ] data/object/ui/game/chatpopo.img
-                    - [ ] data/object/ui/game/chatpopo2.img
-                    - [ ] data/object/ui/game/chatpopo3.img
-                    - [ ] data/object/ui/game/dlg_playerList.img
-                    - [ ] data/object/ui/game/dlg_pveFunc.img
-                    - [ ] data/object/ui/game/dlg_statusBar.img
-                    - [ ] data/object/ui/game/gameLeft.img
-                    - [ ] data/object/ui/game/gameTop.img
-                    - [ ] data/object/ui/game/img_itemMask.img
-                    - [ ] data/object/ui/game/img_lifeNull.img
-                    - [ ] data/object/ui/game/img_lifeRed.img
-                    - [ ] data/object/ui/game/img_maskCycle.img
-                    - [ ] data/object/ui/game/img_playerLife.img
-                    - [ ] data/object/ui/game/img_playerLifeBlue.img
-                    - [ ] data/object/ui/game/img_playerLifeRed.img
-                    - [ ] data/object/ui/game/mask_player.img
-                    - [ ] data/object/ui/game/newplayerpopo.img
-                    - [ ] data/object/ui/game/record
-                        - [ ] data/object/ui/game/record/btn_2xSpeedPlay.img
-                        - [ ] data/object/ui/game/record/btn_4xSpeedPlay.img
-                        - [ ] data/object/ui/game/record/btn_Pause.img
-                        - [ ] data/object/ui/game/record/btn_Resume.img
-                        - [ ] data/object/ui/game/record/ProcessBar.img
-                - [ ] data/object/ui/guideBar
-                    - [ ] data/object/ui/guideBar/btn_amend.img
-                    - [ ] data/object/ui/guideBar/btn_cancel_dismiss.img
+            - [X] data/object/bomb
+                - [X] data/object/bomb/bomb11_stand.img
+                - [X] data/object/bomb/bomb12_stand.img
+                - [X] data/object/bomb/bomb13_stand.img
+                - [X] data/object/bomb/bomb14_stand.img
+                - [X] data/object/bomb/bomb1_stand.img
+                - [X] data/object/bomb/bomb2_stand.img
+                - [X] data/object/bomb/bomb4_stand.img
+                - [X] data/object/bomb/bomb9_stand.img
+            - [X] data/object/cap
+                - [X] data/object/cap/cap100_stand.img
+                - [X] data/object/cap/cap100_walk.img
+                - [X] data/object/cap/cap101_stand.img
+                - [X] data/object/cap/cap101_walk.img
+                - [X] data/object/cap/cap10201_stand.img
+                - [X] data/object/cap/cap10201_stand_m.img
+                - [X] data/object/cap/cap10201_walk.img
+                - [X] data/object/cap/cap10201_walk_m.img
+                - [X] data/object/cap/cap102_stand.img
+                - [X] data/object/cap/cap102_walk.img
+                - [X] data/object/cap/Cap10301_stand.img
+                - [X] data/object/cap/cap10301_stand_m.img
+                - [X] data/object/cap/Cap10301_walk.img
+                - [X] data/object/cap/cap10301_walk_m.img
+                - [X] data/object/cap/cap103_stand.img
+                - [X] data/object/cap/cap103_walk.img
+                - [X] data/object/cap/cap10401_stand.img
+                - [X] data/object/cap/cap10401_stand_m.img
+                - [X] data/object/cap/cap10401_walk.img
+                - [X] data/object/cap/cap10401_walk_m.img
+                - [X] data/object/cap/cap104_stand.img
+                - [X] data/object/cap/cap104_walk.img
+                - [X] data/object/cap/cap10501_stand.img
+                - [X] data/object/cap/cap10501_stand_m.img
+                - [X] data/object/cap/cap10501_walk.img
+                - [X] data/object/cap/cap10501_walk_m.img
+                - [X] data/object/cap/cap10701_stand.img
+                - [X] data/object/cap/cap10701_walk.img
+                - [X] data/object/cap/cap10801_stand.img
+                - [X] data/object/cap/cap10801_stand_m.img
+                - [X] data/object/cap/cap10801_walk.img
+                - [X] data/object/cap/cap10801_walk_m.img
+                - [X] data/object/cap/cap11401_stand.img
+                - [X] data/object/cap/cap11401_stand_m.img
+                - [X] data/object/cap/cap11401_walk.img
+                - [X] data/object/cap/cap11401_walk_m.img
+                - [X] data/object/cap/cap11601_stand.img
+                - [X] data/object/cap/cap11601_stand_m.img
+                - [X] data/object/cap/cap11601_walk.img
+                - [X] data/object/cap/cap11601_walk_m.img
+                - [X] data/object/cap/cap11801_stand.img
+                - [X] data/object/cap/cap11801_stand_m.img
+                - [X] data/object/cap/cap11801_walk.img
+                - [X] data/object/cap/cap11801_walk_m.img
+                - [X] data/object/cap/cap11901_stand.img
+                - [X] data/object/cap/cap11901_walk.img
+                - [X] data/object/cap/cap22_stand.img
+                - [X] data/object/cap/cap22_walk.img
+                - [X] data/object/cap/cap23_stand.img
+                - [X] data/object/cap/cap23_walk.img
+            - [X] data/object/chatBg
+                - [X] data/object/chatBg/chat0_stand.img
+                - [X] data/object/chatBg/chat1_stand.img
+                - [X] data/object/chatBg/chat2_stand.img
+                - [X] data/object/chatBg/chat3_stand.img
+                - [X] data/object/chatBg/chat4_stand.img
+                - [X] data/object/chatBg/chat5_stand.img
+                - [X] data/object/chatBg/chat6_stand.img
+                - [X] data/object/chatBg/chat7_stand.img
+                - [X] data/object/chatBg/chat8_stand.img
+                - [X] data/object/chatBg/chat9_stand.img
+            - [X] data/object/cladorn
+                - [X] data/object/cladorn/cladorn12401_stand.img
+                - [X] data/object/cladorn/cladorn12401_walk.img
+                - [X] data/object/cladorn/cladorn12801_stand.img
+                - [X] data/object/cladorn/cladorn12801_walk.img
+            - [X] data/object/cloth
+                - [X] data/object/cloth/cloth10101_cry.img
+                - [X] data/object/cloth/cloth10101_cry_m.img
+                - [X] data/object/cloth/cloth10101_die.img
+                - [X] data/object/cloth/cloth10101_die_m.img
+                - [X] data/object/cloth/cloth10101_faint.img
+                - [X] data/object/cloth/cloth10101_faint_m.img
+                - [X] data/object/cloth/cloth10101_lose.img
+                - [X] data/object/cloth/cloth10101_lose_m.img
+                - [X] data/object/cloth/cloth10101_sit.img
+                - [X] data/object/cloth/cloth10101_slow.img
+                - [X] data/object/cloth/cloth10101_stand.img
+                - [X] data/object/cloth/cloth10101_stand_m.img
+                - [X] data/object/cloth/cloth10101_trigger.img
+                - [X] data/object/cloth/cloth10101_trigger_m.img
+                - [X] data/object/cloth/cloth10101_wait.img
+                - [X] data/object/cloth/cloth10101_wait_m.img
+                - [X] data/object/cloth/cloth10101_walk.img
+                - [X] data/object/cloth/cloth10101_walk_m.img
+                - [X] data/object/cloth/cloth10101_win.img
+                - [X] data/object/cloth/cloth10101_win_m.img
+                - [X] data/object/cloth/cloth10201_cry.img
+                - [X] data/object/cloth/cloth10201_cry_m.img
+                - [X] data/object/cloth/cloth10201_die.img
+                - [X] data/object/cloth/cloth10201_die_m.img
+                - [X] data/object/cloth/cloth10201_faint.img
+                - [X] data/object/cloth/cloth10201_faint_m.img
+                - [X] data/object/cloth/cloth10201_lose.img
+                - [X] data/object/cloth/cloth10201_lose_m.img
+                - [X] data/object/cloth/cloth10201_sit.img
+                - [X] data/object/cloth/cloth10201_slow.img
+                - [X] data/object/cloth/cloth10201_stand.img
+                - [X] data/object/cloth/cloth10201_stand_m.img
+                - [X] data/object/cloth/cloth10201_trigger.img
+                - [X] data/object/cloth/cloth10201_trigger_m.img
+                - [X] data/object/cloth/cloth10201_wait.img
+                - [X] data/object/cloth/cloth10201_wait_m.img
+                - [X] data/object/cloth/cloth10201_walk.img
+                - [X] data/object/cloth/cloth10201_walk_m.img
+                - [X] data/object/cloth/cloth10201_win.img
+                - [X] data/object/cloth/cloth10201_win_m.img
+                - [X] data/object/cloth/cloth10301_cry.img
+                - [X] data/object/cloth/cloth10301_cry_m.img
+                - [X] data/object/cloth/cloth10301_die.img
+                - [X] data/object/cloth/cloth10301_die_m.img
+                - [X] data/object/cloth/cloth10301_faint.img
+                - [X] data/object/cloth/cloth10301_faint_m.img
+                - [X] data/object/cloth/cloth10301_lose.img
+                - [X] data/object/cloth/cloth10301_lose_m.img
+                - [X] data/object/cloth/cloth10301_sit.img
+                - [X] data/object/cloth/cloth10301_slow.img
+                - [X] data/object/cloth/cloth10301_stand.img
+                - [X] data/object/cloth/cloth10301_stand_m.img
+                - [X] data/object/cloth/cloth10301_trigger.img
+                - [X] data/object/cloth/cloth10301_trigger_m.img
+                - [X] data/object/cloth/cloth10301_wait.img
+                - [X] data/object/cloth/cloth10301_wait_m.img
+                - [X] data/object/cloth/cloth10301_walk.img
+                - [X] data/object/cloth/cloth10301_walk_m.img
+                - [X] data/object/cloth/cloth10301_win.img
+                - [X] data/object/cloth/cloth10301_win_m.img
+                - [X] data/object/cloth/cloth10303_stand.img
+                - [X] data/object/cloth/cloth10401_cry.img
+                - [X] data/object/cloth/cloth10401_cry_m.img
+                - [X] data/object/cloth/cloth10401_die.img
+                - [X] data/object/cloth/cloth10401_die_m.img
+                - [X] data/object/cloth/cloth10401_faint.img
+                - [X] data/object/cloth/cloth10401_faint_m.img
+                - [X] data/object/cloth/cloth10401_lose.img
+                - [X] data/object/cloth/cloth10401_lose_m.img
+                - [X] data/object/cloth/cloth10401_sit.img
+                - [X] data/object/cloth/cloth10401_slow.img
+                - [X] data/object/cloth/cloth10401_stand.img
+                - [X] data/object/cloth/cloth10401_stand_m.img
+                - [X] data/object/cloth/cloth10401_trigger.img
+                - [X] data/object/cloth/cloth10401_trigger_m.img
+                - [X] data/object/cloth/cloth10401_wait.img
+                - [X] data/object/cloth/cloth10401_wait_m.img
+                - [X] data/object/cloth/cloth10401_walk.img
+                - [X] data/object/cloth/cloth10401_walk_m.img
+                - [X] data/object/cloth/cloth10401_win.img
+                - [X] data/object/cloth/cloth10401_win_m.img
+                - [X] data/object/cloth/cloth10403_stand.img
+                - [X] data/object/cloth/cloth10501_cry.img
+                - [X] data/object/cloth/cloth10501_cry_m.img
+                - [X] data/object/cloth/cloth10501_die.img
+                - [X] data/object/cloth/cloth10501_die_m.img
+                - [X] data/object/cloth/cloth10501_faint.img
+                - [X] data/object/cloth/cloth10501_faint_m.img
+                - [X] data/object/cloth/cloth10501_lose.img
+                - [X] data/object/cloth/cloth10501_lose_m.img
+                - [X] data/object/cloth/cloth10501_sit.img
+                - [X] data/object/cloth/cloth10501_slow.img
+                - [X] data/object/cloth/cloth10501_stand.img
+                - [X] data/object/cloth/cloth10501_stand_m.img
+                - [X] data/object/cloth/cloth10501_trigger.img
+                - [X] data/object/cloth/cloth10501_trigger_m.img
+                - [X] data/object/cloth/cloth10501_wait.img
+                - [X] data/object/cloth/cloth10501_wait_m.img
+                - [X] data/object/cloth/cloth10501_walk.img
+                - [X] data/object/cloth/cloth10501_walk_m.img
+                - [X] data/object/cloth/cloth10501_win.img
+                - [X] data/object/cloth/cloth10501_win_m.img
+                - [X] data/object/cloth/cloth10503_stand.img
+                - [X] data/object/cloth/cloth10601_cry.img
+                - [X] data/object/cloth/cloth10601_cry_m.img
+                - [X] data/object/cloth/cloth10601_die.img
+                - [X] data/object/cloth/cloth10601_die_m.img
+                - [X] data/object/cloth/cloth10601_faint.img
+                - [X] data/object/cloth/cloth10601_faint_m.img
+                - [X] data/object/cloth/cloth10601_lose.img
+                - [X] data/object/cloth/cloth10601_lose_m.img
+                - [X] data/object/cloth/cloth10601_sit.img
+                - [X] data/object/cloth/cloth10601_slow.img
+                - [X] data/object/cloth/cloth10601_stand.img
+                - [X] data/object/cloth/cloth10601_stand_m.img
+                - [X] data/object/cloth/cloth10601_trigger.img
+                - [X] data/object/cloth/cloth10601_trigger_m.img
+                - [X] data/object/cloth/cloth10601_wait.img
+                - [X] data/object/cloth/cloth10601_wait_m.img
+                - [X] data/object/cloth/cloth10601_walk.img
+                - [X] data/object/cloth/cloth10601_walk_m.img
+                - [X] data/object/cloth/cloth10601_win.img
+                - [X] data/object/cloth/cloth10601_win_m.img
+                - [X] data/object/cloth/cloth10603_stand.img
+                - [X] data/object/cloth/cloth10701_cry.img
+                - [X] data/object/cloth/cloth10701_cry_m.img
+                - [X] data/object/cloth/cloth10701_die.img
+                - [X] data/object/cloth/cloth10701_die_m.img
+                - [X] data/object/cloth/cloth10701_faint.img
+                - [X] data/object/cloth/cloth10701_faint_m.img
+                - [X] data/object/cloth/cloth10701_lose.img
+                - [X] data/object/cloth/cloth10701_lose_m.img
+                - [X] data/object/cloth/cloth10701_sit.img
+                - [X] data/object/cloth/cloth10701_slow.img
+                - [X] data/object/cloth/cloth10701_stand.img
+                - [X] data/object/cloth/cloth10701_stand_m.img
+                - [X] data/object/cloth/cloth10701_trigger.img
+                - [X] data/object/cloth/cloth10701_trigger_m.img
+                - [X] data/object/cloth/cloth10701_wait.img
+                - [X] data/object/cloth/cloth10701_wait_m.img
+                - [X] data/object/cloth/cloth10701_walk.img
+                - [X] data/object/cloth/cloth10701_walk_m.img
+                - [X] data/object/cloth/cloth10701_win.img
+                - [X] data/object/cloth/cloth10701_win_m.img
+                - [X] data/object/cloth/cloth10703_stand.img
+                - [X] data/object/cloth/cloth10801_cry.img
+                - [X] data/object/cloth/cloth10801_cry_m.img
+                - [X] data/object/cloth/cloth10801_die.img
+                - [X] data/object/cloth/cloth10801_die_m.img
+                - [X] data/object/cloth/cloth10801_faint.img
+                - [X] data/object/cloth/cloth10801_faint_m.img
+                - [X] data/object/cloth/cloth10801_lose.img
+                - [X] data/object/cloth/cloth10801_lose_m.img
+                - [X] data/object/cloth/cloth10801_sit.img
+                - [X] data/object/cloth/cloth10801_slow.img
+                - [X] data/object/cloth/cloth10801_stand.img
+                - [X] data/object/cloth/cloth10801_stand_m.img
+                - [X] data/object/cloth/cloth10801_trigger.img
+                - [X] data/object/cloth/cloth10801_trigger_m.img
+                - [X] data/object/cloth/cloth10801_wait.img
+                - [X] data/object/cloth/cloth10801_wait_m.img
+                - [X] data/object/cloth/cloth10801_walk.img
+                - [X] data/object/cloth/cloth10801_walk_m.img
+                - [X] data/object/cloth/cloth10801_win.img
+                - [X] data/object/cloth/cloth10801_win_m.img
+                - [X] data/object/cloth/cloth10803_stand.img
+                - [X] data/object/cloth/cloth10901_cry.img
+                - [X] data/object/cloth/cloth10901_cry_m.img
+                - [X] data/object/cloth/cloth10901_die.img
+                - [X] data/object/cloth/cloth10901_die_m.img
+                - [X] data/object/cloth/cloth10901_faint _m.img
+                - [X] data/object/cloth/cloth10901_faint.img
+                - [X] data/object/cloth/cloth10901_faint_m.img
+                - [X] data/object/cloth/cloth10901_lose.img
+                - [X] data/object/cloth/cloth10901_lose_m.img
+                - [X] data/object/cloth/cloth10901_sit.img
+                - [X] data/object/cloth/cloth10901_slow.img
+                - [X] data/object/cloth/cloth10901_snow.img
+                - [X] data/object/cloth/cloth10901_stand.img
+                - [X] data/object/cloth/cloth10901_stand_m.img
+                - [X] data/object/cloth/cloth10901_trigger.img
+                - [X] data/object/cloth/cloth10901_trigger_m.img
+                - [X] data/object/cloth/cloth10901_wait.img
+                - [X] data/object/cloth/cloth10901_wait_m.img
+                - [X] data/object/cloth/cloth10901_walk.img
+                - [X] data/object/cloth/cloth10901_walk_m.img
+                - [X] data/object/cloth/cloth10901_win.img
+                - [X] data/object/cloth/cloth10901_win_m.img
+                - [X] data/object/cloth/cloth10903_stand.img
+                - [X] data/object/cloth/cloth11001_cry.img
+                - [X] data/object/cloth/cloth11001_cry_m.img
+                - [X] data/object/cloth/cloth11001_die.img
+                - [X] data/object/cloth/cloth11001_die_m.img
+                - [X] data/object/cloth/cloth11001_faint.img
+                - [X] data/object/cloth/cloth11001_faint_m.img
+                - [X] data/object/cloth/cloth11001_lose.img
+                - [X] data/object/cloth/cloth11001_lose_m.img
+                - [X] data/object/cloth/cloth11001_sit.img
+                - [X] data/object/cloth/cloth11001_slow.img
+                - [X] data/object/cloth/cloth11001_stand.img
+                - [X] data/object/cloth/cloth11001_stand_m.img
+                - [X] data/object/cloth/cloth11001_trigger.img
+                - [X] data/object/cloth/cloth11001_trigger_m.img
+                - [X] data/object/cloth/cloth11001_wait.img
+                - [X] data/object/cloth/cloth11001_wait_m.img
+                - [X] data/object/cloth/cloth11001_walk.img
+                - [X] data/object/cloth/cloth11001_walk_m.img
+                - [X] data/object/cloth/cloth11001_win.img
+                - [X] data/object/cloth/cloth11001_win_m.img
+                - [X] data/object/cloth/cloth11003_stand.img
+                - [X] data/object/cloth/cloth11101_cry.img
+                - [X] data/object/cloth/cloth11101_cry_m.img
+                - [X] data/object/cloth/cloth11101_die.img
+                - [X] data/object/cloth/cloth11101_die_m.img
+                - [X] data/object/cloth/cloth11101_faint.img
+                - [X] data/object/cloth/cloth11101_faint_m.img
+                - [X] data/object/cloth/cloth11101_lose.img
+                - [X] data/object/cloth/cloth11101_lose_m.img
+                - [X] data/object/cloth/cloth11101_sit.img
+                - [X] data/object/cloth/cloth11101_slow.img
+                - [X] data/object/cloth/cloth11101_stand.img
+                - [X] data/object/cloth/cloth11101_stand_m.img
+                - [X] data/object/cloth/cloth11101_trigger.img
+                - [X] data/object/cloth/cloth11101_trigger_m.img
+                - [X] data/object/cloth/cloth11101_wait.img
+                - [X] data/object/cloth/cloth11101_wait_m.img
+                - [X] data/object/cloth/cloth11101_walk.img
+                - [X] data/object/cloth/cloth11101_walk_m.img
+                - [X] data/object/cloth/cloth11101_win.img
+                - [X] data/object/cloth/cloth11101_win_m.img
+                - [X] data/object/cloth/cloth11301_cry.img
+                - [X] data/object/cloth/cloth11301_cry_m.img
+                - [X] data/object/cloth/cloth11301_die.img
+                - [X] data/object/cloth/cloth11301_die_m.img
+                - [X] data/object/cloth/cloth11301_faint.img
+                - [X] data/object/cloth/cloth11301_faint_m.img
+                - [X] data/object/cloth/cloth11301_lose.img
+                - [X] data/object/cloth/cloth11301_lose_m.img
+                - [X] data/object/cloth/cloth11301_sit.img
+                - [X] data/object/cloth/cloth11301_slow.img
+                - [X] data/object/cloth/cloth11301_stand.img
+                - [X] data/object/cloth/cloth11301_stand_m.img
+                - [X] data/object/cloth/cloth11301_trigger.img
+                - [X] data/object/cloth/cloth11301_trigger_m.img
+                - [X] data/object/cloth/cloth11301_wait.img
+                - [X] data/object/cloth/cloth11301_wait_m.img
+                - [X] data/object/cloth/cloth11301_walk.img
+                - [X] data/object/cloth/cloth11301_walk_m.img
+                - [X] data/object/cloth/cloth11301_win.img
+                - [X] data/object/cloth/cloth11301_win_m.img
+                - [X] data/object/cloth/cloth11401_cry.img
+                - [X] data/object/cloth/cloth11401_cry_m.img
+                - [X] data/object/cloth/cloth11401_die.img
+                - [X] data/object/cloth/cloth11401_die_m.img
+                - [X] data/object/cloth/cloth11401_faint.img
+                - [X] data/object/cloth/cloth11401_faint_m.img
+                - [X] data/object/cloth/cloth11401_lose.img
+                - [X] data/object/cloth/cloth11401_lose_m.img
+                - [X] data/object/cloth/cloth11401_sit.img
+                - [X] data/object/cloth/cloth11401_slow.img
+                - [X] data/object/cloth/cloth11401_stand.img
+                - [X] data/object/cloth/cloth11401_stand_m.img
+                - [X] data/object/cloth/cloth11401_trigger.img
+                - [X] data/object/cloth/cloth11401_trigger_m.img
+                - [X] data/object/cloth/cloth11401_wait.img
+                - [X] data/object/cloth/cloth11401_wait_m.img
+                - [X] data/object/cloth/cloth11401_walk.img
+                - [X] data/object/cloth/cloth11401_walk_m.img
+                - [X] data/object/cloth/cloth11401_win.img
+                - [X] data/object/cloth/cloth11401_win_m.img
+                - [X] data/object/cloth/cloth11501_cry.img
+                - [X] data/object/cloth/cloth11501_cry_m.img
+                - [X] data/object/cloth/cloth11501_die.img
+                - [X] data/object/cloth/cloth11501_die_m.img
+                - [X] data/object/cloth/cloth11501_faint.img
+                - [X] data/object/cloth/cloth11501_faint_m.img
+                - [X] data/object/cloth/cloth11501_lose.img
+                - [X] data/object/cloth/cloth11501_lose_m.img
+                - [X] data/object/cloth/cloth11501_sit.img
+                - [X] data/object/cloth/cloth11501_slow.img
+                - [X] data/object/cloth/cloth11501_stand.img
+                - [X] data/object/cloth/cloth11501_stand_m.img
+                - [X] data/object/cloth/cloth11501_trigger.img
+                - [X] data/object/cloth/cloth11501_trigger_m.img
+                - [X] data/object/cloth/cloth11501_wait.img
+                - [X] data/object/cloth/cloth11501_wait_m.img
+                - [X] data/object/cloth/cloth11501_walk.img
+                - [X] data/object/cloth/cloth11501_walk_m.img
+                - [X] data/object/cloth/cloth11501_win.img
+                - [X] data/object/cloth/cloth11501_win_m.img
+                - [X] data/object/cloth/cloth11503_stand.img
+                - [X] data/object/cloth/cloth11503_walk.img
+                - [X] data/object/cloth/cloth11601_cry.img
+                - [X] data/object/cloth/cloth11601_cry_m.img
+                - [X] data/object/cloth/cloth11601_die.img
+                - [X] data/object/cloth/cloth11601_die_m.img
+                - [X] data/object/cloth/cloth11601_faint.img
+                - [X] data/object/cloth/cloth11601_faint_m.img
+                - [X] data/object/cloth/cloth11601_lose.img
+                - [X] data/object/cloth/cloth11601_lose_m.img
+                - [X] data/object/cloth/cloth11601_sit.img
+                - [X] data/object/cloth/cloth11601_slow.img
+                - [X] data/object/cloth/cloth11601_stand.img
+                - [X] data/object/cloth/cloth11601_stand_m.img
+                - [X] data/object/cloth/cloth11601_trigger.img
+                - [X] data/object/cloth/cloth11601_trigger_m.img
+                - [X] data/object/cloth/cloth11601_wait.img
+                - [X] data/object/cloth/cloth11601_wait_m.img
+                - [X] data/object/cloth/cloth11601_walk.img
+                - [X] data/object/cloth/cloth11601_walk_m.img
+                - [X] data/object/cloth/cloth11601_win.img
+                - [X] data/object/cloth/cloth11601_win_m.img
+                - [X] data/object/cloth/cloth11801_cry.img
+                - [X] data/object/cloth/cloth11801_cry_m.img
+                - [X] data/object/cloth/cloth11801_die.img
+                - [X] data/object/cloth/cloth11801_faint.img
+                - [X] data/object/cloth/cloth11801_faint_m.img
+                - [X] data/object/cloth/cloth11801_lose.img
+                - [X] data/object/cloth/cloth11801_lose_m.img
+                - [X] data/object/cloth/cloth11801_sit.img
+                - [X] data/object/cloth/cloth11801_slow.img
+                - [X] data/object/cloth/cloth11801_snow.img
+                - [X] data/object/cloth/cloth11801_stand.img
+                - [X] data/object/cloth/cloth11801_stand_m.img
+                - [X] data/object/cloth/cloth11801_trigger.img
+                - [X] data/object/cloth/cloth11801_trigger_m.img
+                - [X] data/object/cloth/cloth11801_wait.img
+                - [X] data/object/cloth/cloth11801_wait_m.img
+                - [X] data/object/cloth/cloth11801_walk.img
+                - [X] data/object/cloth/cloth11801_walk_m.img
+                - [X] data/object/cloth/cloth11801_win.img
+                - [X] data/object/cloth/cloth11801_win_m.img
+                - [X] data/object/cloth/cloth11901_cry.img
+                - [X] data/object/cloth/cloth11901_cry_m.img
+                - [X] data/object/cloth/cloth11901_die.img
+                - [X] data/object/cloth/cloth11901_faint.img
+                - [X] data/object/cloth/cloth11901_faint_m.img
+                - [X] data/object/cloth/cloth11901_lose.img
+                - [X] data/object/cloth/cloth11901_lose_m.img
+                - [X] data/object/cloth/cloth11901_sit.img
+                - [X] data/object/cloth/cloth11901_slow.img
+                - [X] data/object/cloth/cloth11901_snow.img
+                - [X] data/object/cloth/cloth11901_stand.img
+                - [X] data/object/cloth/cloth11901_stand_m.img
+                - [X] data/object/cloth/cloth11901_trigger.img
+                - [X] data/object/cloth/cloth11901_trigger_m.img
+                - [X] data/object/cloth/cloth11901_wait.img
+                - [X] data/object/cloth/cloth11901_wait_m.img
+                - [X] data/object/cloth/cloth11901_walk.img
+                - [X] data/object/cloth/cloth11901_walk_m.img
+                - [X] data/object/cloth/cloth11901_win.img
+                - [X] data/object/cloth/cloth11901_win_m.img
+                - [X] data/object/cloth/cloth12001_cry.img
+                - [X] data/object/cloth/cloth12001_cry_m.img
+                - [X] data/object/cloth/cloth12001_die.img
+                - [X] data/object/cloth/cloth12001_faint.img
+                - [X] data/object/cloth/cloth12001_faint_m.img
+                - [X] data/object/cloth/cloth12001_lose.img
+                - [X] data/object/cloth/cloth12001_lose_m.img
+                - [X] data/object/cloth/cloth12001_sit.img
+                - [X] data/object/cloth/cloth12001_slow.img
+                - [X] data/object/cloth/cloth12001_snow.img
+                - [X] data/object/cloth/cloth12001_stand.img
+                - [X] data/object/cloth/cloth12001_stand_m.img
+                - [X] data/object/cloth/cloth12001_trigger.img
+                - [X] data/object/cloth/cloth12001_trigger_m.img
+                - [X] data/object/cloth/cloth12001_wait.img
+                - [X] data/object/cloth/cloth12001_wait_m.img
+                - [X] data/object/cloth/cloth12001_walk.img
+                - [X] data/object/cloth/cloth12001_walk_m.img
+                - [X] data/object/cloth/cloth12001_win.img
+                - [X] data/object/cloth/cloth12001_win_m.img
+                - [X] data/object/cloth/cloth12101_cry.img
+                - [X] data/object/cloth/cloth12101_cry_m.img
+                - [X] data/object/cloth/cloth12101_die.img
+                - [X] data/object/cloth/cloth12101_faint.img
+                - [X] data/object/cloth/cloth12101_faint_m.img
+                - [X] data/object/cloth/cloth12101_lose.img
+                - [X] data/object/cloth/cloth12101_lose_m.img
+                - [X] data/object/cloth/cloth12101_sit.img
+                - [X] data/object/cloth/cloth12101_slow.img
+                - [X] data/object/cloth/cloth12101_snow.img
+                - [X] data/object/cloth/cloth12101_stand.img
+                - [X] data/object/cloth/cloth12101_stand_m.img
+                - [X] data/object/cloth/cloth12101_trigger.img
+                - [X] data/object/cloth/cloth12101_trigger_m.img
+                - [X] data/object/cloth/cloth12101_wait.img
+                - [X] data/object/cloth/cloth12101_wait_m.img
+                - [X] data/object/cloth/cloth12101_walk.img
+                - [X] data/object/cloth/cloth12101_walk_m.img
+                - [X] data/object/cloth/cloth12101_win.img
+                - [X] data/object/cloth/cloth12101_win_m.img
+                - [X] data/object/cloth/cloth12201_cry.img
+                - [X] data/object/cloth/cloth12201_cry_m.img
+                - [X] data/object/cloth/cloth12201_die.img
+                - [X] data/object/cloth/cloth12201_faint.img
+                - [X] data/object/cloth/cloth12201_faint_m.img
+                - [X] data/object/cloth/cloth12201_lose.img
+                - [X] data/object/cloth/cloth12201_lose_m.img
+                - [X] data/object/cloth/cloth12201_sit.img
+                - [X] data/object/cloth/cloth12201_slow.img
+                - [X] data/object/cloth/cloth12201_slow_m.img
+                - [X] data/object/cloth/cloth12201_snow.img
+                - [X] data/object/cloth/cloth12201_stand.img
+                - [X] data/object/cloth/cloth12201_stand_m.img
+                - [X] data/object/cloth/cloth12201_trigger.img
+                - [X] data/object/cloth/cloth12201_trigger_m.img
+                - [X] data/object/cloth/cloth12201_wait.img
+                - [X] data/object/cloth/cloth12201_wait_m.img
+                - [X] data/object/cloth/cloth12201_walk.img
+                - [X] data/object/cloth/cloth12201_walk_m.img
+                - [X] data/object/cloth/cloth12201_win.img
+                - [X] data/object/cloth/cloth12201_win_m.img
+                - [X] data/object/cloth/cloth12301_stand.img
+                - [X] data/object/cloth/cloth12301_stand_m.img
+                - [X] data/object/cloth/cloth12301_walk.img
+                - [X] data/object/cloth/cloth12301_walk_m.img
+                - [X] data/object/cloth/cloth12401_birth.img
+                - [X] data/object/cloth/cloth12401_cry.img
+                - [X] data/object/cloth/cloth12401_die.img
+                - [X] data/object/cloth/cloth12401_lose.img
+                - [X] data/object/cloth/cloth12401_stand.img
+                - [X] data/object/cloth/cloth12401_trigger.img
+                - [X] data/object/cloth/cloth12401_walk.img
+                - [X] data/object/cloth/cloth12501_cry.img
+                - [X] data/object/cloth/cloth12501_die.img
+                - [X] data/object/cloth/cloth12501_lose.img
+                - [X] data/object/cloth/cloth12501_stand.img
+                - [X] data/object/cloth/cloth12501_trigger.img
+                - [X] data/object/cloth/cloth12501_walk.img
+                - [X] data/object/cloth/cloth12601_cry.img
+                - [X] data/object/cloth/cloth12601_die.img
+                - [X] data/object/cloth/cloth12601_lose.img
+                - [X] data/object/cloth/cloth12601_stand.img
+                - [X] data/object/cloth/cloth12601_trigger.img
+                - [X] data/object/cloth/cloth12601_walk.img
+                - [X] data/object/cloth/cloth12701_cry.img
+                - [X] data/object/cloth/cloth12701_die.img
+                - [X] data/object/cloth/cloth12701_lose.img
+                - [X] data/object/cloth/cloth12701_stand.img
+                - [X] data/object/cloth/cloth12701_trigger.img
+                - [X] data/object/cloth/cloth12701_walk.img
+                - [X] data/object/cloth/cloth12801_birth.img
+                - [X] data/object/cloth/cloth12801_cry.img
+                - [X] data/object/cloth/cloth12801_die.img
+                - [X] data/object/cloth/cloth12801_lose.img
+                - [X] data/object/cloth/cloth12801_stand.img
+                - [X] data/object/cloth/cloth12801_trigger.img
+                - [X] data/object/cloth/cloth12801_walk.img
+                - [X] data/object/cloth/cloth12901_birth.img
+                - [X] data/object/cloth/cloth12901_die.img
+                - [X] data/object/cloth/cloth12901_stand.img
+                - [X] data/object/cloth/cloth12901_walk.img
+                - [X] data/object/cloth/cloth13001_birth.img
+                - [X] data/object/cloth/cloth13001_die.img
+                - [X] data/object/cloth/cloth13001_stand.img
+                - [X] data/object/cloth/cloth13001_walk.img
+                - [X] data/object/cloth/cloth13101_birth.img
+                - [X] data/object/cloth/cloth13101_die.img
+                - [X] data/object/cloth/cloth13101_stand.img
+                - [X] data/object/cloth/cloth13101_walk.img
+                - [X] data/object/cloth/cloth13201_birth.img
+                - [X] data/object/cloth/cloth13201_die.img
+                - [X] data/object/cloth/cloth13201_stand.img
+                - [X] data/object/cloth/cloth13201_walk.img
+                - [X] data/object/cloth/cloth13301_birth.img
+                - [X] data/object/cloth/cloth13301_die.img
+                - [X] data/object/cloth/cloth13301_stand.img
+                - [X] data/object/cloth/cloth13301_walk.img
+                - [X] data/object/cloth/cloth13401_birth.img
+                - [X] data/object/cloth/cloth13401_die.img
+                - [X] data/object/cloth/cloth13401_stand.img
+                - [X] data/object/cloth/cloth13401_walk.img
+                - [X] data/object/cloth/cloth13501_birth.img
+                - [X] data/object/cloth/cloth13501_die.img
+                - [X] data/object/cloth/cloth13501_stand.img
+                - [X] data/object/cloth/cloth13501_walk.img
+                - [X] data/object/cloth/cloth13601_birth.img
+                - [X] data/object/cloth/cloth13601_die.img
+                - [X] data/object/cloth/cloth13601_stand.img
+                - [X] data/object/cloth/cloth13601_walk.img
+                - [X] data/object/cloth/cloth16701_die.img
+                - [X] data/object/cloth/cloth16701_stand.img
+                - [X] data/object/cloth/cloth16701_walk.img
+                - [X] data/object/cloth/cloth16801_stand.img
+                - [X] data/object/cloth/cloth16801_walk.img
+                - [X] data/object/cloth/cloth16901_die.img
+                - [X] data/object/cloth/cloth16901_stand.img
+                - [X] data/object/cloth/cloth16901_walk.img
+                - [X] data/object/cloth/cloth17001_die.img
+                - [X] data/object/cloth/cloth17001_stand.img
+                - [X] data/object/cloth/cloth17001_walk.img
+                - [X] data/object/cloth/cloth17101_die.img
+                - [X] data/object/cloth/cloth17101_stand.img
+                - [X] data/object/cloth/cloth17101_walk.img
+                - [X] data/object/cloth/cloth17201_die.img
+                - [X] data/object/cloth/cloth17201_stand.img
+                - [X] data/object/cloth/cloth17201_walk.img
+                - [X] data/object/cloth/cloth17301_die.img
+                - [X] data/object/cloth/cloth17301_stand.img
+                - [X] data/object/cloth/cloth17301_walk.img
+                - [X] data/object/cloth/cloth17401_die.img
+                - [X] data/object/cloth/cloth17401_stand.img
+                - [X] data/object/cloth/cloth17401_walk.img
+                - [X] data/object/cloth/cloth17501_stand.img
+                - [X] data/object/cloth/cloth17501_walk.img
+                - [X] data/object/cloth/cloth17601_die.img
+                - [X] data/object/cloth/cloth17601_stand.img
+                - [X] data/object/cloth/cloth17601_walk.img
+                - [X] data/object/cloth/cloth17701_die.img
+                - [X] data/object/cloth/cloth17701_stand.img
+                - [X] data/object/cloth/cloth17701_walk.img
+                - [X] data/object/cloth/cloth17801_stand.img
+                - [X] data/object/cloth/cloth17801_walk.img
+                - [X] data/object/cloth/cloth17901_die.img
+                - [X] data/object/cloth/cloth17901_stand.img
+                - [X] data/object/cloth/cloth17901_walk.img
+                - [X] data/object/cloth/cloth18001_die.img
+                - [X] data/object/cloth/cloth18001_stand.img
+                - [X] data/object/cloth/cloth18001_walk.img
+                - [X] data/object/cloth/cloth18101_die.img
+                - [X] data/object/cloth/cloth18101_stand.img
+                - [X] data/object/cloth/cloth18101_walk.img
+                - [X] data/object/cloth/cloth18201_die.img
+                - [X] data/object/cloth/cloth18201_stand.img
+                - [X] data/object/cloth/cloth18201_walk.img
+                - [X] data/object/cloth/cloth18301_die.img
+                - [X] data/object/cloth/cloth18301_stand.img
+                - [X] data/object/cloth/cloth18301_walk.img
+                - [X] data/object/cloth/cloth18401_die.img
+                - [X] data/object/cloth/cloth18401_stand.img
+                - [X] data/object/cloth/cloth18401_walk.img
+                - [X] data/object/cloth/cloth18501_die.img
+                - [X] data/object/cloth/cloth18501_stand.img
+                - [X] data/object/cloth/cloth18501_walk.img
+                - [X] data/object/cloth/cloth18502_stand.img
+                - [X] data/object/cloth/cloth18502_walk.img
+                - [X] data/object/cloth/cloth18503_stand.img
+                - [X] data/object/cloth/cloth18503_walk.img
+                - [X] data/object/cloth/cloth18504_stand.img
+                - [X] data/object/cloth/cloth18504_walk.img
+                - [X] data/object/cloth/cloth18505_stand.img
+                - [X] data/object/cloth/cloth18505_walk.img
+                - [X] data/object/cloth/cloth18506_stand.img
+                - [X] data/object/cloth/cloth18506_walk.img
+                - [X] data/object/cloth/cloth18507_stand.img
+                - [X] data/object/cloth/cloth18507_walk.img
+                - [X] data/object/cloth/cloth18508_stand.img
+                - [X] data/object/cloth/cloth18508_walk.img
+                - [X] data/object/cloth/cloth18509_stand.img
+                - [X] data/object/cloth/cloth18509_walk.img
+                - [X] data/object/cloth/cloth18601_stand.img
+                - [X] data/object/cloth/cloth18601_walk.img
+                - [X] data/object/cloth/cloth18602_stand.img
+                - [X] data/object/cloth/cloth18602_walk.img
+                - [X] data/object/cloth/cloth18603_stand.img
+                - [X] data/object/cloth/cloth18603_walk.img
+                - [X] data/object/cloth/cloth18604_stand.img
+                - [X] data/object/cloth/cloth18604_walk.img
+                - [X] data/object/cloth/cloth18605_stand.img
+                - [X] data/object/cloth/cloth18605_walk.img
+                - [X] data/object/cloth/cloth18606_stand.img
+                - [X] data/object/cloth/cloth18606_walk.img
+                - [X] data/object/cloth/cloth18701_stand.img
+                - [X] data/object/cloth/cloth18701_walk.img
+                - [X] data/object/cloth/cloth18702_stand.img
+                - [X] data/object/cloth/cloth18702_walk.img
+                - [X] data/object/cloth/cloth18703_stand.img
+                - [X] data/object/cloth/cloth18703_walk.img
+                - [X] data/object/cloth/cloth18704_stand.img
+                - [X] data/object/cloth/cloth18704_walk.img
+                - [X] data/object/cloth/cloth18705_stand.img
+                - [X] data/object/cloth/cloth18705_walk.img
+                - [X] data/object/cloth/cloth18706_stand.img
+                - [X] data/object/cloth/cloth18706_walk.img
+                - [X] data/object/cloth/cloth18707_stand.img
+                - [X] data/object/cloth/cloth18707_walk.img
+                - [X] data/object/cloth/cloth18708_stand.img
+                - [X] data/object/cloth/cloth18708_walk.img
+                - [X] data/object/cloth/cloth18709_stand.img
+                - [X] data/object/cloth/cloth18709_walk.img
+                - [X] data/object/cloth/cloth18801_stand.img
+                - [X] data/object/cloth/cloth18801_walk.img
+                - [X] data/object/cloth/cloth18802_stand.img
+                - [X] data/object/cloth/cloth18802_walk.img
+                - [X] data/object/cloth/cloth18803_stand.img
+                - [X] data/object/cloth/cloth18803_walk.img
+                - [X] data/object/cloth/cloth18804_stand.img
+                - [X] data/object/cloth/cloth18804_walk.img
+                - [X] data/object/cloth/cloth18805_stand.img
+                - [X] data/object/cloth/cloth18805_walk.img
+                - [X] data/object/cloth/cloth18806_stand.img
+                - [X] data/object/cloth/cloth18806_walk.img
+                - [X] data/object/cloth/cloth18807_stand.img
+                - [X] data/object/cloth/cloth18807_walk.img
+                - [X] data/object/cloth/cloth18808_stand.img
+                - [X] data/object/cloth/cloth18808_walk.img
+                - [X] data/object/cloth/cloth18809_stand.img
+                - [X] data/object/cloth/cloth18809_walk.img
+                - [X] data/object/cloth/cloth18810_stand.img
+                - [X] data/object/cloth/cloth18810_walk.img
+            - [X] data/object/face
+                - [X] data/object/face/face10101_stand.img
+                - [X] data/object/face/face10101_walk.img
+                - [X] data/object/face/face10201_stand.img
+                - [X] data/object/face/face10201_walk.img
+                - [X] data/object/face/Face10301_stand.img
+                - [X] data/object/face/Face10301_walk.img
+                - [X] data/object/face/Face10401_stand.img
+                - [X] data/object/face/Face10401_walk.img
+                - [X] data/object/face/Face10501_stand.img
+                - [X] data/object/face/Face10501_walk.img
+                - [X] data/object/face/face10601_stand.img
+                - [X] data/object/face/face10601_walk.img
+                - [X] data/object/face/Face10701_stand.img
+                - [X] data/object/face/Face10701_walk.img
+                - [X] data/object/face/face10801_stand.img
+                - [X] data/object/face/face10801_walk.img
+                - [X] data/object/face/face10901_stand.img
+                - [X] data/object/face/face10901_walk.img
+                - [X] data/object/face/face11301_stand.img
+                - [X] data/object/face/face11301_walk.img
+                - [X] data/object/face/Face11401_stand.img
+                - [X] data/object/face/Face11401_walk.img
+                - [X] data/object/face/face11501_stand.img
+                - [X] data/object/face/face11501_walk.img
+                - [X] data/object/face/face11601_stand.img
+                - [X] data/object/face/face11601_walk.img
+                - [X] data/object/face/face11801_stand.img
+                - [X] data/object/face/face11801_walk.img
+                - [X] data/object/face/face11901_stand.img
+                - [X] data/object/face/face11901_walk.img
+                - [X] data/object/face/face12001_stand.img
+                - [X] data/object/face/face12001_walk.img
+                - [X] data/object/face/face12101_stand.img
+                - [X] data/object/face/face12101_walk.img
+                - [X] data/object/face/face12201_stand.img
+                - [X] data/object/face/face12201_walk.img
+            - [X] data/object/fhadorn
+                - [X] data/object/fhadorn/fhadorn10101_stand.img
+                - [X] data/object/fhadorn/fhadorn10101_walk.img
+                - [X] data/object/fhadorn/fhadorn10601_stand.img
+                - [X] data/object/fhadorn/fhadorn10601_walk.img
+                - [X] data/object/fhadorn/fhadorn10701_stand.img
+                - [X] data/object/fhadorn/fhadorn10701_walk.img
+            - [X] data/object/flame
+                - [X] data/object/flame/flame10_stand.img
+                - [X] data/object/flame/flame1_stand.img
+                - [X] data/object/flame/flame255_stand.img
+                - [X] data/object/flame/flame2_stand.img
+                - [X] data/object/flame/flame3_stand.img
+                - [X] data/object/flame/flame4_stand.img
+                - [X] data/object/flame/flame5_stand.img
+                - [X] data/object/flame/flame6_stand.img
+                - [X] data/object/flame/flame7_stand.img
+                - [X] data/object/flame/flame8_stand.img
+                - [X] data/object/flame/flame9_stand.img
+            - [X] data/object/foot
+                - [X] data/object/foot/foot1_stand.img
+                - [X] data/object/foot/foot1_walk.img
+                - [X] data/object/foot/foot2_stand.img
+                - [X] data/object/foot/foot2_walk.img
+            - [X] data/object/hair
+                - [X] data/object/hair/hair10101_stand.img
+                - [X] data/object/hair/hair10101_stand_m.img
+                - [X] data/object/hair/hair10101_walk.img
+                - [X] data/object/hair/hair10101_walk_m.img
+                - [X] data/object/hair/hair10201_stand.img
+                - [X] data/object/hair/hair10201_walk.img
+                - [X] data/object/hair/Hair10301_stand.img
+                - [X] data/object/hair/Hair10301_stand_m.img
+                - [X] data/object/hair/Hair10301_walk.img
+                - [X] data/object/hair/Hair10301_walk_m.img
+                - [X] data/object/hair/Hair10401_stand.img
+                - [X] data/object/hair/Hair10401_stand_m.img
+                - [X] data/object/hair/Hair10401_walk.img
+                - [X] data/object/hair/Hair10401_walk_m.img
+                - [X] data/object/hair/Hair10501_stand.img
+                - [X] data/object/hair/Hair10501_stand_m.img
+                - [X] data/object/hair/Hair10501_walk.img
+                - [X] data/object/hair/Hair10501_walk_m.img
+                - [X] data/object/hair/hair10601_stand.img
+                - [X] data/object/hair/hair10601_stand_m.img
+                - [X] data/object/hair/hair10601_walk.img
+                - [X] data/object/hair/hair10601_walk_m.img
+                - [X] data/object/hair/Hair10701_stand.img
+                - [X] data/object/hair/Hair10701_stand_m.img
+                - [X] data/object/hair/Hair10701_walk.img
+                - [X] data/object/hair/Hair10701_walk_m.img
+                - [X] data/object/hair/hair10801_stand.img
+                - [X] data/object/hair/hair10801_walk.img
+                - [X] data/object/hair/hair10901_stand.img
+                - [X] data/object/hair/hair10901_stand_m.img
+                - [X] data/object/hair/hair10901_walk.img
+                - [X] data/object/hair/hair10901_walk_m.img
+                - [X] data/object/hair/hair11301_stand.img
+                - [X] data/object/hair/hair11301_stand_m.img
+                - [X] data/object/hair/hair11301_walk.img
+                - [X] data/object/hair/hair11301_walk_m.img
+                - [X] data/object/hair/Hair11401_stand.img
+                - [X] data/object/hair/Hair11401_stand_m.img
+                - [X] data/object/hair/Hair11401_walk.img
+                - [X] data/object/hair/Hair11401_walk_m.img
+                - [X] data/object/hair/hair11501_stand.img
+                - [X] data/object/hair/hair11501_stand_m.img
+                - [X] data/object/hair/hair11501_walk.img
+                - [X] data/object/hair/hair11501_walk_m.img
+                - [X] data/object/hair/hair11601_stand.img
+                - [X] data/object/hair/hair11601_stand_m.img
+                - [X] data/object/hair/hair11601_walk.img
+                - [X] data/object/hair/hair11601_walk_m.img
+                - [X] data/object/hair/hair11801_stand.img
+                - [X] data/object/hair/hair11801_stand_m.img
+                - [X] data/object/hair/hair11801_walk.img
+                - [X] data/object/hair/hair11801_walk_m.img
+                - [X] data/object/hair/hair11901_stand.img
+                - [X] data/object/hair/hair11901_stand_m.img
+                - [X] data/object/hair/hair11901_walk.img
+                - [X] data/object/hair/hair11901_walk_m.img
+                - [X] data/object/hair/hair12001_stand.img
+                - [X] data/object/hair/hair12001_stand_m.img
+                - [X] data/object/hair/hair12001_walk.img
+                - [X] data/object/hair/hair12001_walk_m.img
+                - [X] data/object/hair/hair12101_stand.img
+                - [X] data/object/hair/hair12101_stand_m.img
+                - [X] data/object/hair/hair12101_walk.img
+                - [X] data/object/hair/hair12101_walk_m.img
+                - [X] data/object/hair/hair12201_stand.img
+                - [X] data/object/hair/hair12201_stand_m.img
+                - [X] data/object/hair/hair12201_walk.img
+                - [X] data/object/hair/hair12201_walk_m.img
+            - [X] data/object/head
+                - [X] data/object/head/head1_stand.img
+                - [X] data/object/head/head1_walk.img
+            - [X] data/object/item
+                - [X] data/object/item/item101_stand.img
+                - [X] data/object/item/item104_stand.img
+                - [X] data/object/item/item107_stand.img
+                - [X] data/object/item/item108_stand.img
+                - [X] data/object/item/item109_stand.img
+                - [X] data/object/item/item110_stand.img
+                - [X] data/object/item/item114_stand.img
+                - [X] data/object/item/item115_stand.img
+                - [X] data/object/item/item116_stand.img
+                - [X] data/object/item/item117_stand.img
+                - [X] data/object/item/item117_trigger.img
+                - [X] data/object/item/item119_stand.img
+                - [X] data/object/item/item11_stand.img
+                - [X] data/object/item/item120_stand.img
+                - [X] data/object/item/Item12_stand.img
+                - [X] data/object/item/Item13_stand.img
+                - [X] data/object/item/Item14_stand.img
+                - [X] data/object/item/item150_stand.img
+                - [X] data/object/item/item150_trigger.img
+                - [X] data/object/item/item151_stand.img
+                - [X] data/object/item/item151_trigger.img
+                - [X] data/object/item/item152_stand.img
+                - [X] data/object/item/item152_trigger.img
+                - [X] data/object/item/Item15_stand.img
+                - [X] data/object/item/item1_stand.img
+                - [X] data/object/item/item20008_stand.img
+                - [X] data/object/item/item20009_stand.img
+                - [X] data/object/item/item20010_stand.img
+                - [X] data/object/item/item20018_stand.img
+                - [X] data/object/item/item20031_stand.img
+                - [X] data/object/item/item201_stand.img
+                - [X] data/object/item/item202_stand.img
+                - [X] data/object/item/item202_trigger.img
+                - [X] data/object/item/item203_stand.img
+                - [X] data/object/item/item204_stand.img
+                - [X] data/object/item/item205_stand.img
+                - [X] data/object/item/item205_trigger.img
+                - [X] data/object/item/item206_stand.img
+                - [X] data/object/item/item206_trigger.img
+                - [X] data/object/item/item207_stand.img
+                - [X] data/object/item/item207_trigger.img
+                - [X] data/object/item/item208_stand.img
+                - [X] data/object/item/item208_trigger.img
+                - [X] data/object/item/item209_stand.img
+                - [X] data/object/item/item209_trigger.img
+                - [X] data/object/item/item210_stand.img
+                - [X] data/object/item/item210_trigger.img
+                - [X] data/object/item/item211_stand.img
+                - [X] data/object/item/item211_trigger.img
+                - [X] data/object/item/Item212_stand.img
+                - [X] data/object/item/Item212_trigger.img
+                - [X] data/object/item/Item213_stand.img
+                - [X] data/object/item/Item213_trigger.img
+                - [X] data/object/item/item21_stand.img
+                - [X] data/object/item/item22666_stand.img
+                - [X] data/object/item/item22_stand.img
+                - [X] data/object/item/item23_stand.img
+                - [X] data/object/item/item24002_stand.img
+                - [X] data/object/item/item24003_stand.img
+                - [X] data/object/item/item24004_stand.img
+                - [X] data/object/item/item24005_stand.img
+                - [X] data/object/item/item24006_stand.img
+                - [X] data/object/item/item24007_stand.img
+                - [X] data/object/item/item24008_stand.img
+                - [X] data/object/item/item24009_stand.img
+                - [X] data/object/item/item24010_stand.img
+                - [X] data/object/item/item24011_stand.img
+                - [X] data/object/item/item24012_stand.img
+                - [X] data/object/item/item24013_stand.img
+                - [X] data/object/item/item24014_stand.img
+                - [X] data/object/item/item24015_stand.img
+                - [X] data/object/item/item24016_stand.img
+                - [X] data/object/item/item24017_stand.img
+                - [X] data/object/item/item24018_stand.img
+                - [X] data/object/item/item24019_stand.img
+                - [X] data/object/item/item24020_stand.img
+                - [X] data/object/item/item24021_stand.img
+                - [X] data/object/item/item24022_stand.img
+                - [X] data/object/item/item24023_stand.img
+                - [X] data/object/item/item24024_stand.img
+                - [X] data/object/item/item24025_stand.img
+                - [X] data/object/item/item24026_stand.img
+                - [X] data/object/item/item24027_stand.img
+                - [X] data/object/item/item24028_stand.img
+                - [X] data/object/item/item24030_stand.img
+                - [X] data/object/item/item24031_stand.img
+                - [X] data/object/item/item24032_stand.img
+                - [X] data/object/item/item24033_stand.img
+                - [X] data/object/item/item24034_stand.img
+                - [X] data/object/item/item24035_stand.img
+                - [X] data/object/item/item24036_stand.img
+                - [X] data/object/item/item24037_stand.img
+                - [X] data/object/item/item24038_stand.img
+                - [X] data/object/item/item24039_stand.img
+                - [X] data/object/item/item24040_stand.img
+                - [X] data/object/item/item24042_stand.img
+                - [X] data/object/item/item24043_stand.img
+                - [X] data/object/item/item24044_stand.img
+                - [X] data/object/item/item24045_stand.img
+                - [X] data/object/item/item24047_stand.img
+                - [X] data/object/item/item24048_stand.img
+                - [X] data/object/item/item24049_stand.img
+                - [X] data/object/item/item24050_stand.img
+                - [X] data/object/item/item24051_stand.img
+                - [X] data/object/item/item24052_stand.img
+                - [X] data/object/item/item24053_stand.img
+                - [X] data/object/item/item24054_stand.img
+                - [X] data/object/item/item24055_stand.img
+                - [X] data/object/item/item24056_stand.img
+                - [X] data/object/item/item24057_stand.img
+                - [X] data/object/item/item24058_stand.img
+                - [X] data/object/item/item24059_stand.img
+                - [X] data/object/item/item24060_stand.img
+                - [X] data/object/item/item24061_stand.img
+                - [X] data/object/item/item24062_stand.img
+                - [X] data/object/item/item24063_stand.img
+                - [X] data/object/item/item24064_stand.img
+                - [X] data/object/item/item24_stand.img
+                - [X] data/object/item/item25_stand.img
+                - [X] data/object/item/item26001_stand.img
+                - [X] data/object/item/item26_stand.img
+                - [X] data/object/item/item27001_stand.img
+                - [X] data/object/item/item27_stand.img
+                - [X] data/object/item/item28001_stand.img
+                - [X] data/object/item/item28_stand.img
+                - [X] data/object/item/item2_stand.img
+                - [X] data/object/item/item30001_stand.img
+                - [X] data/object/item/item30002_stand.img
+                - [X] data/object/item/item30003_stand.img
+                - [X] data/object/item/item30004_stand.img
+                - [X] data/object/item/item30005_stand.img
+                - [X] data/object/item/item30006_stand.img
+                - [X] data/object/item/item30007_stand.img
+                - [X] data/object/item/item30008_stand.img
+                - [X] data/object/item/item30009_stand.img
+                - [X] data/object/item/item30010_stand.img
+                - [X] data/object/item/item30011_stand.img
+                - [X] data/object/item/item30012_stand.img
+                - [X] data/object/item/item30013_stand.img
+                - [X] data/object/item/item30014_stand.img
+                - [X] data/object/item/item30015_stand.img
+                - [X] data/object/item/item30016_stand.img
+                - [X] data/object/item/item30017_stand.img
+                - [X] data/object/item/item30018_stand.img
+                - [X] data/object/item/item30031_stand.img
+                - [X] data/object/item/item30032_stand.img
+                - [X] data/object/item/item30033_stand.img
+                - [X] data/object/item/item30034_stand.img
+                - [X] data/object/item/item30035_stand.img
+                - [X] data/object/item/item30036_stand.img
+                - [X] data/object/item/item30037_stand.img
+                - [X] data/object/item/item30038_stand.img
+                - [X] data/object/item/item30039_stand.img
+                - [X] data/object/item/item30040_stand.img
+                - [X] data/object/item/item30041_stand.img
+                - [X] data/object/item/item30042_stand.img
+                - [X] data/object/item/item30043_stand.img
+                - [X] data/object/item/item30044_stand.img
+                - [X] data/object/item/item30045_stand.img
+                - [X] data/object/item/item30046_stand.img
+                - [X] data/object/item/item30047_stand.img
+                - [X] data/object/item/item30048_stand.img
+                - [X] data/object/item/item30049_stand.img
+                - [X] data/object/item/item30050_stand.img
+                - [X] data/object/item/item30051_stand.img
+                - [X] data/object/item/item30052_stand.img
+                - [X] data/object/item/item30053_stand.img
+                - [X] data/object/item/item30054_stand.img
+                - [X] data/object/item/item30055_stand.img
+                - [X] data/object/item/item30056_stand.img
+                - [X] data/object/item/item30057_stand.img
+                - [X] data/object/item/item30058_stand.img
+                - [X] data/object/item/item30059_stand.img
+                - [X] data/object/item/item30060_stand.img
+                - [X] data/object/item/item30061_stand.img
+                - [X] data/object/item/item30062_stand.img
+                - [X] data/object/item/item30063_stand.img
+                - [X] data/object/item/item30064_stand.img
+                - [X] data/object/item/item30065_stand.img
+                - [X] data/object/item/item30066_stand.img
+                - [X] data/object/item/item30067_stand.img
+                - [X] data/object/item/item30068_stand.img
+                - [X] data/object/item/item30069_stand.img
+                - [X] data/object/item/item30070_stand.img
+                - [X] data/object/item/item30071_stand.img
+                - [X] data/object/item/item30072_stand.img
+                - [X] data/object/item/item30073_stand.img
+                - [X] data/object/item/item30074_stand.img
+                - [X] data/object/item/item30075_stand.img
+                - [X] data/object/item/item30076_stand.img
+                - [X] data/object/item/item30077_stand.img
+                - [X] data/object/item/item30078_stand.img
+                - [X] data/object/item/item30079_stand.img
+                - [X] data/object/item/item30080_stand.img
+                - [X] data/object/item/item30081_stand.img
+                - [X] data/object/item/item30082_stand.img
+                - [X] data/object/item/item30083_stand.img
+                - [X] data/object/item/item30084_stand.img
+                - [X] data/object/item/item30085_stand.img
+                - [X] data/object/item/item30086_stand.img
+                - [X] data/object/item/item30087_stand.img
+                - [X] data/object/item/item30088_stand.img
+                - [X] data/object/item/item30089_stand.img
+                - [X] data/object/item/item30090_stand.img
+                - [X] data/object/item/item30091_stand.img
+                - [X] data/object/item/item30092_stand.img
+                - [X] data/object/item/item30093_stand.img
+                - [X] data/object/item/item30094_stand.img
+                - [X] data/object/item/item30095_stand.img
+                - [X] data/object/item/item30096_stand.img
+                - [X] data/object/item/item30097_stand.img
+                - [X] data/object/item/item300_stand.img
+                - [X] data/object/item/item301_stand.img
+                - [X] data/object/item/item301_trigger.img
+                - [X] data/object/item/item31500_stand.img
+                - [X] data/object/item/item31501_stand.img
+                - [X] data/object/item/item3_stand.img
+                - [X] data/object/item/item402_stand.img
+                - [X] data/object/item/item403_stand.img
+                - [X] data/object/item/item404_stand.img
+                - [X] data/object/item/item405_stand.img
+                - [X] data/object/item/item406_stand.img
+                - [X] data/object/item/item407_stand.img
+                - [X] data/object/item/item408_stand.img
+                - [X] data/object/item/item41_stand.img
+                - [X] data/object/item/item42_stand.img
+                - [X] data/object/item/item430_stand.img
+                - [X] data/object/item/item431_stand.img
+                - [X] data/object/item/item432_stand.img
+                - [X] data/object/item/item433_stand.img
+                - [X] data/object/item/item434_stand.img
+                - [X] data/object/item/item435_stand.img
+                - [X] data/object/item/item437_stand.img
+                - [X] data/object/item/item438_stand.img
+                - [X] data/object/item/item439_stand.img
+                - [X] data/object/item/item43_stand.img
+                - [X] data/object/item/item4400_stand.img
+                - [X] data/object/item/item4401_stand.img
+                - [X] data/object/item/item4402_stand.img
+                - [X] data/object/item/item4403_stand.img
+                - [X] data/object/item/item440_stand.img
+                - [X] data/object/item/item44_stand.img
+                - [X] data/object/item/item450_stand.img
+                - [X] data/object/item/item451_stand.img
+                - [X] data/object/item/item452_stand.img
+                - [X] data/object/item/item453_stand.img
+                - [X] data/object/item/item454_stand.img
+                - [X] data/object/item/item455_stand.img
+                - [X] data/object/item/item456_stand.img
+                - [X] data/object/item/item457_stand.img
+                - [X] data/object/item/item458_stand.img
+                - [X] data/object/item/item459_stand.img
+                - [X] data/object/item/Item4600_stand.img
+                - [X] data/object/item/item461_stand.img
+                - [X] data/object/item/item462_stand.img
+                - [X] data/object/item/item463_stand.img
+                - [X] data/object/item/item464_stand.img
+                - [X] data/object/item/item465_stand.img
+                - [X] data/object/item/item466_stand.img
+                - [X] data/object/item/item467_stand.img
+                - [X] data/object/item/item468_stand.img
+                - [X] data/object/item/item469_stand.img
+                - [X] data/object/item/Item46_stand.img
+                - [X] data/object/item/item470_stand.img
+                - [X] data/object/item/item471_stand.img
+                - [X] data/object/item/item472_stand.img
+                - [X] data/object/item/item473_stand.img
+                - [X] data/object/item/item474_stand.img
+                - [X] data/object/item/item475_stand.img
+                - [X] data/object/item/item476_stand.img
+                - [X] data/object/item/item477_stand.img
+                - [X] data/object/item/Item47_stand.img
+                - [X] data/object/item/Item48_stand.img
+                - [X] data/object/item/item49_stand.img
+                - [X] data/object/item/item4_stand.img
+                - [X] data/object/item/item5_stand.img
+                - [X] data/object/item/item61_stand.img
+                - [X] data/object/item/item62_stand.img
+                - [X] data/object/item/item63_stand.img
+                - [X] data/object/item/item64_stand.img
+                - [X] data/object/item/item65_stand.img
+                - [X] data/object/item/item66_stand.img
+                - [X] data/object/item/item6_stand.img
+                - [X] data/object/item/item7_stand.img
+                - [X] data/object/item/item801_stand.img
+                - [X] data/object/item/item802_stand.img
+                - [X] data/object/item/item807_stand.img
+                - [X] data/object/item/item80_stand.img
+                - [X] data/object/item/item80_trigger.img
+                - [X] data/object/item/item81_stand.img
+                - [X] data/object/item/item81_trigger.img
+                - [X] data/object/item/item82_stand.img
+                - [X] data/object/item/item82_trigger.img
+                - [X] data/object/item/item83_stand.img
+                - [X] data/object/item/item83_trigger.img
+                - [X] data/object/item/item84_stand.img
+                - [X] data/object/item/item84_trigger.img
+                - [X] data/object/item/item85_stand.img
+                - [X] data/object/item/item85_trigger.img
+                - [X] data/object/item/Item86_stand.img
+                - [X] data/object/item/Item86_trigger.img
+                - [X] data/object/item/Item87_stand.img
+                - [X] data/object/item/Item87_trigger.img
+                - [X] data/object/item/Item88_stand.img
+                - [X] data/object/item/Item88_trigger.img
+                - [X] data/object/item/Item89_stand.img
+                - [X] data/object/item/Item89_trigger.img
+                - [X] data/object/item/item8_stand.img
+                - [X] data/object/item/item9001_stand.img
+                - [X] data/object/item/item9002_stand.img
+                - [X] data/object/item/item9003_stand.img
+                - [X] data/object/item/item9004_stand.img
+                - [X] data/object/item/item91_stand.img
+                - [X] data/object/item/item91_trigger.img
+                - [X] data/object/item/item92_stand.img
+                - [X] data/object/item/item92_trigger.img
+                - [X] data/object/item/item93_stand.img
+                - [X] data/object/item/item93_trigger.img
+                - [X] data/object/item/item94_stand.img
+                - [X] data/object/item/item94_trigger.img
+                - [X] data/object/item/item95_stand.img
+                - [X] data/object/item/item95_trigger.img
+                - [X] data/object/item/item96_stand.img
+                - [X] data/object/item/item96_trigger.img
+                - [X] data/object/item/item97_stand.img
+                - [X] data/object/item/item97_trigger.img
+                - [X] data/object/item/Item98_stand.img
+                - [X] data/object/item/Item98_trigger.img
+                - [X] data/object/item/item9_stand.img
+            - [X] data/object/leg
+                - [X] data/object/leg/leg10101_stand.img
+                - [X] data/object/leg/leg10101_stand_m.img
+                - [X] data/object/leg/leg10101_walk.img
+                - [X] data/object/leg/leg10101_walk_m.img
+                - [X] data/object/leg/leg10201_stand.img
+                - [X] data/object/leg/leg10201_stand_m.img
+                - [X] data/object/leg/leg10201_walk.img
+                - [X] data/object/leg/leg10201_walk_m.img
+                - [X] data/object/leg/leg10401_stand.img
+                - [X] data/object/leg/leg10401_stand_m.img
+                - [X] data/object/leg/leg10401_walk.img
+                - [X] data/object/leg/leg10401_walk_m.img
+                - [X] data/object/leg/leg10501_stand.img
+                - [X] data/object/leg/leg10501_stand_m.img
+                - [X] data/object/leg/leg10501_walk.img
+                - [X] data/object/leg/leg10501_walk_m.img
+                - [X] data/object/leg/leg10601_stand.img
+                - [X] data/object/leg/leg10601_walk.img
+                - [X] data/object/leg/leg10701_stand.img
+                - [X] data/object/leg/leg10701_walk.img
+                - [X] data/object/leg/leg10801_stand.img
+                - [X] data/object/leg/leg10801_stand_m.img
+                - [X] data/object/leg/leg10801_walk.img
+                - [X] data/object/leg/leg10801_walk_m.img
+                - [X] data/object/leg/leg10901_stand.img
+                - [X] data/object/leg/leg10901_walk.img
+                - [X] data/object/leg/leg11301_stand.img
+                - [X] data/object/leg/leg11301_stand_m.img
+                - [X] data/object/leg/leg11301_walk.img
+                - [X] data/object/leg/leg11301_walk_m.img
+                - [X] data/object/leg/leg11401_stand.img
+                - [X] data/object/leg/leg11401_walk.img
+                - [X] data/object/leg/leg11501_stand.img
+                - [X] data/object/leg/leg11501_stand_m.img
+                - [X] data/object/leg/leg11501_walk.img
+                - [X] data/object/leg/leg11501_walk_m.img
+                - [X] data/object/leg/leg11601_stand.img
+                - [X] data/object/leg/leg11601_walk.img
+                - [X] data/object/leg/leg11801_stand.img
+                - [X] data/object/leg/leg11801_walk.img
+                - [X] data/object/leg/leg11901_stand.img
+                - [X] data/object/leg/leg11901_stand_m.img
+                - [X] data/object/leg/leg11901_walk.img
+                - [X] data/object/leg/leg11901_walk_m.img
+                - [X] data/object/leg/leg12001_stand.img
+                - [X] data/object/leg/leg12001_walk.img
+                - [X] data/object/leg/leg12201_stand.img
+                - [X] data/object/leg/leg12201_walk.img
+                - [X] data/object/leg/leg1_stand.img
+                - [X] data/object/leg/leg1_stand_m.img
+                - [X] data/object/leg/leg1_walk.img
+                - [X] data/object/leg/leg1_walk_m.img
+                - [X] data/object/leg/leg4001_walk_m.img
+            - [X] data/object/light
+                - [X] data/object/light/light10_stand.img
+                - [X] data/object/light/light11_stand.img
+                - [X] data/object/light/light1228_stand.img
+                - [X] data/object/light/light1229_stand.img
+                - [X] data/object/light/light1230_stand.img
+                - [X] data/object/light/light12_stand.img
+                - [X] data/object/light/light1_stand.img
+                - [X] data/object/light/light2_stand.img
+                - [X] data/object/light/light3_stand.img
+                - [X] data/object/light/light5_stand.img
+                - [X] data/object/light/light6_stand.img
+                - [X] data/object/light/light7_stand.img
+                - [X] data/object/light/light8_stand.img
+                - [X] data/object/light/light9_stand.img
+            - [X] data/object/magic
+                - [X] data/object/magic/magic0001.img
+                - [X] data/object/magic/magic0002.img
+                - [X] data/object/magic/magic0003.img
+                - [X] data/object/magic/magic0004.img
+                - [X] data/object/magic/magic0005.img
+                - [X] data/object/magic/magic0006.img
+                - [X] data/object/magic/magic0007.img
+                - [X] data/object/magic/magic0008.img
+                - [X] data/object/magic/magic0009.img
+                - [X] data/object/magic/magic0010.img
+                - [X] data/object/magic/magic0011.img
+                - [X] data/object/magic/magic0012.img
+                - [X] data/object/magic/magic0013.img
+                - [X] data/object/magic/magic0014.img
+                - [X] data/object/magic/magic0015.img
+                - [X] data/object/magic/magic0016.img
+                - [X] data/object/magic/magic0017.img
+                - [X] data/object/magic/magic0018.img
+                - [X] data/object/magic/magic0019.img
+                - [X] data/object/magic/magic0020.img
+                - [X] data/object/magic/magic0021.img
+                - [X] data/object/magic/magic0022.img
+                - [X] data/object/magic/magic0023.img
+                - [X] data/object/magic/magic0024.img
+                - [X] data/object/magic/magic0025.img
+                - [X] data/object/magic/magic0026.img
+                - [X] data/object/magic/magic0027.img
+                - [X] data/object/magic/magic0028.img
+                - [X] data/object/magic/magic0029.img
+                - [X] data/object/magic/magic0030.img
+                - [X] data/object/magic/magic0031.img
+                - [X] data/object/magic/magic0032.img
+                - [X] data/object/magic/magic0033.img
+                - [X] data/object/magic/magic0034.img
+                - [X] data/object/magic/magic0035.img
+                - [X] data/object/magic/magic0036.img
+                - [X] data/object/magic/magic0037.img
+                - [X] data/object/magic/magic0038.img
+                - [X] data/object/magic/magic0039.img
+                - [X] data/object/magic/magic0040.img
+                - [X] data/object/magic/magic0041.img
+                - [X] data/object/magic/magic0042.img
+                - [X] data/object/magic/magic0043.img
+                - [X] data/object/magic/magic0044.img
+                - [X] data/object/magic/magic0045.img
+                - [X] data/object/magic/magic0046.img
+                - [X] data/object/magic/magic0047.img
+                - [X] data/object/magic/magic0048.img
+                - [X] data/object/magic/magic0049.img
+                - [X] data/object/magic/magic0050.img
+                - [X] data/object/magic/magic0051.img
+                - [X] data/object/magic/magic0052.img
+                - [X] data/object/magic/magic0053.img
+                - [X] data/object/magic/magic0054.img
+                - [X] data/object/magic/magic0055.img
+                - [X] data/object/magic/magic0056.img
+                - [X] data/object/magic/magic0057.img
+                - [X] data/object/magic/magic0058.img
+                - [X] data/object/magic/magic0059.img
+                - [X] data/object/magic/magic0060.img
+                - [X] data/object/magic/magic0061.img
+                - [X] data/object/magic/magic0062.img
+                - [X] data/object/magic/magic0063.img
+                - [X] data/object/magic/magic0064.img
+                - [X] data/object/magic/magic0065.img
+                - [X] data/object/magic/magic0066.img
+                - [X] data/object/magic/magic0067.img
+                - [X] data/object/magic/magic0068.img
+                - [X] data/object/magic/magic0069.img
+                - [X] data/object/magic/magic0070.img
+                - [X] data/object/magic/magic0071.img
+                - [X] data/object/magic/magic0072.img
+                - [X] data/object/magic/magic0073.img
+                - [X] data/object/magic/magic0074.img
+                - [X] data/object/magic/magic0075.img
+                - [X] data/object/magic/magic0076.img
+                - [X] data/object/magic/magic0077.img
+                - [X] data/object/magic/magic0078.img
+                - [X] data/object/magic/magic0079.img
+                - [X] data/object/magic/magic0080.img
+                - [X] data/object/magic/magic0081.img
+                - [X] data/object/magic/magic0082.img
+                - [X] data/object/magic/magic0083.img
+                - [X] data/object/magic/magic0084.img
+                - [X] data/object/magic/magic0085.img
+                - [X] data/object/magic/magic0086.img
+                - [X] data/object/magic/magic0087.img
+                - [X] data/object/magic/magic0088.img
+                - [X] data/object/magic/magic0089.img
+                - [X] data/object/magic/magic0090.img
+                - [X] data/object/magic/magic0091.img
+                - [X] data/object/magic/magic0092.img
+                - [X] data/object/magic/magic0093.img
+                - [X] data/object/magic/magic0094.img
+                - [X] data/object/magic/magic0095.img
+                - [X] data/object/magic/magic0096.img
+                - [X] data/object/magic/magic0097.img
+                - [X] data/object/magic/magic0098.img
+                - [X] data/object/magic/magic0099.img
+                - [X] data/object/magic/magic0100.img
+                - [X] data/object/magic/magic0101.img
+                - [X] data/object/magic/magic0102.img
+                - [X] data/object/magic/magic0103.img
+                - [X] data/object/magic/magic0104.img
+                - [X] data/object/magic/magic0105.img
+                - [X] data/object/magic/magic0106.img
+                - [X] data/object/magic/magic0107.img
+                - [X] data/object/magic/magic0108.img
+                - [X] data/object/magic/magic0109.img
+                - [X] data/object/magic/magic0110.img
+                - [X] data/object/magic/magic0111.img
+                - [X] data/object/magic/magic0112.img
+                - [X] data/object/magic/magic0113.img
+                - [X] data/object/magic/magic0114.img
+                - [X] data/object/magic/magic0115.img
+                - [X] data/object/magic/magic0116.img
+                - [X] data/object/magic/magic0117.img
+                - [X] data/object/magic/magic0118.img
+                - [X] data/object/magic/magic0119.img
+                - [X] data/object/magic/magic0120.img
+                - [X] data/object/magic/magic0121.img
+                - [X] data/object/magic/magic0122.img
+                - [X] data/object/magic/magic0123.img
+                - [X] data/object/magic/magic0124.img
+                - [X] data/object/magic/magic0125.img
+                - [X] data/object/magic/magic0126.img
+                - [X] data/object/magic/magic0127.img
+                - [X] data/object/magic/magic0128.img
+                - [X] data/object/magic/magic0129.img
+                - [X] data/object/magic/magic0130.img
+                - [X] data/object/magic/magic0131.img
+                - [X] data/object/magic/magic0132.img
+                - [X] data/object/magic/magic0133.img
+                - [X] data/object/magic/magic0134.img
+                - [X] data/object/magic/magic0135.img
+                - [X] data/object/magic/magic0136.img
+                - [X] data/object/magic/magic0137.img
+                - [X] data/object/magic/magic0138.img
+                - [X] data/object/magic/magic0139.img
+                - [X] data/object/magic/magic0140.img
+                - [X] data/object/magic/magic0141.img
+                - [X] data/object/magic/magic0142.img
+                - [X] data/object/magic/magic0143.img
+                - [X] data/object/magic/magic0145.img
+                - [X] data/object/magic/magic0146.img
+                - [X] data/object/magic/magic0147.img
+                - [X] data/object/magic/magic0148.img
+                - [X] data/object/magic/magic0149.img
+                - [X] data/object/magic/magic0150.img
+                - [X] data/object/magic/magic0151.img
+                - [X] data/object/magic/magic0152.img
+                - [X] data/object/magic/magic0153.img
+                - [X] data/object/magic/magic0154.img
+                - [X] data/object/magic/magic0155.img
+                - [X] data/object/magic/magic0156.img
+                - [X] data/object/magic/magic0157.img
+                - [X] data/object/magic/magic0158.img
+                - [X] data/object/magic/magic0159.img
+                - [X] data/object/magic/magic0160.img
+                - [X] data/object/magic/magic0161.img
+                - [X] data/object/magic/magic0162.img
+                - [X] data/object/magic/magic0163.img
+                - [X] data/object/magic/magic0164.img
+                - [X] data/object/magic/magic0165.img
+                - [X] data/object/magic/magic0166.img
+                - [X] data/object/magic/magic0167.img
+                - [X] data/object/magic/magic0168.img
+                - [X] data/object/magic/magic0169.img
+                - [X] data/object/magic/magic0170.img
+                - [X] data/object/magic/magic0171.img
+                - [X] data/object/magic/magic0172.img
+                - [X] data/object/magic/magic0173.img
+                - [X] data/object/magic/magic0174.img
+                - [X] data/object/magic/magic0175.img
+                - [X] data/object/magic/magic0176.img
+                - [X] data/object/magic/magic0177.img
+                - [X] data/object/magic/magic0180.img
+                - [X] data/object/magic/magic0181.img
+                - [X] data/object/magic/magic0182.img
+                - [X] data/object/magic/magic0183.img
+                - [X] data/object/magic/magic0184.img
+                - [X] data/object/magic/magic0185.img
+                - [X] data/object/magic/magic0186.img
+                - [X] data/object/magic/magic0187.img
+                - [X] data/object/magic/magic0188.img
+                - [X] data/object/magic/magic0189.img
+                - [X] data/object/magic/magic0190.img
+                - [X] data/object/magic/magic0191.img
+                - [X] data/object/magic/magic0192.img
+            - [X] data/object/mapElem
+                - [X] data/object/mapElem/bomb
+                    - [X] data/object/mapElem/bomb/elem10_stand.img
+                    - [X] data/object/mapElem/bomb/elem11_stand.img
+                    - [X] data/object/mapElem/bomb/elem12_stand.img
+                    - [X] data/object/mapElem/bomb/elem13_stand.img
+                    - [X] data/object/mapElem/bomb/elem14_stand.img
+                    - [X] data/object/mapElem/bomb/elem1_stand.img
+                    - [X] data/object/mapElem/bomb/elem2_stand.img
+                    - [X] data/object/mapElem/bomb/elem3_stand.img
+                    - [X] data/object/mapElem/bomb/elem4_stand.img
+                    - [X] data/object/mapElem/bomb/elem5_stand.img
+                    - [X] data/object/mapElem/bomb/elem6_stand.img
+                    - [X] data/object/mapElem/bomb/elem7_stand.img
+                    - [X] data/object/mapElem/bomb/elem8_stand.img
+                - [X] data/object/mapElem/box
+                    - [X] data/object/mapElem/box/elem100_die.img
+                    - [X] data/object/mapElem/box/elem100_stand.img
+                    - [X] data/object/mapElem/box/elem101_stand.img
+                    - [X] data/object/mapElem/box/elem102_stand.img
+                    - [X] data/object/mapElem/box/elem103_stand.img
+                    - [X] data/object/mapElem/box/elem104_stand.img
+                    - [X] data/object/mapElem/box/elem105_die.img
+                    - [X] data/object/mapElem/box/elem105_stand.img
+                    - [X] data/object/mapElem/box/elem106_stand.img
+                    - [X] data/object/mapElem/box/elem106_trigger.img
+                    - [X] data/object/mapElem/box/elem107_stand.img
+                    - [X] data/object/mapElem/box/elem108_stand.img
+                    - [X] data/object/mapElem/box/elem109_stand.img
+                    - [X] data/object/mapElem/box/elem10_stand.img
+                    - [X] data/object/mapElem/box/elem110_die.img
+                    - [X] data/object/mapElem/box/elem110_stand.img
+                    - [X] data/object/mapElem/box/elem111_die.img
+                    - [X] data/object/mapElem/box/elem111_stand.img
+                    - [X] data/object/mapElem/box/elem112_die.img
+                    - [X] data/object/mapElem/box/elem112_stand.img
+                    - [X] data/object/mapElem/box/elem113_die.img
+                    - [X] data/object/mapElem/box/elem113_stand.img
+                    - [X] data/object/mapElem/box/elem114_die.img
+                    - [X] data/object/mapElem/box/elem114_stand.img
+                    - [X] data/object/mapElem/box/elem115_die.img
+                    - [X] data/object/mapElem/box/elem115_stand.img
+                    - [X] data/object/mapElem/box/elem115_trigger.img
+                    - [X] data/object/mapElem/box/elem116_stand.img
+                    - [X] data/object/mapElem/box/elem117_stand.img
+                    - [X] data/object/mapElem/box/elem118_stand.img
+                    - [X] data/object/mapElem/box/elem119_stand.img
+                    - [X] data/object/mapElem/box/elem120_die.img
+                    - [X] data/object/mapElem/box/elem120_stand.img
+                    - [X] data/object/mapElem/box/elem121_die.img
+                    - [X] data/object/mapElem/box/elem121_stand.img
+                    - [X] data/object/mapElem/box/elem122_die.img
+                    - [X] data/object/mapElem/box/elem122_stand.img
+                    - [X] data/object/mapElem/box/elem123_stand.img
+                    - [X] data/object/mapElem/box/elem124_stand.img
+                    - [X] data/object/mapElem/box/elem125_stand.img
+                    - [X] data/object/mapElem/box/elem126_die.img
+                    - [X] data/object/mapElem/box/elem126_stand.img
+                    - [X] data/object/mapElem/box/elem127_stand.img
+                    - [X] data/object/mapElem/box/elem12_stand.img
+                    - [X] data/object/mapElem/box/elem15_stand.img
+                    - [X] data/object/mapElem/box/elem16_stand.img
+                    - [X] data/object/mapElem/box/elem17_stand.img
+                    - [X] data/object/mapElem/box/elem1_stand.img
+                    - [X] data/object/mapElem/box/elem22_stand.img
+                    - [X] data/object/mapElem/box/elem23_stand.img
+                    - [X] data/object/mapElem/box/elem24_stand.img
+                    - [X] data/object/mapElem/box/elem25_stand.img
+                    - [X] data/object/mapElem/box/elem26_stand.img
+                    - [X] data/object/mapElem/box/elem27_stand.img
+                    - [X] data/object/mapElem/box/elem28_stand.img
+                    - [X] data/object/mapElem/box/elem29_stand.img
+                    - [X] data/object/mapElem/box/elem2_stand.img
+                    - [X] data/object/mapElem/box/elem30_stand.img
+                    - [X] data/object/mapElem/box/elem31_stand.img
+                    - [X] data/object/mapElem/box/elem32_stand.img
+                    - [X] data/object/mapElem/box/elem33_stand.img
+                    - [X] data/object/mapElem/box/elem34_stand.img
+                    - [X] data/object/mapElem/box/elem35_stand.img
+                    - [X] data/object/mapElem/box/elem36_stand.img
+                    - [X] data/object/mapElem/box/elem37_stand.img
+                    - [X] data/object/mapElem/box/elem38_stand.img
+                    - [X] data/object/mapElem/box/elem39_stand.img
+                    - [X] data/object/mapElem/box/elem3_stand.img
+                    - [X] data/object/mapElem/box/elem40_stand.img
+                    - [X] data/object/mapElem/box/elem41_stand.img
+                    - [X] data/object/mapElem/box/elem42_stand.img
+                    - [X] data/object/mapElem/box/elem43_stand.img
+                    - [X] data/object/mapElem/box/elem44_stand.img
+                    - [X] data/object/mapElem/box/elem45_stand.img
+                    - [X] data/object/mapElem/box/elem46_stand.img
+                    - [X] data/object/mapElem/box/elem47_stand.img
+                    - [X] data/object/mapElem/box/elem48_stand.img
+                    - [X] data/object/mapElem/box/elem49_stand.img
+                    - [X] data/object/mapElem/box/elem4_stand.img
+                    - [X] data/object/mapElem/box/elem7_stand.img
+                - [X] data/object/mapElem/bun
+                    - [X] data/object/mapElem/bun/elem10_stand.img
+                    - [X] data/object/mapElem/bun/elem11_stand.img
+                    - [X] data/object/mapElem/bun/elem12_stand.img
+                    - [X] data/object/mapElem/bun/elem13_stand.img
+                    - [X] data/object/mapElem/bun/elem14_stand.img
+                    - [X] data/object/mapElem/bun/elem15_stand.img
+                    - [X] data/object/mapElem/bun/elem16_stand.img
+                    - [X] data/object/mapElem/bun/elem17_stand.img
+                    - [X] data/object/mapElem/bun/elem18_stand.img
+                    - [X] data/object/mapElem/bun/elem19_stand.img
+                    - [X] data/object/mapElem/bun/elem1_die.img
+                    - [X] data/object/mapElem/bun/elem1_stand.img
+                    - [X] data/object/mapElem/bun/elem20_trigger.img
+                    - [X] data/object/mapElem/bun/elem21_stand.img
+                    - [X] data/object/mapElem/bun/elem21_trigger.img
+                    - [X] data/object/mapElem/bun/elem22_stand.img
+                    - [X] data/object/mapElem/bun/elem22_trigger.img
+                    - [X] data/object/mapElem/bun/elem23_stand.img
+                    - [X] data/object/mapElem/bun/elem23_trigger.img
+                    - [X] data/object/mapElem/bun/elem24_stand.img
+                    - [X] data/object/mapElem/bun/elem25_stand.img
+                    - [X] data/object/mapElem/bun/elem26_stand.img
+                    - [X] data/object/mapElem/bun/elem27_stand.img
+                    - [X] data/object/mapElem/bun/elem28_stand.img
+                    - [X] data/object/mapElem/bun/elem2_die.img
+                    - [X] data/object/mapElem/bun/elem2_stand.img
+                    - [X] data/object/mapElem/bun/elem3_die.img
+                    - [X] data/object/mapElem/bun/elem3_stand.img
+                    - [X] data/object/mapElem/bun/elem4_die.img
+                    - [X] data/object/mapElem/bun/elem4_stand.img
+                    - [X] data/object/mapElem/bun/elem5_stand.img
+                    - [X] data/object/mapElem/bun/elem6_stand.img
+                    - [X] data/object/mapElem/bun/elem7_die.img
+                    - [X] data/object/mapElem/bun/elem7_stand.img
+                    - [X] data/object/mapElem/bun/elem8_stand.img
+                    - [X] data/object/mapElem/bun/elem9_stand.img
+                - [X] data/object/mapElem/common
+                    - [X] data/object/mapElem/common/elem100_die.img
+                    - [X] data/object/mapElem/common/elem100_stand.img
+                    - [X] data/object/mapElem/common/elem101_die.img
+                    - [X] data/object/mapElem/common/elem101_stand.img
+                    - [X] data/object/mapElem/common/elem102_die.img
+                    - [X] data/object/mapElem/common/elem102_stand.img
+                    - [X] data/object/mapElem/common/elem103_die.img
+                    - [X] data/object/mapElem/common/elem103_stand.img
+                    - [X] data/object/mapElem/common/elem104_die.img
+                    - [X] data/object/mapElem/common/elem104_stand.img
+                    - [X] data/object/mapElem/common/elem105_stand.img
+                    - [X] data/object/mapElem/common/elem106_stand.img
+                    - [X] data/object/mapElem/common/elem107_stand.img
+                    - [X] data/object/mapElem/common/elem108_stand.img
+                    - [X] data/object/mapElem/common/elem109_stand.img
+                    - [X] data/object/mapElem/common/elem110_stand.img
+                    - [X] data/object/mapElem/common/elem111_stand.img
+                    - [X] data/object/mapElem/common/elem112_stand.img
+                    - [X] data/object/mapElem/common/elem113_stand.img
+                    - [X] data/object/mapElem/common/elem114_stand.img
+                    - [X] data/object/mapElem/common/elem115_stand.img
+                    - [X] data/object/mapElem/common/elem116_stand.img
+                    - [X] data/object/mapElem/common/elem117_stand.img
+                    - [X] data/object/mapElem/common/elem118_stand.img
+                    - [X] data/object/mapElem/common/elem119_stand.img
+                    - [X] data/object/mapElem/common/elem121_stand.img
+                    - [X] data/object/mapElem/common/elem122_stand.img
+                    - [X] data/object/mapElem/common/elem123_stand.img
+                    - [X] data/object/mapElem/common/elem124_stand.img
+                    - [X] data/object/mapElem/common/elem125_stand.img
+                    - [X] data/object/mapElem/common/elem126_stand.img
+                    - [X] data/object/mapElem/common/elem127_stand.img
+                    - [X] data/object/mapElem/common/elem128_stand.img
+                    - [X] data/object/mapElem/common/elem130_stand.img
+                    - [X] data/object/mapElem/common/elem131_stand.img
+                    - [X] data/object/mapElem/common/elem132_stand.img
+                    - [X] data/object/mapElem/common/elem133_stand.img
+                    - [X] data/object/mapElem/common/elem134_stand.img
+                    - [X] data/object/mapElem/common/elem135_stand.img
+                    - [X] data/object/mapElem/common/elem136_stand.img
+                    - [X] data/object/mapElem/common/elem137_stand.img
+                    - [X] data/object/mapElem/common/elem18_stand.img
+                    - [X] data/object/mapElem/common/elem19_stand.img
+                    - [X] data/object/mapElem/common/elem1_stand.img
+                    - [X] data/object/mapElem/common/elem20_trigger.img
+                    - [X] data/object/mapElem/common/elem21_stand.img
+                    - [X] data/object/mapElem/common/elem21_trigger.img
+                    - [X] data/object/mapElem/common/elem22_stand.img
+                    - [X] data/object/mapElem/common/elem22_trigger.img
+                    - [X] data/object/mapElem/common/elem23_stand.img
+                    - [X] data/object/mapElem/common/elem23_trigger.img
+                    - [X] data/object/mapElem/common/elem24_stand.img
+                    - [X] data/object/mapElem/common/elem25_stand.img
+                    - [X] data/object/mapElem/common/elem26_stand.img
+                    - [X] data/object/mapElem/common/elem27_stand.img
+                    - [X] data/object/mapElem/common/elem28_stand.img
+                    - [X] data/object/mapElem/common/elem29_stand.img
+                    - [X] data/object/mapElem/common/elem30_stand.img
+                    - [X] data/object/mapElem/common/elem33_stand.img
+                    - [X] data/object/mapElem/common/elem34_stand.img
+                    - [X] data/object/mapElem/common/elem35_stand.img
+                    - [X] data/object/mapElem/common/elem37_stand.img
+                    - [X] data/object/mapElem/common/elem38_stand.img
+                    - [X] data/object/mapElem/common/elem39_stand.img
+                    - [X] data/object/mapElem/common/elem40_stand.img
+                    - [X] data/object/mapElem/common/elem41_stand.img
+                    - [X] data/object/mapElem/common/elem42_stand.img
+                    - [X] data/object/mapElem/common/elem43_stand.img
+                    - [X] data/object/mapElem/common/elem44_stand.img
+                    - [X] data/object/mapElem/common/elem45_stand.img
+                    - [X] data/object/mapElem/common/elem46_stand.img
+                    - [X] data/object/mapElem/common/elem47_stand.img
+                    - [X] data/object/mapElem/common/elem48_stand.img
+                    - [X] data/object/mapElem/common/elem49_stand.img
+                    - [X] data/object/mapElem/common/elem50_stand.img
+                    - [X] data/object/mapElem/common/elem51_stand.img
+                    - [X] data/object/mapElem/common/elem52_stand.img
+                    - [X] data/object/mapElem/common/elem53_stand.img
+                    - [X] data/object/mapElem/common/elem54_stand.img
+                    - [X] data/object/mapElem/common/elem55_stand.img
+                    - [X] data/object/mapElem/common/elem56_stand.img
+                    - [X] data/object/mapElem/common/elem57_stand.img
+                    - [X] data/object/mapElem/common/elem58_stand.img
+                    - [X] data/object/mapElem/common/elem59_stand.img
+                    - [X] data/object/mapElem/common/elem60_stand.img
+                    - [X] data/object/mapElem/common/elem61_stand.img
+                    - [X] data/object/mapElem/common/elem62_stand.img
+                    - [X] data/object/mapElem/common/elem63_stand.img
+                    - [X] data/object/mapElem/common/elem64_stand.img
+                    - [X] data/object/mapElem/common/elem65_stand.img
+                    - [X] data/object/mapElem/common/elem66_stand.img
+                    - [X] data/object/mapElem/common/elem67_stand.img
+                    - [X] data/object/mapElem/common/elem68_stand.img
+                    - [X] data/object/mapElem/common/elem69_stand.img
+                    - [X] data/object/mapElem/common/elem70_stand.img
+                    - [X] data/object/mapElem/common/elem71_stand.img
+                    - [X] data/object/mapElem/common/elem72_stand.img
+                    - [X] data/object/mapElem/common/elem73_stand.img
+                    - [X] data/object/mapElem/common/elem74_stand.img
+                    - [X] data/object/mapElem/common/elem75_stand.img
+                    - [X] data/object/mapElem/common/elem76_stand.img
+                    - [X] data/object/mapElem/common/elem77_stand.img
+                    - [X] data/object/mapElem/common/elem78_stand.img
+                    - [X] data/object/mapElem/common/elem79_stand.img
+                    - [X] data/object/mapElem/common/elem80_stand.img
+                    - [X] data/object/mapElem/common/elem81_stand.img
+                    - [X] data/object/mapElem/common/elem82_stand.img
+                    - [X] data/object/mapElem/common/elem83_stand.img
+                - [X] data/object/mapElem/desert
+                    - [X] data/object/mapElem/desert/elem101_stand.img
+                    - [X] data/object/mapElem/desert/elem102_stand.img
+                    - [X] data/object/mapElem/desert/elem103_stand.img
+                    - [X] data/object/mapElem/desert/elem104_stand.img
+                    - [X] data/object/mapElem/desert/elem105_stand.img
+                    - [X] data/object/mapElem/desert/elem106_stand.img
+                    - [X] data/object/mapElem/desert/elem107_stand.img
+                    - [X] data/object/mapElem/desert/elem108_stand.img
+                    - [X] data/object/mapElem/desert/elem109_stand.img
+                    - [X] data/object/mapElem/desert/elem10_stand.img
+                    - [X] data/object/mapElem/desert/elem10_trigger.img
+                    - [X] data/object/mapElem/desert/elem111_stand.img
+                    - [X] data/object/mapElem/desert/elem112_stand.img
+                    - [X] data/object/mapElem/desert/elem113_stand.img
+                    - [X] data/object/mapElem/desert/elem114_stand.img
+                    - [X] data/object/mapElem/desert/elem115_stand.img
+                    - [X] data/object/mapElem/desert/elem116_stand.img
+                    - [X] data/object/mapElem/desert/elem117_stand.img
+                    - [X] data/object/mapElem/desert/elem118_stand.img
+                    - [X] data/object/mapElem/desert/elem119_stand.img
+                    - [X] data/object/mapElem/desert/elem11_stand.img
+                    - [X] data/object/mapElem/desert/elem120_stand.img
+                    - [X] data/object/mapElem/desert/elem121_stand.img
+                    - [X] data/object/mapElem/desert/elem122_stand.img
+                    - [X] data/object/mapElem/desert/elem123_stand.img
+                    - [X] data/object/mapElem/desert/elem124_stand.img
+                    - [X] data/object/mapElem/desert/elem125_stand.img
+                    - [X] data/object/mapElem/desert/elem126_stand.img
+                    - [X] data/object/mapElem/desert/elem127_stand.img
+                    - [X] data/object/mapElem/desert/elem128_stand.img
+                    - [X] data/object/mapElem/desert/elem129_stand.img
+                    - [X] data/object/mapElem/desert/elem12_stand.img
+                    - [X] data/object/mapElem/desert/elem130_stand.img
+                    - [X] data/object/mapElem/desert/elem131_stand.img
+                    - [X] data/object/mapElem/desert/elem132_stand.img
+                    - [X] data/object/mapElem/desert/elem133_stand.img
+                    - [X] data/object/mapElem/desert/elem134_stand.img
+                    - [X] data/object/mapElem/desert/elem135_stand.img
+                    - [X] data/object/mapElem/desert/elem136_stand.img
+                    - [X] data/object/mapElem/desert/elem137_stand.img
+                    - [X] data/object/mapElem/desert/elem138_stand.img
+                    - [X] data/object/mapElem/desert/elem139_stand.img
+                    - [X] data/object/mapElem/desert/elem140_stand.img
+                    - [X] data/object/mapElem/desert/elem141_stand.img
+                    - [X] data/object/mapElem/desert/elem142_stand.img
+                    - [X] data/object/mapElem/desert/elem143_stand.img
+                    - [X] data/object/mapElem/desert/elem1_stand.img
+                    - [X] data/object/mapElem/desert/elem2_die.img
+                    - [X] data/object/mapElem/desert/elem2_stand.img
+                    - [X] data/object/mapElem/desert/elem3_die.img
+                    - [X] data/object/mapElem/desert/elem3_stand.img
+                    - [X] data/object/mapElem/desert/elem4_stand.img
+                    - [X] data/object/mapElem/desert/elem5_stand.img
+                    - [X] data/object/mapElem/desert/elem6_die.img
+                    - [X] data/object/mapElem/desert/elem6_stand.img
+                    - [X] data/object/mapElem/desert/elem7_stand.img
+                    - [X] data/object/mapElem/desert/elem8_stand.img
+                    - [X] data/object/mapElem/desert/elem8_trigger.img
+                    - [X] data/object/mapElem/desert/elem9_stand.img
+                - [X] data/object/mapElem/exploration
+                    - [X] data/object/mapElem/exploration/elem101_stand.img
+                    - [X] data/object/mapElem/exploration/elem102_die.img
+                    - [X] data/object/mapElem/exploration/elem102_stand.img
+                    - [X] data/object/mapElem/exploration/elem103_die.img
+                    - [X] data/object/mapElem/exploration/elem103_stand.img
+                    - [X] data/object/mapElem/exploration/elem104_stand.img
+                    - [X] data/object/mapElem/exploration/elem104_trigger.img
+                    - [X] data/object/mapElem/exploration/elem105_stand.img
+                    - [X] data/object/mapElem/exploration/elem106_die.img
+                    - [X] data/object/mapElem/exploration/elem106_stand.img
+                    - [X] data/object/mapElem/exploration/elem107_stand.img
+                    - [X] data/object/mapElem/exploration/elem108_die.img
+                    - [X] data/object/mapElem/exploration/elem108_stand.img
+                    - [X] data/object/mapElem/exploration/elem109_die.img
+                    - [X] data/object/mapElem/exploration/elem109_stand.img
+                    - [X] data/object/mapElem/exploration/elem10_stand.img
+                    - [X] data/object/mapElem/exploration/elem110_stand.img
+                    - [X] data/object/mapElem/exploration/elem111_stand.img
+                    - [X] data/object/mapElem/exploration/elem112_stand.img
+                    - [X] data/object/mapElem/exploration/elem112_trigger.img
+                    - [X] data/object/mapElem/exploration/elem113_stand.img
+                    - [X] data/object/mapElem/exploration/elem114_stand.img
+                    - [X] data/object/mapElem/exploration/elem114_trigger.img
+                    - [X] data/object/mapElem/exploration/elem115_stand.img
+                    - [X] data/object/mapElem/exploration/elem116_die.img
+                    - [X] data/object/mapElem/exploration/elem116_stand.img
+                    - [X] data/object/mapElem/exploration/elem117_stand.img
+                    - [X] data/object/mapElem/exploration/elem118_stand.img
+                    - [X] data/object/mapElem/exploration/elem119_stand.img
+                    - [X] data/object/mapElem/exploration/elem11_stand.img
+                    - [X] data/object/mapElem/exploration/elem120_stand.img
+                    - [X] data/object/mapElem/exploration/elem121_stand.img
+                    - [X] data/object/mapElem/exploration/elem122_stand.img
+                    - [X] data/object/mapElem/exploration/elem12_stand.img
+                    - [X] data/object/mapElem/exploration/elem13_stand.img
+                    - [X] data/object/mapElem/exploration/elem14_stand.img
+                    - [X] data/object/mapElem/exploration/elem15_stand.img
+                    - [X] data/object/mapElem/exploration/elem16_stand.img
+                    - [X] data/object/mapElem/exploration/elem17_stand.img
+                    - [X] data/object/mapElem/exploration/elem18_stand.img
+                    - [X] data/object/mapElem/exploration/elem19_stand.img
+                    - [X] data/object/mapElem/exploration/elem1_stand.img
+                    - [X] data/object/mapElem/exploration/elem201_stand.img
+                    - [X] data/object/mapElem/exploration/elem202_stand.img
+                    - [X] data/object/mapElem/exploration/elem203_stand.img
+                    - [X] data/object/mapElem/exploration/elem204_stand.img
+                    - [X] data/object/mapElem/exploration/elem205_stand.img
+                    - [X] data/object/mapElem/exploration/elem206_stand.img
+                    - [X] data/object/mapElem/exploration/elem207_stand.img
+                    - [X] data/object/mapElem/exploration/elem208_stand.img
+                    - [X] data/object/mapElem/exploration/elem209_stand.img
+                    - [X] data/object/mapElem/exploration/elem20_stand.img
+                    - [X] data/object/mapElem/exploration/elem210_stand.img
+                    - [X] data/object/mapElem/exploration/elem211_stand.img
+                    - [X] data/object/mapElem/exploration/elem212_stand.img
+                    - [X] data/object/mapElem/exploration/elem213_stand.img
+                    - [X] data/object/mapElem/exploration/elem214_stand.img
+                    - [X] data/object/mapElem/exploration/elem215_stand.img
+                    - [X] data/object/mapElem/exploration/elem216_stand.img
+                    - [X] data/object/mapElem/exploration/elem217_stand.img
+                    - [X] data/object/mapElem/exploration/elem218_stand.img
+                    - [X] data/object/mapElem/exploration/elem219_stand.img
+                    - [X] data/object/mapElem/exploration/elem21_stand.img
+                    - [X] data/object/mapElem/exploration/elem220_stand.img
+                    - [X] data/object/mapElem/exploration/elem221_stand.img
+                    - [X] data/object/mapElem/exploration/elem222_stand.img
+                    - [X] data/object/mapElem/exploration/elem223_stand.img
+                    - [X] data/object/mapElem/exploration/elem224_stand.img
+                    - [X] data/object/mapElem/exploration/elem225_stand.img
+                    - [X] data/object/mapElem/exploration/elem226_stand.img
+                    - [X] data/object/mapElem/exploration/elem227_stand.img
+                    - [X] data/object/mapElem/exploration/elem22_stand.img
+                    - [X] data/object/mapElem/exploration/elem23_stand.img
+                    - [X] data/object/mapElem/exploration/elem24_stand.img
+                    - [X] data/object/mapElem/exploration/elem25_stand.img
+                    - [X] data/object/mapElem/exploration/elem26_stand.img
+                    - [X] data/object/mapElem/exploration/elem27_stand.img
+                    - [X] data/object/mapElem/exploration/elem28_stand.img
+                    - [X] data/object/mapElem/exploration/elem29_stand.img
+                    - [X] data/object/mapElem/exploration/elem2_stand.img
+                    - [X] data/object/mapElem/exploration/elem30_stand.img
+                    - [X] data/object/mapElem/exploration/elem31_stand.img
+                    - [X] data/object/mapElem/exploration/elem32_stand.img
+                    - [X] data/object/mapElem/exploration/elem33_stand.img
+                    - [X] data/object/mapElem/exploration/elem34_stand.img
+                    - [X] data/object/mapElem/exploration/elem35_stand.img
+                    - [X] data/object/mapElem/exploration/elem36_stand.img
+                    - [X] data/object/mapElem/exploration/elem37_stand.img
+                    - [X] data/object/mapElem/exploration/elem38_stand.img
+                    - [X] data/object/mapElem/exploration/elem3_stand.img
+                    - [X] data/object/mapElem/exploration/elem4_stand.img
+                    - [X] data/object/mapElem/exploration/elem5_stand.img
+                    - [X] data/object/mapElem/exploration/elem6_stand.img
+                    - [X] data/object/mapElem/exploration/elem7_stand.img
+                    - [X] data/object/mapElem/exploration/elem8_stand.img
+                    - [X] data/object/mapElem/exploration/elem9_stand.img
+                - [X] data/object/mapElem/field
+                    - [X] data/object/mapElem/field/elem10_stand.img
+                    - [X] data/object/mapElem/field/elem11_stand.img
+                    - [X] data/object/mapElem/field/elem12_die.img
+                    - [X] data/object/mapElem/field/elem12_stand.img
+                    - [X] data/object/mapElem/field/elem13_stand.img
+                    - [X] data/object/mapElem/field/elem14_stand.img
+                    - [X] data/object/mapElem/field/elem15_stand.img
+                    - [X] data/object/mapElem/field/elem16_stand.img
+                    - [X] data/object/mapElem/field/elem17_stand.img
+                    - [X] data/object/mapElem/field/elem18_stand.img
+                    - [X] data/object/mapElem/field/elem19_stand.img
+                    - [X] data/object/mapElem/field/elem1_stand.img
+                    - [X] data/object/mapElem/field/elem20_stand.img
+                    - [X] data/object/mapElem/field/elem21_stand.img
+                    - [X] data/object/mapElem/field/elem22_stand.img
+                    - [X] data/object/mapElem/field/elem23_stand.img
+                    - [X] data/object/mapElem/field/elem24_stand.img
+                    - [X] data/object/mapElem/field/elem25_stand.img
+                    - [X] data/object/mapElem/field/elem2_die.img
+                    - [X] data/object/mapElem/field/elem2_stand.img
+                    - [X] data/object/mapElem/field/elem3_die.img
+                    - [X] data/object/mapElem/field/elem3_stand.img
+                    - [X] data/object/mapElem/field/elem3_trigger.img
+                    - [X] data/object/mapElem/field/elem4_die.img
+                    - [X] data/object/mapElem/field/elem4_stand.img
+                    - [X] data/object/mapElem/field/elem5_die.img
+                    - [X] data/object/mapElem/field/elem5_stand.img
+                    - [X] data/object/mapElem/field/elem6_die.img
+                    - [X] data/object/mapElem/field/elem6_stand.img
+                    - [X] data/object/mapElem/field/elem7_stand.img
+                    - [X] data/object/mapElem/field/elem8_die.img
+                    - [X] data/object/mapElem/field/elem8_stand.img
+                    - [X] data/object/mapElem/field/elem9_stand.img
+                - [X] data/object/mapElem/machine
+                    - [X] data/object/mapElem/machine/elem10_die.img
+                    - [X] data/object/mapElem/machine/elem10_stand.img
+                    - [X] data/object/mapElem/machine/elem11_stand.img
+                    - [X] data/object/mapElem/machine/elem12_stand.img
+                    - [X] data/object/mapElem/machine/elem13_stand.img
+                    - [X] data/object/mapElem/machine/elem14_stand.img
+                    - [X] data/object/mapElem/machine/elem15_stand.img
+                    - [X] data/object/mapElem/machine/elem16_stand.img
+                    - [X] data/object/mapElem/machine/elem17_stand.img
+                    - [X] data/object/mapElem/machine/elem1_stand.img
+                    - [X] data/object/mapElem/machine/elem20_stand.img
+                    - [X] data/object/mapElem/machine/elem21_stand.img
+                    - [X] data/object/mapElem/machine/elem22_stand.img
+                    - [X] data/object/mapElem/machine/elem23_stand.img
+                    - [X] data/object/mapElem/machine/elem24_stand.img
+                    - [X] data/object/mapElem/machine/elem25_stand.img
+                    - [X] data/object/mapElem/machine/elem26_stand.img
+                    - [X] data/object/mapElem/machine/elem27_stand.img
+                    - [X] data/object/mapElem/machine/elem28_stand.img
+                    - [X] data/object/mapElem/machine/elem29_stand.img
+                    - [X] data/object/mapElem/machine/elem2_stand.img
+                    - [X] data/object/mapElem/machine/elem30_stand.img
+                    - [X] data/object/mapElem/machine/elem31_stand.img
+                    - [X] data/object/mapElem/machine/elem32_stand.img
+                    - [X] data/object/mapElem/machine/elem33_stand.img
+                    - [X] data/object/mapElem/machine/elem34_stand.img
+                    - [X] data/object/mapElem/machine/elem35_stand.img
+                    - [X] data/object/mapElem/machine/elem36_stand.img
+                    - [X] data/object/mapElem/machine/elem37_stand.img
+                    - [X] data/object/mapElem/machine/elem38_stand.img
+                    - [X] data/object/mapElem/machine/elem39_stand.img
+                    - [X] data/object/mapElem/machine/elem3_stand.img
+                    - [X] data/object/mapElem/machine/elem40_stand.img
+                    - [X] data/object/mapElem/machine/elem41__stand.img
+                    - [X] data/object/mapElem/machine/elem42_stand.img
+                    - [X] data/object/mapElem/machine/elem43_stand.img
+                    - [X] data/object/mapElem/machine/elem44_stand.img
+                    - [X] data/object/mapElem/machine/elem45_stand.img
+                    - [X] data/object/mapElem/machine/elem46_stand.img
+                    - [X] data/object/mapElem/machine/elem47_stand.img
+                    - [X] data/object/mapElem/machine/elem48_stand.img
+                    - [X] data/object/mapElem/machine/elem49_stand.img
+                    - [X] data/object/mapElem/machine/elem4_stand.img
+                    - [X] data/object/mapElem/machine/elem50_stand.img
+                    - [X] data/object/mapElem/machine/elem51_stand.img
+                    - [X] data/object/mapElem/machine/elem52_stand.img
+                    - [X] data/object/mapElem/machine/elem53_stand.img
+                    - [X] data/object/mapElem/machine/elem54_stand.img
+                    - [X] data/object/mapElem/machine/elem55_stand.img
+                    - [X] data/object/mapElem/machine/elem56_stand.img
+                    - [X] data/object/mapElem/machine/elem57_stand.img
+                    - [X] data/object/mapElem/machine/elem58_stand.img
+                    - [X] data/object/mapElem/machine/elem59_stand.img
+                    - [X] data/object/mapElem/machine/elem5_stand.img
+                    - [X] data/object/mapElem/machine/elem60_stand.img
+                    - [X] data/object/mapElem/machine/elem61_stand.img
+                    - [X] data/object/mapElem/machine/elem62_stand.img
+                    - [X] data/object/mapElem/machine/elem63_stand.img
+                    - [X] data/object/mapElem/machine/elem64_die.img
+                    - [X] data/object/mapElem/machine/elem64_stand.img
+                    - [X] data/object/mapElem/machine/elem65_die.img
+                    - [X] data/object/mapElem/machine/elem65_stand.img
+                    - [X] data/object/mapElem/machine/elem66_die.img
+                    - [X] data/object/mapElem/machine/elem66_stand.img
+                    - [X] data/object/mapElem/machine/elem67_die.img
+                    - [X] data/object/mapElem/machine/elem67_stand.img
+                    - [X] data/object/mapElem/machine/elem68_die.img
+                    - [X] data/object/mapElem/machine/elem68_stand.img
+                    - [X] data/object/mapElem/machine/elem69_die.img
+                    - [X] data/object/mapElem/machine/elem69_stand.img
+                    - [X] data/object/mapElem/machine/elem6_stand.img
+                    - [X] data/object/mapElem/machine/elem70_stand.img
+                    - [X] data/object/mapElem/machine/elem71_stand.img
+                    - [X] data/object/mapElem/machine/elem72_stand.img
+                    - [X] data/object/mapElem/machine/elem73_stand.img
+                    - [X] data/object/mapElem/machine/elem74_stand.img
+                    - [X] data/object/mapElem/machine/elem75_stand.img
+                    - [X] data/object/mapElem/machine/elem76_stand.img
+                    - [X] data/object/mapElem/machine/elem77_stand.img
+                    - [X] data/object/mapElem/machine/elem78_stand.img
+                    - [X] data/object/mapElem/machine/elem79_stand.img
+                    - [X] data/object/mapElem/machine/elem7_stand.img
+                    - [X] data/object/mapElem/machine/elem8_die.img
+                    - [X] data/object/mapElem/machine/elem8_stand.img
+                    - [X] data/object/mapElem/machine/elem9_die.img
+                    - [X] data/object/mapElem/machine/elem9_stand.img
+                - [X] data/object/mapElem/match
+                    - [X] data/object/mapElem/match/elem1_stand.img
+                    - [X] data/object/mapElem/match/elem2_die.img
+                    - [X] data/object/mapElem/match/elem2_stand.img
+                    - [X] data/object/mapElem/match/elem3_die.img
+                    - [X] data/object/mapElem/match/elem3_stand.img
+                    - [X] data/object/mapElem/match/elem4_stand.img
+                    - [X] data/object/mapElem/match/elem5_stand.img
+                    - [X] data/object/mapElem/match/elem6_stand.img
+                    - [X] data/object/mapElem/match/elem7_stand.img
+                    - [X] data/object/mapElem/match/elem8_stand.img
+                    - [X] data/object/mapElem/match/elem9_stand.img
+                - [X] data/object/mapElem/mine
+                    - [X] data/object/mapElem/mine/elem10_stand.img
+                    - [X] data/object/mapElem/mine/elem11_stand.img
+                    - [X] data/object/mapElem/mine/elem12_die.img
+                    - [X] data/object/mapElem/mine/elem12_stand.img
+                    - [X] data/object/mapElem/mine/elem13_stand.img
+                    - [X] data/object/mapElem/mine/elem14_stand.img
+                    - [X] data/object/mapElem/mine/elem15_stand.img
+                    - [X] data/object/mapElem/mine/elem16_stand.img
+                    - [X] data/object/mapElem/mine/elem17_stand.img
+                    - [X] data/object/mapElem/mine/elem18_stand.img
+                    - [X] data/object/mapElem/mine/elem19_stand.img
+                    - [X] data/object/mapElem/mine/elem1_stand.img
+                    - [X] data/object/mapElem/mine/elem20_stand.img
+                    - [X] data/object/mapElem/mine/elem21_stand.img
+                    - [X] data/object/mapElem/mine/elem22_stand.img
+                    - [X] data/object/mapElem/mine/elem23_stand.img
+                    - [X] data/object/mapElem/mine/elem24_stand.img
+                    - [X] data/object/mapElem/mine/elem25_stand.img
+                    - [X] data/object/mapElem/mine/elem26_stand.img
+                    - [X] data/object/mapElem/mine/elem27_die.img
+                    - [X] data/object/mapElem/mine/elem27_stand.img
+                    - [X] data/object/mapElem/mine/elem28_stand.img
+                    - [X] data/object/mapElem/mine/elem29_stand.img
+                    - [X] data/object/mapElem/mine/elem2_stand.img
+                    - [X] data/object/mapElem/mine/elem30_stand.img
+                    - [X] data/object/mapElem/mine/elem31_stand.img
+                    - [X] data/object/mapElem/mine/elem32_stand.img
+                    - [X] data/object/mapElem/mine/elem33_stand.img
+                    - [X] data/object/mapElem/mine/elem34_stand.img
+                    - [X] data/object/mapElem/mine/elem35_stand.img
+                    - [X] data/object/mapElem/mine/elem36_stand.img
+                    - [X] data/object/mapElem/mine/elem37_stand.img
+                    - [X] data/object/mapElem/mine/elem38_stand.img
+                    - [X] data/object/mapElem/mine/elem39_stand.img
+                    - [X] data/object/mapElem/mine/elem3_stand.img
+                    - [X] data/object/mapElem/mine/elem40_stand.img
+                    - [X] data/object/mapElem/mine/elem41_stand.img
+                    - [X] data/object/mapElem/mine/elem42_stand.img
+                    - [X] data/object/mapElem/mine/elem43_stand.img
+                    - [X] data/object/mapElem/mine/elem44_stand.img
+                    - [X] data/object/mapElem/mine/elem45_stand.img
+                    - [X] data/object/mapElem/mine/elem46_stand.img
+                    - [X] data/object/mapElem/mine/elem47_stand.img
+                    - [X] data/object/mapElem/mine/elem48_stand.img
+                    - [X] data/object/mapElem/mine/elem49_stand.img
+                    - [X] data/object/mapElem/mine/elem4_die.img
+                    - [X] data/object/mapElem/mine/elem4_stand.img
+                    - [X] data/object/mapElem/mine/elem50_stand.img
+                    - [X] data/object/mapElem/mine/elem51_stand.img
+                    - [X] data/object/mapElem/mine/elem52_stand.img
+                    - [X] data/object/mapElem/mine/elem53_stand.img
+                    - [X] data/object/mapElem/mine/elem54_stand.img
+                    - [X] data/object/mapElem/mine/elem55_stand.img
+                    - [X] data/object/mapElem/mine/elem56_stand.img
+                    - [X] data/object/mapElem/mine/elem57_stand.img
+                    - [X] data/object/mapElem/mine/elem58_stand.img
+                    - [X] data/object/mapElem/mine/elem59_stand.img
+                    - [X] data/object/mapElem/mine/elem5_stand.img
+                    - [X] data/object/mapElem/mine/elem60_stand.img
+                    - [X] data/object/mapElem/mine/elem6_die.img
+                    - [X] data/object/mapElem/mine/elem6_stand.img
+                    - [X] data/object/mapElem/mine/elem70_stand.img
+                    - [X] data/object/mapElem/mine/elem71_stand.img
+                    - [X] data/object/mapElem/mine/elem72_stand.img
+                    - [X] data/object/mapElem/mine/elem73_stand.img
+                    - [X] data/object/mapElem/mine/elem74_stand.img
+                    - [X] data/object/mapElem/mine/elem75_stand.img
+                    - [X] data/object/mapElem/mine/elem76_stand.img
+                    - [X] data/object/mapElem/mine/elem77_stand.img
+                    - [X] data/object/mapElem/mine/elem78_stand.img
+                    - [X] data/object/mapElem/mine/elem79_stand.img
+                    - [X] data/object/mapElem/mine/elem7_stand.img
+                    - [X] data/object/mapElem/mine/elem80_stand.img
+                    - [X] data/object/mapElem/mine/elem81_stand.img
+                    - [X] data/object/mapElem/mine/elem82_stand.img
+                    - [X] data/object/mapElem/mine/elem83_stand.img
+                    - [X] data/object/mapElem/mine/elem84_stand.img
+                    - [X] data/object/mapElem/mine/elem8_die.img
+                    - [X] data/object/mapElem/mine/elem8_stand.img
+                    - [X] data/object/mapElem/mine/elem9_stand.img
+                - [X] data/object/mapElem/pig
+                    - [X] data/object/mapElem/pig/elem10_die.img
+                    - [X] data/object/mapElem/pig/elem10_stand.img
+                    - [X] data/object/mapElem/pig/elem11_die.img
+                    - [X] data/object/mapElem/pig/elem11_stand.img
+                    - [X] data/object/mapElem/pig/elem12_die.img
+                    - [X] data/object/mapElem/pig/elem12_stand.img
+                    - [X] data/object/mapElem/pig/elem13_stand.img
+                    - [X] data/object/mapElem/pig/elem13_trigger.img
+                    - [X] data/object/mapElem/pig/elem14_stand.img
+                    - [X] data/object/mapElem/pig/elem1_stand.img
+                    - [X] data/object/mapElem/pig/elem2_stand.img
+                    - [X] data/object/mapElem/pig/elem3_stand.img
+                    - [X] data/object/mapElem/pig/elem4_stand.img
+                    - [X] data/object/mapElem/pig/elem5_stand.img
+                    - [X] data/object/mapElem/pig/elem6_stand.img
+                    - [X] data/object/mapElem/pig/elem7_stand.img
+                    - [X] data/object/mapElem/pig/elem7_trigger.img
+                    - [X] data/object/mapElem/pig/elem8_stand.img
+                    - [X] data/object/mapElem/pig/elem8_trigger.img
+                    - [X] data/object/mapElem/pig/elem9_stand.img
+                - [X] data/object/mapElem/practice
+                    - [X] data/object/mapElem/practice/elem10_stand.img
+                    - [X] data/object/mapElem/practice/elem10_trigger.img
+                    - [X] data/object/mapElem/practice/elem11_stand.img
+                    - [X] data/object/mapElem/practice/elem12_stand.img
+                    - [X] data/object/mapElem/practice/elem13_stand.img
+                    - [X] data/object/mapElem/practice/elem14_die.img
+                    - [X] data/object/mapElem/practice/elem14_stand.img
+                    - [X] data/object/mapElem/practice/elem15_stand.img
+                    - [X] data/object/mapElem/practice/elem16_stand.img
+                    - [X] data/object/mapElem/practice/elem17_die.img
+                    - [X] data/object/mapElem/practice/elem17_stand.img
+                    - [X] data/object/mapElem/practice/elem18_stand.img
+                    - [X] data/object/mapElem/practice/elem19_stand.img
+                    - [X] data/object/mapElem/practice/elem1_stand.img
+                    - [X] data/object/mapElem/practice/elem20_die.img
+                    - [X] data/object/mapElem/practice/elem20_stand.img
+                    - [X] data/object/mapElem/practice/elem21_stand.img
+                    - [X] data/object/mapElem/practice/elem23_stand.img
+                    - [X] data/object/mapElem/practice/elem2_die.img
+                    - [X] data/object/mapElem/practice/elem2_stand.img
+                    - [X] data/object/mapElem/practice/elem3_die.img
+                    - [X] data/object/mapElem/practice/elem3_stand.img
+                    - [X] data/object/mapElem/practice/elem4_die.img
+                    - [X] data/object/mapElem/practice/elem4_stand.img
+                    - [X] data/object/mapElem/practice/elem5_stand.img
+                    - [X] data/object/mapElem/practice/elem6_stand.img
+                    - [X] data/object/mapElem/practice/elem7_stand.img
+                    - [X] data/object/mapElem/practice/elem8_stand.img
+                    - [X] data/object/mapElem/practice/elem9_stand.img
+                - [X] data/object/mapElem/pve
+                    - [X] data/object/mapElem/pve/elem101_stand.img
+                    - [X] data/object/mapElem/pve/elem102_stand.img
+                    - [X] data/object/mapElem/pve/elem103_stand.img
+                    - [X] data/object/mapElem/pve/elem104_stand.img
+                    - [X] data/object/mapElem/pve/elem105_stand.img
+                    - [X] data/object/mapElem/pve/elem106_stand.img
+                    - [X] data/object/mapElem/pve/elem107_stand.img
+                    - [X] data/object/mapElem/pve/elem108_stand.img
+                    - [X] data/object/mapElem/pve/elem109_stand.img
+                    - [X] data/object/mapElem/pve/elem111_stand.img
+                    - [X] data/object/mapElem/pve/elem112_stand.img
+                    - [X] data/object/mapElem/pve/elem120_stand.img
+                    - [X] data/object/mapElem/pve/elem121_stand.img
+                    - [X] data/object/mapElem/pve/elem122_stand.img
+                    - [X] data/object/mapElem/pve/elem201_stand.img
+                    - [X] data/object/mapElem/pve/elem202_stand.img
+                    - [X] data/object/mapElem/pve/elem203_stand.img
+                    - [X] data/object/mapElem/pve/elem204_stand.img
+                    - [X] data/object/mapElem/pve/elem205_stand.img
+                    - [X] data/object/mapElem/pve/elem206_stand.img
+                    - [X] data/object/mapElem/pve/elem207_stand.img
+                    - [X] data/object/mapElem/pve/elem208_stand.img
+                    - [X] data/object/mapElem/pve/elem209_stand.img
+                    - [X] data/object/mapElem/pve/elem20_stand.img
+                    - [X] data/object/mapElem/pve/elem210_stand.img
+                    - [X] data/object/mapElem/pve/elem211_stand.img
+                    - [X] data/object/mapElem/pve/elem212_stand.img
+                    - [X] data/object/mapElem/pve/elem213_stand.img
+                    - [X] data/object/mapElem/pve/elem214_stand.img
+                    - [X] data/object/mapElem/pve/elem215_stand.img
+                    - [X] data/object/mapElem/pve/elem216_stand.img
+                    - [X] data/object/mapElem/pve/elem217_stand.img
+                    - [X] data/object/mapElem/pve/elem218_stand.img
+                    - [X] data/object/mapElem/pve/elem219_stand.img
+                    - [X] data/object/mapElem/pve/elem21_stand.img
+                    - [X] data/object/mapElem/pve/elem220_stand.img
+                    - [X] data/object/mapElem/pve/elem221_stand.img
+                    - [X] data/object/mapElem/pve/elem222_stand.img
+                    - [X] data/object/mapElem/pve/elem223_stand.img
+                    - [X] data/object/mapElem/pve/elem224_stand.img
+                    - [X] data/object/mapElem/pve/elem225_stand.img
+                    - [X] data/object/mapElem/pve/elem226_stand.img
+                    - [X] data/object/mapElem/pve/elem227_stand.img
+                    - [X] data/object/mapElem/pve/elem228_stand.img
+                    - [X] data/object/mapElem/pve/elem229_stand.img
+                    - [X] data/object/mapElem/pve/elem22_stand.img
+                    - [X] data/object/mapElem/pve/elem230_stand.img
+                    - [X] data/object/mapElem/pve/elem231_stand.img
+                    - [X] data/object/mapElem/pve/elem232_stand.img
+                    - [X] data/object/mapElem/pve/elem233_stand.img
+                    - [X] data/object/mapElem/pve/elem234_stand.img
+                    - [X] data/object/mapElem/pve/elem235_stand.img
+                    - [X] data/object/mapElem/pve/elem236_stand.img
+                    - [X] data/object/mapElem/pve/elem237_stand.img
+                    - [X] data/object/mapElem/pve/elem238_stand.img
+                    - [X] data/object/mapElem/pve/elem239_stand.img
+                    - [X] data/object/mapElem/pve/elem23_stand.img
+                    - [X] data/object/mapElem/pve/elem240_stand.img
+                    - [X] data/object/mapElem/pve/elem241_stand.img
+                    - [X] data/object/mapElem/pve/elem242_stand.img
+                    - [X] data/object/mapElem/pve/elem243_stand.img
+                    - [X] data/object/mapElem/pve/elem244_stand.img
+                    - [X] data/object/mapElem/pve/elem245_stand.img
+                    - [X] data/object/mapElem/pve/elem246_stand.img
+                    - [X] data/object/mapElem/pve/elem247_stand.img
+                    - [X] data/object/mapElem/pve/elem248_stand.img
+                    - [X] data/object/mapElem/pve/elem249_stand.img
+                    - [X] data/object/mapElem/pve/elem24_stand.img
+                    - [X] data/object/mapElem/pve/elem250_stand.img
+                    - [X] data/object/mapElem/pve/elem251_stand.img
+                    - [X] data/object/mapElem/pve/elem252_stand.img
+                    - [X] data/object/mapElem/pve/elem253_stand.img
+                    - [X] data/object/mapElem/pve/elem254_stand.img
+                    - [X] data/object/mapElem/pve/elem255_stand.img
+                    - [X] data/object/mapElem/pve/elem256_stand.img
+                    - [X] data/object/mapElem/pve/elem257_stand.img
+                    - [X] data/object/mapElem/pve/elem258_stand.img
+                    - [X] data/object/mapElem/pve/elem259_stand.img
+                    - [X] data/object/mapElem/pve/elem25_stand.img
+                    - [X] data/object/mapElem/pve/elem260_stand.img
+                    - [X] data/object/mapElem/pve/elem261_stand.img
+                    - [X] data/object/mapElem/pve/elem262_stand.img
+                    - [X] data/object/mapElem/pve/elem263_stand.img
+                    - [X] data/object/mapElem/pve/elem264_stand.img
+                    - [X] data/object/mapElem/pve/elem265_stand.img
+                    - [X] data/object/mapElem/pve/elem266_stand.img
+                    - [X] data/object/mapElem/pve/elem267_stand.img
+                    - [X] data/object/mapElem/pve/elem268_stand.img
+                    - [X] data/object/mapElem/pve/elem269_stand.img
+                    - [X] data/object/mapElem/pve/elem26_stand.img
+                    - [X] data/object/mapElem/pve/elem270_stand.img
+                    - [X] data/object/mapElem/pve/elem271_stand.img
+                    - [X] data/object/mapElem/pve/elem272_stand.img
+                    - [X] data/object/mapElem/pve/elem273_stand.img
+                    - [X] data/object/mapElem/pve/elem27_stand.img
+                    - [X] data/object/mapElem/pve/elem28_stand.img
+                    - [X] data/object/mapElem/pve/elem2_stand.img
+                    - [X] data/object/mapElem/pve/elem3_stand.img
+                    - [X] data/object/mapElem/pve/elem401_stand.img
+                    - [X] data/object/mapElem/pve/elem402_stand.img
+                    - [X] data/object/mapElem/pve/elem403_stand.img
+                    - [X] data/object/mapElem/pve/elem404_stand.img
+                    - [X] data/object/mapElem/pve/elem405_stand.img
+                    - [X] data/object/mapElem/pve/elem406_stand.img
+                    - [X] data/object/mapElem/pve/elem407_stand.img
+                    - [X] data/object/mapElem/pve/elem408_stand.img
+                    - [X] data/object/mapElem/pve/elem409_stand.img
+                    - [X] data/object/mapElem/pve/elem410_stand.img
+                    - [X] data/object/mapElem/pve/elem411_stand.img
+                    - [X] data/object/mapElem/pve/elem412_stand.img
+                    - [X] data/object/mapElem/pve/elem413_stand.img
+                    - [X] data/object/mapElem/pve/elem4_stand.img
+                    - [X] data/object/mapElem/pve/elem5_stand.img
+                    - [X] data/object/mapElem/pve/elem6_stand.img
+                    - [X] data/object/mapElem/pve/elem7_stand.img
+                    - [X] data/object/mapElem/pve/elem8_stand.img
+                    - [X] data/object/mapElem/pve/elem9_stand.img
+                - [X] data/object/mapElem/sculpture
+                    - [X] data/object/mapElem/sculpture/Bomb9_stand.img
+                    - [X] data/object/mapElem/sculpture/elem10_stand.img
+                    - [X] data/object/mapElem/sculpture/elem11_stand.img
+                    - [X] data/object/mapElem/sculpture/elem11_trigger.img
+                    - [X] data/object/mapElem/sculpture/elem12_stand.img
+                    - [X] data/object/mapElem/sculpture/elem12_trigger.img
+                    - [X] data/object/mapElem/sculpture/elem1_stand.img
+                    - [X] data/object/mapElem/sculpture/elem20_die.img
+                    - [X] data/object/mapElem/sculpture/elem20_stand.img
+                    - [X] data/object/mapElem/sculpture/elem21_die.img
+                    - [X] data/object/mapElem/sculpture/elem21_stand.img
+                    - [X] data/object/mapElem/sculpture/elem22_stand.img
+                    - [X] data/object/mapElem/sculpture/elem2_die.img
+                    - [X] data/object/mapElem/sculpture/elem2_stand.img
+                    - [X] data/object/mapElem/sculpture/elem3_die.img
+                    - [X] data/object/mapElem/sculpture/elem3_stand.img
+                    - [X] data/object/mapElem/sculpture/elem4_die.img
+                    - [X] data/object/mapElem/sculpture/elem4_stand.img
+                    - [X] data/object/mapElem/sculpture/elem5_stand.img
+                    - [X] data/object/mapElem/sculpture/elem6_stand.img
+                    - [X] data/object/mapElem/sculpture/elem7_stand.img
+                    - [X] data/object/mapElem/sculpture/elem8_stand.img
+                    - [X] data/object/mapElem/sculpture/elem9_stand.img
+                - [X] data/object/mapElem/snow
+                    - [X] data/object/mapElem/snow/elem11_stand.img
+                    - [X] data/object/mapElem/snow/elem11_trigger.img
+                    - [X] data/object/mapElem/snow/elem12_die.img
+                    - [X] data/object/mapElem/snow/elem12_stand.img
+                    - [X] data/object/mapElem/snow/elem13_stand.img
+                    - [X] data/object/mapElem/snow/elem14_stand.img
+                    - [X] data/object/mapElem/snow/elem15_die.img
+                    - [X] data/object/mapElem/snow/elem15_stand.img
+                    - [X] data/object/mapElem/snow/elem16_stand.img
+                    - [X] data/object/mapElem/snow/elem17_stand.img
+                    - [X] data/object/mapElem/snow/elem18_stand.img
+                    - [X] data/object/mapElem/snow/elem19_stand.img
+                    - [X] data/object/mapElem/snow/elem1_stand.img
+                    - [X] data/object/mapElem/snow/elem20_stand.img
+                    - [X] data/object/mapElem/snow/elem21_stand.img
+                    - [X] data/object/mapElem/snow/elem22_stand.img
+                    - [X] data/object/mapElem/snow/elem23_stand.img
+                    - [X] data/object/mapElem/snow/elem24_stand.img
+                    - [X] data/object/mapElem/snow/elem25_stand.img
+                    - [X] data/object/mapElem/snow/elem26_stand.img
+                    - [X] data/object/mapElem/snow/elem27_stand.img
+                    - [X] data/object/mapElem/snow/elem28_stand.img
+                    - [X] data/object/mapElem/snow/elem29_stand.img
+                    - [X] data/object/mapElem/snow/elem2_die.img
+                    - [X] data/object/mapElem/snow/elem2_stand.img
+                    - [X] data/object/mapElem/snow/elem30_stand.img
+                    - [X] data/object/mapElem/snow/elem31_stand.img
+                    - [X] data/object/mapElem/snow/elem32_stand.img
+                    - [X] data/object/mapElem/snow/elem33_stand.img
+                    - [X] data/object/mapElem/snow/elem34_stand.img
+                    - [X] data/object/mapElem/snow/elem35_stand.img
+                    - [X] data/object/mapElem/snow/elem36_stand.img
+                    - [X] data/object/mapElem/snow/elem37_stand.img
+                    - [X] data/object/mapElem/snow/elem38_stand.img
+                    - [X] data/object/mapElem/snow/elem39_stand.img
+                    - [X] data/object/mapElem/snow/elem3_die.img
+                    - [X] data/object/mapElem/snow/elem3_stand.img
+                    - [X] data/object/mapElem/snow/elem40_stand.img
+                    - [X] data/object/mapElem/snow/elem41_stand.img
+                    - [X] data/object/mapElem/snow/elem42_stand.img
+                    - [X] data/object/mapElem/snow/elem43_stand.img
+                    - [X] data/object/mapElem/snow/elem44_stand.img
+                    - [X] data/object/mapElem/snow/elem45_stand.img
+                    - [X] data/object/mapElem/snow/elem46_stand.img
+                    - [X] data/object/mapElem/snow/elem47_stand.img
+                    - [X] data/object/mapElem/snow/elem48_stand.img
+                    - [X] data/object/mapElem/snow/elem49_stand.img
+                    - [X] data/object/mapElem/snow/elem4_stand.img
+                    - [X] data/object/mapElem/snow/elem4_trigger.img
+                    - [X] data/object/mapElem/snow/elem5_stand.img
+                    - [X] data/object/mapElem/snow/elem5_trigger.img
+                    - [X] data/object/mapElem/snow/elem6_stand.img
+                    - [X] data/object/mapElem/snow/elem7_stand.img
+                    - [X] data/object/mapElem/snow/elem8_stand.img
+                - [X] data/object/mapElem/tank
+                    - [X] data/object/mapElem/tank/elem30_stand.img
+                    - [X] data/object/mapElem/tank/elem31_stand.img
+                    - [X] data/object/mapElem/tank/elem32_stand.img
+                    - [X] data/object/mapElem/tank/elem32_trigger.img
+                    - [X] data/object/mapElem/tank/elem33_die.img
+                    - [X] data/object/mapElem/tank/elem33_stand.img
+                    - [X] data/object/mapElem/tank/elem34_die.img
+                    - [X] data/object/mapElem/tank/elem34_stand.img
+                    - [X] data/object/mapElem/tank/elem35_stand.img
+                    - [X] data/object/mapElem/tank/elem36_stand.img
+                    - [X] data/object/mapElem/tank/elem37_stand.img
+                    - [X] data/object/mapElem/tank/elem38_die.img
+                    - [X] data/object/mapElem/tank/elem38_stand.img
+                    - [X] data/object/mapElem/tank/elem39_stand.img
+                    - [X] data/object/mapElem/tank/elem40_stand.img
+                    - [X] data/object/mapElem/tank/elem41_die.img
+                    - [X] data/object/mapElem/tank/elem41_stand.img
+                    - [X] data/object/mapElem/tank/elem42_die.img
+                    - [X] data/object/mapElem/tank/elem42_stand.img
+                    - [X] data/object/mapElem/tank/elem43_die.img
+                    - [X] data/object/mapElem/tank/elem43_stand.img
+                    - [X] data/object/mapElem/tank/elem44_stand.img
+                    - [X] data/object/mapElem/tank/elem44_trigger.img
+                    - [X] data/object/mapElem/tank/elem45_stand.img
+                    - [X] data/object/mapElem/tank/elem46_stand.img
+                    - [X] data/object/mapElem/tank/elem47_stand.img
+                    - [X] data/object/mapElem/tank/elem48_stand.img
+                    - [X] data/object/mapElem/tank/elem49_stand.img
+                    - [X] data/object/mapElem/tank/elem50_stand.img
+                    - [X] data/object/mapElem/tank/elem51_stand.img
+                    - [X] data/object/mapElem/tank/elem52_stand.img
+                    - [X] data/object/mapElem/tank/elem53_stand.img
+                    - [X] data/object/mapElem/tank/elem54_stand.img
+                - [X] data/object/mapElem/town
+                    - [X] data/object/mapElem/town/elem10_stand.img
+                    - [X] data/object/mapElem/town/elem11_stand.img
+                    - [X] data/object/mapElem/town/elem120_stand.img
+                    - [X] data/object/mapElem/town/elem121_stand.img
+                    - [X] data/object/mapElem/town/elem122_stand.img
+                    - [X] data/object/mapElem/town/elem12_stand.img
+                    - [X] data/object/mapElem/town/elem13_stand.img
+                    - [X] data/object/mapElem/town/elem14_die.img
+                    - [X] data/object/mapElem/town/elem14_stand.img
+                    - [X] data/object/mapElem/town/elem15_die.img
+                    - [X] data/object/mapElem/town/elem15_stand.img
+                    - [X] data/object/mapElem/town/elem17_die.img
+                    - [X] data/object/mapElem/town/elem17_stand.img
+                    - [X] data/object/mapElem/town/elem18_die.img
+                    - [X] data/object/mapElem/town/elem18_stand.img
+                    - [X] data/object/mapElem/town/elem19_stand.img
+                    - [X] data/object/mapElem/town/elem1_stand.img
+                    - [X] data/object/mapElem/town/elem20_stand.img
+                    - [X] data/object/mapElem/town/elem22_stand.img
+                    - [X] data/object/mapElem/town/elem23_stand.img
+                    - [X] data/object/mapElem/town/elem24_stand.img
+                    - [X] data/object/mapElem/town/elem25_stand.img
+                    - [X] data/object/mapElem/town/elem26_stand.img
+                    - [X] data/object/mapElem/town/elem2_stand.img
+                    - [X] data/object/mapElem/town/elem3_stand.img
+                    - [X] data/object/mapElem/town/elem4_die.img
+                    - [X] data/object/mapElem/town/elem4_stand.img
+                    - [X] data/object/mapElem/town/elem50_stand.img
+                    - [X] data/object/mapElem/town/elem51_stand.img
+                    - [X] data/object/mapElem/town/elem52_stand.img
+                    - [X] data/object/mapElem/town/elem53_stand.img
+                    - [X] data/object/mapElem/town/elem54_die.img
+                    - [X] data/object/mapElem/town/elem54_stand.img
+                    - [X] data/object/mapElem/town/elem55_die.img
+                    - [X] data/object/mapElem/town/elem55_stand.img
+                    - [X] data/object/mapElem/town/elem56_die.img
+                    - [X] data/object/mapElem/town/elem56_stand.img
+                    - [X] data/object/mapElem/town/elem57_stand.img
+                    - [X] data/object/mapElem/town/elem58_stand.img
+                    - [X] data/object/mapElem/town/elem59_stand.img
+                    - [X] data/object/mapElem/town/elem5_stand.img
+                    - [X] data/object/mapElem/town/elem5_trigger.img
+                    - [X] data/object/mapElem/town/elem60_stand.img
+                    - [X] data/object/mapElem/town/elem61_stand.img
+                    - [X] data/object/mapElem/town/elem6_stand.img
+                    - [X] data/object/mapElem/town/elem7_stand.img
+                    - [X] data/object/mapElem/town/elem8_stand.img
+                    - [X] data/object/mapElem/town/elem9_stand.img
+                - [X] data/object/mapElem/treasure
+                    - [X] data/object/mapElem/treasure/elem10_stand.img
+                    - [X] data/object/mapElem/treasure/elem11_stand.img
+                    - [X] data/object/mapElem/treasure/elem12_stand.img
+                    - [X] data/object/mapElem/treasure/elem13_stand.img
+                    - [X] data/object/mapElem/treasure/elem14_stand.img
+                    - [X] data/object/mapElem/treasure/elem14_trigger.img
+                    - [X] data/object/mapElem/treasure/elem15_stand.img
+                    - [X] data/object/mapElem/treasure/elem16_stand.img
+                    - [X] data/object/mapElem/treasure/elem17_stand.img
+                    - [X] data/object/mapElem/treasure/elem1_stand.img
+                    - [X] data/object/mapElem/treasure/elem2_stand.img
+                    - [X] data/object/mapElem/treasure/elem3_stand.img
+                    - [X] data/object/mapElem/treasure/elem4_stand.img
+                    - [X] data/object/mapElem/treasure/elem5_die.img
+                    - [X] data/object/mapElem/treasure/elem5_stand.img
+                    - [X] data/object/mapElem/treasure/elem6_stand.img
+                    - [X] data/object/mapElem/treasure/elem7_die.img
+                    - [X] data/object/mapElem/treasure/elem7_stand.img
+                    - [X] data/object/mapElem/treasure/elem8_die.img
+                    - [X] data/object/mapElem/treasure/elem8_stand.img
+                    - [X] data/object/mapElem/treasure/elem9_stand.img
+                - [X] data/object/mapElem/water
+                    - [X] data/object/mapElem/water/elem10_stand.img
+                    - [X] data/object/mapElem/water/elem10_trigger.img
+                    - [X] data/object/mapElem/water/elem11_stand.img
+                    - [X] data/object/mapElem/water/elem12_stand.img
+                    - [X] data/object/mapElem/water/elem13_stand.img
+                    - [X] data/object/mapElem/water/elem14_die.img
+                    - [X] data/object/mapElem/water/elem14_stand.img
+                    - [X] data/object/mapElem/water/elem15_stand.img
+                    - [X] data/object/mapElem/water/elem16_stand.img
+                    - [X] data/object/mapElem/water/elem17_die.img
+                    - [X] data/object/mapElem/water/elem17_stand.img
+                    - [X] data/object/mapElem/water/elem18_stand.img
+                    - [X] data/object/mapElem/water/elem19_stand.img
+                    - [X] data/object/mapElem/water/elem1_stand.img
+                    - [X] data/object/mapElem/water/elem20_stand.img
+                    - [X] data/object/mapElem/water/elem20_trigger.img
+                    - [X] data/object/mapElem/water/elem21_stand.img
+                    - [X] data/object/mapElem/water/elem21_trigger.img
+                    - [X] data/object/mapElem/water/elem22_stand.img
+                    - [X] data/object/mapElem/water/elem22_trigger.img
+                    - [X] data/object/mapElem/water/elem23_stand.img
+                    - [X] data/object/mapElem/water/elem23_trigger.img
+                    - [X] data/object/mapElem/water/elem24_die.img
+                    - [X] data/object/mapElem/water/elem24_stand.img
+                    - [X] data/object/mapElem/water/elem25_die.img
+                    - [X] data/object/mapElem/water/elem25_stand.img
+                    - [X] data/object/mapElem/water/elem26_die.img
+                    - [X] data/object/mapElem/water/elem26_stand.img
+                    - [X] data/object/mapElem/water/elem27_stand.img
+                    - [X] data/object/mapElem/water/elem28_stand.img
+                    - [X] data/object/mapElem/water/elem29_die.img
+                    - [X] data/object/mapElem/water/elem29_stand.img
+                    - [X] data/object/mapElem/water/elem2_die.img
+                    - [X] data/object/mapElem/water/elem2_stand.img
+                    - [X] data/object/mapElem/water/elem30_stand.img
+                    - [X] data/object/mapElem/water/elem34_stand.img
+                    - [X] data/object/mapElem/water/elem34_trigger.img
+                    - [X] data/object/mapElem/water/elem35_stand.img
+                    - [X] data/object/mapElem/water/elem36_stand.img
+                    - [X] data/object/mapElem/water/elem37_stand.img
+                    - [X] data/object/mapElem/water/elem3_die.img
+                    - [X] data/object/mapElem/water/elem3_stand.img
+                    - [X] data/object/mapElem/water/elem4_die.img
+                    - [X] data/object/mapElem/water/elem4_stand.img
+                    - [X] data/object/mapElem/water/elem5_stand.img
+                    - [X] data/object/mapElem/water/elem6_stand.img
+                    - [X] data/object/mapElem/water/elem7_stand.img
+                    - [X] data/object/mapElem/water/elem8_stand.img
+                    - [X] data/object/mapElem/water/elem9_stand.img
+            - [X] data/object/misc
+                - [X] data/object/misc/misc101_stand.img
+                - [X] data/object/misc/misc1101_stand.img
+                - [X] data/object/misc/misc1102_stand.img
+                - [X] data/object/misc/misc111_die.img
+                - [X] data/object/misc/misc111_stand.img
+                - [X] data/object/misc/misc111_trigger.img
+                - [X] data/object/misc/misc1201_stand.img
+                - [X] data/object/misc/misc1202_stand.img
+                - [X] data/object/misc/misc1203_stand.img
+                - [X] data/object/misc/misc1204_stand.img
+                - [X] data/object/misc/misc1205_stand.img
+                - [X] data/object/misc/misc121_stand.img
+                - [X] data/object/misc/misc1301_stand.img
+                - [X] data/object/misc/misc1302_stand.img
+                - [X] data/object/misc/misc1303_stand.img
+                - [X] data/object/misc/misc1304_stand.img
+                - [X] data/object/misc/misc1305_stand.img
+                - [X] data/object/misc/misc131_stand.img
+                - [X] data/object/misc/misc1401_stand.img
+                - [X] data/object/misc/misc1402_stand.img
+                - [X] data/object/misc/misc1403_stand.img
+                - [X] data/object/misc/misc1404_stand.img
+                - [X] data/object/misc/misc141_stand.img
+                - [X] data/object/misc/misc142_stand.img
+                - [X] data/object/misc/misc143_stand.img
+                - [X] data/object/misc/misc144_stand.img
+                - [X] data/object/misc/misc145_stand.img
+                - [X] data/object/misc/misc146_stand.img
+                - [X] data/object/misc/misc147_stand.img
+                - [X] data/object/misc/misc148_stand.img
+                - [X] data/object/misc/misc151_stand.img
+                - [X] data/object/misc/misc151_trigger.img
+                - [X] data/object/misc/misc152_stand.img
+                - [X] data/object/misc/misc152_trigger.img
+                - [X] data/object/misc/misc161_stand.img
+                - [X] data/object/misc/misc162_stand.img
+                - [X] data/object/misc/misc163_stand.img
+                - [X] data/object/misc/misc164_stand.img
+                - [X] data/object/misc/misc165_stand.img
+                - [X] data/object/misc/misc165_trigger.img
+                - [X] data/object/misc/misc166_stand.img
+                - [X] data/object/misc/misc166_trigger.img
+                - [X] data/object/misc/misc167_stand.img
+                - [X] data/object/misc/misc167_trigger.img
+                - [X] data/object/misc/misc168_stand.img
+                - [X] data/object/misc/misc168_trigger.img
+                - [X] data/object/misc/misc1701_stand.img
+                - [X] data/object/misc/misc1702_stand.img
+                - [X] data/object/misc/misc1703_stand.img
+                - [X] data/object/misc/misc1704_stand.img
+                - [X] data/object/misc/misc171_stand.img
+                - [X] data/object/misc/misc172_stand.img
+                - [X] data/object/misc/misc177_stand.img
+                - [X] data/object/misc/misc178_stand.img
+                - [X] data/object/misc/misc179_stand.img
+                - [X] data/object/misc/misc1801_stand.img
+                - [X] data/object/misc/misc1802_stand.img
+                - [X] data/object/misc/misc1803_stand.img
+                - [X] data/object/misc/misc1804_stand.img
+                - [X] data/object/misc/misc181_stand.img
+                - [X] data/object/misc/misc191_stand.img
+                - [X] data/object/misc/misc192_stand.img
+                - [X] data/object/misc/misc193_stand.img
+                - [X] data/object/misc/misc194_stand.img
+                - [X] data/object/misc/misc195_stand.img
+                - [X] data/object/misc/misc196_stand.img
+                - [X] data/object/misc/misc197_stand.img
+                - [X] data/object/misc/misc198_stand.img
+                - [X] data/object/misc/misc199_stand.img
+                - [X] data/object/misc/misc2000_stand.img
+                - [X] data/object/misc/misc200_stand.img
+                - [X] data/object/misc/misc201_stand.img
+                - [X] data/object/misc/misc211_stand.img
+                - [X] data/object/misc/misc212_stand.img
+                - [X] data/object/misc/misc213_stand.img
+                - [X] data/object/misc/Misc221_stand.img
+                - [X] data/object/misc/Misc222_stand.img
+                - [X] data/object/misc/Misc223_stand.img
+                - [X] data/object/misc/Misc223_trigger.img
+                - [X] data/object/misc/Misc224_stand.img
+                - [X] data/object/misc/Misc224_trigger.img
+                - [X] data/object/misc/Misc225_stand.img
+                - [X] data/object/misc/Misc225_trigger.img
+                - [X] data/object/misc/Misc226_stand.img
+                - [X] data/object/misc/Misc226_trigger.img
+                - [X] data/object/misc/Misc227_stand.img
+                - [X] data/object/misc/Misc227_trigger.img
+                - [X] data/object/misc/Misc228_stand.img
+                - [X] data/object/misc/Misc228_trigger.img
+                - [X] data/object/misc/misc229_stand.img
+                - [X] data/object/misc/misc229_trigger.img
+                - [X] data/object/misc/Misc231_stand.img
+                - [X] data/object/misc/Misc232_stand.img
+                - [X] data/object/misc/Misc233_stand.img
+                - [X] data/object/misc/Misc234_stand.img
+                - [X] data/object/misc/Misc235_stand.img
+                - [X] data/object/misc/Misc236_stand.img
+                - [X] data/object/misc/Misc237_stand.img
+                - [X] data/object/misc/Misc238_stand.img
+                - [X] data/object/misc/Misc239_stand.img
+                - [X] data/object/misc/Misc240_stand.img
+                - [X] data/object/misc/Misc241_stand.img
+                - [X] data/object/misc/misc242_stand.img
+                - [X] data/object/misc/Misc243_stand.img
+                - [X] data/object/misc/Misc244_stand.img
+                - [X] data/object/misc/Misc245_stand.img
+                - [X] data/object/misc/Misc246_stand.img
+                - [X] data/object/misc/misc250_stand.img
+                - [X] data/object/misc/misc251_stand.img
+                - [X] data/object/misc/misc252_stand.img
+                - [X] data/object/misc/misc253_stand.img
+                - [X] data/object/misc/misc254_stand.img
+                - [X] data/object/misc/misc255_stand.img
+                - [X] data/object/misc/misc256_stand.img
+                - [X] data/object/misc/misc257_stand.img
+                - [X] data/object/misc/misc258_stand.img
+                - [X] data/object/misc/misc259_stand.img
+                - [X] data/object/misc/misc260_stand.img
+                - [X] data/object/misc/misc261_stand.img
+                - [X] data/object/misc/misc262_stand.img
+                - [X] data/object/misc/misc263_stand.img
+                - [X] data/object/misc/misc264_stand.img
+                - [X] data/object/misc/misc265_stand.img
+                - [X] data/object/misc/misc266_stand.img
+                - [X] data/object/misc/misc267_stand.img
+                - [X] data/object/misc/misc268_stand.img
+                - [X] data/object/misc/misc269_stand.img
+                - [X] data/object/misc/misc270_stand.img
+                - [X] data/object/misc/misc271_stand.img
+                - [X] data/object/misc/misc272_stand.img
+                - [X] data/object/misc/misc280_stand.img
+                - [X] data/object/misc/misc290_stand.img
+                - [X] data/object/misc/misc291_stand.img
+                - [X] data/object/misc/misc292_stand.img
+                - [X] data/object/misc/misc293_stand.img
+                - [X] data/object/misc/misc294_stand.img
+                - [X] data/object/misc/misc295_stand.img
+                - [X] data/object/misc/misc296_stand.img
+                - [X] data/object/misc/misc297_stand.img
+                - [X] data/object/misc/misc299_stand.img
+                - [X] data/object/misc/misc300_stand.img
+                - [X] data/object/misc/misc301_stand.img
+                - [X] data/object/misc/misc302_stand.img
+                - [X] data/object/misc/misc303_stand.img
+                - [X] data/object/misc/misc304_stand.img
+                - [X] data/object/misc/misc305_stand.img
+                - [X] data/object/misc/misc306_stand.img
+                - [X] data/object/misc/misc307_stand.img
+                - [X] data/object/misc/misc308_stand.img
+                - [X] data/object/misc/misc309_stand.img
+                - [X] data/object/misc/misc310_stand.img
+                - [X] data/object/misc/misc311_stand.img
+                - [X] data/object/misc/misc312_stand.img
+                - [X] data/object/misc/misc313_stand.img
+                - [X] data/object/misc/misc314_stand.img
+                - [X] data/object/misc/misc315_stand.img
+                - [X] data/object/misc/misc316_stand.img
+                - [X] data/object/misc/misc317_stand.img
+                - [X] data/object/misc/misc318_stand.img
+                - [X] data/object/misc/misc319_stand.img
+                - [X] data/object/misc/misc320_stand.img
+                - [X] data/object/misc/misc321_stand.img
+                - [X] data/object/misc/misc322_stand.img
+                - [X] data/object/misc/misc350_stand.img
+                - [X] data/object/misc/misc351_stand.img
+                - [X] data/object/misc/misc352_stand.img
+                - [X] data/object/misc/misc353_stand.img
+                - [X] data/object/misc/misc354_stand.img
+                - [X] data/object/misc/misc355_stand.img
+                - [X] data/object/misc/misc356_stand.img
+                - [X] data/object/misc/misc358_stand.img
+                - [X] data/object/misc/misc359_stand.img
+                - [X] data/object/misc/misc360_stand.img
+                - [X] data/object/misc/misc361_stand.img
+                - [X] data/object/misc/misc362_stand.img
+                - [X] data/object/misc/misc363_stand.img
+                - [X] data/object/misc/misc364_stand.img
+                - [X] data/object/misc/misc365_stand.img
+                - [X] data/object/misc/misc366_stand.img
+                - [X] data/object/misc/misc367_stand.img
+                - [X] data/object/misc/misc368_stand.img
+                - [X] data/object/misc/misc369_stand.img
+                - [X] data/object/misc/misc370_stand.img
+                - [X] data/object/misc/misc371_stand.img
+                - [X] data/object/misc/misc372_stand.img
+                - [X] data/object/misc/misc373_stand.img
+                - [X] data/object/misc/misc374_stand.img
+                - [X] data/object/misc/misc375_stand.img
+                - [X] data/object/misc/misc376_stand.img
+                - [X] data/object/misc/misc381_stand.img
+                - [X] data/object/misc/misc382_stand.img
+                - [X] data/object/misc/misc383_stand.img
+                - [X] data/object/misc/misc384_stand.img
+                - [X] data/object/misc/misc385_stand.img
+                - [X] data/object/misc/misc386_stand.img
+                - [X] data/object/misc/misc387_stand.img
+                - [X] data/object/misc/misc388_stand.img
+                - [X] data/object/misc/misc389_stand.img
+                - [X] data/object/misc/misc390_stand.img
+                - [X] data/object/misc/misc391_stand.img
+                - [X] data/object/misc/misc393_stand.img
+                - [X] data/object/misc/misc394_stand.img
+                - [X] data/object/misc/misc395_stand.img
+                - [X] data/object/misc/misc396_stand.img
+                - [X] data/object/misc/misc400_stand.img
+                - [X] data/object/misc/misc401_stand.img
+                - [X] data/object/misc/misc402_stand.img
+                - [X] data/object/misc/misc410_stand.img
+                - [X] data/object/misc/misc411_stand.img
+                - [X] data/object/misc/misc412_stand.img
+                - [X] data/object/misc/misc413_stand.img
+                - [X] data/object/misc/misc421_stand.img
+                - [X] data/object/misc/misc422_stand.img
+                - [X] data/object/misc/misc423_stand.img
+                - [X] data/object/misc/misc424_stand.img
+                - [X] data/object/misc/misc425_stand.img
+                - [X] data/object/misc/misc426_stand.img
+                - [X] data/object/misc/misc427_stand.img
+                - [X] data/object/misc/misc428_stand.img
+                - [X] data/object/misc/misc429_stand.img
+                - [X] data/object/misc/misc430_stand.img
+                - [X] data/object/misc/misc431_stand.img
+                - [X] data/object/misc/misc433_stand.img
+                - [X] data/object/misc/misc434_stand.img
+                - [X] data/object/misc/misc444_stand.img
+                - [X] data/object/misc/misc448_stand.img
+                - [X] data/object/misc/misc450_stand.img
+                - [X] data/object/misc/misc460_stand.img
+                - [X] data/object/misc/misc461_stand.img
+                - [X] data/object/misc/misc462_stand.img
+                - [X] data/object/misc/misc463_stand.img
+                - [X] data/object/misc/misc470_stand.img
+                - [X] data/object/misc/misc471_stand.img
+                - [X] data/object/misc/misc472_stand.img
+                - [X] data/object/misc/misc473_stand.img
+                - [X] data/object/misc/misc474_stand.img
+                - [X] data/object/misc/misc475_stand.img
+                - [X] data/object/misc/misc480_stand.img
+                - [X] data/object/misc/misc500_stand.img
+                - [X] data/object/misc/misc501_stand.img
+                - [X] data/object/misc/misc502_stand.img
+                - [X] data/object/misc/misc503_stand.img
+                - [X] data/object/misc/misc504_stand.img
+                - [X] data/object/misc/misc505_stand.img
+                - [X] data/object/misc/misc510_stand.img
+                - [X] data/object/misc/misc511_stand.img
+                - [X] data/object/misc/misc550_stand.img
+                - [X] data/object/misc/misc600_stand.img
+                - [X] data/object/misc/misc601_stand.img
+                - [X] data/object/misc/misc602_stand.img
+                - [X] data/object/misc/misc603_stand.img
+                - [X] data/object/misc/misc604_stand.img
+                - [X] data/object/misc/misc605_stand.img
+                - [X] data/object/misc/misc606_stand.img
+                - [X] data/object/misc/misc607_stand.img
+                - [X] data/object/misc/misc608_stand.img
+                - [X] data/object/misc/misc609_stand.img
+                - [X] data/object/misc/misc610_stand.img
+                - [X] data/object/misc/misc611_stand.img
+                - [X] data/object/misc/misc612_stand.img
+                - [X] data/object/misc/misc613_stand.img
+                - [X] data/object/misc/misc614_stand.img
+                - [X] data/object/misc/misc615_stand.img
+                - [X] data/object/misc/misc616_stand.img
+                - [X] data/object/misc/misc620_stand.img
+                - [X] data/object/misc/misc621_stand.img
+                - [X] data/object/misc/misc622_stand.img
+                - [X] data/object/misc/misc623_stand.img
+                - [X] data/object/misc/Misc623_trigger.img
+                - [X] data/object/misc/misc624_stand.img
+                - [X] data/object/misc/Misc624_trigger.img
+                - [X] data/object/misc/misc625_stand.img
+                - [X] data/object/misc/Misc625_trigger.img
+                - [X] data/object/misc/misc626_stand.img
+                - [X] data/object/misc/Misc626_trigger.img
+                - [X] data/object/misc/misc627_stand.img
+                - [X] data/object/misc/Misc627_trigger.img
+                - [X] data/object/misc/misc628_stand.img
+                - [X] data/object/misc/Misc628_trigger.img
+                - [X] data/object/misc/misc629_stand.img
+                - [X] data/object/misc/Misc629_trigger.img
+                - [X] data/object/misc/misc630_stand.img
+                - [X] data/object/misc/Misc630_trigger.img
+            - [X] data/object/mouth
+                - [X] data/object/mouth/mouth11501_stand.img
+                - [X] data/object/mouth/mouth11501_walk.img
+            - [X] data/object/npack
+                - [X] data/object/npack/npack10101_stand.img
+                - [X] data/object/npack/npack10101_walk.img
+                - [X] data/object/npack/npack10301_stand.img
+                - [X] data/object/npack/npack10301_walk.img
+                - [X] data/object/npack/npack10601_stand.img
+                - [X] data/object/npack/npack10601_stand_m.img
+                - [X] data/object/npack/npack10601_walk.img
+                - [X] data/object/npack/npack10601_walk_m.img
+            - [X] data/object/pet
+                - [X] data/object/pet/pet100_stand.img
+                - [X] data/object/pet/pet100_walk.img
+            - [X] data/object/thadorn
+                - [X] data/object/thadorn/thadorn101_stand.img
+                - [X] data/object/thadorn/thadorn101_walk.img
+                - [X] data/object/thadorn/thadorn102_stand.img
+                - [X] data/object/thadorn/thadorn102_walk.img
+                - [X] data/object/thadorn/thadorn103_stand.img
+                - [X] data/object/thadorn/thadorn103_walk.img
+                - [X] data/object/thadorn/thadorn104_stand.img
+                - [X] data/object/thadorn/thadorn104_walk.img
+                - [X] data/object/thadorn/thadorn22_stand.img
+                - [X] data/object/thadorn/thadorn22_walk.img
+                - [X] data/object/thadorn/thadorn23_stand.img
+                - [X] data/object/thadorn/thadorn23_walk.img
+            - [X] data/object/ui
+                - [X] data/object/ui/bg
+                    - [X] data/object/ui/bg/bg_game.img
+                    - [X] data/object/ui/bg/bg_logo.img
+                    - [X] data/object/ui/bg/bg_room.img
+                    - [X] data/object/ui/bg/bg_selRoom.img
+                    - [X] data/object/ui/bg/bg_selSect.img
+                    - [X] data/object/ui/bg/bg_shop.img
+                - [X] data/object/ui/chat
+                    - [X] data/object/ui/chat/btn_commandPrompt.img
+                    - [X] data/object/ui/chat/btn_expression.img
+                    - [X] data/object/ui/chat/btn_facemember.img
+                    - [X] data/object/ui/chat/btn_facenormal.img
+                    - [X] data/object/ui/chat/btn_ldspker_disable.img
+                    - [X] data/object/ui/chat/btn_ldspker_pushdown.img
+                    - [X] data/object/ui/chat/btn_send.img
+                    - [X] data/object/ui/chat/btn_speaker.img
+                    - [X] data/object/ui/chat/dlg_face.img
+                    - [X] data/object/ui/chat/img_chatMenu.img
+                    - [X] data/object/ui/chat/img_cmdChoose.img
+                    - [X] data/object/ui/chat/img_commandPrompt.img
+                    - [X] data/object/ui/chat/tab_integration.img
+                    - [X] data/object/ui/chat/tab_kin.img
+                    - [X] data/object/ui/chat/tab_whisper.img
+                - [X] data/object/ui/chatRoom
+                    - [X] data/object/ui/chatRoom/btn_cancel.img
+                    - [X] data/object/ui/chatRoom/btn_chatConfirm.img
+                    - [X] data/object/ui/chatRoom/btn_chatFlexDown.img
+                    - [X] data/object/ui/chatRoom/btn_chatFlexUp.img
+                    - [X] data/object/ui/chatRoom/btn_chatShop.img
+                    - [X] data/object/ui/chatRoom/btn_kickOut.img
+                    - [X] data/object/ui/chatRoom/btn_lookOver.img
+                    - [X] data/object/ui/chatRoom/dlg_bgPreview.img
+                    - [X] data/object/ui/chatRoom/dlg_chatAreaBig.img
+                    - [X] data/object/ui/chatRoom/dlg_chatAreaSmall.img
+                    - [X] data/object/ui/chatRoom/dlg_isKickOut.img
+                    - [X] data/object/ui/chatRoom/dlg_mapFilterMask.img
+                - [X] data/object/ui/common
+                    - [X] data/object/ui/common/btn_agree.img
+                    - [X] data/object/ui/common/btn_cancel.img
+                    - [X] data/object/ui/common/btn_check.img
+                    - [X] data/object/ui/common/btn_close.img
+                    - [X] data/object/ui/common/btn_confirm.img
+                    - [X] data/object/ui/common/btn_cross.img
+                    - [X] data/object/ui/common/btn_leave.img
+                    - [X] data/object/ui/common/btn_leavegame.img
+                    - [X] data/object/ui/common/btn_left.img
+                    - [X] data/object/ui/common/btn_next.img
+                    - [X] data/object/ui/common/btn_quit.img
+                    - [X] data/object/ui/common/btn_ratio.img
+                    - [X] data/object/ui/common/btn_refuse.img
+                    - [X] data/object/ui/common/btn_return.img
+                    - [X] data/object/ui/common/btn_right.img
+                    - [X] data/object/ui/common/dlg_msgBox.img
+                    - [X] data/object/ui/common/dlg_setup.img
+                    - [X] data/object/ui/common/img_chat.img
+                    - [X] data/object/ui/common/img_tip.img
+                    - [X] data/object/ui/common/number1.img
+                    - [X] data/object/ui/common/number2.img
+                    - [X] data/object/ui/common/number3.img
+                    - [X] data/object/ui/common/number4.img
+                    - [X] data/object/ui/common/number5.img
+                    - [X] data/object/ui/common/number6.img
+                    - [X] data/object/ui/common/numberMoney.img
+                    - [X] data/object/ui/common/scl_block.img
+                    - [X] data/object/ui/common/tip_new.img
+                - [X] data/object/ui/cursor
+                    - [X] data/object/ui/cursor/arror.img
+                    - [X] data/object/ui/cursor/dianji.img
+                - [X] data/object/ui/deal
+                    - [X] data/object/ui/deal/AgreeBtn.img
+                    - [X] data/object/ui/deal/bg_pawnshop.img
+                    - [X] data/object/ui/deal/C2CDealPanel.img
+                    - [X] data/object/ui/deal/cancelbtn.img
+                    - [X] data/object/ui/deal/cancelhorizontal.img
+                    - [X] data/object/ui/deal/commitbtn.img
+                    - [X] data/object/ui/deal/commiteditem.img
+                    - [X] data/object/ui/deal/commitpanel.img
+                    - [X] data/object/ui/deal/confirmbtn.img
+                    - [X] data/object/ui/deal/DisagreeBtn.img
+                    - [X] data/object/ui/deal/LittleAgreeBtn.img
+                    - [X] data/object/ui/deal/LittleRefuseBtn.img
+                    - [X] data/object/ui/deal/lookuppetBtn.img
+                    - [X] data/object/ui/deal/mystoragebtn.img
+                    - [X] data/object/ui/deal/pawnedcancelBtn.img
+                    - [X] data/object/ui/deal/pawnSettingPanel.img
+                    - [X] data/object/ui/deal/RequestDealPanel.img
+                    - [X] data/object/ui/deal/tab_pawned.img
+                    - [X] data/object/ui/deal/tab_pawning.img
+                    - [X] data/object/ui/deal/updateBtn.img
+                - [X] data/object/ui/forge
+                    - [X] data/object/ui/forge/btn_avatarforge.img
+                    - [X] data/object/ui/forge/btn_avatarrevert.img
+                    - [X] data/object/ui/forge/btn_avatarsplit.img
+                    - [X] data/object/ui/forge/btn_forgeconfirm.img
+                    - [X] data/object/ui/forge/btn_item.img
+                    - [X] data/object/ui/forge/btn_startCompose.img
+                    - [X] data/object/ui/forge/btn_startForge.img
+                    - [X] data/object/ui/forge/btn_type.img
+                    - [X] data/object/ui/forge/dlg_avatarforge.img
+                    - [X] data/object/ui/forge/dlg_forge.img
+                    - [X] data/object/ui/forge/dlg_forgeconfirm.img
+                    - [X] data/object/ui/forge/dlg_forgeMask.img
+                    - [X] data/object/ui/forge/dlg_meterial.img
+                    - [X] data/object/ui/forge/scl_down.img
+                    - [X] data/object/ui/forge/scl_up.img
+                    - [X] data/object/ui/forge/tab_compose.img
+                    - [X] data/object/ui/forge/tab_forge.img
+                    - [X] data/object/ui/forge/tab_forgetype0.img
+                    - [X] data/object/ui/forge/tab_forgetype1.img
+                    - [X] data/object/ui/forge/tab_forgetype2.img
+                    - [X] data/object/ui/forge/tab_forgetype3.img
+                - [X] data/object/ui/game
+                    - [X] data/object/ui/game/btn_cancelSaveReplay.img
+                    - [X] data/object/ui/game/btn_saveReplay.img
+                    - [X] data/object/ui/game/btn_storage.img
+                    - [X] data/object/ui/game/chatpopo.img
+                    - [X] data/object/ui/game/chatpopo2.img
+                    - [X] data/object/ui/game/chatpopo3.img
+                    - [X] data/object/ui/game/dlg_playerList.img
+                    - [X] data/object/ui/game/dlg_pveFunc.img
+                    - [X] data/object/ui/game/dlg_statusBar.img
+                    - [X] data/object/ui/game/gameLeft.img
+                    - [X] data/object/ui/game/gameTop.img
+                    - [X] data/object/ui/game/img_itemMask.img
+                    - [X] data/object/ui/game/img_lifeNull.img
+                    - [X] data/object/ui/game/img_lifeRed.img
+                    - [X] data/object/ui/game/img_maskCycle.img
+                    - [X] data/object/ui/game/img_playerLife.img
+                    - [X] data/object/ui/game/img_playerLifeBlue.img
+                    - [X] data/object/ui/game/img_playerLifeRed.img
+                    - [X] data/object/ui/game/mask_player.img
+                    - [X] data/object/ui/game/newplayerpopo.img
+                    - [X] data/object/ui/game/record
+                        - [X] data/object/ui/game/record/btn_2xSpeedPlay.img
+                        - [X] data/object/ui/game/record/btn_4xSpeedPlay.img
+                        - [X] data/object/ui/game/record/btn_Pause.img
+                        - [X] data/object/ui/game/record/btn_Resume.img
+                        - [X] data/object/ui/game/record/ProcessBar.img
+                - [X] data/object/ui/guideBar
+                    - [X] data/object/ui/guideBar/btn_amend.img
+                    - [X] data/object/ui/guideBar/btn_cancel_dismiss.img
                     - [ ] data/object/ui/guideBar/btn_check.img
-                    - [ ] data/object/ui/guideBar/btn_dismiss.img
-                    - [ ] data/object/ui/guideBar/btn_folderUp.img
-                    - [ ] data/object/ui/guideBar/btn_GCS.img
-                    - [ ] data/object/ui/guideBar/btn_help.img
-                    - [ ] data/object/ui/guideBar/btn_info.img
-                    - [ ] data/object/ui/guideBar/btn_issue.img
-                    - [ ] data/object/ui/guideBar/btn_member.img
-                    - [ ] data/object/ui/guideBar/btn_menu.img
-                    - [ ] data/object/ui/guideBar/btn_pet.img
-                    - [ ] data/object/ui/guideBar/btn_player.img
-                    - [ ] data/object/ui/guideBar/btn_playermenuChoose.img
-                    - [ ] data/object/ui/guideBar/btn_quitKin.img
-                    - [ ] data/object/ui/guideBar/btn_record.img
-                    - [ ] data/object/ui/guideBar/btn_setup.img
-                    - [ ] data/object/ui/guideBar/btn_shop.img
-                    - [ ] data/object/ui/guideBar/btn_sociality.img
-                    - [ ] data/object/ui/guideBar/btn_task.img
-                    - [ ] data/object/ui/guideBar/btn_top_kin.img
-                    - [ ] data/object/ui/guideBar/btn_trade.img
-                    - [ ] data/object/ui/guideBar/btn_web.img
-                    - [ ] data/object/ui/guideBar/dlg_kinMember.img
-                    - [ ] data/object/ui/guideBar/dlg_kinMgr.img
-                    - [ ] data/object/ui/guideBar/dlg_menu.img
-                    - [ ] data/object/ui/guideBar/dlg_player.img
-                    - [ ] data/object/ui/guideBar/dlg_playermenu.img
-                    - [ ] data/object/ui/guideBar/dlg_record.img
-                    - [ ] data/object/ui/guideBar/friend
-                        - [ ] data/object/ui/guideBar/friend/dlg_addFriends.img
-                        - [ ] data/object/ui/guideBar/friend/dlg_beAddedFriends.img
-                    - [ ] data/object/ui/guideBar/img_friendMask.img
-                    - [ ] data/object/ui/guideBar/img_guide.img
-                    - [ ] data/object/ui/guideBar/kin
-                        - [ ] data/object/ui/guideBar/kin/arrow_0.img
-                        - [ ] data/object/ui/guideBar/kin/arrow_1.img
-                        - [ ] data/object/ui/guideBar/kin/arrow_2.img
-                        - [ ] data/object/ui/guideBar/kin/bg_kin_menu.img
-                        - [ ] data/object/ui/guideBar/kin/btn_activity.img
-                        - [ ] data/object/ui/guideBar/kin/btn_honor.img
-                        - [ ] data/object/ui/guideBar/kin/btn_netcom.img
-                        - [ ] data/object/ui/guideBar/kin/btn_telecom.img
-                        - [ ] data/object/ui/guideBar/kin/dlg_createHint.img
-                        - [ ] data/object/ui/guideBar/kin/dlg_createKin.img
-                        - [ ] data/object/ui/guideBar/kin/dlg_kinInfo.img
-                        - [ ] data/object/ui/guideBar/kin/dlg_kinInvite.img
-                        - [ ] data/object/ui/guideBar/kin/dlg_topkin.img
-                        - [ ] data/object/ui/guideBar/kin/img_activity.img
-                    - [ ] data/object/ui/guideBar/player
-                        - [ ] data/object/ui/guideBar/player/btn_addFriend.img
-                        - [ ] data/object/ui/guideBar/player/btn_deleteFriend.img
-                        - [ ] data/object/ui/guideBar/player/btn_lookup.img
-                        - [ ] data/object/ui/guideBar/player/btn_lookupkin.img
-                        - [ ] data/object/ui/guideBar/player/btn_privateChat.img
-                        - [ ] data/object/ui/guideBar/player/btn_spark.img
-                        - [ ] data/object/ui/guideBar/player/btn_trace.img
-                        - [ ] data/object/ui/guideBar/player/dlg_modeInfo.img
-                        - [ ] data/object/ui/guideBar/player/dlg_playerInfo.img
-                        - [ ] data/object/ui/guideBar/player/dlg_pveInfo.img
-                        - [ ] data/object/ui/guideBar/player/img_bun.img
-                        - [ ] data/object/ui/guideBar/player/img_expLine.img
-                        - [ ] data/object/ui/guideBar/player/img_expLine2.img
-                        - [ ] data/object/ui/guideBar/player/img_mask.img
-                        - [ ] data/object/ui/guideBar/player/img_match.img
-                        - [ ] data/object/ui/guideBar/player/img_modeExpLine.img
-                        - [ ] data/object/ui/guideBar/player/img_sculpture.img
-                        - [ ] data/object/ui/guideBar/player/mask_demo.img
-                        - [ ] data/object/ui/guideBar/player/tab_modeInfo.img
-                        - [ ] data/object/ui/guideBar/player/tab_pveInfo.img
-                        - [ ] data/object/ui/guideBar/player/tab_pvpInfo.img
-                    - [ ] data/object/ui/guideBar/tab_allKinMember.img
-                    - [ ] data/object/ui/guideBar/tab_kin.img
-                    - [ ] data/object/ui/guideBar/tab_kinMatch.img
-                    - [ ] data/object/ui/guideBar/tab_kinMember.img
-                    - [ ] data/object/ui/guideBar/tab_kinMgr.img
-                    - [ ] data/object/ui/guideBar/tab_team.img
-                    - [ ] data/object/ui/guideBar/tip_enterShop.img
-                - [ ] data/object/ui/kinTotem
-                    - [ ] data/object/ui/kinTotem/000.img
-                    - [ ] data/object/ui/kinTotem/001.img
-                    - [ ] data/object/ui/kinTotem/002.img
-                    - [ ] data/object/ui/kinTotem/003.img
-                    - [ ] data/object/ui/kinTotem/004.img
-                    - [ ] data/object/ui/kinTotem/005.img
-                    - [ ] data/object/ui/kinTotem/006.img
-                    - [ ] data/object/ui/kinTotem/007.img
-                    - [ ] data/object/ui/kinTotem/008.img
-                    - [ ] data/object/ui/kinTotem/009.img
-                    - [ ] data/object/ui/kinTotem/010.img
-                    - [ ] data/object/ui/kinTotem/011.img
-                    - [ ] data/object/ui/kinTotem/012.img
-                    - [ ] data/object/ui/kinTotem/013.img
-                    - [ ] data/object/ui/kinTotem/014.img
-                    - [ ] data/object/ui/kinTotem/015.img
-                    - [ ] data/object/ui/kinTotem/016.img
-                    - [ ] data/object/ui/kinTotem/017.img
-                    - [ ] data/object/ui/kinTotem/018.img
-                    - [ ] data/object/ui/kinTotem/019.img
-                    - [ ] data/object/ui/kinTotem/020.img
-                    - [ ] data/object/ui/kinTotem/021.img
-                    - [ ] data/object/ui/kinTotem/022.img
-                    - [ ] data/object/ui/kinTotem/023.img
-                    - [ ] data/object/ui/kinTotem/024.img
-                    - [ ] data/object/ui/kinTotem/025.img
-                    - [ ] data/object/ui/kinTotem/026.img
-                    - [ ] data/object/ui/kinTotem/027.img
-                    - [ ] data/object/ui/kinTotem/028.img
-                    - [ ] data/object/ui/kinTotem/029.img
-                    - [ ] data/object/ui/kinTotem/030.img
-                    - [ ] data/object/ui/kinTotem/031.img
-                    - [ ] data/object/ui/kinTotem/032.img
-                    - [ ] data/object/ui/kinTotem/033.img
-                    - [ ] data/object/ui/kinTotem/034.img
-                    - [ ] data/object/ui/kinTotem/035.img
-                    - [ ] data/object/ui/kinTotem/036.img
-                    - [ ] data/object/ui/kinTotem/037.img
-                    - [ ] data/object/ui/kinTotem/038.img
-                    - [ ] data/object/ui/kinTotem/039.img
-                    - [ ] data/object/ui/kinTotem/040.img
-                    - [ ] data/object/ui/kinTotem/041.img
-                    - [ ] data/object/ui/kinTotem/042.img
-                    - [ ] data/object/ui/kinTotem/043.img
-                    - [ ] data/object/ui/kinTotem/044.img
-                    - [ ] data/object/ui/kinTotem/045.img
-                    - [ ] data/object/ui/kinTotem/046.img
-                    - [ ] data/object/ui/kinTotem/047.img
-                    - [ ] data/object/ui/kinTotem/048.img
-                - [ ] data/object/ui/level
-                    - [ ] data/object/ui/level/medal
-                        - [ ] data/object/ui/level/medal/001.img
-                        - [ ] data/object/ui/level/medal/002.img
-                        - [ ] data/object/ui/level/medal/003.img
-                        - [ ] data/object/ui/level/medal/004.img
-                        - [ ] data/object/ui/level/medal/005.img
-                        - [ ] data/object/ui/level/medal/006.img
-                        - [ ] data/object/ui/level/medal/007.img
-                        - [ ] data/object/ui/level/medal/008.img
-                        - [ ] data/object/ui/level/medal/009.img
-                        - [ ] data/object/ui/level/medal/010.img
-                        - [ ] data/object/ui/level/medal/011.img
-                        - [ ] data/object/ui/level/medal/012.img
-                        - [ ] data/object/ui/level/medal/013.img
-                        - [ ] data/object/ui/level/medal/014.img
-                        - [ ] data/object/ui/level/medal/015.img
-                        - [ ] data/object/ui/level/medal/016.img
-                        - [ ] data/object/ui/level/medal/017.img
-                        - [ ] data/object/ui/level/medal/018.img
-                        - [ ] data/object/ui/level/medal/019.img
-                        - [ ] data/object/ui/level/medal/020.img
-                        - [ ] data/object/ui/level/medal/021.img
-                        - [ ] data/object/ui/level/medal/022.img
-                        - [ ] data/object/ui/level/medal/023.img
-                        - [ ] data/object/ui/level/medal/024.img
-                        - [ ] data/object/ui/level/medal/025.img
-                        - [ ] data/object/ui/level/medal/026.img
-                        - [ ] data/object/ui/level/medal/027.img
-                        - [ ] data/object/ui/level/medal/028.img
-                        - [ ] data/object/ui/level/medal/029.img
-                        - [ ] data/object/ui/level/medal/030.img
-                    - [ ] data/object/ui/level/tie
-                        - [ ] data/object/ui/level/tie/a01.img
-                        - [ ] data/object/ui/level/tie/a02.img
-                        - [ ] data/object/ui/level/tie/a03.img
-                        - [ ] data/object/ui/level/tie/a04.img
-                        - [ ] data/object/ui/level/tie/a05.img
-                        - [ ] data/object/ui/level/tie/a06.img
-                        - [ ] data/object/ui/level/tie/b01.img
-                        - [ ] data/object/ui/level/tie/b02.img
-                        - [ ] data/object/ui/level/tie/b03.img
-                        - [ ] data/object/ui/level/tie/b04.img
-                        - [ ] data/object/ui/level/tie/b05.img
-                        - [ ] data/object/ui/level/tie/b06.img
-                        - [ ] data/object/ui/level/tie/c01.img
-                        - [ ] data/object/ui/level/tie/c02.img
-                        - [ ] data/object/ui/level/tie/c03.img
-                        - [ ] data/object/ui/level/tie/c04.img
-                        - [ ] data/object/ui/level/tie/c05.img
-                        - [ ] data/object/ui/level/tie/c06.img
-                        - [ ] data/object/ui/level/tie/d01.img
-                        - [ ] data/object/ui/level/tie/d02.img
-                        - [ ] data/object/ui/level/tie/d03.img
-                        - [ ] data/object/ui/level/tie/d04.img
-                        - [ ] data/object/ui/level/tie/d05.img
-                        - [ ] data/object/ui/level/tie/d06.img
-                        - [ ] data/object/ui/level/tie/e01.img
-                        - [ ] data/object/ui/level/tie/e02.img
-                        - [ ] data/object/ui/level/tie/e03.img
-                        - [ ] data/object/ui/level/tie/e04.img
-                        - [ ] data/object/ui/level/tie/e05.img
-                        - [ ] data/object/ui/level/tie/e06.img
-                        - [ ] data/object/ui/level/tie/f01.img
-                        - [ ] data/object/ui/level/tie/f02.img
-                        - [ ] data/object/ui/level/tie/f03.img
-                        - [ ] data/object/ui/level/tie/f04.img
-                        - [ ] data/object/ui/level/tie/f05.img
-                        - [ ] data/object/ui/level/tie/f06.img
-                        - [ ] data/object/ui/level/tie/t01.img
-                        - [ ] data/object/ui/level/tie/t02.img
-                        - [ ] data/object/ui/level/tie/t03.img
-                        - [ ] data/object/ui/level/tie/t04.img
-                        - [ ] data/object/ui/level/tie/t05.img
-                        - [ ] data/object/ui/level/tie/t06.img
-                - [ ] data/object/ui/login
-                    - [ ] data/object/ui/login/btn_help.img
-                    - [ ] data/object/ui/login/btn_login.img
-                    - [ ] data/object/ui/login/btn_nextpic.img
-                    - [ ] data/object/ui/login/btn_playAnim.img
-                    - [ ] data/object/ui/login/btn_quit.img
-                    - [ ] data/object/ui/login/btn_vnetLogin.img
-                    - [ ] data/object/ui/login/dlg_login.img
-                    - [ ] data/object/ui/login/dlg_verify.img
-                    - [ ] data/object/ui/login/dlg_vnetLogin.img
-                    - [ ] data/object/ui/login/dlg_wait.img
-                    - [ ] data/object/ui/login/img_lago.img
-                    - [ ] data/object/ui/login/img_link.img
-                - [ ] data/object/ui/map
-                    - [ ] data/object/ui/map/midIcon
-                        - [ ] data/object/ui/map/midIcon/all.img
-                        - [ ] data/object/ui/map/midIcon/bomb.img
-                        - [ ] data/object/ui/map/midIcon/box.img
-                        - [ ] data/object/ui/map/midIcon/bun.img
-                        - [ ] data/object/ui/map/midIcon/desert.img
-                        - [ ] data/object/ui/map/midIcon/field.img
-                        - [ ] data/object/ui/map/midIcon/match.img
-                        - [ ] data/object/ui/map/midIcon/mine.img
-                        - [ ] data/object/ui/map/midIcon/normal.img
-                        - [ ] data/object/ui/map/midIcon/pig.img
-                        - [ ] data/object/ui/map/midIcon/rand.img
-                        - [ ] data/object/ui/map/midIcon/sculpture.img
-                        - [ ] data/object/ui/map/midIcon/snow.img
-                        - [ ] data/object/ui/map/midIcon/tank.img
-                        - [ ] data/object/ui/map/midIcon/town.img
-                        - [ ] data/object/ui/map/midIcon/treasure.img
-                        - [ ] data/object/ui/map/midIcon/water.img
-                - [ ] data/object/ui/marriage
-                    - [ ] data/object/ui/marriage/bg
-                        - [ ] data/object/ui/marriage/bg/dlg_chinaBG.img
-                        - [ ] data/object/ui/marriage/bg/dlg_chinaIcon.img
-                        - [ ] data/object/ui/marriage/bg/dlg_westBG.img
-                        - [ ] data/object/ui/marriage/bg/dlg_westIcon.img
-                    - [ ] data/object/ui/marriage/btn_close.img
-                    - [ ] data/object/ui/marriage/btn_divorce.img
-                    - [ ] data/object/ui/marriage/btn_divorceCancel.img
-                    - [ ] data/object/ui/marriage/btn_divorceConfirm.img
-                    - [ ] data/object/ui/marriage/btn_Iaccept.img
-                    - [ ] data/object/ui/marriage/btn_Ireject.img
-                    - [ ] data/object/ui/marriage/btn_left.img
-                    - [ ] data/object/ui/marriage/btn_lookup.img
-                    - [ ] data/object/ui/marriage/btn_modify.img
-                    - [ ] data/object/ui/marriage/btn_noRing.img
-                    - [ ] data/object/ui/marriage/btn_right.img
-                    - [ ] data/object/ui/marriage/btn_save.img
-                    - [ ] data/object/ui/marriage/btn_spark.img
-                    - [ ] data/object/ui/marriage/btn_sparkCancel.img
-                    - [ ] data/object/ui/marriage/btn_sparkSend.img
-                    - [ ] data/object/ui/marriage/btn_startWedding.img
-                    - [ ] data/object/ui/marriage/dlg_closeLine.img
-                    - [ ] data/object/ui/marriage/dlg_closeLineValue.img
-                    - [ ] data/object/ui/marriage/dlg_divorce.img
-                    - [ ] data/object/ui/marriage/dlg_loveWord.img
-                    - [ ] data/object/ui/marriage/dlg_marriageConfirmChina.img
-                    - [ ] data/object/ui/marriage/dlg_marriageConfirmWest.img
-                    - [ ] data/object/ui/marriage/dlg_marriageInfo.img
-                    - [ ] data/object/ui/marriage/dlg_priestChat.img
-                    - [ ] data/object/ui/marriage/dlg_receiveSpark.img
-                    - [ ] data/object/ui/marriage/dlg_setMarriage.img
-                    - [ ] data/object/ui/marriage/dlg_spark.img
-                    - [ ] data/object/ui/marriage/dlg_weddingSuccess.img
-                    - [ ] data/object/ui/marriage/marriageLevel
-                        - [ ] data/object/ui/marriage/marriageLevel/dlg_coronet.img
-                        - [ ] data/object/ui/marriage/marriageLevel/dlg_diamond.img
-                        - [ ] data/object/ui/marriage/marriageLevel/dlg_heart.img
-                    - [ ] data/object/ui/marriage/priest
-                        - [ ] data/object/ui/marriage/priest/dlg_chinaPriest.img
-                        - [ ] data/object/ui/marriage/priest/dlg_chinaPriestS.img
-                        - [ ] data/object/ui/marriage/priest/dlg_westPriest.img
-                        - [ ] data/object/ui/marriage/priest/dlg_westPriestS.img
-                    - [ ] data/object/ui/marriage/ring
-                        - [ ] data/object/ui/marriage/ring/ring9021.img
-                        - [ ] data/object/ui/marriage/ring/ring9022.img
-                        - [ ] data/object/ui/marriage/ring/ring9023.img
-                        - [ ] data/object/ui/marriage/ring/ring9024.img
-                        - [ ] data/object/ui/marriage/ring/ring9025.img
-                        - [ ] data/object/ui/marriage/ring/ring9026.img
-                - [ ] data/object/ui/pet
-                    - [ ] data/object/ui/pet/btn_adopt.img
-                    - [ ] data/object/ui/pet/btn_change_name.img
-                    - [ ] data/object/ui/pet/btn_first_page.img
-                    - [ ] data/object/ui/pet/btn_free.img
-                    - [ ] data/object/ui/pet/btn_last_page.img
-                    - [ ] data/object/ui/pet/btn_next_page.img
-                    - [ ] data/object/ui/pet/btn_pre_page.img
-                    - [ ] data/object/ui/pet/btn_raise.img
-                    - [ ] data/object/ui/pet/btn_raise1.img
-                    - [ ] data/object/ui/pet/btn_skill.img
-                    - [ ] data/object/ui/pet/btn_skill1.img
-                    - [ ] data/object/ui/pet/btn_stop_take.img
-                    - [ ] data/object/ui/pet/btn_take.img
-                    - [ ] data/object/ui/pet/dlg_baseskill.img
-                    - [ ] data/object/ui/pet/dlg_food.img
-                    - [ ] data/object/ui/pet/dlg_pet.img
-                    - [ ] data/object/ui/pet/dlg_skill.img
-                    - [ ] data/object/ui/pet/face0.img
-                    - [ ] data/object/ui/pet/face1.img
-                    - [ ] data/object/ui/pet/face2.img
-                    - [ ] data/object/ui/pet/face3.img
-                    - [ ] data/object/ui/pet/face4.img
-                    - [ ] data/object/ui/pet/img_exp.img
-                - [ ] data/object/ui/record
-                    - [ ] data/object/ui/record/icon_file.img
-                    - [ ] data/object/ui/record/icon_folder.img
-                - [ ] data/object/ui/room
-                    - [ ] data/object/ui/room/btn_check.img
-                    - [ ] data/object/ui/room/btn_equipItem.img
-                    - [ ] data/object/ui/room/btn_leftRole.img
-                    - [ ] data/object/ui/room/btn_map.img
-                    - [ ] data/object/ui/room/btn_playerDown.img
-                    - [ ] data/object/ui/room/btn_playerUp.img
-                    - [ ] data/object/ui/room/btn_ready.img
-                    - [ ] data/object/ui/room/btn_rightRole.img
-                    - [ ] data/object/ui/room/btn_roomProp.img
-                    - [ ] data/object/ui/room/btn_selMap.img
-                    - [ ] data/object/ui/room/btn_selMode.img
-                    - [ ] data/object/ui/room/btn_start.img
-                    - [ ] data/object/ui/room/btn_storage.img
-                    - [ ] data/object/ui/room/btn_unready.img
-                    - [ ] data/object/ui/room/char
-                        - [ ] data/object/ui/room/char/bbl.img
-                        - [ ] data/object/ui/room/char/boy.img
-                        - [ ] data/object/ui/room/char/cl.img
-                        - [ ] data/object/ui/room/char/dlg_roleAttr.img
-                        - [ ] data/object/ui/room/char/ge.img
-                        - [ ] data/object/ui/room/char/girl.img
-                        - [ ] data/object/ui/room/char/hwz.img
-                        - [ ] data/object/ui/room/char/hy.img
-                        - [ ] data/object/ui/room/char/icon_117.img
-                        - [ ] data/object/ui/room/char/icon_118.img
-                        - [ ] data/object/ui/room/char/icon_119.img
-                        - [ ] data/object/ui/room/char/icon_124.img
-                        - [ ] data/object/ui/room/char/icon_125.img
-                        - [ ] data/object/ui/room/char/icon_67.img
-                        - [ ] data/object/ui/room/char/icon_69.img
-                        - [ ] data/object/ui/room/char/icon_72.img
-                        - [ ] data/object/ui/room/char/icon_73.img
-                        - [ ] data/object/ui/room/char/icon_75.img
-                        - [ ] data/object/ui/room/char/icon_77.img
-                        - [ ] data/object/ui/room/char/icon_78.img
-                        - [ ] data/object/ui/room/char/icon_79.img
-                        - [ ] data/object/ui/room/char/icon_81.img
-                        - [ ] data/object/ui/room/char/icon_85.img
-                        - [ ] data/object/ui/room/char/icon_bbl.img
-                        - [ ] data/object/ui/room/char/icon_boy.img
-                        - [ ] data/object/ui/room/char/icon_cbz.img
-                        - [ ] data/object/ui/room/char/icon_cl.img
-                        - [ ] data/object/ui/room/char/icon_ge.img
-                        - [ ] data/object/ui/room/char/icon_girl.img
-                        - [ ] data/object/ui/room/char/icon_hwz.img
-                        - [ ] data/object/ui/room/char/icon_hy.img
-                        - [ ] data/object/ui/room/char/icon_kl.img
-                        - [ ] data/object/ui/room/char/icon_ld.img
-                        - [ ] data/object/ui/room/char/icon_mly.img
-                        - [ ] data/object/ui/room/char/icon_nz.img
-                        - [ ] data/object/ui/room/char/icon_random.img
-                        - [ ] data/object/ui/room/char/icon_tb.img
-                        - [ ] data/object/ui/room/char/icon_tt.img
-                        - [ ] data/object/ui/room/char/icon_wll.img
-                        - [ ] data/object/ui/room/char/icon_xq.img
-                        - [ ] data/object/ui/room/char/icon_xwk.img
-                        - [ ] data/object/ui/room/char/icon_xxm.img
-                        - [ ] data/object/ui/room/char/icon_xz.img
-                        - [ ] data/object/ui/room/char/icon_yd.img
-                        - [ ] data/object/ui/room/char/icon_yy.img
-                        - [ ] data/object/ui/room/char/icon_zjl.img
-                        - [ ] data/object/ui/room/char/img_roleBomb.img
-                        - [ ] data/object/ui/room/char/img_rolePower.img
-                        - [ ] data/object/ui/room/char/img_roleSpeed.img
-                        - [ ] data/object/ui/room/char/kl.img
-                        - [ ] data/object/ui/room/char/ld.img
-                        - [ ] data/object/ui/room/char/mly.img
-                        - [ ] data/object/ui/room/char/name_bbl.img
-                        - [ ] data/object/ui/room/char/name_boy.img
-                        - [ ] data/object/ui/room/char/name_cl.img
-                        - [ ] data/object/ui/room/char/name_ge.img
-                        - [ ] data/object/ui/room/char/name_girl.img
-                        - [ ] data/object/ui/room/char/name_hwz.img
-                        - [ ] data/object/ui/room/char/name_hy.img
-                        - [ ] data/object/ui/room/char/name_kl.img
-                        - [ ] data/object/ui/room/char/name_ld.img
-                        - [ ] data/object/ui/room/char/name_mly.img
-                        - [ ] data/object/ui/room/char/name_nz.img
-                        - [ ] data/object/ui/room/char/name_tb.img
-                        - [ ] data/object/ui/room/char/name_tt.img
-                        - [ ] data/object/ui/room/char/name_wll.img
-                        - [ ] data/object/ui/room/char/name_xq.img
-                        - [ ] data/object/ui/room/char/name_xwk.img
-                        - [ ] data/object/ui/room/char/name_yd.img
-                        - [ ] data/object/ui/room/char/name_yy.img
-                        - [ ] data/object/ui/room/char/nz.img
-                        - [ ] data/object/ui/room/char/tb.img
-                        - [ ] data/object/ui/room/char/tt.img
-                        - [ ] data/object/ui/room/char/wll.img
-                        - [ ] data/object/ui/room/char/xq.img
-                        - [ ] data/object/ui/room/char/xwk.img
-                        - [ ] data/object/ui/room/char/yd.img
-                        - [ ] data/object/ui/room/char/yy.img
-                    - [ ] data/object/ui/room/dlg_chatPanelbig.img
-                    - [ ] data/object/ui/room/dlg_chatPanelsmall.img
-                    - [ ] data/object/ui/room/dlg_helpKB.img
-                    - [ ] data/object/ui/room/dlg_matchroom.img
-                    - [ ] data/object/ui/room/dlg_roleProp.img
-                    - [ ] data/object/ui/room/dlg_roomProp.img
-                    - [ ] data/object/ui/room/dlg_selMap.img
-                    - [ ] data/object/ui/room/dlg_selMode.img
-                    - [ ] data/object/ui/room/equipTip.img
-                    - [ ] data/object/ui/room/img_master.img
-                    - [ ] data/object/ui/room/img_popo.img
-                    - [ ] data/object/ui/room/img_ready.img
-                    - [ ] data/object/ui/room/img_roomStop.img
-                    - [ ] data/object/ui/room/leftTip.img
-                    - [ ] data/object/ui/room/map
-                        - [ ] data/object/ui/room/map/btn_bomb.img
-                        - [ ] data/object/ui/room/map/btn_box.img
-                        - [ ] data/object/ui/room/map/btn_bun.img
-                        - [ ] data/object/ui/room/map/btn_desert.img
-                        - [ ] data/object/ui/room/map/btn_field.img
-                        - [ ] data/object/ui/room/map/btn_machine.img
-                        - [ ] data/object/ui/room/map/btn_match.img
-                        - [ ] data/object/ui/room/map/btn_mine.img
-                        - [ ] data/object/ui/room/map/btn_pig.img
-                        - [ ] data/object/ui/room/map/btn_pve.img
-                        - [ ] data/object/ui/room/map/btn_rand.img
-                        - [ ] data/object/ui/room/map/btn_sculpture.img
-                        - [ ] data/object/ui/room/map/btn_snow.img
-                        - [ ] data/object/ui/room/map/btn_tank.img
-                        - [ ] data/object/ui/room/map/btn_town.img
-                        - [ ] data/object/ui/room/map/btn_treasure.img
-                        - [ ] data/object/ui/room/map/btn_water.img
-                    - [ ] data/object/ui/room/mask_equip.img
-                    - [ ] data/object/ui/room/mask_speaker.img
-                    - [ ] data/object/ui/room/rightTip.img
-                    - [ ] data/object/ui/room/scl_block.img
-                    - [ ] data/object/ui/room/tab_integration.img
-                    - [ ] data/object/ui/room/tab_kin.img
-                    - [ ] data/object/ui/room/tab_normalChar.img
-                    - [ ] data/object/ui/room/tab_vipChar.img
-                    - [ ] data/object/ui/room/tab_whisper.img
-                    - [ ] data/object/ui/room/teamColorStrip.img
-                - [ ] data/object/ui/selRoom
-                    - [ ] data/object/ui/selRoom/btn_commandPrompt.img
-                    - [ ] data/object/ui/selRoom/btn_createRoom.img
-                    - [ ] data/object/ui/selRoom/btn_flexDown.img
-                    - [ ] data/object/ui/selRoom/btn_flexUp.img
-                    - [ ] data/object/ui/selRoom/btn_left.img
-                    - [ ] data/object/ui/selRoom/btn_mapFilter.img
-                    - [ ] data/object/ui/selRoom/btn_match.img
-                    - [ ] data/object/ui/selRoom/btn_message.img
-                    - [ ] data/object/ui/selRoom/btn_right.img
-                    - [ ] data/object/ui/selRoom/btn_shop.img
-                    - [ ] data/object/ui/selRoom/dlg_chatMax.img
-                    - [ ] data/object/ui/selRoom/dlg_chatMin.img
-                    - [ ] data/object/ui/selRoom/dlg_chatNormal.img
-                    - [ ] data/object/ui/selRoom/dlg_pwRoom.img
-                    - [ ] data/object/ui/selRoom/dlg_room.img
-                    - [ ] data/object/ui/selRoom/icon_vip.img
-                    - [ ] data/object/ui/selRoom/img_popo.img
-                    - [ ] data/object/ui/selRoom/map
-                        - [ ] data/object/ui/selRoom/map/dlg_mapFilter.img
-                    - [ ] data/object/ui/selRoom/mask_speaker.img
-                    - [ ] data/object/ui/selRoom/num.img
-                    - [ ] data/object/ui/selRoom/tab_allKinMember.img
-                    - [ ] data/object/ui/selRoom/tab_chat.img
-                    - [ ] data/object/ui/selRoom/tab_compete.img
-                    - [ ] data/object/ui/selRoom/tab_explore.img
-                    - [ ] data/object/ui/selRoom/tab_friend.img
-                    - [ ] data/object/ui/selRoom/tab_honor.img
-                    - [ ] data/object/ui/selRoom/tab_item.img
-                    - [ ] data/object/ui/selRoom/tab_noItem.img
-                    - [ ] data/object/ui/selRoom/tab_player.img
-                    - [ ] data/object/ui/selRoom/tip_enterShop.img
-                    - [ ] data/object/ui/selRoom/tip_GuideMidRight.img
-                    - [ ] data/object/ui/selRoom/tip_GuideMidUnder.img
-                    - [ ] data/object/ui/selRoom/tip_GuideMidUpper.img
-                - [ ] data/object/ui/selSect
-                    - [ ] data/object/ui/selSect/btn_choose.img
-                    - [ ] data/object/ui/selSect/btn_practice.img
-                    - [ ] data/object/ui/selSect/btn_quickJoin.img
-                    - [ ] data/object/ui/selSect/btn_selZone.img
-                    - [ ] data/object/ui/selSect/btn_sysSetup.img
-                    - [ ] data/object/ui/selSect/dlg_selServer.img
-                    - [ ] data/object/ui/selSect/img_sect.img
-                    - [ ] data/object/ui/selSect/img_state.img
-                    - [ ] data/object/ui/selSect/netspeed_fast.img
-                    - [ ] data/object/ui/selSect/netspeed_mid.img
-                    - [ ] data/object/ui/selSect/netspeed_slow.img
-                    - [ ] data/object/ui/selSect/netspeed_test.img
-                    - [ ] data/object/ui/selSect/netspeed_unknown.img
-                    - [ ] data/object/ui/selSect/tab_freedom.img
-                    - [ ] data/object/ui/selSect/tab_greenhand.img
-                    - [ ] data/object/ui/selSect/tab_match.img
-                    - [ ] data/object/ui/selSect/tab_party.img
-                    - [ ] data/object/ui/selSect/tab_practice.img
-                - [ ] data/object/ui/shop
-                    - [ ] data/object/ui/shop/advert.img
-                    - [ ] data/object/ui/shop/breakEgg
-                        - [ ] data/object/ui/shop/breakEgg/btn_close.img
-                        - [ ] data/object/ui/shop/breakEgg/btn_hammerFrame1.img
-                        - [ ] data/object/ui/shop/breakEgg/btn_hammerFrame2.img
-                        - [ ] data/object/ui/shop/breakEgg/btn_hammerFrame3.img
-                        - [ ] data/object/ui/shop/breakEgg/dlg_breakEgg.img
-                        - [ ] data/object/ui/shop/breakEgg/failed.img
-                        - [ ] data/object/ui/shop/breakEgg/success.img
-                        - [ ] data/object/ui/shop/breakEgg/title.img
-                    - [ ] data/object/ui/shop/btn_addQB.img
-                    - [ ] data/object/ui/shop/btn_buy.img
-                    - [ ] data/object/ui/shop/btn_cancelEquip.img
-                    - [ ] data/object/ui/shop/btn_collect.img
-                    - [ ] data/object/ui/shop/btn_depositQB.img
-                    - [ ] data/object/ui/shop/btn_donate.img
-                    - [ ] data/object/ui/shop/btn_forge.img
-                    - [ ] data/object/ui/shop/btn_joinMember.img
-                    - [ ] data/object/ui/shop/btn_recycler.img
-                    - [ ] data/object/ui/shop/btn_repair.img
-                    - [ ] data/object/ui/shop/btn_require.img
-                    - [ ] data/object/ui/shop/btn_resume.img
-                    - [ ] data/object/ui/shop/btn_saveEquip.img
-                    - [ ] data/object/ui/shop/btn_storage.img
-                    - [ ] data/object/ui/shop/charIcon
-                        - [ ] data/object/ui/shop/charIcon/bbl.img
-                        - [ ] data/object/ui/shop/charIcon/BOY.img
-                        - [ ] data/object/ui/shop/charIcon/cl.img
-                        - [ ] data/object/ui/shop/charIcon/ge.img
-                        - [ ] data/object/ui/shop/charIcon/GIRL.img
-                        - [ ] data/object/ui/shop/charIcon/hwz.img
-                        - [ ] data/object/ui/shop/charIcon/hy.img
-                        - [ ] data/object/ui/shop/charIcon/kl.img
-                        - [ ] data/object/ui/shop/charIcon/ld.img
-                        - [ ] data/object/ui/shop/charIcon/mly.img
-                        - [ ] data/object/ui/shop/charIcon/nz.img
-                        - [ ] data/object/ui/shop/charIcon/tb.img
-                        - [ ] data/object/ui/shop/charIcon/tt.img
-                        - [ ] data/object/ui/shop/charIcon/wll.img
-                        - [ ] data/object/ui/shop/charIcon/xq.img
-                        - [ ] data/object/ui/shop/charIcon/xwk.img
-                        - [ ] data/object/ui/shop/charIcon/yd.img
-                        - [ ] data/object/ui/shop/charIcon/yy.img
-                    - [ ] data/object/ui/shop/dlg_buy.img
-                    - [ ] data/object/ui/shop/dlg_donate.img
-                    - [ ] data/object/ui/shop/dlg_luckResult.img
-                    - [ ] data/object/ui/shop/dlg_repair.img
-                    - [ ] data/object/ui/shop/equiped.img
-                    - [ ] data/object/ui/shop/forged.img
-                    - [ ] data/object/ui/shop/img_itemTag.img
-                    - [ ] data/object/ui/shop/img_recycler.img
-                    - [ ] data/object/ui/shop/img_ware.img
-                    - [ ] data/object/ui/shop/img_wareFrame.img
-                    - [ ] data/object/ui/shop/lightIcon
-                        - [ ] data/object/ui/shop/lightIcon/dlg_back.img
-                        - [ ] data/object/ui/shop/lightIcon/dlg_bg.img
-                        - [ ] data/object/ui/shop/lightIcon/dlg_bomb.img
-                        - [ ] data/object/ui/shop/lightIcon/dlg_cap.img
-                        - [ ] data/object/ui/shop/lightIcon/dlg_cloth.img
-                        - [ ] data/object/ui/shop/lightIcon/dlg_face.img
-                        - [ ] data/object/ui/shop/lightIcon/dlg_foot.img
-                        - [ ] data/object/ui/shop/lightIcon/dlg_huanying.img
-                        - [ ] data/object/ui/shop/lightIcon/dlg_namecard.img
-                        - [ ] data/object/ui/shop/lightIcon/dlg_pet.img
-                    - [ ] data/object/ui/shop/luckyStar
-                        - [ ] data/object/ui/shop/luckyStar/btn_startLuck.img
-                        - [ ] data/object/ui/shop/luckyStar/btn_stopLuck.img
-                        - [ ] data/object/ui/shop/luckyStar/frame.img
-                        - [ ] data/object/ui/shop/luckyStar/img_light.img
-                        - [ ] data/object/ui/shop/luckyStar/img_lightback.img
-                        - [ ] data/object/ui/shop/luckyStar/img_luckyStar.img
-                        - [ ] data/object/ui/shop/luckyStar/tip.img
-                        - [ ] data/object/ui/shop/luckyStar/tip_luckyStar.img
-                    - [ ] data/object/ui/shop/rad_QB.img
-                    - [ ] data/object/ui/shop/rad_TangB.img
-                    - [ ] data/object/ui/shop/rolename
-                        - [ ] data/object/ui/shop/rolename/rolename1.img
-                        - [ ] data/object/ui/shop/rolename/rolename13.img
-                        - [ ] data/object/ui/shop/rolename/rolename14.img
-                        - [ ] data/object/ui/shop/rolename/rolename15.img
-                        - [ ] data/object/ui/shop/rolename/rolename16.img
-                        - [ ] data/object/ui/shop/rolename/rolename18.img
-                        - [ ] data/object/ui/shop/rolename/rolename19.img
-                        - [ ] data/object/ui/shop/rolename/rolename2.img
-                        - [ ] data/object/ui/shop/rolename/rolename20.img
-                        - [ ] data/object/ui/shop/rolename/rolename21.img
-                        - [ ] data/object/ui/shop/rolename/rolename22.img
-                        - [ ] data/object/ui/shop/rolename/rolename3.img
-                        - [ ] data/object/ui/shop/rolename/rolename4.img
-                        - [ ] data/object/ui/shop/rolename/rolename5.img
-                        - [ ] data/object/ui/shop/rolename/rolename6.img
-                        - [ ] data/object/ui/shop/rolename/rolename7.img
-                        - [ ] data/object/ui/shop/rolename/rolename8.img
-                        - [ ] data/object/ui/shop/rolename/rolename9.img
-                    - [ ] data/object/ui/shop/secrecyValidate
-                        - [ ] data/object/ui/shop/secrecyValidate/btn_cancel.img
-                        - [ ] data/object/ui/shop/secrecyValidate/btn_forward.img
-                        - [ ] data/object/ui/shop/secrecyValidate/btn_next.img
-                        - [ ] data/object/ui/shop/secrecyValidate/btn_ratio.img
-                        - [ ] data/object/ui/shop/secrecyValidate/dlg_DefaultSecrecyValidate.img
-                        - [ ] data/object/ui/shop/secrecyValidate/txt_long.img
-                        - [ ] data/object/ui/shop/secrecyValidate/txt_small.img
-                    - [ ] data/object/ui/shop/tab_adorn.img
-                    - [ ] data/object/ui/shop/tab_advice.img
-                    - [ ] data/object/ui/shop/tab_char.img
-                    - [ ] data/object/ui/shop/tab_equip.img
-                    - [ ] data/object/ui/shop/tab_func.img
-                    - [ ] data/object/ui/shop/tab_itemAdorn.img
-                    - [ ] data/object/ui/shop/tab_itemChar.img
-                    - [ ] data/object/ui/shop/tab_itemEquip.img
-                    - [ ] data/object/ui/shop/tab_itemFunc.img
-                    - [ ] data/object/ui/shop/tab_itemPet.img
-                    - [ ] data/object/ui/shop/tab_itemZizuan.img
-                    - [ ] data/object/ui/shop/tab_pet.img
-                    - [ ] data/object/ui/shop/tab_sub.img
-                    - [ ] data/object/ui/shop/tab_zizuan.img
-                    - [ ] data/object/ui/shop/ware
-                        - [ ] data/object/ui/shop/ware/originPrice.img
-                        - [ ] data/object/ui/shop/ware/rebatePrice.img
-                    - [ ] data/object/ui/shop/wareAttr
-                        - [ ] data/object/ui/shop/wareAttr/0.img
-                        - [ ] data/object/ui/shop/wareAttr/1.img
-                        - [ ] data/object/ui/shop/wareAttr/2.img
-                        - [ ] data/object/ui/shop/wareAttr/3.img
-                        - [ ] data/object/ui/shop/wareAttr/4.img
-                        - [ ] data/object/ui/shop/wareAttr/5.img
-                        - [ ] data/object/ui/shop/wareAttr/6.img
-                        - [ ] data/object/ui/shop/wareAttr/7.img
-                        - [ ] data/object/ui/shop/wareAttr/8.img
-                        - [ ] data/object/ui/shop/wareAttr/9.img
-                        - [ ] data/object/ui/shop/wareAttr/bg_rebate.img
-                        - [ ] data/object/ui/shop/wareAttr/free.img
-                        - [ ] data/object/ui/shop/wareAttr/hot.img
-                        - [ ] data/object/ui/shop/wareAttr/member.img
-                        - [ ] data/object/ui/shop/wareAttr/memberPic.img
-                        - [ ] data/object/ui/shop/wareAttr/new.img
-                        - [ ] data/object/ui/shop/wareAttr/numberlimited.img
-                        - [ ] data/object/ui/shop/wareAttr/point.img
-                        - [ ] data/object/ui/shop/wareAttr/timelimited.img
-                        - [ ] data/object/ui/shop/wareAttr/zhe.img
-                - [ ] data/object/ui/storage
-                    - [ ] data/object/ui/storage/btn_cleanUp.img
-                    - [ ] data/object/ui/storage/btn_first.img
-                    - [ ] data/object/ui/storage/btn_last.img
-                    - [ ] data/object/ui/storage/btn_left.img
-                    - [ ] data/object/ui/storage/btn_right.img
-                    - [ ] data/object/ui/storage/dlg_roomStorage.img
-                    - [ ] data/object/ui/storage/dlg_shopStorage.img
-                    - [ ] data/object/ui/storage/img_choose.img
-                    - [ ] data/object/ui/storage/img_shield.img
-                - [ ] data/object/ui/task
-                    - [ ] data/object/ui/task/bg_taskLevel1.img
-                    - [ ] data/object/ui/task/bg_taskLevel2.img
-                    - [ ] data/object/ui/task/bg_taskLevel3.img
-                    - [ ] data/object/ui/task/bg_taskLevel4.img
-                    - [ ] data/object/ui/task/bg_taskLevel5.img
-                    - [ ] data/object/ui/task/btn_finishTask.img
-                    - [ ] data/object/ui/task/btn_free.img
-                    - [ ] data/object/ui/task/btn_greenHand.img
-                    - [ ] data/object/ui/task/btn_startTask.img
-                    - [ ] data/object/ui/task/btn_task.img
-                    - [ ] data/object/ui/task/btn_taskName.img
-                    - [ ] data/object/ui/task/dlg_task.img
-                    - [ ] data/object/ui/task/dlg_taskSelect.img
-                - [ ] data/object/ui/web
-                    - [ ] data/object/ui/web/bg_web.img
-                    - [ ] data/object/ui/web/btn_backward.img
-                    - [ ] data/object/ui/web/btn_back_hit.img
-                    - [ ] data/object/ui/web/btn_cross.img
-                    - [ ] data/object/ui/web/btn_forward.img
-                    - [ ] data/object/ui/web/btn_forward_hit.img
-                    - [ ] data/object/ui/web/btn_leave.img
-                    - [ ] data/object/ui/web/btn_return_hit.img
-                    - [ ] data/object/ui/web/frame_webpage_b.img
-                    - [ ] data/object/ui/web/webPannel.img
+                    - [X] data/object/ui/guideBar/btn_dismiss.img
+                    - [X] data/object/ui/guideBar/btn_folderUp.img
+                    - [X] data/object/ui/guideBar/btn_GCS.img
+                    - [X] data/object/ui/guideBar/btn_help.img
+                    - [X] data/object/ui/guideBar/btn_info.img
+                    - [X] data/object/ui/guideBar/btn_issue.img
+                    - [X] data/object/ui/guideBar/btn_member.img
+                    - [X] data/object/ui/guideBar/btn_menu.img
+                    - [X] data/object/ui/guideBar/btn_pet.img
+                    - [X] data/object/ui/guideBar/btn_player.img
+                    - [X] data/object/ui/guideBar/btn_playermenuChoose.img
+                    - [X] data/object/ui/guideBar/btn_quitKin.img
+                    - [X] data/object/ui/guideBar/btn_record.img
+                    - [X] data/object/ui/guideBar/btn_setup.img
+                    - [X] data/object/ui/guideBar/btn_shop.img
+                    - [X] data/object/ui/guideBar/btn_sociality.img
+                    - [X] data/object/ui/guideBar/btn_task.img
+                    - [X] data/object/ui/guideBar/btn_top_kin.img
+                    - [X] data/object/ui/guideBar/btn_trade.img
+                    - [X] data/object/ui/guideBar/btn_web.img
+                    - [X] data/object/ui/guideBar/dlg_kinMember.img
+                    - [X] data/object/ui/guideBar/dlg_kinMgr.img
+                    - [X] data/object/ui/guideBar/dlg_menu.img
+                    - [X] data/object/ui/guideBar/dlg_player.img
+                    - [X] data/object/ui/guideBar/dlg_playermenu.img
+                    - [X] data/object/ui/guideBar/dlg_record.img
+                    - [X] data/object/ui/guideBar/friend
+                        - [X] data/object/ui/guideBar/friend/dlg_addFriends.img
+                        - [X] data/object/ui/guideBar/friend/dlg_beAddedFriends.img
+                    - [X] data/object/ui/guideBar/img_friendMask.img
+                    - [X] data/object/ui/guideBar/img_guide.img
+                    - [X] data/object/ui/guideBar/kin
+                        - [X] data/object/ui/guideBar/kin/arrow_0.img
+                        - [X] data/object/ui/guideBar/kin/arrow_1.img
+                        - [X] data/object/ui/guideBar/kin/arrow_2.img
+                        - [X] data/object/ui/guideBar/kin/bg_kin_menu.img
+                        - [X] data/object/ui/guideBar/kin/btn_activity.img
+                        - [X] data/object/ui/guideBar/kin/btn_honor.img
+                        - [X] data/object/ui/guideBar/kin/btn_netcom.img
+                        - [X] data/object/ui/guideBar/kin/btn_telecom.img
+                        - [X] data/object/ui/guideBar/kin/dlg_createHint.img
+                        - [X] data/object/ui/guideBar/kin/dlg_createKin.img
+                        - [X] data/object/ui/guideBar/kin/dlg_kinInfo.img
+                        - [X] data/object/ui/guideBar/kin/dlg_kinInvite.img
+                        - [X] data/object/ui/guideBar/kin/dlg_topkin.img
+                        - [X] data/object/ui/guideBar/kin/img_activity.img
+                    - [X] data/object/ui/guideBar/player
+                        - [X] data/object/ui/guideBar/player/btn_addFriend.img
+                        - [X] data/object/ui/guideBar/player/btn_deleteFriend.img
+                        - [X] data/object/ui/guideBar/player/btn_lookup.img
+                        - [X] data/object/ui/guideBar/player/btn_lookupkin.img
+                        - [X] data/object/ui/guideBar/player/btn_privateChat.img
+                        - [X] data/object/ui/guideBar/player/btn_spark.img
+                        - [X] data/object/ui/guideBar/player/btn_trace.img
+                        - [X] data/object/ui/guideBar/player/dlg_modeInfo.img
+                        - [X] data/object/ui/guideBar/player/dlg_playerInfo.img
+                        - [X] data/object/ui/guideBar/player/dlg_pveInfo.img
+                        - [X] data/object/ui/guideBar/player/img_bun.img
+                        - [X] data/object/ui/guideBar/player/img_expLine.img
+                        - [X] data/object/ui/guideBar/player/img_expLine2.img
+                        - [X] data/object/ui/guideBar/player/img_mask.img
+                        - [X] data/object/ui/guideBar/player/img_match.img
+                        - [X] data/object/ui/guideBar/player/img_modeExpLine.img
+                        - [X] data/object/ui/guideBar/player/img_sculpture.img
+                        - [X] data/object/ui/guideBar/player/mask_demo.img
+                        - [X] data/object/ui/guideBar/player/tab_modeInfo.img
+                        - [X] data/object/ui/guideBar/player/tab_pveInfo.img
+                        - [X] data/object/ui/guideBar/player/tab_pvpInfo.img
+                    - [X] data/object/ui/guideBar/tab_allKinMember.img
+                    - [X] data/object/ui/guideBar/tab_kin.img
+                    - [X] data/object/ui/guideBar/tab_kinMatch.img
+                    - [X] data/object/ui/guideBar/tab_kinMember.img
+                    - [X] data/object/ui/guideBar/tab_kinMgr.img
+                    - [X] data/object/ui/guideBar/tab_team.img
+                    - [X] data/object/ui/guideBar/tip_enterShop.img
+                - [X] data/object/ui/kinTotem
+                    - [X] data/object/ui/kinTotem/000.img
+                    - [X] data/object/ui/kinTotem/001.img
+                    - [X] data/object/ui/kinTotem/002.img
+                    - [X] data/object/ui/kinTotem/003.img
+                    - [X] data/object/ui/kinTotem/004.img
+                    - [X] data/object/ui/kinTotem/005.img
+                    - [X] data/object/ui/kinTotem/006.img
+                    - [X] data/object/ui/kinTotem/007.img
+                    - [X] data/object/ui/kinTotem/008.img
+                    - [X] data/object/ui/kinTotem/009.img
+                    - [X] data/object/ui/kinTotem/010.img
+                    - [X] data/object/ui/kinTotem/011.img
+                    - [X] data/object/ui/kinTotem/012.img
+                    - [X] data/object/ui/kinTotem/013.img
+                    - [X] data/object/ui/kinTotem/014.img
+                    - [X] data/object/ui/kinTotem/015.img
+                    - [X] data/object/ui/kinTotem/016.img
+                    - [X] data/object/ui/kinTotem/017.img
+                    - [X] data/object/ui/kinTotem/018.img
+                    - [X] data/object/ui/kinTotem/019.img
+                    - [X] data/object/ui/kinTotem/020.img
+                    - [X] data/object/ui/kinTotem/021.img
+                    - [X] data/object/ui/kinTotem/022.img
+                    - [X] data/object/ui/kinTotem/023.img
+                    - [X] data/object/ui/kinTotem/024.img
+                    - [X] data/object/ui/kinTotem/025.img
+                    - [X] data/object/ui/kinTotem/026.img
+                    - [X] data/object/ui/kinTotem/027.img
+                    - [X] data/object/ui/kinTotem/028.img
+                    - [X] data/object/ui/kinTotem/029.img
+                    - [X] data/object/ui/kinTotem/030.img
+                    - [X] data/object/ui/kinTotem/031.img
+                    - [X] data/object/ui/kinTotem/032.img
+                    - [X] data/object/ui/kinTotem/033.img
+                    - [X] data/object/ui/kinTotem/034.img
+                    - [X] data/object/ui/kinTotem/035.img
+                    - [X] data/object/ui/kinTotem/036.img
+                    - [X] data/object/ui/kinTotem/037.img
+                    - [X] data/object/ui/kinTotem/038.img
+                    - [X] data/object/ui/kinTotem/039.img
+                    - [X] data/object/ui/kinTotem/040.img
+                    - [X] data/object/ui/kinTotem/041.img
+                    - [X] data/object/ui/kinTotem/042.img
+                    - [X] data/object/ui/kinTotem/043.img
+                    - [X] data/object/ui/kinTotem/044.img
+                    - [X] data/object/ui/kinTotem/045.img
+                    - [X] data/object/ui/kinTotem/046.img
+                    - [X] data/object/ui/kinTotem/047.img
+                    - [X] data/object/ui/kinTotem/048.img
+                - [X] data/object/ui/level
+                    - [X] data/object/ui/level/medal
+                        - [X] data/object/ui/level/medal/001.img
+                        - [X] data/object/ui/level/medal/002.img
+                        - [X] data/object/ui/level/medal/003.img
+                        - [X] data/object/ui/level/medal/004.img
+                        - [X] data/object/ui/level/medal/005.img
+                        - [X] data/object/ui/level/medal/006.img
+                        - [X] data/object/ui/level/medal/007.img
+                        - [X] data/object/ui/level/medal/008.img
+                        - [X] data/object/ui/level/medal/009.img
+                        - [X] data/object/ui/level/medal/010.img
+                        - [X] data/object/ui/level/medal/011.img
+                        - [X] data/object/ui/level/medal/012.img
+                        - [X] data/object/ui/level/medal/013.img
+                        - [X] data/object/ui/level/medal/014.img
+                        - [X] data/object/ui/level/medal/015.img
+                        - [X] data/object/ui/level/medal/016.img
+                        - [X] data/object/ui/level/medal/017.img
+                        - [X] data/object/ui/level/medal/018.img
+                        - [X] data/object/ui/level/medal/019.img
+                        - [X] data/object/ui/level/medal/020.img
+                        - [X] data/object/ui/level/medal/021.img
+                        - [X] data/object/ui/level/medal/022.img
+                        - [X] data/object/ui/level/medal/023.img
+                        - [X] data/object/ui/level/medal/024.img
+                        - [X] data/object/ui/level/medal/025.img
+                        - [X] data/object/ui/level/medal/026.img
+                        - [X] data/object/ui/level/medal/027.img
+                        - [X] data/object/ui/level/medal/028.img
+                        - [X] data/object/ui/level/medal/029.img
+                        - [X] data/object/ui/level/medal/030.img
+                    - [X] data/object/ui/level/tie
+                        - [X] data/object/ui/level/tie/a01.img
+                        - [X] data/object/ui/level/tie/a02.img
+                        - [X] data/object/ui/level/tie/a03.img
+                        - [X] data/object/ui/level/tie/a04.img
+                        - [X] data/object/ui/level/tie/a05.img
+                        - [X] data/object/ui/level/tie/a06.img
+                        - [X] data/object/ui/level/tie/b01.img
+                        - [X] data/object/ui/level/tie/b02.img
+                        - [X] data/object/ui/level/tie/b03.img
+                        - [X] data/object/ui/level/tie/b04.img
+                        - [X] data/object/ui/level/tie/b05.img
+                        - [X] data/object/ui/level/tie/b06.img
+                        - [X] data/object/ui/level/tie/c01.img
+                        - [X] data/object/ui/level/tie/c02.img
+                        - [X] data/object/ui/level/tie/c03.img
+                        - [X] data/object/ui/level/tie/c04.img
+                        - [X] data/object/ui/level/tie/c05.img
+                        - [X] data/object/ui/level/tie/c06.img
+                        - [X] data/object/ui/level/tie/d01.img
+                        - [X] data/object/ui/level/tie/d02.img
+                        - [X] data/object/ui/level/tie/d03.img
+                        - [X] data/object/ui/level/tie/d04.img
+                        - [X] data/object/ui/level/tie/d05.img
+                        - [X] data/object/ui/level/tie/d06.img
+                        - [X] data/object/ui/level/tie/e01.img
+                        - [X] data/object/ui/level/tie/e02.img
+                        - [X] data/object/ui/level/tie/e03.img
+                        - [X] data/object/ui/level/tie/e04.img
+                        - [X] data/object/ui/level/tie/e05.img
+                        - [X] data/object/ui/level/tie/e06.img
+                        - [X] data/object/ui/level/tie/f01.img
+                        - [X] data/object/ui/level/tie/f02.img
+                        - [X] data/object/ui/level/tie/f03.img
+                        - [X] data/object/ui/level/tie/f04.img
+                        - [X] data/object/ui/level/tie/f05.img
+                        - [X] data/object/ui/level/tie/f06.img
+                        - [X] data/object/ui/level/tie/t01.img
+                        - [X] data/object/ui/level/tie/t02.img
+                        - [X] data/object/ui/level/tie/t03.img
+                        - [X] data/object/ui/level/tie/t04.img
+                        - [X] data/object/ui/level/tie/t05.img
+                        - [X] data/object/ui/level/tie/t06.img
+                - [X] data/object/ui/login
+                    - [X] data/object/ui/login/btn_help.img
+                    - [X] data/object/ui/login/btn_login.img
+                    - [X] data/object/ui/login/btn_nextpic.img
+                    - [X] data/object/ui/login/btn_playAnim.img
+                    - [X] data/object/ui/login/btn_quit.img
+                    - [X] data/object/ui/login/btn_vnetLogin.img
+                    - [X] data/object/ui/login/dlg_login.img
+                    - [X] data/object/ui/login/dlg_verify.img
+                    - [X] data/object/ui/login/dlg_vnetLogin.img
+                    - [X] data/object/ui/login/dlg_wait.img
+                    - [X] data/object/ui/login/img_lago.img
+                    - [X] data/object/ui/login/img_link.img
+                - [X] data/object/ui/map
+                    - [X] data/object/ui/map/midIcon
+                        - [X] data/object/ui/map/midIcon/all.img
+                        - [X] data/object/ui/map/midIcon/bomb.img
+                        - [X] data/object/ui/map/midIcon/box.img
+                        - [X] data/object/ui/map/midIcon/bun.img
+                        - [X] data/object/ui/map/midIcon/desert.img
+                        - [X] data/object/ui/map/midIcon/field.img
+                        - [X] data/object/ui/map/midIcon/match.img
+                        - [X] data/object/ui/map/midIcon/mine.img
+                        - [X] data/object/ui/map/midIcon/normal.img
+                        - [X] data/object/ui/map/midIcon/pig.img
+                        - [X] data/object/ui/map/midIcon/rand.img
+                        - [X] data/object/ui/map/midIcon/sculpture.img
+                        - [X] data/object/ui/map/midIcon/snow.img
+                        - [X] data/object/ui/map/midIcon/tank.img
+                        - [X] data/object/ui/map/midIcon/town.img
+                        - [X] data/object/ui/map/midIcon/treasure.img
+                        - [X] data/object/ui/map/midIcon/water.img
+                - [X] data/object/ui/marriage
+                    - [X] data/object/ui/marriage/bg
+                        - [X] data/object/ui/marriage/bg/dlg_chinaBG.img
+                        - [X] data/object/ui/marriage/bg/dlg_chinaIcon.img
+                        - [X] data/object/ui/marriage/bg/dlg_westBG.img
+                        - [X] data/object/ui/marriage/bg/dlg_westIcon.img
+                    - [X] data/object/ui/marriage/btn_close.img
+                    - [X] data/object/ui/marriage/btn_divorce.img
+                    - [X] data/object/ui/marriage/btn_divorceCancel.img
+                    - [X] data/object/ui/marriage/btn_divorceConfirm.img
+                    - [X] data/object/ui/marriage/btn_Iaccept.img
+                    - [X] data/object/ui/marriage/btn_Ireject.img
+                    - [X] data/object/ui/marriage/btn_left.img
+                    - [X] data/object/ui/marriage/btn_lookup.img
+                    - [X] data/object/ui/marriage/btn_modify.img
+                    - [X] data/object/ui/marriage/btn_noRing.img
+                    - [X] data/object/ui/marriage/btn_right.img
+                    - [X] data/object/ui/marriage/btn_save.img
+                    - [X] data/object/ui/marriage/btn_spark.img
+                    - [X] data/object/ui/marriage/btn_sparkCancel.img
+                    - [X] data/object/ui/marriage/btn_sparkSend.img
+                    - [X] data/object/ui/marriage/btn_startWedding.img
+                    - [X] data/object/ui/marriage/dlg_closeLine.img
+                    - [X] data/object/ui/marriage/dlg_closeLineValue.img
+                    - [X] data/object/ui/marriage/dlg_divorce.img
+                    - [X] data/object/ui/marriage/dlg_loveWord.img
+                    - [X] data/object/ui/marriage/dlg_marriageConfirmChina.img
+                    - [X] data/object/ui/marriage/dlg_marriageConfirmWest.img
+                    - [X] data/object/ui/marriage/dlg_marriageInfo.img
+                    - [X] data/object/ui/marriage/dlg_priestChat.img
+                    - [X] data/object/ui/marriage/dlg_receiveSpark.img
+                    - [X] data/object/ui/marriage/dlg_setMarriage.img
+                    - [X] data/object/ui/marriage/dlg_spark.img
+                    - [X] data/object/ui/marriage/dlg_weddingSuccess.img
+                    - [X] data/object/ui/marriage/marriageLevel
+                        - [X] data/object/ui/marriage/marriageLevel/dlg_coronet.img
+                        - [X] data/object/ui/marriage/marriageLevel/dlg_diamond.img
+                        - [X] data/object/ui/marriage/marriageLevel/dlg_heart.img
+                    - [X] data/object/ui/marriage/priest
+                        - [X] data/object/ui/marriage/priest/dlg_chinaPriest.img
+                        - [X] data/object/ui/marriage/priest/dlg_chinaPriestS.img
+                        - [X] data/object/ui/marriage/priest/dlg_westPriest.img
+                        - [X] data/object/ui/marriage/priest/dlg_westPriestS.img
+                    - [X] data/object/ui/marriage/ring
+                        - [X] data/object/ui/marriage/ring/ring9021.img
+                        - [X] data/object/ui/marriage/ring/ring9022.img
+                        - [X] data/object/ui/marriage/ring/ring9023.img
+                        - [X] data/object/ui/marriage/ring/ring9024.img
+                        - [X] data/object/ui/marriage/ring/ring9025.img
+                        - [X] data/object/ui/marriage/ring/ring9026.img
+                - [X] data/object/ui/pet
+                    - [X] data/object/ui/pet/btn_adopt.img
+                    - [X] data/object/ui/pet/btn_change_name.img
+                    - [X] data/object/ui/pet/btn_first_page.img
+                    - [X] data/object/ui/pet/btn_free.img
+                    - [X] data/object/ui/pet/btn_last_page.img
+                    - [X] data/object/ui/pet/btn_next_page.img
+                    - [X] data/object/ui/pet/btn_pre_page.img
+                    - [X] data/object/ui/pet/btn_raise.img
+                    - [X] data/object/ui/pet/btn_raise1.img
+                    - [X] data/object/ui/pet/btn_skill.img
+                    - [X] data/object/ui/pet/btn_skill1.img
+                    - [X] data/object/ui/pet/btn_stop_take.img
+                    - [X] data/object/ui/pet/btn_take.img
+                    - [X] data/object/ui/pet/dlg_baseskill.img
+                    - [X] data/object/ui/pet/dlg_food.img
+                    - [X] data/object/ui/pet/dlg_pet.img
+                    - [X] data/object/ui/pet/dlg_skill.img
+                    - [X] data/object/ui/pet/face0.img
+                    - [X] data/object/ui/pet/face1.img
+                    - [X] data/object/ui/pet/face2.img
+                    - [X] data/object/ui/pet/face3.img
+                    - [X] data/object/ui/pet/face4.img
+                    - [X] data/object/ui/pet/img_exp.img
+                - [X] data/object/ui/record
+                    - [X] data/object/ui/record/icon_file.img
+                    - [X] data/object/ui/record/icon_folder.img
+                - [X] data/object/ui/room
+                    - [X] data/object/ui/room/btn_check.img
+                    - [X] data/object/ui/room/btn_equipItem.img
+                    - [X] data/object/ui/room/btn_leftRole.img
+                    - [X] data/object/ui/room/btn_map.img
+                    - [X] data/object/ui/room/btn_playerDown.img
+                    - [X] data/object/ui/room/btn_playerUp.img
+                    - [X] data/object/ui/room/btn_ready.img
+                    - [X] data/object/ui/room/btn_rightRole.img
+                    - [X] data/object/ui/room/btn_roomProp.img
+                    - [X] data/object/ui/room/btn_selMap.img
+                    - [X] data/object/ui/room/btn_selMode.img
+                    - [X] data/object/ui/room/btn_start.img
+                    - [X] data/object/ui/room/btn_storage.img
+                    - [X] data/object/ui/room/btn_unready.img
+                    - [X] data/object/ui/room/char
+                        - [X] data/object/ui/room/char/bbl.img
+                        - [X] data/object/ui/room/char/boy.img
+                        - [X] data/object/ui/room/char/cl.img
+                        - [X] data/object/ui/room/char/dlg_roleAttr.img
+                        - [X] data/object/ui/room/char/ge.img
+                        - [X] data/object/ui/room/char/girl.img
+                        - [X] data/object/ui/room/char/hwz.img
+                        - [X] data/object/ui/room/char/hy.img
+                        - [X] data/object/ui/room/char/icon_117.img
+                        - [X] data/object/ui/room/char/icon_118.img
+                        - [X] data/object/ui/room/char/icon_119.img
+                        - [X] data/object/ui/room/char/icon_124.img
+                        - [X] data/object/ui/room/char/icon_125.img
+                        - [X] data/object/ui/room/char/icon_67.img
+                        - [X] data/object/ui/room/char/icon_69.img
+                        - [X] data/object/ui/room/char/icon_72.img
+                        - [X] data/object/ui/room/char/icon_73.img
+                        - [X] data/object/ui/room/char/icon_75.img
+                        - [X] data/object/ui/room/char/icon_77.img
+                        - [X] data/object/ui/room/char/icon_78.img
+                        - [X] data/object/ui/room/char/icon_79.img
+                        - [X] data/object/ui/room/char/icon_81.img
+                        - [X] data/object/ui/room/char/icon_85.img
+                        - [X] data/object/ui/room/char/icon_bbl.img
+                        - [X] data/object/ui/room/char/icon_boy.img
+                        - [X] data/object/ui/room/char/icon_cbz.img
+                        - [X] data/object/ui/room/char/icon_cl.img
+                        - [X] data/object/ui/room/char/icon_ge.img
+                        - [X] data/object/ui/room/char/icon_girl.img
+                        - [X] data/object/ui/room/char/icon_hwz.img
+                        - [X] data/object/ui/room/char/icon_hy.img
+                        - [X] data/object/ui/room/char/icon_kl.img
+                        - [X] data/object/ui/room/char/icon_ld.img
+                        - [X] data/object/ui/room/char/icon_mly.img
+                        - [X] data/object/ui/room/char/icon_nz.img
+                        - [X] data/object/ui/room/char/icon_random.img
+                        - [X] data/object/ui/room/char/icon_tb.img
+                        - [X] data/object/ui/room/char/icon_tt.img
+                        - [X] data/object/ui/room/char/icon_wll.img
+                        - [X] data/object/ui/room/char/icon_xq.img
+                        - [X] data/object/ui/room/char/icon_xwk.img
+                        - [X] data/object/ui/room/char/icon_xxm.img
+                        - [X] data/object/ui/room/char/icon_xz.img
+                        - [X] data/object/ui/room/char/icon_yd.img
+                        - [X] data/object/ui/room/char/icon_yy.img
+                        - [X] data/object/ui/room/char/icon_zjl.img
+                        - [X] data/object/ui/room/char/img_roleBomb.img
+                        - [X] data/object/ui/room/char/img_rolePower.img
+                        - [X] data/object/ui/room/char/img_roleSpeed.img
+                        - [X] data/object/ui/room/char/kl.img
+                        - [X] data/object/ui/room/char/ld.img
+                        - [X] data/object/ui/room/char/mly.img
+                        - [X] data/object/ui/room/char/name_bbl.img
+                        - [X] data/object/ui/room/char/name_boy.img
+                        - [X] data/object/ui/room/char/name_cl.img
+                        - [X] data/object/ui/room/char/name_ge.img
+                        - [X] data/object/ui/room/char/name_girl.img
+                        - [X] data/object/ui/room/char/name_hwz.img
+                        - [X] data/object/ui/room/char/name_hy.img
+                        - [X] data/object/ui/room/char/name_kl.img
+                        - [X] data/object/ui/room/char/name_ld.img
+                        - [X] data/object/ui/room/char/name_mly.img
+                        - [X] data/object/ui/room/char/name_nz.img
+                        - [X] data/object/ui/room/char/name_tb.img
+                        - [X] data/object/ui/room/char/name_tt.img
+                        - [X] data/object/ui/room/char/name_wll.img
+                        - [X] data/object/ui/room/char/name_xq.img
+                        - [X] data/object/ui/room/char/name_xwk.img
+                        - [X] data/object/ui/room/char/name_yd.img
+                        - [X] data/object/ui/room/char/name_yy.img
+                        - [X] data/object/ui/room/char/nz.img
+                        - [X] data/object/ui/room/char/tb.img
+                        - [X] data/object/ui/room/char/tt.img
+                        - [X] data/object/ui/room/char/wll.img
+                        - [X] data/object/ui/room/char/xq.img
+                        - [X] data/object/ui/room/char/xwk.img
+                        - [X] data/object/ui/room/char/yd.img
+                        - [X] data/object/ui/room/char/yy.img
+                    - [X] data/object/ui/room/dlg_chatPanelbig.img
+                    - [X] data/object/ui/room/dlg_chatPanelsmall.img
+                    - [X] data/object/ui/room/dlg_helpKB.img
+                    - [X] data/object/ui/room/dlg_matchroom.img
+                    - [X] data/object/ui/room/dlg_roleProp.img
+                    - [X] data/object/ui/room/dlg_roomProp.img
+                    - [X] data/object/ui/room/dlg_selMap.img
+                    - [X] data/object/ui/room/dlg_selMode.img
+                    - [X] data/object/ui/room/equipTip.img
+                    - [X] data/object/ui/room/img_master.img
+                    - [X] data/object/ui/room/img_popo.img
+                    - [X] data/object/ui/room/img_ready.img
+                    - [X] data/object/ui/room/img_roomStop.img
+                    - [X] data/object/ui/room/leftTip.img
+                    - [X] data/object/ui/room/map
+                        - [X] data/object/ui/room/map/btn_bomb.img
+                        - [X] data/object/ui/room/map/btn_box.img
+                        - [X] data/object/ui/room/map/btn_bun.img
+                        - [X] data/object/ui/room/map/btn_desert.img
+                        - [X] data/object/ui/room/map/btn_field.img
+                        - [X] data/object/ui/room/map/btn_machine.img
+                        - [X] data/object/ui/room/map/btn_match.img
+                        - [X] data/object/ui/room/map/btn_mine.img
+                        - [X] data/object/ui/room/map/btn_pig.img
+                        - [X] data/object/ui/room/map/btn_pve.img
+                        - [X] data/object/ui/room/map/btn_rand.img
+                        - [X] data/object/ui/room/map/btn_sculpture.img
+                        - [X] data/object/ui/room/map/btn_snow.img
+                        - [X] data/object/ui/room/map/btn_tank.img
+                        - [X] data/object/ui/room/map/btn_town.img
+                        - [X] data/object/ui/room/map/btn_treasure.img
+                        - [X] data/object/ui/room/map/btn_water.img
+                    - [X] data/object/ui/room/mask_equip.img
+                    - [X] data/object/ui/room/mask_speaker.img
+                    - [X] data/object/ui/room/rightTip.img
+                    - [X] data/object/ui/room/scl_block.img
+                    - [X] data/object/ui/room/tab_integration.img
+                    - [X] data/object/ui/room/tab_kin.img
+                    - [X] data/object/ui/room/tab_normalChar.img
+                    - [X] data/object/ui/room/tab_vipChar.img
+                    - [X] data/object/ui/room/tab_whisper.img
+                    - [X] data/object/ui/room/teamColorStrip.img
+                - [X] data/object/ui/selRoom
+                    - [X] data/object/ui/selRoom/btn_commandPrompt.img
+                    - [X] data/object/ui/selRoom/btn_createRoom.img
+                    - [X] data/object/ui/selRoom/btn_flexDown.img
+                    - [X] data/object/ui/selRoom/btn_flexUp.img
+                    - [X] data/object/ui/selRoom/btn_left.img
+                    - [X] data/object/ui/selRoom/btn_mapFilter.img
+                    - [X] data/object/ui/selRoom/btn_match.img
+                    - [X] data/object/ui/selRoom/btn_message.img
+                    - [X] data/object/ui/selRoom/btn_right.img
+                    - [X] data/object/ui/selRoom/btn_shop.img
+                    - [X] data/object/ui/selRoom/dlg_chatMax.img
+                    - [X] data/object/ui/selRoom/dlg_chatMin.img
+                    - [X] data/object/ui/selRoom/dlg_chatNormal.img
+                    - [X] data/object/ui/selRoom/dlg_pwRoom.img
+                    - [X] data/object/ui/selRoom/dlg_room.img
+                    - [X] data/object/ui/selRoom/icon_vip.img
+                    - [X] data/object/ui/selRoom/img_popo.img
+                    - [X] data/object/ui/selRoom/map
+                        - [X] data/object/ui/selRoom/map/dlg_mapFilter.img
+                    - [X] data/object/ui/selRoom/mask_speaker.img
+                    - [X] data/object/ui/selRoom/num.img
+                    - [X] data/object/ui/selRoom/tab_allKinMember.img
+                    - [X] data/object/ui/selRoom/tab_chat.img
+                    - [X] data/object/ui/selRoom/tab_compete.img
+                    - [X] data/object/ui/selRoom/tab_explore.img
+                    - [X] data/object/ui/selRoom/tab_friend.img
+                    - [X] data/object/ui/selRoom/tab_honor.img
+                    - [X] data/object/ui/selRoom/tab_item.img
+                    - [X] data/object/ui/selRoom/tab_noItem.img
+                    - [X] data/object/ui/selRoom/tab_player.img
+                    - [X] data/object/ui/selRoom/tip_enterShop.img
+                    - [X] data/object/ui/selRoom/tip_GuideMidRight.img
+                    - [X] data/object/ui/selRoom/tip_GuideMidUnder.img
+                    - [X] data/object/ui/selRoom/tip_GuideMidUpper.img
+                - [X] data/object/ui/selSect
+                    - [X] data/object/ui/selSect/btn_choose.img
+                    - [X] data/object/ui/selSect/btn_practice.img
+                    - [X] data/object/ui/selSect/btn_quickJoin.img
+                    - [X] data/object/ui/selSect/btn_selZone.img
+                    - [X] data/object/ui/selSect/btn_sysSetup.img
+                    - [X] data/object/ui/selSect/dlg_selServer.img
+                    - [X] data/object/ui/selSect/img_sect.img
+                    - [X] data/object/ui/selSect/img_state.img
+                    - [X] data/object/ui/selSect/netspeed_fast.img
+                    - [X] data/object/ui/selSect/netspeed_mid.img
+                    - [X] data/object/ui/selSect/netspeed_slow.img
+                    - [X] data/object/ui/selSect/netspeed_test.img
+                    - [X] data/object/ui/selSect/netspeed_unknown.img
+                    - [X] data/object/ui/selSect/tab_freedom.img
+                    - [X] data/object/ui/selSect/tab_greenhand.img
+                    - [X] data/object/ui/selSect/tab_match.img
+                    - [X] data/object/ui/selSect/tab_party.img
+                    - [X] data/object/ui/selSect/tab_practice.img
+                - [X] data/object/ui/shop
+                    - [X] data/object/ui/shop/advert.img
+                    - [X] data/object/ui/shop/breakEgg
+                        - [X] data/object/ui/shop/breakEgg/btn_close.img
+                        - [X] data/object/ui/shop/breakEgg/btn_hammerFrame1.img
+                        - [X] data/object/ui/shop/breakEgg/btn_hammerFrame2.img
+                        - [X] data/object/ui/shop/breakEgg/btn_hammerFrame3.img
+                        - [X] data/object/ui/shop/breakEgg/dlg_breakEgg.img
+                        - [X] data/object/ui/shop/breakEgg/failed.img
+                        - [X] data/object/ui/shop/breakEgg/success.img
+                        - [X] data/object/ui/shop/breakEgg/title.img
+                    - [X] data/object/ui/shop/btn_addQB.img
+                    - [X] data/object/ui/shop/btn_buy.img
+                    - [X] data/object/ui/shop/btn_cancelEquip.img
+                    - [X] data/object/ui/shop/btn_collect.img
+                    - [X] data/object/ui/shop/btn_depositQB.img
+                    - [X] data/object/ui/shop/btn_donate.img
+                    - [X] data/object/ui/shop/btn_forge.img
+                    - [X] data/object/ui/shop/btn_joinMember.img
+                    - [X] data/object/ui/shop/btn_recycler.img
+                    - [X] data/object/ui/shop/btn_repair.img
+                    - [X] data/object/ui/shop/btn_require.img
+                    - [X] data/object/ui/shop/btn_resume.img
+                    - [X] data/object/ui/shop/btn_saveEquip.img
+                    - [X] data/object/ui/shop/btn_storage.img
+                    - [X] data/object/ui/shop/charIcon
+                        - [X] data/object/ui/shop/charIcon/bbl.img
+                        - [X] data/object/ui/shop/charIcon/BOY.img
+                        - [X] data/object/ui/shop/charIcon/cl.img
+                        - [X] data/object/ui/shop/charIcon/ge.img
+                        - [X] data/object/ui/shop/charIcon/GIRL.img
+                        - [X] data/object/ui/shop/charIcon/hwz.img
+                        - [X] data/object/ui/shop/charIcon/hy.img
+                        - [X] data/object/ui/shop/charIcon/kl.img
+                        - [X] data/object/ui/shop/charIcon/ld.img
+                        - [X] data/object/ui/shop/charIcon/mly.img
+                        - [X] data/object/ui/shop/charIcon/nz.img
+                        - [X] data/object/ui/shop/charIcon/tb.img
+                        - [X] data/object/ui/shop/charIcon/tt.img
+                        - [X] data/object/ui/shop/charIcon/wll.img
+                        - [X] data/object/ui/shop/charIcon/xq.img
+                        - [X] data/object/ui/shop/charIcon/xwk.img
+                        - [X] data/object/ui/shop/charIcon/yd.img
+                        - [X] data/object/ui/shop/charIcon/yy.img
+                    - [X] data/object/ui/shop/dlg_buy.img
+                    - [X] data/object/ui/shop/dlg_donate.img
+                    - [X] data/object/ui/shop/dlg_luckResult.img
+                    - [X] data/object/ui/shop/dlg_repair.img
+                    - [X] data/object/ui/shop/equiped.img
+                    - [X] data/object/ui/shop/forged.img
+                    - [X] data/object/ui/shop/img_itemTag.img
+                    - [X] data/object/ui/shop/img_recycler.img
+                    - [X] data/object/ui/shop/img_ware.img
+                    - [X] data/object/ui/shop/img_wareFrame.img
+                    - [X] data/object/ui/shop/lightIcon
+                        - [X] data/object/ui/shop/lightIcon/dlg_back.img
+                        - [X] data/object/ui/shop/lightIcon/dlg_bg.img
+                        - [X] data/object/ui/shop/lightIcon/dlg_bomb.img
+                        - [X] data/object/ui/shop/lightIcon/dlg_cap.img
+                        - [X] data/object/ui/shop/lightIcon/dlg_cloth.img
+                        - [X] data/object/ui/shop/lightIcon/dlg_face.img
+                        - [X] data/object/ui/shop/lightIcon/dlg_foot.img
+                        - [X] data/object/ui/shop/lightIcon/dlg_huanying.img
+                        - [X] data/object/ui/shop/lightIcon/dlg_namecard.img
+                        - [X] data/object/ui/shop/lightIcon/dlg_pet.img
+                    - [X] data/object/ui/shop/luckyStar
+                        - [X] data/object/ui/shop/luckyStar/btn_startLuck.img
+                        - [X] data/object/ui/shop/luckyStar/btn_stopLuck.img
+                        - [X] data/object/ui/shop/luckyStar/frame.img
+                        - [X] data/object/ui/shop/luckyStar/img_light.img
+                        - [X] data/object/ui/shop/luckyStar/img_lightback.img
+                        - [X] data/object/ui/shop/luckyStar/img_luckyStar.img
+                        - [X] data/object/ui/shop/luckyStar/tip.img
+                        - [X] data/object/ui/shop/luckyStar/tip_luckyStar.img
+                    - [X] data/object/ui/shop/rad_QB.img
+                    - [X] data/object/ui/shop/rad_TangB.img
+                    - [X] data/object/ui/shop/rolename
+                        - [X] data/object/ui/shop/rolename/rolename1.img
+                        - [X] data/object/ui/shop/rolename/rolename13.img
+                        - [X] data/object/ui/shop/rolename/rolename14.img
+                        - [X] data/object/ui/shop/rolename/rolename15.img
+                        - [X] data/object/ui/shop/rolename/rolename16.img
+                        - [X] data/object/ui/shop/rolename/rolename18.img
+                        - [X] data/object/ui/shop/rolename/rolename19.img
+                        - [X] data/object/ui/shop/rolename/rolename2.img
+                        - [X] data/object/ui/shop/rolename/rolename20.img
+                        - [X] data/object/ui/shop/rolename/rolename21.img
+                        - [X] data/object/ui/shop/rolename/rolename22.img
+                        - [X] data/object/ui/shop/rolename/rolename3.img
+                        - [X] data/object/ui/shop/rolename/rolename4.img
+                        - [X] data/object/ui/shop/rolename/rolename5.img
+                        - [X] data/object/ui/shop/rolename/rolename6.img
+                        - [X] data/object/ui/shop/rolename/rolename7.img
+                        - [X] data/object/ui/shop/rolename/rolename8.img
+                        - [X] data/object/ui/shop/rolename/rolename9.img
+                    - [X] data/object/ui/shop/secrecyValidate
+                        - [X] data/object/ui/shop/secrecyValidate/btn_cancel.img
+                        - [X] data/object/ui/shop/secrecyValidate/btn_forward.img
+                        - [X] data/object/ui/shop/secrecyValidate/btn_next.img
+                        - [X] data/object/ui/shop/secrecyValidate/btn_ratio.img
+                        - [X] data/object/ui/shop/secrecyValidate/dlg_DefaultSecrecyValidate.img
+                        - [X] data/object/ui/shop/secrecyValidate/txt_long.img
+                        - [X] data/object/ui/shop/secrecyValidate/txt_small.img
+                    - [X] data/object/ui/shop/tab_adorn.img
+                    - [X] data/object/ui/shop/tab_advice.img
+                    - [X] data/object/ui/shop/tab_char.img
+                    - [X] data/object/ui/shop/tab_equip.img
+                    - [X] data/object/ui/shop/tab_func.img
+                    - [X] data/object/ui/shop/tab_itemAdorn.img
+                    - [X] data/object/ui/shop/tab_itemChar.img
+                    - [X] data/object/ui/shop/tab_itemEquip.img
+                    - [X] data/object/ui/shop/tab_itemFunc.img
+                    - [X] data/object/ui/shop/tab_itemPet.img
+                    - [X] data/object/ui/shop/tab_itemZizuan.img
+                    - [X] data/object/ui/shop/tab_pet.img
+                    - [X] data/object/ui/shop/tab_sub.img
+                    - [X] data/object/ui/shop/tab_zizuan.img
+                    - [X] data/object/ui/shop/ware
+                        - [X] data/object/ui/shop/ware/originPrice.img
+                        - [X] data/object/ui/shop/ware/rebatePrice.img
+                    - [X] data/object/ui/shop/wareAttr
+                        - [X] data/object/ui/shop/wareAttr/0.img
+                        - [X] data/object/ui/shop/wareAttr/1.img
+                        - [X] data/object/ui/shop/wareAttr/2.img
+                        - [X] data/object/ui/shop/wareAttr/3.img
+                        - [X] data/object/ui/shop/wareAttr/4.img
+                        - [X] data/object/ui/shop/wareAttr/5.img
+                        - [X] data/object/ui/shop/wareAttr/6.img
+                        - [X] data/object/ui/shop/wareAttr/7.img
+                        - [X] data/object/ui/shop/wareAttr/8.img
+                        - [X] data/object/ui/shop/wareAttr/9.img
+                        - [X] data/object/ui/shop/wareAttr/bg_rebate.img
+                        - [X] data/object/ui/shop/wareAttr/free.img
+                        - [X] data/object/ui/shop/wareAttr/hot.img
+                        - [X] data/object/ui/shop/wareAttr/member.img
+                        - [X] data/object/ui/shop/wareAttr/memberPic.img
+                        - [X] data/object/ui/shop/wareAttr/new.img
+                        - [X] data/object/ui/shop/wareAttr/numberlimited.img
+                        - [X] data/object/ui/shop/wareAttr/point.img
+                        - [X] data/object/ui/shop/wareAttr/timelimited.img
+                        - [X] data/object/ui/shop/wareAttr/zhe.img
+                - [X] data/object/ui/storage
+                    - [X] data/object/ui/storage/btn_cleanUp.img
+                    - [X] data/object/ui/storage/btn_first.img
+                    - [X] data/object/ui/storage/btn_last.img
+                    - [X] data/object/ui/storage/btn_left.img
+                    - [X] data/object/ui/storage/btn_right.img
+                    - [X] data/object/ui/storage/dlg_roomStorage.img
+                    - [X] data/object/ui/storage/dlg_shopStorage.img
+                    - [X] data/object/ui/storage/img_choose.img
+                    - [X] data/object/ui/storage/img_shield.img
+                - [X] data/object/ui/task
+                    - [X] data/object/ui/task/bg_taskLevel1.img
+                    - [X] data/object/ui/task/bg_taskLevel2.img
+                    - [X] data/object/ui/task/bg_taskLevel3.img
+                    - [X] data/object/ui/task/bg_taskLevel4.img
+                    - [X] data/object/ui/task/bg_taskLevel5.img
+                    - [X] data/object/ui/task/btn_finishTask.img
+                    - [X] data/object/ui/task/btn_free.img
+                    - [X] data/object/ui/task/btn_greenHand.img
+                    - [X] data/object/ui/task/btn_startTask.img
+                    - [X] data/object/ui/task/btn_task.img
+                    - [X] data/object/ui/task/btn_taskName.img
+                    - [X] data/object/ui/task/dlg_task.img
+                    - [X] data/object/ui/task/dlg_taskSelect.img
+                - [X] data/object/ui/web
+                    - [X] data/object/ui/web/bg_web.img
+                    - [X] data/object/ui/web/btn_backward.img
+                    - [X] data/object/ui/web/btn_back_hit.img
+                    - [X] data/object/ui/web/btn_cross.img
+                    - [X] data/object/ui/web/btn_forward.img
+                    - [X] data/object/ui/web/btn_forward_hit.img
+                    - [X] data/object/ui/web/btn_leave.img
+                    - [X] data/object/ui/web/btn_return_hit.img
+                    - [X] data/object/ui/web/frame_webpage_b.img
+                    - [X] data/object/ui/web/webPannel.img
         - [X] data/object.idx
         - [X] data/object.pkg
         - [ ] data/package.cfg

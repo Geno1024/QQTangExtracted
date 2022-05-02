@@ -32,7 +32,7 @@ class IMG2(val path: String)
         val width = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("width = $this, ") }
         val height = stream.readNBytes(4).toInt32().apply { if (Settings.debug) print("height = $this.") }
 
-        val frames = (0 until framesSize).map { Frame(stream, width, height, offsetX, offsetY).data }
+        val frames = (0 until framesSize).map { Frame(stream, width, height, offsetX, offsetY).data } // patch: /data/object/cloth/cloth11003_stand.img, cloth12101_die.img, cloth12201_die.img, /data/object/flame/flame255_stand.img, /data/object/item/Item86, 87, 88, 89, 92_trigger.gif
     }
 
     class Frame(stream: FileInputStream, imageWidth: Int, imageHeight: Int, val imageOffsetX: Int, val imageOffsetY: Int)
@@ -88,6 +88,19 @@ class IMG2(val path: String)
                         }
                     rgb888.map(UInt::toInt)
                 }
+                16 ->
+                {
+                    val bytes = stream.readNBytes(this@Frame.width * this@Frame.height * 3)
+                    val rgb888 = bytes.toList()
+                        .subList(0, this@Frame.width * this@Frame.height * 3)
+                        .windowed(3, 3)
+                        .map {
+                            (it[2].toUByte().toUInt() shl 16) +
+                                (it[1].toUByte().toUInt() shl 8) +
+                                it[0].toUByte().toUInt()
+                        }
+                    rgb888.map(UInt::toInt)
+                }
                 else ->
                 {
                     listOf()
@@ -96,7 +109,7 @@ class IMG2(val path: String)
 
             setRGB(
                 (-imageOffsetX + offsetX).takeIf { it >= 0 }?:0, // patch: /map/icon/machine.img
-                -imageOffsetY + offsetY,
+                (-imageOffsetY + offsetY).takeIf { it >= 0 }?:0, // patch: /data/object/cap/cap101_stand.img
                 this@Frame.width,
                 this@Frame.height,
                 matrix.toIntArray(),
