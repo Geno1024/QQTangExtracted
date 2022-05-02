@@ -17,3 +17,8 @@ jobs:
       - name: Pack QQTang5.2_Beta1Build1
         run:
           zip -r QQTang5.2_Beta1Build1.zip QQTang5.2_Beta1Build1
+      - name: Output artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          path: |
+            QQTang5.2_Beta1Build1.zip
