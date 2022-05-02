@@ -86,31 +86,31 @@
         - [ ] config/UpdateVersionFile.xml
     - [ ] Configuration.dll
     - [ ] Core.dll
-    - [ ] data
-        - [ ] data/object
-            - [ ] data/object/body
-                - [ ] data/object/body/body13000_stand.img
-                - [ ] data/object/body/body13000_walk.img
-                - [ ] data/object/body/body14101_stand.img
-                - [ ] data/object/body/body14101_walk.img
-                - [ ] data/object/body/body14201_stand.img
-                - [ ] data/object/body/body14201_walk.img
-                - [ ] data/object/body/body14301_stand.img
-                - [ ] data/object/body/body14301_walk.img
-                - [ ] data/object/body/body14401_stand.img
-                - [ ] data/object/body/body14401_walk.img
-                - [ ] data/object/body/body14501_stand.img
-                - [ ] data/object/body/body14501_walk.img
-                - [ ] data/object/body/body14601_stand.img
-                - [ ] data/object/body/body14601_walk.img
-                - [ ] data/object/body/body15401_stand.img
-                - [ ] data/object/body/body15401_walk.img
-                - [ ] data/object/body/body15501_stand.img
-                - [ ] data/object/body/body15501_walk.img
-                - [ ] data/object/body/body15701_stand.img
-                - [ ] data/object/body/body15701_walk.img
-                - [ ] data/object/body/body1_stand.img
-                - [ ] data/object/body/body1_walk.img
+    - [X] data
+        - [X] data/object
+            - [X] data/object/body
+                - [X] data/object/body/body13000_stand.img
+                - [X] data/object/body/body13000_walk.img
+                - [X] data/object/body/body14101_stand.img
+                - [X] data/object/body/body14101_walk.img
+                - [X] data/object/body/body14201_stand.img
+                - [X] data/object/body/body14201_walk.img
+                - [X] data/object/body/body14301_stand.img
+                - [X] data/object/body/body14301_walk.img
+                - [X] data/object/body/body14401_stand.img
+                - [X] data/object/body/body14401_walk.img
+                - [X] data/object/body/body14501_stand.img
+                - [X] data/object/body/body14501_walk.img
+                - [X] data/object/body/body14601_stand.img
+                - [X] data/object/body/body14601_walk.img
+                - [X] data/object/body/body15401_stand.img
+                - [X] data/object/body/body15401_walk.img
+                - [X] data/object/body/body15501_stand.img
+                - [X] data/object/body/body15501_walk.img
+                - [X] data/object/body/body15701_stand.img
+                - [X] data/object/body/body15701_walk.img
+                - [X] data/object/body/body1_stand.img
+                - [X] data/object/body/body1_walk.img
             - [ ] data/object/bomb
                 - [ ] data/object/bomb/bomb11_stand.img
                 - [ ] data/object/bomb/bomb12_stand.img
@@ -3657,8 +3657,8 @@
                     - [ ] data/object/ui/web/btn_return_hit.img
                     - [ ] data/object/ui/web/frame_webpage_b.img
                     - [ ] data/object/ui/web/webPannel.img
-        - [ ] data/object.idx
-        - [ ] data/object.pkg
+        - [X] data/object.idx
+        - [X] data/object.pkg
         - [ ] data/package.cfg
     - [ ] devConfig.txt
     - [ ] DirCfg.ini

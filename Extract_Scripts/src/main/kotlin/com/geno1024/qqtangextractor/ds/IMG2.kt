@@ -121,6 +121,23 @@ class IMG2(val path: String)
                     ds.frames,
                     "${Settings.version}${path.substringBeforeLast('.')}.gif"
                 )
+            ds.frameGroups == ds.framesSize ->
+                ds.frames.forEachIndexed { index, it ->
+                    ImageSaver.savePNG(
+                        it,
+                        "${Settings.version}${path.substringBeforeLast('.')}_$index.png"
+                    )
+                }
+            ds.framesSize % ds.frameGroups == 0 ->
+            {
+                val windowSize = ds.framesSize / ds.frameGroups
+                ds.frames.windowed(windowSize, windowSize).forEachIndexed { index, bufferedImages ->
+                    ImageSaver.saveGIF(
+                        bufferedImages,
+                        "${Settings.version}${path.substringBeforeLast('.')}_$index.gif"
+                    )
+                }
+            }
         }
     }
 }

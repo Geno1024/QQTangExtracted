@@ -9,6 +9,7 @@ object QQTang5211
     operator fun invoke()
     {
         "/data/object.pkg" withIndex "/data/object.idx" decode "PKG"
+        "/data/object/body" decodeFiles "IMG"
         "/map" decodeFiles "IMG"
         "/map/icon" decodeFiles "IMG"
         "/music" copyTo "/music"
